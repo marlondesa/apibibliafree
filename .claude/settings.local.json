@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(node gerar.js)"
+      "Bash(node gerar.js)",
+      "PowerShell(Rename-Item -Path \"c:\\\\Users\\\\Godzin\\\\Desktop\\\\estudos\\\\biblia-api\\\\api\\\\j�\" -NewName \"jo\")"
     ]
   }
 }
