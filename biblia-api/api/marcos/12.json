@@ -1,0 +1,185 @@
+{
+  "livro": "Marcos",
+  "slug_livro": "marcos",
+  "testamento": "Novo Testamento",
+  "capitulo": 12,
+  "total_versiculos": 44,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E começou a falar-lhes por parábolas: Um homem plantou uma vinha, e cercou-a de um valado, e fundou nela um lagar, e edificou uma torre, e arrendou-a a uns lavradores, e partiu para fora da terra."
+    },
+    {
+      "numero": 2,
+      "texto": "E, chegado o tempo, mandou um servo aos lavradores para que recebesse, dos lavradores, do fruto da vinha."
+    },
+    {
+      "numero": 3,
+      "texto": "Mas estes, apoderando-se dele, o feriram e o mandaram embora vazio."
+    },
+    {
+      "numero": 4,
+      "texto": "E tornou a enviar-lhes outro servo; e eles, apedrejando-o, o feriram na cabeça, e o mandaram embora, tendo-o afrontado."
+    },
+    {
+      "numero": 5,
+      "texto": "E tornou a enviar-lhes outro, e a este mataram; e a outros muitos, dos quais a uns feriram e a outros mataram."
+    },
+    {
+      "numero": 6,
+      "texto": "Tendo ele, pois, ainda um seu filho amado, enviou-o também a estes por derradeiro, dizendo: Ao menos terão respeito ao meu filho."
+    },
+    {
+      "numero": 7,
+      "texto": "Mas aqueles lavradores disseram entre si: Este é o herdeiro; vamos, matemo-lo, e a herança será nossa."
+    },
+    {
+      "numero": 8,
+      "texto": "E, pegando dele, o mataram, e o lançaram fora da vinha."
+    },
+    {
+      "numero": 9,
+      "texto": "Que fará, pois, o senhor da vinha? Virá, e destruirá os lavradores, e dará a vinha a outros."
+    },
+    {
+      "numero": 10,
+      "texto": "Ainda não lestes esta Escritura:A pedra, que os edificadores rejeitaram,Esta foi posta por cabeça de esquina;"
+    },
+    {
+      "numero": 11,
+      "texto": "Isto foi feito pelo Senhor E é coisa maravilhosa aos nossos olhos?"
+    },
+    {
+      "numero": 12,
+      "texto": "E buscavam prendê-lo, mas temiam a multidão; porque entendiam que contra eles dizia esta parábola; e, deixando-o, foram-se."
+    },
+    {
+      "numero": 13,
+      "texto": "E enviaram-lhe alguns dos fariseus e dos herodianos, para que o apanhassem nalguma palavra."
+    },
+    {
+      "numero": 14,
+      "texto": "E, chegando eles, disseram-lhe: Mestre, sabemos que és homem de verdade, e de ninguém se te dá, porque não olhas à aparência dos homens, antes com verdade ensinas o caminho de Deus; é lícito dar o tributo a César, ou não? Daremos, ou não daremos?"
+    },
+    {
+      "numero": 15,
+      "texto": "Então ele, conhecendo a sua hipocrisia, disse-lhes: Por que me tentais? Trazei-me uma moeda, para que a veja."
+    },
+    {
+      "numero": 16,
+      "texto": "E eles lha trouxeram. E disse-lhes: De quem é esta imagem e inscrição? E eles lhe disseram: De César."
+    },
+    {
+      "numero": 17,
+      "texto": "E Jesus, respondendo, disse-lhes: Dai pois a César o que é de César, e a Deus o que é de Deus. E maravilharam-se dele."
+    },
+    {
+      "numero": 18,
+      "texto": "Então os saduceus, que dizem que não há ressurreição, aproximaram-se dele, e perguntaram-lhe, dizendo:"
+    },
+    {
+      "numero": 19,
+      "texto": "Mestre, Moisés nos escreveu que, se morresse o irmão de alguém, e deixasse a mulher e não deixasse filhos, seu irmão tomasse a mulher dele, e suscitasse descendência a seu irmão."
+    },
+    {
+      "numero": 20,
+      "texto": "Ora, havia sete irmãos, e o primeiro tomou a mulher, e morreu sem deixar descendência;"
+    },
+    {
+      "numero": 21,
+      "texto": "E o segundo também a tomou e morreu, e nem este deixou descendência; e o terceiro da mesma maneira."
+    },
+    {
+      "numero": 22,
+      "texto": "E tomaram-na os sete, sem, contudo, terem deixado descendência. Finalmente, depois de todos, morreu também a mulher."
+    },
+    {
+      "numero": 23,
+      "texto": "Na ressurreição, pois, quando ressuscitarem, de qual destes será a mulher? porque os sete a tiveram por mulher."
+    },
+    {
+      "numero": 24,
+      "texto": "E Jesus, respondendo, disse-lhes: Porventura não errais vós em razão de não saberdes as Escrituras nem o poder de Deus?"
+    },
+    {
+      "numero": 25,
+      "texto": "Porquanto, quando ressuscitarem dentre os mortos, nem casarão, nem se darão em casamento, mas serão como os anjos que estão nos céus."
+    },
+    {
+      "numero": 26,
+      "texto": "E, acerca dos mortos que houverem de ressuscitar, não tendes lido no livro de Moisés como Deus lhe falou na sarça, dizendo: Eu sou o Deus de Abraão, e o Deus de Isaque, e o Deus de Jacó?"
+    },
+    {
+      "numero": 27,
+      "texto": "Ora, Deus não é de mortos, mas sim, é Deus de vivos. Por isso vós errais muito."
+    },
+    {
+      "numero": 28,
+      "texto": "Aproximou-se dele um dos escribas que os tinha ouvido disputar, e sabendo que lhes tinha respondido bem, perguntou-lhe: Qual é o primeiro de todos os mandamentos?"
+    },
+    {
+      "numero": 29,
+      "texto": "E Jesus respondeu-lhe: O primeiro de todos os mandamentos é: Ouve, Israel, o Senhor nosso Deus é o único Senhor."
+    },
+    {
+      "numero": 30,
+      "texto": "Amarás, pois, ao Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu entendimento, e de todas as tuas forças; este é o primeiro mandamento."
+    },
+    {
+      "numero": 31,
+      "texto": "E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo. Não há outro mandamento maior do que estes."
+    },
+    {
+      "numero": 32,
+      "texto": "E o escriba lhe disse: Muito bem, Mestre, e com verdade disseste que há um só Deus, e que não há outro além dele;"
+    },
+    {
+      "numero": 33,
+      "texto": "E que amá-lo de todo o coração, e de todo o entendimento, e de toda a alma, e de todas as forças, e amar o próximo como a si mesmo, é mais do que todos os holocaustos e sacrifícios."
+    },
+    {
+      "numero": 34,
+      "texto": "E Jesus, vendo que havia respondido sabiamente, disse-lhe: Não estás longe do reino de Deus. E já ninguém ousava perguntar-lhe mais nada."
+    },
+    {
+      "numero": 35,
+      "texto": "E, falando Jesus, dizia, ensinando no templo: Como dizem os escribas que o Cristo é filho de Davi?"
+    },
+    {
+      "numero": 36,
+      "texto": "O próprio Davi disse pelo Espírito Santo:O Senhor disse ao meu Senhor:Assenta-te à minha direita Até que eu ponha os teus inimigos por escabelo dos teus pés."
+    },
+    {
+      "numero": 37,
+      "texto": "Pois, se Davi mesmo lhe chama Senhor, como é logo seu filho? E a grande multidão o ouvia de boa vontade."
+    },
+    {
+      "numero": 38,
+      "texto": "E, ensinando-os, dizia-lhes: Guardai-vos dos escribas, que gostam de andar com vestes compridas, e das saudações nas praças,"
+    },
+    {
+      "numero": 39,
+      "texto": "E das primeiras cadeiras nas sinagogas, e dos primeiros assentos nas ceias;"
+    },
+    {
+      "numero": 40,
+      "texto": "Que devoram as casas das viúvas, e isso com pretexto de largas orações. Estes receberão mais grave condenação."
+    },
+    {
+      "numero": 41,
+      "texto": "E, estando Jesus assentado defronte da arca do tesouro, observava a maneira como a multidão lançava o dinheiro na arca do tesouro; e muitos ricos deitavam muito."
+    },
+    {
+      "numero": 42,
+      "texto": "Vindo, porém, uma pobre viúva, deitou duas pequenas moedas, que valiam meio centavo."
+    },
+    {
+      "numero": 43,
+      "texto": "E, chamando os seus discípulos, disse-lhes: Em verdade vos digo que esta pobre viúva deitou mais do que todos os que deitaram na arca do tesouro;"
+    },
+    {
+      "numero": 44,
+      "texto": "Porque todos ali deitaram do que lhes sobejava, mas esta, da sua pobreza, deitou tudo o que tinha, todo o seu sustento."
+    }
+  ]
+}

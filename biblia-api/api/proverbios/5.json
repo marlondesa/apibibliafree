@@ -1,0 +1,101 @@
+{
+  "livro": "Provérbios",
+  "slug_livro": "proverbios",
+  "testamento": "Antigo Testamento",
+  "capitulo": 5,
+  "total_versiculos": 23,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Filho meu, atende à minha sabedoria; à minha inteligência inclina o teu ouvido;"
+    },
+    {
+      "numero": 2,
+      "texto": "Para que guardes os meus conselhos e os teus lábios observem o conhecimento."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque os lábios da mulher estranha destilam favos de mel, e o seu paladar é mais suave do que o azeite."
+    },
+    {
+      "numero": 4,
+      "texto": "Mas o seu fim é amargoso como o absinto, agudo como a espada de dois gumes."
+    },
+    {
+      "numero": 5,
+      "texto": "Os seus pés descem para a morte; os seus passos estão impregnados do inferno."
+    },
+    {
+      "numero": 6,
+      "texto": "Para que não ponderes os caminhos da vida, as suas andanças são errantes: jamais os conhecerás."
+    },
+    {
+      "numero": 7,
+      "texto": "Agora, pois, filhos, dai-me ouvidos, e não vos desvieis das palavras da minha boca."
+    },
+    {
+      "numero": 8,
+      "texto": "Longe dela seja o teu caminho, e não te chegues à porta da sua casa;"
+    },
+    {
+      "numero": 9,
+      "texto": "Para que não dês a outrem a tua honra, e não entregues a cruéis os teus anos de vida;"
+    },
+    {
+      "numero": 10,
+      "texto": "Para que não farte a estranhos o teu esforço, e todo o fruto do teu trabalho vá parar em casa alheia;"
+    },
+    {
+      "numero": 11,
+      "texto": "E no fim venhas a gemer, no consumir-se da tua carne e do teu corpo."
+    },
+    {
+      "numero": 12,
+      "texto": "E então digas: Como odiei a correção! e o meu coração desprezou a repreensão!"
+    },
+    {
+      "numero": 13,
+      "texto": "E não escutei a voz dos que me ensinavam, nem aos meus mestres inclinei o meu ouvido!"
+    },
+    {
+      "numero": 14,
+      "texto": "No meio da congregação e da assembléia foi que eu me achei em quase todo o mal."
+    },
+    {
+      "numero": 15,
+      "texto": "Bebe água da tua fonte, e das correntes do teu poço."
+    },
+    {
+      "numero": 16,
+      "texto": "Derramar-se-iam as tuas fontes por fora, e pelas ruas os ribeiros de águas?"
+    },
+    {
+      "numero": 17,
+      "texto": "Sejam para ti só, e não para os estranhos contigo."
+    },
+    {
+      "numero": 18,
+      "texto": "Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade."
+    },
+    {
+      "numero": 19,
+      "texto": "Como cerva amorosa, e gazela graciosa, os seus seios te saciem todo o tempo; e pelo seu amor sejas atraído perpetuamente."
+    },
+    {
+      "numero": 20,
+      "texto": "E porque, filho meu, te deixarias atrair por outra mulher, e te abraçarias ao peito de uma estranha?"
+    },
+    {
+      "numero": 21,
+      "texto": "Eis que os caminhos do homem estão perante os olhos do Senhor, e ele pesa todas as suas veredas."
+    },
+    {
+      "numero": 22,
+      "texto": "Quanto ao ímpio, as suas iniqüidades o prenderão, e com as cordas do seu pecado será detido."
+    },
+    {
+      "numero": 23,
+      "texto": "Ele morrerá, porque desavisadamente andou, e pelo excesso da sua loucura se perderá."
+    }
+  ]
+}

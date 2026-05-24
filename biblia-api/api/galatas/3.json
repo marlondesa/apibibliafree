@@ -1,0 +1,125 @@
+{
+  "livro": "Gálatas",
+  "slug_livro": "galatas",
+  "testamento": "Novo Testamento",
+  "capitulo": 3,
+  "total_versiculos": 29,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ó insensatos gálatas! quem vos fascinou para não obedecerdes à verdade, a vós, perante os olhos de quem Jesus Cristo foi evidenciado, crucificado, entre vós?"
+    },
+    {
+      "numero": 2,
+      "texto": "Só quisera saber isto de vós: recebestes o Espírito pelas obras da lei ou pela pregação da fé?"
+    },
+    {
+      "numero": 3,
+      "texto": "Sois vós tão insensatos que, tendo começado pelo Espírito, acabeis agora pela carne?"
+    },
+    {
+      "numero": 4,
+      "texto": "Será em vão que tenhais padecido tanto? Se é que isso também foi em vão."
+    },
+    {
+      "numero": 5,
+      "texto": "Aquele, pois, que vos dá o Espírito, e que opera maravilhas entre vós, o faz pelas obras da lei, ou pela pregação da fé?"
+    },
+    {
+      "numero": 6,
+      "texto": "Assim como Abraão creu em Deus, e isso lhe foi imputado como justiça."
+    },
+    {
+      "numero": 7,
+      "texto": "Sabei, pois, que os que são da fé são filhos de Abraão."
+    },
+    {
+      "numero": 8,
+      "texto": "Ora, tendo a Escritura previsto que Deus havia de justificar pela fé os gentios, anunciou primeiro o evangelho a Abraão, dizendo: Todas as nações serão benditas em ti."
+    },
+    {
+      "numero": 9,
+      "texto": "De sorte que os que são da fé são benditos com o crente Abraão."
+    },
+    {
+      "numero": 10,
+      "texto": "Todos aqueles, pois, que são das obras da lei estão debaixo da maldição; porque está escrito: Maldito todo aquele que não permanecer em todas as coisas que estão escritas no livro da lei, para fazê-las."
+    },
+    {
+      "numero": 11,
+      "texto": "E é evidente que pela lei ninguém será justificado diante de Deus, porque o justo viverá pela fé."
+    },
+    {
+      "numero": 12,
+      "texto": "Ora, a lei não é da fé; mas o homem, que fizer estas coisas, por elas viverá."
+    },
+    {
+      "numero": 13,
+      "texto": "Cristo nos resgatou da maldição da lei, fazendo-se maldição por nós; porque está escrito: Maldito todo aquele que for pendurado no madeiro;"
+    },
+    {
+      "numero": 14,
+      "texto": "Para que a bênção de Abraão chegasse aos gentios por Jesus Cristo, e para que pela fé nós recebamos a promessa do Espírito."
+    },
+    {
+      "numero": 15,
+      "texto": "Irmãos, como homem falo; se a aliança de um homem for confirmada, ninguém a anula nem a acrescenta."
+    },
+    {
+      "numero": 16,
+      "texto": "Ora, as promessas foram feitas a Abraão e à sua descendência. Não diz: E às descendências, como falando de muitas, mas como de uma só: E à tua descendência, que é Cristo."
+    },
+    {
+      "numero": 17,
+      "texto": "Mas digo isto: Que tendo sido a aliança anteriormente confirmada por Deus em Cristo, a lei, que veio quatrocentos e trinta anos depois, não a invalida, de forma a abolir a promessa."
+    },
+    {
+      "numero": 18,
+      "texto": "Porque, se a herança provém da lei, já não provém da promessa; mas Deus pela promessa a deu gratuitamente a Abraão."
+    },
+    {
+      "numero": 19,
+      "texto": "Logo, para que é a lei? Foi ordenada por causa das transgressões, até que viesse a posteridade a quem a promessa tinha sido feita; e foi posta pelos anjos na mão de um medianeiro."
+    },
+    {
+      "numero": 20,
+      "texto": "Ora, o medianeiro não o é de um só, mas Deus é um."
+    },
+    {
+      "numero": 21,
+      "texto": "Logo, a lei é contra as promessas de Deus? De nenhuma sorte; porque, se fosse dada uma lei que pudesse vivificar, a justiça, na verdade, teria sido pela lei."
+    },
+    {
+      "numero": 22,
+      "texto": "Mas a Escritura encerrou tudo debaixo do pecado, para que a promessa pela fé em Jesus Cristo fosse dada aos crentes."
+    },
+    {
+      "numero": 23,
+      "texto": "Mas, antes que a fé viesse, estávamos guardados debaixo da lei, e encerrados para aquela fé que se havia de manifestar."
+    },
+    {
+      "numero": 24,
+      "texto": "De maneira que a lei nos serviu de aio, para nos conduzir a Cristo, para que pela fé fôssemos justificados."
+    },
+    {
+      "numero": 25,
+      "texto": "Mas, depois que veio a fé, já não estamos debaixo de aio."
+    },
+    {
+      "numero": 26,
+      "texto": "Porque todos sois filhos de Deus pela fé em Cristo Jesus."
+    },
+    {
+      "numero": 27,
+      "texto": "Porque todos quantos fostes batizados em Cristo já vos revestistes de Cristo."
+    },
+    {
+      "numero": 28,
+      "texto": "Nisto não há judeu nem grego; não há servo nem livre; não há macho nem fêmea; porque todos vós sois um em Cristo Jesus."
+    },
+    {
+      "numero": 29,
+      "texto": "E, se sois de Cristo, então sois descendência de Abraão, e herdeiros conforme a promessa."
+    }
+  ]
+}

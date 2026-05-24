@@ -1,0 +1,297 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 78,
+  "total_versiculos": 72,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Escutai a minha lei, povo meu; inclinai os vossos ouvidos às palavras da minha boca."
+    },
+    {
+      "numero": 2,
+      "texto": "Abrirei a minha boca numa parábola; falarei enigmas da antiguidade."
+    },
+    {
+      "numero": 3,
+      "texto": "Os quais temos ouvido e sabido, e nossos pais no-los têm contado."
+    },
+    {
+      "numero": 4,
+      "texto": "Não os encobriremos aos seus filhos, mostrando à geração futura os louvores do Senhor, assim como a sua força e as maravilhas que fez."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque ele estabeleceu um testemunho em Jacó, e pôs uma lei em Israel, a qual deu aos nossos pais para que a fizessem conhecer a seus filhos;"
+    },
+    {
+      "numero": 6,
+      "texto": "Para que a geração vindoura a soubesse, os filhos que nascessem, os quais se levantassem e a contassem a seus filhos;"
+    },
+    {
+      "numero": 7,
+      "texto": "Para que pusessem em Deus a sua esperança, e se não esquecessem das obras de Deus, mas guardassem os seus mandamentos."
+    },
+    {
+      "numero": 8,
+      "texto": "E não fossem como seus pais, geração contumaz e rebelde, geração que não regeu o seu coração, e cujo espírito não foi fiel a Deus."
+    },
+    {
+      "numero": 9,
+      "texto": "Os filhos de Efraim, armados e trazendo arcos, viraram as costas no dia da peleja."
+    },
+    {
+      "numero": 10,
+      "texto": "Não guardaram a aliança de Deus, e recusaram andar na sua lei;"
+    },
+    {
+      "numero": 11,
+      "texto": "E esqueceram-se das suas obras e das maravilhas que lhes fizera ver."
+    },
+    {
+      "numero": 12,
+      "texto": "Maravilhas que ele fez à vista de seus pais na terra do Egito, no campo de Zoã."
+    },
+    {
+      "numero": 13,
+      "texto": "Dividiu o mar, e os fez passar por ele; fez com que as águas parassem como num montão."
+    },
+    {
+      "numero": 14,
+      "texto": "De dia os guiou por uma nuvem, e toda a noite por uma luz de fogo."
+    },
+    {
+      "numero": 15,
+      "texto": "Fendeu as penhas no deserto; e deu-lhes de beber como de grandes abismos."
+    },
+    {
+      "numero": 16,
+      "texto": "Fez sair fontes da rocha, e fez correr as águas como rios."
+    },
+    {
+      "numero": 17,
+      "texto": "E ainda prosseguiram em pecar contra ele, provocando ao Altíssimo na solidão."
+    },
+    {
+      "numero": 18,
+      "texto": "E tentaram a Deus nos seus corações, pedindo carne para o seu apetite."
+    },
+    {
+      "numero": 19,
+      "texto": "E falaram contra Deus, e disseram: Acaso pode Deus prepararnos uma mesa no deserto?"
+    },
+    {
+      "numero": 20,
+      "texto": "Eis que feriu a penha, e águas correram dela: rebentaram ribeiros em abundância. Poderá também dar-nos pão, ou preparar carne para o seu povo?"
+    },
+    {
+      "numero": 21,
+      "texto": "Portanto o Senhor os ouviu, e se indignou; e acendeu um fogo contra Jacó, e furor também subiu contra Israel;"
+    },
+    {
+      "numero": 22,
+      "texto": "Porquanto não creram em Deus, nem confiaram na sua salvação;"
+    },
+    {
+      "numero": 23,
+      "texto": "Ainda que mandara às altas nuvens, e abriu as portas dos céus,"
+    },
+    {
+      "numero": 24,
+      "texto": "E chovera sobre eles o maná para comerem, e lhes dera do trigo do céu."
+    },
+    {
+      "numero": 25,
+      "texto": "O homem comeu o pão dos anjos; ele lhes mandou comida a fartar."
+    },
+    {
+      "numero": 26,
+      "texto": "Fez soprar o vento do oriente nos céus, e o trouxe do sul com a sua força."
+    },
+    {
+      "numero": 27,
+      "texto": "E choveu sobre eles carne como pó, e aves de asas como a areia do mar."
+    },
+    {
+      "numero": 28,
+      "texto": "E as fez cair no meio do seu arraial, ao redor de suas habitações."
+    },
+    {
+      "numero": 29,
+      "texto": "Então comeram e se fartaram bem; pois lhes cumpriu o seu desejo."
+    },
+    {
+      "numero": 30,
+      "texto": "Não refrearam o seu apetite. Ainda lhes estava a comida na boca,"
+    },
+    {
+      "numero": 31,
+      "texto": "Quando a ira de Deus desceu sobre eles, e matou os mais robustos deles, e feriu os escolhidos de Israel."
+    },
+    {
+      "numero": 32,
+      "texto": "Com tudo isto ainda pecaram, e não deram crédito às suas maravilhas."
+    },
+    {
+      "numero": 33,
+      "texto": "Por isso consumiu os seus dias na vaidade e os seus anos na angústia."
+    },
+    {
+      "numero": 34,
+      "texto": "Quando os matava, então o procuravam; e voltavam, e de madrugada buscavam a Deus."
+    },
+    {
+      "numero": 35,
+      "texto": "E se lembravam de que Deus era a sua rocha, e o Deus Altíssimo o seu Redentor."
+    },
+    {
+      "numero": 36,
+      "texto": "Todavia lisonjeavam-no com a boca, e com a língua lhe mentiam."
+    },
+    {
+      "numero": 37,
+      "texto": "Porque o seu coração não era reto para com ele, nem foram fiéis na sua aliança."
+    },
+    {
+      "numero": 38,
+      "texto": "Ele, porém, que é misericordioso, perdoou a sua iniqüidade; e não os destruiu, antes muitas vezes desviou deles o seu furor, e não despertou toda a sua ira."
+    },
+    {
+      "numero": 39,
+      "texto": "Porque se lembrou de que eram de carne, vento que passa e não volta."
+    },
+    {
+      "numero": 40,
+      "texto": "Quantas vezes o provocaram no deserto, e o entristeceram na solidão!"
+    },
+    {
+      "numero": 41,
+      "texto": "Voltaram atrás, e tentaram a Deus, e limitaram o Santo de Israel."
+    },
+    {
+      "numero": 42,
+      "texto": "Não se lembraram da sua mão, nem do dia em que os livrou do adversário;"
+    },
+    {
+      "numero": 43,
+      "texto": "Como operou os seus sinais no Egito, e as suas maravilhas no campo de Zoã;"
+    },
+    {
+      "numero": 44,
+      "texto": "E converteu os seus rios em sangue, e as suas correntes, para que não pudessem beber."
+    },
+    {
+      "numero": 45,
+      "texto": "Enviou entre eles enxames de moscas que os consumiram, e rãs que os destruíram."
+    },
+    {
+      "numero": 46,
+      "texto": "Deu também ao pulgão a sua novidade, e o seu trabalho aos gafanhotos."
+    },
+    {
+      "numero": 47,
+      "texto": "Destruiu as suas vinhas com saraiva, e os seus sicômoros com pedrisco."
+    },
+    {
+      "numero": 48,
+      "texto": "Também entregou o seu gado à saraiva, e os seus rebanhos aos coriscos."
+    },
+    {
+      "numero": 49,
+      "texto": "Lançou sobre eles o ardor da sua ira, furor, indignação, e angústia, mandando maus anjos contra eles."
+    },
+    {
+      "numero": 50,
+      "texto": "Preparou caminho à sua ira; não poupou as suas almas da morte, mas entregou à pestilência as suas vidas."
+    },
+    {
+      "numero": 51,
+      "texto": "E feriu a todo primogênito no Egito, primícias da sua força nas tendas de Cão."
+    },
+    {
+      "numero": 52,
+      "texto": "Mas fez com que o seu povo saísse como ovelhas, e os guiou pelo deserto como um rebanho."
+    },
+    {
+      "numero": 53,
+      "texto": "E os guiou com segurança, que não temeram; mas o mar cobriu os seus inimigos."
+    },
+    {
+      "numero": 54,
+      "texto": "E os trouxe até ao termo do seu santuário, até este monte que a sua destra adquiriu."
+    },
+    {
+      "numero": 55,
+      "texto": "E expulsou os gentios de diante deles, e lhes dividiu uma herança por linha, e fez habitar em suas tendas as tribos de Israel."
+    },
+    {
+      "numero": 56,
+      "texto": "Contudo tentaram e provocaram o Deus Altíssimo, e não guardaram os seus testemunhos."
+    },
+    {
+      "numero": 57,
+      "texto": "Mas retiraram-se para trás, e portaram-se infielmente como seus pais; viraram-se como um arco enganoso."
+    },
+    {
+      "numero": 58,
+      "texto": "Pois o provocaram à ira com os seus altos, e moveram o seu zelo com as suas imagens de escultura."
+    },
+    {
+      "numero": 59,
+      "texto": "Deus ouviu isto e se indignou; e aborreceu a Israel sobremodo."
+    },
+    {
+      "numero": 60,
+      "texto": "Por isso desamparou o tabernáculo em Siló, a tenda que estabeleceu entre os homens."
+    },
+    {
+      "numero": 61,
+      "texto": "E deu a sua força ao cativeiro, e a sua glória à mão do inimigo."
+    },
+    {
+      "numero": 62,
+      "texto": "E entregou o seu povo à espada, e se enfureceu contra a sua herança."
+    },
+    {
+      "numero": 63,
+      "texto": "O fogo consumiu os seus jovens, e as suas moças não foram dadas em casamento."
+    },
+    {
+      "numero": 64,
+      "texto": "Os seus sacerdotes caíram à espada, e as suas viúvas não fizeram lamentação."
+    },
+    {
+      "numero": 65,
+      "texto": "Então o Senhor despertou, como quem acaba de dormir, como um valente que se alegra com o vinho."
+    },
+    {
+      "numero": 66,
+      "texto": "E feriu os seus adversários por detrás, e pô-los em perpétuo desprezo."
+    },
+    {
+      "numero": 67,
+      "texto": "Além disto, recusou o tabernáculo de José, e não elegeu a tribo de Efraim."
+    },
+    {
+      "numero": 68,
+      "texto": "Antes elegeu a tribo de Judá; o monte Sião, que ele amava."
+    },
+    {
+      "numero": 69,
+      "texto": "E edificou o seu santuário como altos palácios, como a terra, que fundou para sempre."
+    },
+    {
+      "numero": 70,
+      "texto": "Também elegeu a Davi seu servo, e o tirou dos apriscos das ovelhas;"
+    },
+    {
+      "numero": 71,
+      "texto": "E o tirou do cuidado das que se acharam prenhes; para apascentar a Jacó, seu povo, e a Israel, sua herança."
+    },
+    {
+      "numero": 72,
+      "texto": "Assim os apascentou, segundo a integridade do seu coração, e os guiou pela perícia de suas mãos."
+    }
+  ]
+}

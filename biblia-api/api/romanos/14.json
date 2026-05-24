@@ -1,0 +1,101 @@
+{
+  "livro": "Romanos",
+  "slug_livro": "romanos",
+  "testamento": "Novo Testamento",
+  "capitulo": 14,
+  "total_versiculos": 23,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ora, quanto ao que está enfermo na fé, recebei-o, não em contendas sobre dúvidas."
+    },
+    {
+      "numero": 2,
+      "texto": "Porque um crê que de tudo se pode comer, e outro, que é fraco, come legumes."
+    },
+    {
+      "numero": 3,
+      "texto": "O que come não despreze o que não come; e o que não come, não julgue o que come; porque Deus o recebeu por seu."
+    },
+    {
+      "numero": 4,
+      "texto": "Quem és tu, que julgas o servo alheio? Para seu próprio senhor ele está em pé ou cai. Mas estará firme, porque poderoso é Deus para o firmar."
+    },
+    {
+      "numero": 5,
+      "texto": "Um faz diferença entre dia e dia, mas outro julga iguais todos os dias. Cada um esteja inteiramente seguro em sua própria mente."
+    },
+    {
+      "numero": 6,
+      "texto": "Aquele que faz caso do dia, para o Senhor o faz e o que não faz caso do dia para o Senhor o não faz. O que come, para o Senhor come, porque dá graças a Deus; e o que não come, para o Senhor não come, e dá graças a Deus."
+    },
+    {
+      "numero": 7,
+      "texto": "Porque nenhum de nós vive para si, e nenhum morre para si."
+    },
+    {
+      "numero": 8,
+      "texto": "Porque, se vivemos, para o Senhor vivemos; se morremos, para o Senhor morremos. De sorte que, ou vivamos ou morramos, somos do Senhor."
+    },
+    {
+      "numero": 9,
+      "texto": "Porque foi para isto que morreu Cristo, e ressurgiu, e tornou a viver, para ser Senhor, tanto dos mortos, como dos vivos."
+    },
+    {
+      "numero": 10,
+      "texto": "Mas tu, por que julgas teu irmão? Ou tu, também, por que desprezas teu irmão? Pois todos havemos de comparecer ante o tribunal de Cristo."
+    },
+    {
+      "numero": 11,
+      "texto": "Porque está escrito:Como eu vivo, diz o Senhor, que todo o joelho se dobrará a mim,E toda a língua confessará a Deus."
+    },
+    {
+      "numero": 12,
+      "texto": "De maneira que cada um de nós dará conta de si mesmo a Deus."
+    },
+    {
+      "numero": 13,
+      "texto": "Assim que não nos julguemos mais uns aos outros; antes seja o vosso propósito não pôr tropeço ou escândalo ao irmão."
+    },
+    {
+      "numero": 14,
+      "texto": "Eu sei, e estou certo no Senhor Jesus, que nenhuma coisa é de si mesma imunda, a não ser para aquele que a tem por imunda; para esse é imunda."
+    },
+    {
+      "numero": 15,
+      "texto": "Mas, se por causa da comida se contrista teu irmão, já não andas conforme o amor. Não destruas por causa da tua comida aquele por quem Cristo morreu."
+    },
+    {
+      "numero": 16,
+      "texto": "Não seja, pois, blasfemado o vosso bem;"
+    },
+    {
+      "numero": 17,
+      "texto": "Porque o reino de Deus não é comida nem bebida, mas justiça, e paz, e alegria no Espírito Santo."
+    },
+    {
+      "numero": 18,
+      "texto": "Porque quem nisto serve a Cristo agradável é a Deus e aceito aos homens."
+    },
+    {
+      "numero": 19,
+      "texto": "Sigamos, pois, as coisas que servem para a paz e para a edificação de uns para com os outros."
+    },
+    {
+      "numero": 20,
+      "texto": "Não destruas por causa da comida a obra de Deus. É verdade que tudo é limpo, mas mal vai para o homem que come com escândalo."
+    },
+    {
+      "numero": 21,
+      "texto": "Bom é não comer carne, nem beber vinho, nem fazer outras coisas em que teu irmão tropece, ou se escandalize, ou se enfraqueça."
+    },
+    {
+      "numero": 22,
+      "texto": "Tens tu fé? Tem-na em ti mesmo diante de Deus. Bem-aventurado aquele que não se condena a si mesmo naquilo que aprova."
+    },
+    {
+      "numero": 23,
+      "texto": "Mas aquele que tem dúvidas, se come está condenado, porque não come por fé; e tudo o que não é de fé é pecado."
+    }
+  ]
+}

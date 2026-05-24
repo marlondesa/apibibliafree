@@ -1,0 +1,209 @@
+{
+  "livro": "Lucas",
+  "slug_livro": "lucas",
+  "testamento": "Novo Testamento",
+  "capitulo": 7,
+  "total_versiculos": 50,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E, depois de concluir todos estes discursos perante o povo, entrou em Cafarnaum."
+    },
+    {
+      "numero": 2,
+      "texto": "E o servo de um certo centurião, a quem muito estimava, estava doente, e moribundo."
+    },
+    {
+      "numero": 3,
+      "texto": "E, quando ouviu falar de Jesus, enviou-lhe uns anciãos dos judeus, rogando-lhe que viesse curar o seu servo."
+    },
+    {
+      "numero": 4,
+      "texto": "E, chegando eles junto de Jesus, rogaram-lhe muito, dizendo: É digno de que lhe concedas isto,"
+    },
+    {
+      "numero": 5,
+      "texto": "Porque ama a nossa nação, e ele mesmo nos edificou a sinagoga."
+    },
+    {
+      "numero": 6,
+      "texto": "E foi Jesus com eles; mas, quando já estava perto da casa, enviou-lhe o centurião uns amigos, dizendo-lhe: Senhor, não te incomodes, porque não sou digno de que entres debaixo do meu telhado."
+    },
+    {
+      "numero": 7,
+      "texto": "E por isso nem ainda me julguei digno de ir ter contigo; dize, porém, uma palavra, e o meu criado sarará."
+    },
+    {
+      "numero": 8,
+      "texto": "Porque também eu sou homem sujeito à autoridade, e tenho soldados sob o meu poder, e digo a este: Vai, e ele vai; e a outro: Vem, e ele vem; e ao meu servo: Faze isto, e ele o faz."
+    },
+    {
+      "numero": 9,
+      "texto": "E, ouvindo isto Jesus, maravilhou-se dele, e voltando-se, disse à multidão que o seguia: Digo-vos que nem ainda em Israel tenho achado tanta fé."
+    },
+    {
+      "numero": 10,
+      "texto": "E, voltando para casa os que foram enviados, acharam são o servo enfermo."
+    },
+    {
+      "numero": 11,
+      "texto": "E aconteceu que, no dia seguinte, ele foi à cidade chamada Naim, e com ele iam muitos dos seus discípulos, e uma grande multidão;"
+    },
+    {
+      "numero": 12,
+      "texto": "E, quando chegou perto da porta da cidade, eis que levavam um defunto, filho único de sua mãe, que era viúva; e com ela ia uma grande multidão da cidade."
+    },
+    {
+      "numero": 13,
+      "texto": "E, vendo-a, o Senhor moveu-se de íntima compaixão por ela, e disse-lhe: Não chores."
+    },
+    {
+      "numero": 14,
+      "texto": "E, chegando-se, tocou o esquife (e os que o levavam pararam), e disse: Jovem, a ti te digo: Levanta-te. E o que fora defunto assentou-se, e começou a falar."
+    },
+    {
+      "numero": 15,
+      "texto": "E entregou-o à sua mãe."
+    },
+    {
+      "numero": 16,
+      "texto": "E de todos se apoderou o temor, e glorificavam a Deus, dizendo: Um grande profeta se levantou entre nós, e Deus visitou o seu povo."
+    },
+    {
+      "numero": 17,
+      "texto": "E correu dele esta fama por toda a Judéia e por toda a terra circunvizinha."
+    },
+    {
+      "numero": 18,
+      "texto": "E os discípulos de João anunciaram-lhe todas estas coisas."
+    },
+    {
+      "numero": 19,
+      "texto": "E João, chamando dois dos seusdiscípulos, enviou-os a Jesus, dizendo: És tu aquele que havia de vir, ou esperamos outro?"
+    },
+    {
+      "numero": 20,
+      "texto": "E, quando aqueles homens chegaram junto dele, disseram: João o Batista enviou-nos a perguntar-te: És tu aquele que havia de vir, ou esperamos outro?"
+    },
+    {
+      "numero": 21,
+      "texto": "E, na mesma hora, curou muitos de enfermidades, e males, e espíritos maus, e deu vista a muitos cegos."
+    },
+    {
+      "numero": 22,
+      "texto": "Respondendo, então, Jesus, disse-lhes: Ide, e anunciai a João o que tendes visto e ouvido: que os cegos vêem, os coxos andam, os leprosos são purificados, os surdos ouvem, os mortos ressuscitam e aos pobres anuncia-se o evangelho."
+    },
+    {
+      "numero": 23,
+      "texto": "E bem-aventurado é aquele que em mim se não escandalizar."
+    },
+    {
+      "numero": 24,
+      "texto": "E, tendo-se retirado os mensageiros de João, começou a dizer à multidão acerca de João: Que saístes a ver no deserto? uma cana abalada pelo vento?"
+    },
+    {
+      "numero": 25,
+      "texto": "Mas que saístes a ver? um homem trajado de vestes delicadas? Eis que os que andam com preciosas vestiduras, e em delícias, estão nos paços reais."
+    },
+    {
+      "numero": 26,
+      "texto": "Mas que saístes a ver? um profeta? Sim, vos digo, e muito mais do que profeta."
+    },
+    {
+      "numero": 27,
+      "texto": "Este é aquele de quem está escrito: Eis que envio o meu anjo diante da tua face, O qual preparará diante de ti o teu caminho."
+    },
+    {
+      "numero": 28,
+      "texto": "E eu vos digo que, entre os nascidos de mulheres, não há maior profeta do que João o Batista; mas o menor no reino de Deus é maior do que ele."
+    },
+    {
+      "numero": 29,
+      "texto": "E todo o povo que o ouviu e os publicanos, tendo sido batizados com o batismo de João, justificaram a Deus."
+    },
+    {
+      "numero": 30,
+      "texto": "Mas os fariseus e os doutores da lei rejeitaram o conselho de Deus contra si mesmos, não tendo sido batizados por ele."
+    },
+    {
+      "numero": 31,
+      "texto": "E disse o Senhor: A quem, pois, compararei os homens desta geração, e a quem são semelhantes?"
+    },
+    {
+      "numero": 32,
+      "texto": "São semelhantes aos meninos que, assentados nas praças, clamam uns aos outros, e dizem: Tocamo-vos flauta, e não dançastes; cantamo-vos lamentações, e não chorastes."
+    },
+    {
+      "numero": 33,
+      "texto": "Porque veio João o Batista, que não comia pão nem bebia vinho, e dizeis: Tem demônio;"
+    },
+    {
+      "numero": 34,
+      "texto": "Veio o Filho do homem, que come e bebe, e dizeis: Eis aí um homem comilão e bebedor de vinho, amigo dos publicanos e pecadores."
+    },
+    {
+      "numero": 35,
+      "texto": "Mas a sabedoria é justificada por todos os seus filhos."
+    },
+    {
+      "numero": 36,
+      "texto": "E rogou-lhe um dos fariseus que comesse com ele; e, entrando em casa do fariseu, assentou-se à mesa."
+    },
+    {
+      "numero": 37,
+      "texto": "E eis que uma mulher da cidade, uma pecadora, sabendo que ele estava à mesa em casa do fariseu, levou um vaso de alabastro com ungüento;"
+    },
+    {
+      "numero": 38,
+      "texto": "E, estando por detrás, aos seus pés, chorando, começou a regar-lhe os pés com lágrimas, e enxugava-lhos com os cabelos da sua cabeça; e beijava-lhe os pés, e ungia-lhos com o ungüento."
+    },
+    {
+      "numero": 39,
+      "texto": "Quando isto viu o fariseu que o tinha convidado, falava consigo, dizendo: Se este fora profeta, bem saberia quem e qual é a mulher que lhe tocou, pois é uma pecadora."
+    },
+    {
+      "numero": 40,
+      "texto": "E respondendo, Jesus disse-lhe: Simão, uma coisa tenho a dizer-te. E ele disse: Dize-a, Mestre."
+    },
+    {
+      "numero": 41,
+      "texto": "Um certo credor tinha dois devedores: um devia-lhe quinhentos dinheiros, e outro cinqüenta."
+    },
+    {
+      "numero": 42,
+      "texto": "E, não tendo eles com que pagar, perdoou-lhes a ambos. Dize, pois, qual deles o amará mais?"
+    },
+    {
+      "numero": 43,
+      "texto": "E Simão, respondendo, disse: Tenho para mim que é aquele a quem mais perdoou. E ele lhe disse: Julgaste bem."
+    },
+    {
+      "numero": 44,
+      "texto": "E, voltando-se para a mulher, disse a Simão: Vês tu esta mulher? Entrei em tua casa, e não me deste água para os pés; mas esta regou-me os pés com lágrimas, e os enxugou com os cabelos de sua cabeça."
+    },
+    {
+      "numero": 45,
+      "texto": "Não me deste ósculo, mas esta, desde que entrou, não tem cessado de me beijar os pés."
+    },
+    {
+      "numero": 46,
+      "texto": "Não me ungiste a cabeça com óleo, mas esta ungiu-me os pés com ungüento."
+    },
+    {
+      "numero": 47,
+      "texto": "Por isso te digo que os seus muitos pecados lhe são perdoados, porque muito amou; mas aquele a quem pouco é perdoado pouco ama."
+    },
+    {
+      "numero": 48,
+      "texto": "E disse-lhe a ela: Os teus pecados te são perdoados."
+    },
+    {
+      "numero": 49,
+      "texto": "E os que estavam à mesa começaram a dizer entre si: Quem é este, que até perdoa pecados?"
+    },
+    {
+      "numero": 50,
+      "texto": "E disse à mulher: A tua fé te salvou; vai-te em paz."
+    }
+  ]
+}

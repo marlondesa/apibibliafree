@@ -1,0 +1,45 @@
+{
+  "livro": "2 Crônicas",
+  "slug_livro": "2-cronicas",
+  "testamento": "Antigo Testamento",
+  "capitulo": 27,
+  "total_versiculos": 9,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Tinha Jotão vinte e cinco anos de idade, quando começou a reinar, e reinou dezesseis anos em Jerusalém; e era o nome de sua mãe Jerusa, filha de Zadoque."
+    },
+    {
+      "numero": 2,
+      "texto": "E fez o que era reto aos olhos do Senhor, conforme a tudo o que fizera Uzias, seu pai, exceto que não entrou no templo do Senhor. E o povo ainda se corrompia."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele edificou a porta superior da casa do Senhor, e também edificou muitas obras sobre o muro de Ofel."
+    },
+    {
+      "numero": 4,
+      "texto": "Também edificou cidades nas montanhas de Judá, e castelos e torres nos bosques."
+    },
+    {
+      "numero": 5,
+      "texto": "Ele também guerreou contra o rei dos filhos de Amom, e prevaleceu sobre eles, de modo que os filhos de Amom naquele ano lhe deram cem talentos de prata, e dez mil coros de trigo, e dez mil de cevada; isto lhe trouxeram os filhos de Amom também no segundo e no terceiro ano."
+    },
+    {
+      "numero": 6,
+      "texto": "Assim se fortificou Jotão, porque dirigiu os seus caminhos na presença do Senhor seu Deus."
+    },
+    {
+      "numero": 7,
+      "texto": "Ora, o restante dos atos de Jotão, e todas as suas guerras e os seus caminhos, eis que estão escritos no livro dos reis de Israel e de Judá."
+    },
+    {
+      "numero": 8,
+      "texto": "Tinha vinte e cinco anos de idade, quando começou a reinar, e reinou dezesseis anos em Jerusalém."
+    },
+    {
+      "numero": 9,
+      "texto": "E dormiu Jotão com seus pais, e sepultaram-no na cidade de Davi; e Acaz, seu filho, reinou em seu lugar."
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "id": 19,
+  "abbrev": "sl",
+  "nome": "Salmos",
+  "slug": "salmos",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 150,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 6
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 8
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 8
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 9
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 7
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 8
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 6
+    },
+    {
+      "numero": 14,
+      "total_versiculos": 7
+    },
+    {
+      "numero": 15,
+      "total_versiculos": 5
+    },
+    {
+      "numero": 16,
+      "total_versiculos": 11
+    },
+    {
+      "numero": 17,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 18,
+      "total_versiculos": 50
+    },
+    {
+      "numero": 19,
+      "total_versiculos": 14
+    },
+    {
+      "numero": 20,
+      "total_versiculos": 9
+    },
+    {
+      "numero": 21,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 22,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 23,
+      "total_versiculos": 6
+    },
+    {
+      "numero": 24,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 25,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 26,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 27,
+      "total_versiculos": 14
+    },
+    {
+      "numero": 28,
+      "total_versiculos": 9
+    },
+    {
+      "numero": 29,
+      "total_versiculos": 11
+    },
+    {
+      "numero": 30,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 31,
+      "total_versiculos": 24
+    },
+    {
+      "numero": 32,
+      "total_versiculos": 11
+    },
+    {
+      "numero": 33,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 34,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 35,
+      "total_versiculos": 28
+    },
+    {
+      "numero": 36,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 37,
+      "total_versiculos": 40
+    },
+    {
+      "numero": 38,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 39,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 40,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 41,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 42,
+      "total_versiculos": 11
+    },
+    {
+      "numero": 43,
+      "total_versiculos": 5
+    },
+    {
+      "numero": 44,
+      "total_versiculos": 26
+    },
+    {
+      "numero": 45,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 46,
+      "total_versiculos": 11
+    },
+    {
+      "numero": 47,
+      "total_versiculos": 9
+    },
+    {
+      "numero": 48,
+      "total_versiculos": 14
+    },
+    {
+      "numero": 49,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 50,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 51,
+      "total_versiculos": 19
+    },
+    {
+      "numero": 52,
+      "total_versiculos": 9
+    },
+    {
+      "numero": 53,
+      "total_versiculos": 6
+    },
+    {
+      "numero": 54,
+      "total_versiculos": 7
+    },
+    {
+      "numero": 55,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 56,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 57,
+      "total_versiculos": 11
+    },
+    {
+      "numero": 58,
+      "total_versiculos": 11
+    },
+    {
+      "numero": 59,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 60,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 61,
+      "total_versiculos": 8
+    },
+    {
+      "numero": 62,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 63,
+      "total_versiculos": 11
+    },
+    {
+      "numero": 64,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 65,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 66,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 67,
+      "total_versiculos": 7
+    },
+    {
+      "numero": 68,
+      "total_versiculos": 35
+    },
+    {
+      "numero": 69,
+      "total_versiculos": 36
+    },
+    {
+      "numero": 70,
+      "total_versiculos": 5
+    },
+    {
+      "numero": 71,
+      "total_versiculos": 24
+    },
+    {
+      "numero": 72,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 73,
+      "total_versiculos": 28
+    },
+    {
+      "numero": 74,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 75,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 76,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 77,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 78,
+      "total_versiculos": 72
+    },
+    {
+      "numero": 79,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 80,
+      "total_versiculos": 19
+    },
+    {
+      "numero": 81,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 82,
+      "total_versiculos": 8
+    },
+    {
+      "numero": 83,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 84,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 85,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 86,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 87,
+      "total_versiculos": 7
+    },
+    {
+      "numero": 88,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 89,
+      "total_versiculos": 52
+    },
+    {
+      "numero": 90,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 91,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 92,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 93,
+      "total_versiculos": 5
+    },
+    {
+      "numero": 94,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 95,
+      "total_versiculos": 11
+    },
+    {
+      "numero": 96,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 97,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 98,
+      "total_versiculos": 9
+    },
+    {
+      "numero": 99,
+      "total_versiculos": 9
+    },
+    {
+      "numero": 100,
+      "total_versiculos": 5
+    },
+    {
+      "numero": 101,
+      "total_versiculos": 8
+    },
+    {
+      "numero": 102,
+      "total_versiculos": 28
+    },
+    {
+      "numero": 103,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 104,
+      "total_versiculos": 35
+    },
+    {
+      "numero": 105,
+      "total_versiculos": 45
+    },
+    {
+      "numero": 106,
+      "total_versiculos": 48
+    },
+    {
+      "numero": 107,
+      "total_versiculos": 43
+    },
+    {
+      "numero": 108,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 109,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 110,
+      "total_versiculos": 7
+    },
+    {
+      "numero": 111,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 112,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 113,
+      "total_versiculos": 9
+    },
+    {
+      "numero": 114,
+      "total_versiculos": 8
+    },
+    {
+      "numero": 115,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 116,
+      "total_versiculos": 19
+    },
+    {
+      "numero": 117,
+      "total_versiculos": 2
+    },
+    {
+      "numero": 118,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 119,
+      "total_versiculos": 176
+    },
+    {
+      "numero": 120,
+      "total_versiculos": 7
+    },
+    {
+      "numero": 121,
+      "total_versiculos": 8
+    },
+    {
+      "numero": 122,
+      "total_versiculos": 9
+    },
+    {
+      "numero": 123,
+      "total_versiculos": 4
+    },
+    {
+      "numero": 124,
+      "total_versiculos": 8
+    },
+    {
+      "numero": 125,
+      "total_versiculos": 5
+    },
+    {
+      "numero": 126,
+      "total_versiculos": 6
+    },
+    {
+      "numero": 127,
+      "total_versiculos": 5
+    },
+    {
+      "numero": 128,
+      "total_versiculos": 6
+    },
+    {
+      "numero": 129,
+      "total_versiculos": 8
+    },
+    {
+      "numero": 130,
+      "total_versiculos": 8
+    },
+    {
+      "numero": 131,
+      "total_versiculos": 3
+    },
+    {
+      "numero": 132,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 133,
+      "total_versiculos": 3
+    },
+    {
+      "numero": 134,
+      "total_versiculos": 3
+    },
+    {
+      "numero": 135,
+      "total_versiculos": 21
+    },
+    {
+      "numero": 136,
+      "total_versiculos": 26
+    },
+    {
+      "numero": 137,
+      "total_versiculos": 9
+    },
+    {
+      "numero": 138,
+      "total_versiculos": 8
+    },
+    {
+      "numero": 139,
+      "total_versiculos": 24
+    },
+    {
+      "numero": 140,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 141,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 142,
+      "total_versiculos": 7
+    },
+    {
+      "numero": 143,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 144,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 145,
+      "total_versiculos": 21
+    },
+    {
+      "numero": 146,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 147,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 148,
+      "total_versiculos": 14
+    },
+    {
+      "numero": 149,
+      "total_versiculos": 9
+    },
+    {
+      "numero": 150,
+      "total_versiculos": 6
+    }
+  ]
+}

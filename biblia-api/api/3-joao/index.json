@@ -1,0 +1,14 @@
+{
+  "id": 64,
+  "abbrev": "3jo",
+  "nome": "3 João",
+  "slug": "3-joao",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 1,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 15
+    }
+  ]
+}

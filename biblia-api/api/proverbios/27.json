@@ -1,0 +1,117 @@
+{
+  "livro": "Provérbios",
+  "slug_livro": "proverbios",
+  "testamento": "Antigo Testamento",
+  "capitulo": 27,
+  "total_versiculos": 27,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Não presumas do dia de amanhã, porque não sabes o que ele trará."
+    },
+    {
+      "numero": 2,
+      "texto": "Que um outro te louve, e não a tua própria boca; o estranho, e não os teus lábios."
+    },
+    {
+      "numero": 3,
+      "texto": "A pedra é pesada, e a areia é espessa; porém a ira do insensato é mais pesada que ambas."
+    },
+    {
+      "numero": 4,
+      "texto": "O furor é cruel e a ira impetuosa, mas quem poderá enfrentar a inveja?"
+    },
+    {
+      "numero": 5,
+      "texto": "Melhor é a repreensão franca do que o amor encoberto."
+    },
+    {
+      "numero": 6,
+      "texto": "Leais são as feridas feitas pelo amigo, mas os beijos do inimigo são enganosos."
+    },
+    {
+      "numero": 7,
+      "texto": "A alma farta pisa o favo de mel, mas para a alma faminta todo amargo é doce."
+    },
+    {
+      "numero": 8,
+      "texto": "Qual a ave que vagueia longe do seu ninho, tal é o homem que anda vagueando longe da sua morada."
+    },
+    {
+      "numero": 9,
+      "texto": "O óleo e o perfume alegram o coração; assim o faz a doçura do amigo pelo conselho cordial."
+    },
+    {
+      "numero": 10,
+      "texto": "Não deixes o teu amigo, nem o amigo de teu pai; nem entres na casa de teu irmão no dia da tua adversidade; melhor é o vizinho perto do que o irmão longe."
+    },
+    {
+      "numero": 11,
+      "texto": "Sê sábio, filho meu, e alegra o meu coração, para que tenha alguma coisa que responder àquele que me desprezar."
+    },
+    {
+      "numero": 12,
+      "texto": "O avisado vê o mal e esconde-se; mas os simples passam e sofrem a pena."
+    },
+    {
+      "numero": 13,
+      "texto": "Quando alguém fica por fiador do estranho, toma-lhe até a sua roupa, e por penhor àquele que se obriga pela mulher estranha."
+    },
+    {
+      "numero": 14,
+      "texto": "O que, pela manhã de madrugada, abençoa o seu amigo em alta voz, lho será imputado por maldição."
+    },
+    {
+      "numero": 15,
+      "texto": "O gotejar contínuo em dia de grande chuva, e a mulher contenciosa, uma e outra são semelhantes;"
+    },
+    {
+      "numero": 16,
+      "texto": "Tentar moderá-la será como deter o vento, ou como conter o óleo dentro da sua mão direita."
+    },
+    {
+      "numero": 17,
+      "texto": "Como o ferro com ferro se aguça, assim o homem afia o rosto do seu amigo."
+    },
+    {
+      "numero": 18,
+      "texto": "O que cuida da figueira comerá do seu fruto; e o que atenta para o seu senhor será honrado."
+    },
+    {
+      "numero": 19,
+      "texto": "Como na água o rosto corresponde ao rosto, assim o coração do homem ao homem."
+    },
+    {
+      "numero": 20,
+      "texto": "Como o inferno e a perdição nunca se fartam, assim os olhos do homem nunca se satisfazem."
+    },
+    {
+      "numero": 21,
+      "texto": "Como o crisol é para a prata, e o forno para o ouro, assim o homem é provado pelos louvores."
+    },
+    {
+      "numero": 22,
+      "texto": "Ainda que repreendas o tolo como quem bate o trigo com a mão de gral entre grãos pilados, não se apartará dele a sua estultícia."
+    },
+    {
+      "numero": 23,
+      "texto": "Procura conhecer o estado das tuas ovelhas; põe o teu coração sobre os teus rebanhos,"
+    },
+    {
+      "numero": 24,
+      "texto": "Porque o tesouro não dura para sempre; e durará a coroa de geração em geração?"
+    },
+    {
+      "numero": 25,
+      "texto": "Quando brotar a erva, e aparecerem os renovos, e se juntarem as ervas dos montes,"
+    },
+    {
+      "numero": 26,
+      "texto": "Então os cordeiros serão para te vestires, e os bodes para o preço do campo;"
+    },
+    {
+      "numero": 27,
+      "texto": "E a abastança do leite das cabras para o teu sustento, para sustento da tua casa e para sustento das tuas servas."
+    }
+  ]
+}

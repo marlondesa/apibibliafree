@@ -1,0 +1,26 @@
+{
+  "id": 55,
+  "abbrev": "2tm",
+  "nome": "2 Timóteo",
+  "slug": "2-timoteo",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 4,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 26
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 22
+    }
+  ]
+}

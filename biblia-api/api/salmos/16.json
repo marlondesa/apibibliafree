@@ -1,0 +1,53 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 16,
+  "total_versiculos": 11,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Guarda-me, ó Deus, porque em ti confio."
+    },
+    {
+      "numero": 2,
+      "texto": "A minha alma disse ao Senhor: Tu és o meu Senhor, a minha bondade não chega à tua presença,"
+    },
+    {
+      "numero": 3,
+      "texto": "Mas aos santos que estão na terra, e aos ilustres em quem está todo o meu prazer."
+    },
+    {
+      "numero": 4,
+      "texto": "As dores se multiplicarão àqueles que fazem oferendas a outro deus; eu não oferecerei as suas libações de sangue, nem tomarei os seus nomes nos meus lábios."
+    },
+    {
+      "numero": 5,
+      "texto": "O Senhor é a porção da minha herança e do meu cálice; tu sustentas a minha sorte."
+    },
+    {
+      "numero": 6,
+      "texto": "As linhas caem-me em lugares deliciosos: sim, coube-me uma formosa herança."
+    },
+    {
+      "numero": 7,
+      "texto": "Louvarei ao Senhor que me aconselhou; até os meus rins me ensinam de noite."
+    },
+    {
+      "numero": 8,
+      "texto": "Tenho posto o Senhor continuamente diante de mim; por isso que ele está à minha mão direita, nunca vacilarei."
+    },
+    {
+      "numero": 9,
+      "texto": "Portanto está alegre o meu coração e se regozija a minha glória; também a minha carne repousará segura."
+    },
+    {
+      "numero": 10,
+      "texto": "Pois não deixarás a minha alma no inferno, nem permitirás que o teu Santo veja corrupção."
+    },
+    {
+      "numero": 11,
+      "texto": "Far-me-ás ver a vereda da vida; na tua presença há fartura de alegrias; à tua mão direita há delícias perpetuamente."
+    }
+  ]
+}

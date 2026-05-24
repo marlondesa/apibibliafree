@@ -1,0 +1,26 @@
+{
+  "id": 50,
+  "abbrev": "fp",
+  "nome": "Filipenses",
+  "slug": "filipenses",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 4,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 30
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 30
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 21
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 23
+    }
+  ]
+}

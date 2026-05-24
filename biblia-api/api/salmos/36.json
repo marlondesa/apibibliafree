@@ -1,0 +1,57 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 36,
+  "total_versiculos": 12,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A transgressão do ímpio diz no íntimo do meu coração: Não há temor de Deus perante os seus olhos."
+    },
+    {
+      "numero": 2,
+      "texto": "Porque em seus olhos se lisonjeia, até que a sua iniqüidade se descubra ser detestável."
+    },
+    {
+      "numero": 3,
+      "texto": "As palavras da sua boca são malícia e engano; deixou de entender e de fazer o bem."
+    },
+    {
+      "numero": 4,
+      "texto": "Projeta a malícia na sua cama; põe-se no caminho que não é bom; não aborrece o mal."
+    },
+    {
+      "numero": 5,
+      "texto": "A tua misericórdia, Senhor, está nos céus, e a tua fidelidade chega até às mais excelsas nuvens."
+    },
+    {
+      "numero": 6,
+      "texto": "A tua justiça é como as grandes montanhas; os teus juízos são um grande abismo. Senhor, tu conservas os homens e os animais."
+    },
+    {
+      "numero": 7,
+      "texto": "Quão preciosa é, ó Deus, a tua benignidade, pelo que os filhos dos homens se abrigam à sombra das tuas asas."
+    },
+    {
+      "numero": 8,
+      "texto": "Eles se fartarão da gordura da tua casa, e os farás beber da corrente das tuas delícias;"
+    },
+    {
+      "numero": 9,
+      "texto": "Porque em ti está o manancial da vida; na tua luz veremos a luz."
+    },
+    {
+      "numero": 10,
+      "texto": "Estende a tua benignidade sobre os que te conhecem, e a tua justiça sobre os retos de coração."
+    },
+    {
+      "numero": 11,
+      "texto": "Não venha sobre mim o pé dos soberbos, e não me mova a mão dos ímpios."
+    },
+    {
+      "numero": 12,
+      "texto": "Ali caem os que praticam a iniqüidade; cairão, e não se poderão levantar."
+    }
+  ]
+}

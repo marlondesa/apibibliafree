@@ -1,0 +1,57 @@
+{
+  "livro": "2 Tessalonicenses",
+  "slug_livro": "2-tessalonicenses",
+  "testamento": "Novo Testamento",
+  "capitulo": 1,
+  "total_versiculos": 12,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses, em Deus nosso Pai, e no Senhor Jesus Cristo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Graça e paz a vós da parte de Deus nosso Pai, e da do Senhor Jesus Cristo."
+    },
+    {
+      "numero": 3,
+      "texto": "Sempre devemos, irmãos, dar graças a Deus por vós, como é justo, porque a vossa fé cresce muitíssimo e o amor de cada um de vós aumenta de uns para com os outros,"
+    },
+    {
+      "numero": 4,
+      "texto": "De maneira que nós mesmos nos gloriamos de vós nas igrejas de Deus por causa da vossa paciência e fé, e em todas as vossas perseguições e aflições que suportais;"
+    },
+    {
+      "numero": 5,
+      "texto": "Prova clara do justo juízo de Deus, para que sejais havidos por dignos do reino de Deus, pelo qual também padeceis;"
+    },
+    {
+      "numero": 6,
+      "texto": "Se de fato é justo diante de Deus que dê em paga tribulação aos que vos atribulam,"
+    },
+    {
+      "numero": 7,
+      "texto": "E a vós, que sois atribulados, descanso conosco, quando se manifestar o Senhor Jesus desde o céu com os anjos do seu poder,"
+    },
+    {
+      "numero": 8,
+      "texto": "Com labareda de fogo, tomando vingança dos que não conhecem a Deus e dos que não obedecem ao evangelho de nosso Senhor Jesus Cristo;"
+    },
+    {
+      "numero": 9,
+      "texto": "Os quais, por castigo, padecerão eterna perdição, longe da face do Senhor e da glória do seu poder,"
+    },
+    {
+      "numero": 10,
+      "texto": "Quando vier para ser glorificado nos seus santos, e para se fazer admirável naquele dia em todos os que crêem (porquanto o nosso testemunho foi crido entre vós)."
+    },
+    {
+      "numero": 11,
+      "texto": "Por isso também rogamos sempre por vós, para que o nosso Deus vos faça dignos da sua vocação, e cumpra todo o desejo da sua bondade, e a obra da fé com poder;"
+    },
+    {
+      "numero": 12,
+      "texto": "Para que o nome de nosso Senhor Jesus Cristo seja em vós glorificado, e vós nele, segundo a graça de nosso Deus e do Senhor Jesus Cristo."
+    }
+  ]
+}

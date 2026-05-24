@@ -1,0 +1,101 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 50,
+  "total_versiculos": 23,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Deus poderoso, o SENHOR, falou e chamou a terra desde o nascimento do sol até ao seu ocaso."
+    },
+    {
+      "numero": 2,
+      "texto": "Desde Sião, a perfeição da formosura, resplandeceu Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "Virá o nosso Deus, e não se calará; um fogo se irá consumindo diante dele, e haverá grande tormenta ao redor dele."
+    },
+    {
+      "numero": 4,
+      "texto": "Chamará os céus lá do alto, e a terra, para julgar o seu povo."
+    },
+    {
+      "numero": 5,
+      "texto": "Ajuntai-me os meus santos, aqueles que fizeram comigo uma aliança com sacrifícios."
+    },
+    {
+      "numero": 6,
+      "texto": "E os céus anunciarão a sua justiça; pois Deus mesmo é o Juiz. (Selá.)"
+    },
+    {
+      "numero": 7,
+      "texto": "Ouve, povo meu, e eu falarei; ó Israel, e eu protestarei contra ti: Sou Deus, sou o teu Deus."
+    },
+    {
+      "numero": 8,
+      "texto": "Não te repreenderei pelos teus sacrifícios, ou holocaustos, que estão continuamente perante mim."
+    },
+    {
+      "numero": 9,
+      "texto": "Da tua casa não tirarei bezerro, nem bodes dos teus currais."
+    },
+    {
+      "numero": 10,
+      "texto": "Porque meu é todo animal da selva, e o gado sobre milhares de montanhas."
+    },
+    {
+      "numero": 11,
+      "texto": "Conheço todas as aves dos montes; e minhas são todas as feras do campo."
+    },
+    {
+      "numero": 12,
+      "texto": "Se eu tivesse fome, não to diria, pois meu é o mundo e toda a sua plenitude."
+    },
+    {
+      "numero": 13,
+      "texto": "Comerei eu carne de touros? ou beberei sangue de bodes?"
+    },
+    {
+      "numero": 14,
+      "texto": "Oferece a Deus sacrifício de louvor, e paga ao Altíssimo os teus votos."
+    },
+    {
+      "numero": 15,
+      "texto": "E invoca-me no dia da angústia; eu te livrarei, e tu me glorificarás."
+    },
+    {
+      "numero": 16,
+      "texto": "Mas ao ímpio diz Deus: Que fazes tu em recitar os meus estatutos, e em tomar a minha aliança na tua boca?"
+    },
+    {
+      "numero": 17,
+      "texto": "Visto que odeias a correção, e lanças as minhas palavras para detrás de ti."
+    },
+    {
+      "numero": 18,
+      "texto": "Quando vês o ladrão, consentes com ele, e tens a tua parte com adúlteros."
+    },
+    {
+      "numero": 19,
+      "texto": "Soltas a tua boca para o mal, e a tua língua compõe o engano."
+    },
+    {
+      "numero": 20,
+      "texto": "Assentas-te a falar contra teu irmão; falas mal contra o filho de tua mãe."
+    },
+    {
+      "numero": 21,
+      "texto": "Estas coisas tens feito, e eu me calei; pensavas que era tal como tu, mas eu te argüirei, e as porei por ordem diante dos teus olhos:"
+    },
+    {
+      "numero": 22,
+      "texto": "Ouvi pois isto, vós que vos esqueceis de Deus; para que eu vos não faça em pedaços, sem haver quem vos livre."
+    },
+    {
+      "numero": 23,
+      "texto": "Aquele que oferece o sacrifício de louvor me glorificará; e àquele que bem ordena o seu caminho eu mostrarei a salvação de Deus."
+    }
+  ]
+}

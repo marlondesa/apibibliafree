@@ -1,0 +1,89 @@
+{
+  "livro": "1 Timóteo",
+  "slug_livro": "1-timoteo",
+  "testamento": "Novo Testamento",
+  "capitulo": 1,
+  "total_versiculos": 20,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Paulo, apóstolo de Jesus Cristo, segundo o mandado de Deus, nosso Salvador, e do Senhor Jesus Cristo, esperança nossa,"
+    },
+    {
+      "numero": 2,
+      "texto": "A Timóteo meu verdadeiro filho na fé: Graça, misericórdia e paz da parte de Deus nosso Pai, e da de Cristo Jesus, nosso Senhor."
+    },
+    {
+      "numero": 3,
+      "texto": "Como te roguei, quando parti para a macedônia, que ficasses em Éfeso, para advertires a alguns, que não ensinem outra doutrina,"
+    },
+    {
+      "numero": 4,
+      "texto": "Nem se dêem a fábulas ou a genealogias intermináveis, que mais produzem questões do que edificação de Deus, que consiste na fé; assim o faço agora."
+    },
+    {
+      "numero": 5,
+      "texto": "Ora, o fim do mandamento é o amor de um coração puro, e de uma boa consciência, e de uma fé não fingida."
+    },
+    {
+      "numero": 6,
+      "texto": "Do que, desviando-se alguns, se entregaram a vãs contendas;"
+    },
+    {
+      "numero": 7,
+      "texto": "Querendo ser mestres da lei, e não entendendo nem o que dizem nem o que afirmam."
+    },
+    {
+      "numero": 8,
+      "texto": "Sabemos, porém, que a lei é boa, se alguém dela usa legitimamente;"
+    },
+    {
+      "numero": 9,
+      "texto": "Sabendo isto, que a lei não é feita para o justo, mas para os injustos e obstinados, para os ímpios e pecadores, para os profanos e irreligiosos, para os parricidas e matricidas, para os homicidas,"
+    },
+    {
+      "numero": 10,
+      "texto": "Para os devassos, para os sodomitas, para os roubadores de homens, para os mentirosos, para os perjuros, e para o que for contrário à sã doutrina,"
+    },
+    {
+      "numero": 11,
+      "texto": "Conforme o evangelho da glória de Deus bem-aventurado, que me foi confiado."
+    },
+    {
+      "numero": 12,
+      "texto": "E dou graças ao que me tem confortado, a Cristo Jesus Senhor nosso, porque me teve por fiel, pondo-me no ministério;"
+    },
+    {
+      "numero": 13,
+      "texto": "A mim, que dantes fui blasfemo, e perseguidor, e injurioso; mas alcancei misericórdia, porque o fiz ignorantemente, na incredulidade."
+    },
+    {
+      "numero": 14,
+      "texto": "E a graça de nosso Senhor superabundou com a fé e amor que há em Jesus Cristo."
+    },
+    {
+      "numero": 15,
+      "texto": "Esta é uma palavra fiel, e digna de toda a aceitação, que Cristo Jesus veio ao mundo, para salvar os pecadores, dos quais eu sou o principal."
+    },
+    {
+      "numero": 16,
+      "texto": "Mas por isso alcancei misericórdia, para que em mim, que sou o principal, Jesus Cristo mostrasse toda a sua longanimidade, para exemplo dos que haviam de crer nele para a vida eterna."
+    },
+    {
+      "numero": 17,
+      "texto": "Ora, ao Rei dos séculos, imortal, invisível, ao único Deus sábio, seja honra e glória para todo o sempre. Amém."
+    },
+    {
+      "numero": 18,
+      "texto": "Este mandamento te dou, meu filho Timóteo, que, segundo as profecias que houve acerca de ti, milites por elas boa milícia;"
+    },
+    {
+      "numero": 19,
+      "texto": "Conservando a fé, e a boa consciência, a qual alguns, rejeitando, fizeram naufrágio na fé."
+    },
+    {
+      "numero": 20,
+      "texto": "E entre esses foram Himeneu e Alexandre, os quais entreguei a Satanás, para que aprendam a não blasfemar."
+    }
+  ]
+}

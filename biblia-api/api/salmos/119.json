@@ -1,0 +1,713 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 119,
+  "total_versiculos": 176,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Bem-aventurados os retos em seus caminhos, que andam na lei do Senhor."
+    },
+    {
+      "numero": 2,
+      "texto": "Bem-aventurados os que guardam os seus testemunhos, e que o buscam com todo o coração."
+    },
+    {
+      "numero": 3,
+      "texto": "E não praticam iniqüidade, mas andam nos seus caminhos."
+    },
+    {
+      "numero": 4,
+      "texto": "Tu ordenaste os teus mandamentos, para que diligentemente os observássemos."
+    },
+    {
+      "numero": 5,
+      "texto": "Quem dera que os meus caminhos fossem dirigidos a observar os teus mandamentos."
+    },
+    {
+      "numero": 6,
+      "texto": "Então não ficaria confundido, atentando eu para todos os teus mandamentos."
+    },
+    {
+      "numero": 7,
+      "texto": "Louvar-te-ei com retidão de coração quando tiver aprendido os teus justos juízos."
+    },
+    {
+      "numero": 8,
+      "texto": "Observarei os teus estatutos; não me desampares totalmente."
+    },
+    {
+      "numero": 9,
+      "texto": "Com que purificará o jovem o seu caminho? Observando-o conforme a tua palavra."
+    },
+    {
+      "numero": 10,
+      "texto": "Com todo o meu coração te busquei; não me deixes desviar dos teus mandamentos."
+    },
+    {
+      "numero": 11,
+      "texto": "Escondi a tua palavra no meu coração, para eu não pecar contra ti."
+    },
+    {
+      "numero": 12,
+      "texto": "Bendito és tu, ó Senhor; ensina-me os teus estatutos."
+    },
+    {
+      "numero": 13,
+      "texto": "Com os meus lábios declarei todos os juízos da tua boca."
+    },
+    {
+      "numero": 14,
+      "texto": "Folguei tanto no caminho dos teus testemunhos, como em todas as riquezas."
+    },
+    {
+      "numero": 15,
+      "texto": "Meditarei nos teus preceitos, e terei respeito aos teus caminhos."
+    },
+    {
+      "numero": 16,
+      "texto": "Recrear-me-ei nos teus estatutos; não me esquecerei da tua palavra."
+    },
+    {
+      "numero": 17,
+      "texto": "Faze bem ao teu servo, para que viva e observe a tua palavra."
+    },
+    {
+      "numero": 18,
+      "texto": "Abre tu os meus olhos, para que veja as maravilhas da tua lei."
+    },
+    {
+      "numero": 19,
+      "texto": "Sou peregrino na terra; não escondas de mim os teus mandamentos."
+    },
+    {
+      "numero": 20,
+      "texto": "A minha alma está quebrantada de desejar os teus juízos em todo o tempo."
+    },
+    {
+      "numero": 21,
+      "texto": "Tu repreendeste asperamente os soberbos que são amaldiçoa-dos, que se desviam dos teus mandamentos."
+    },
+    {
+      "numero": 22,
+      "texto": "Tira de sobre mim o opróbrio e o desprezo, pois guardei os teus testemunhos."
+    },
+    {
+      "numero": 23,
+      "texto": "Príncipes também se assentaram, e falaram contra mim, mas o teu servo meditou nos teus estatutos."
+    },
+    {
+      "numero": 24,
+      "texto": "Também os teus testemunhos são o meu prazer e os meus conselheiros."
+    },
+    {
+      "numero": 25,
+      "texto": "A minha alma está pegada ao pó; vivifica-me segundo a tua palavra."
+    },
+    {
+      "numero": 26,
+      "texto": "Eu te contei os meus caminhos, e tu me ouviste; ensina-me os teus estatutos."
+    },
+    {
+      "numero": 27,
+      "texto": "Faze-me entender o caminho dos teus preceitos; assim falarei das tuas maravilhas."
+    },
+    {
+      "numero": 28,
+      "texto": "A minha alma consome-se de tristeza; fortalece-me segundo a tua palavra."
+    },
+    {
+      "numero": 29,
+      "texto": "Desvia de mim o caminho da falsidade, e concede-me piedosamente a tua lei."
+    },
+    {
+      "numero": 30,
+      "texto": "Escolhi o caminho da verdade; propus-me seguir os teus juízos."
+    },
+    {
+      "numero": 31,
+      "texto": "Apego-me aos teus testemunhos; ó Senhor, não me confundas."
+    },
+    {
+      "numero": 32,
+      "texto": "Correrei pelo caminho dos teus mandamentos, quando dilatares o meu coração."
+    },
+    {
+      "numero": 33,
+      "texto": "Ensina-me, ó Senhor, o caminho dos teus estatutos, e guardá-lo-ei até o fim."
+    },
+    {
+      "numero": 34,
+      "texto": "Dá-me entendimento, e guardarei a tua lei, e observá-la-ei de todo o meu coração."
+    },
+    {
+      "numero": 35,
+      "texto": "Faze-me andar na vereda dos teus mandamentos, porque nela tenho prazer."
+    },
+    {
+      "numero": 36,
+      "texto": "Inclina o meu coração aos teus testemunhos, e não à cobiça."
+    },
+    {
+      "numero": 37,
+      "texto": "Desvia os meus olhos de contemplarem a vaidade, e vivifica-me no teu caminho."
+    },
+    {
+      "numero": 38,
+      "texto": "Confirma a tua palavra ao teu servo, que é dedicado ao teu temor."
+    },
+    {
+      "numero": 39,
+      "texto": "Desvia de mim o opróbrio que temo, pois os teus juízos são bons."
+    },
+    {
+      "numero": 40,
+      "texto": "Eis que tenho desejado os teus preceitos; vivifica-me na tua justiça."
+    },
+    {
+      "numero": 41,
+      "texto": "Venham sobre mim também as tuas misericórdias, ó Senhor, e a tua salvação segundo a tua palavra."
+    },
+    {
+      "numero": 42,
+      "texto": "Assim terei que responder ao que me afronta, pois confio na tua palavra."
+    },
+    {
+      "numero": 43,
+      "texto": "E não tires totalmente a palavra de verdade da minha boca, pois tenho esperado nos teus juízos."
+    },
+    {
+      "numero": 44,
+      "texto": "Assim observarei de contínuo a tua lei para sempre e eternamente."
+    },
+    {
+      "numero": 45,
+      "texto": "E andarei em liberdade; pois busco os teus preceitos."
+    },
+    {
+      "numero": 46,
+      "texto": "Também falarei dos teus testemunhos perante os reis, e não me envergonharei."
+    },
+    {
+      "numero": 47,
+      "texto": "E recrear-me-ei em teus mandamentos, que tenho amado."
+    },
+    {
+      "numero": 48,
+      "texto": "Também levantarei as minhas mãos para os teus mandamentos, que amei, e meditarei nos teus estatutos."
+    },
+    {
+      "numero": 49,
+      "texto": "Lembra-te da palavra dada ao teu servo, na qual me fizeste esperar."
+    },
+    {
+      "numero": 50,
+      "texto": "Isto é a minha consolação na minha aflição, porque a tua palavra me vivificou."
+    },
+    {
+      "numero": 51,
+      "texto": "Os soberbos zombaram grandemente de mim; contudo não me desviei da tua lei."
+    },
+    {
+      "numero": 52,
+      "texto": "Lembrei-me dos teus juízos antiqüíssimos, ó Senhor, e assim me consolei."
+    },
+    {
+      "numero": 53,
+      "texto": "Grande indignação se apoderou de mim por causa dos ímpios que abandonam a tua lei."
+    },
+    {
+      "numero": 54,
+      "texto": "Os teus estatutos têm sido os meus cânticos na casa da minha peregrinação."
+    },
+    {
+      "numero": 55,
+      "texto": "Lembrei-me do teu nome, ó Senhor, de noite, e observei a tua lei."
+    },
+    {
+      "numero": 56,
+      "texto": "Isto fiz eu, porque guardei os teus mandamentos."
+    },
+    {
+      "numero": 57,
+      "texto": "O Senhor é a minha porção; eu disse que observaria as tuas palavras."
+    },
+    {
+      "numero": 58,
+      "texto": "Roguei deveras o teu favor com todo o meu coração; tem piedade de mim, segundo a tua palavra."
+    },
+    {
+      "numero": 59,
+      "texto": "Considerei os meus caminhos, e voltei os meus pés para os teus testemunhos."
+    },
+    {
+      "numero": 60,
+      "texto": "Apressei-me, e não me detive, a observar os teus mandamentos."
+    },
+    {
+      "numero": 61,
+      "texto": "Bandos de ímpios me despojaram, mas eu não me esqueci da tua lei."
+    },
+    {
+      "numero": 62,
+      "texto": "À meia-noite me levantarei para te louvar, pelos teus justos juízos."
+    },
+    {
+      "numero": 63,
+      "texto": "Companheiro sou de todos os que te temem e dos que guardam os teus preceitos."
+    },
+    {
+      "numero": 64,
+      "texto": "A terra, ó Senhor, está cheia da tua benignidade; ensina-me os teus estatutos."
+    },
+    {
+      "numero": 65,
+      "texto": "Fizeste bem ao teu servo, Senhor, segundo a tua palavra."
+    },
+    {
+      "numero": 66,
+      "texto": "Ensina-me bom juízo e ciência, pois cri nos teus mandamentos."
+    },
+    {
+      "numero": 67,
+      "texto": "Antes de ser afligido andava errado; mas agora tenho guardado a tua palavra."
+    },
+    {
+      "numero": 68,
+      "texto": "Tu és bom e fazes bem; ensina-me os teus estatutos."
+    },
+    {
+      "numero": 69,
+      "texto": "Os soberbos forjaram mentiras contra mim; mas eu com todo o meu coração guardarei os teus preceitos."
+    },
+    {
+      "numero": 70,
+      "texto": "Engrossa-se-lhes o coração como gordura, mas eu me recreio na tua lei."
+    },
+    {
+      "numero": 71,
+      "texto": "Foi-me bom ter sido afligido, para que aprendesse os teus estatutos."
+    },
+    {
+      "numero": 72,
+      "texto": "Melhor é para mim a lei da tua boca do que milhares de ouro ou prata."
+    },
+    {
+      "numero": 73,
+      "texto": "As tuas mãos me fizeram e me formaram; dá-me inteligência para entender os teus mandamentos."
+    },
+    {
+      "numero": 74,
+      "texto": "Os que te temem alegraram-se quando me viram, porque tenho esperado na tua palavra."
+    },
+    {
+      "numero": 75,
+      "texto": "Bem sei eu, ó Senhor, que os teus juízos são justos, e que segundo a tua fidelidade me afligiste."
+    },
+    {
+      "numero": 76,
+      "texto": "Sirva pois a tua benignidade para me consolar, segundo a palavra que deste ao teu servo."
+    },
+    {
+      "numero": 77,
+      "texto": "Venham sobre mim as tuas misericórdias, para que viva, pois a tua lei é a minha delícia."
+    },
+    {
+      "numero": 78,
+      "texto": "Confundam-se os soberbos, pois me trataram duma maneira perversa, sem causa; mas eu meditarei nos teus preceitos."
+    },
+    {
+      "numero": 79,
+      "texto": "Voltem-se para mim os que te temem, e aqueles que têm conhecido os teus testemunhos."
+    },
+    {
+      "numero": 80,
+      "texto": "Seja reto o meu coração nos teus estatutos, para que não seja confundido."
+    },
+    {
+      "numero": 81,
+      "texto": "Desfalece a minha alma pela tua salvação, mas espero na tua palavra."
+    },
+    {
+      "numero": 82,
+      "texto": "Os meus olhos desfalecem pela tua palavra; entrementes dizia: Quando me consolarás tu?"
+    },
+    {
+      "numero": 83,
+      "texto": "Pois estou como odre na fumaça; contudo não me esqueço dos teus estatutos."
+    },
+    {
+      "numero": 84,
+      "texto": "Quantos serão os dias do teu servo? Quando me farás justiça contra os que me perseguem?"
+    },
+    {
+      "numero": 85,
+      "texto": "Os soberbos me cavaram covas, o que não é conforme a tua lei."
+    },
+    {
+      "numero": 86,
+      "texto": "Todos os teus mandamentos são verdade. Com mentiras me perseguem; ajuda-me."
+    },
+    {
+      "numero": 87,
+      "texto": "Quase que me têm consumido sobre a terra, mas eu não deixei os teus preceitos."
+    },
+    {
+      "numero": 88,
+      "texto": "Vivifica-me segundo a tua benignidade; assim guardarei o testemunho da tua boca."
+    },
+    {
+      "numero": 89,
+      "texto": "Para sempre, ó Senhor, a tua palavra permanece no céu."
+    },
+    {
+      "numero": 90,
+      "texto": "A tua fidelidade dura de geração em geração; tu firmaste a terra, e ela permanece firme."
+    },
+    {
+      "numero": 91,
+      "texto": "Eles continuam até ao dia de hoje, segundo as tuas ordenações; porque todos são teus servos."
+    },
+    {
+      "numero": 92,
+      "texto": "Se a tua lei não fora toda a minha recreação, há muito que pereceria na minha aflição."
+    },
+    {
+      "numero": 93,
+      "texto": "Nunca me esquecerei dos teus preceitos; pois por eles me tens vivificado."
+    },
+    {
+      "numero": 94,
+      "texto": "Sou teu, salva-me; pois tenho buscado os teus preceitos."
+    },
+    {
+      "numero": 95,
+      "texto": "Os ímpios me esperam para me destruírem, mas eu considerarei os teus testemunhos."
+    },
+    {
+      "numero": 96,
+      "texto": "Tenho visto fim a toda a perfeição, mas o teu mandamento é amplíssimo."
+    },
+    {
+      "numero": 97,
+      "texto": "Oh! quanto amo a tua lei! É a minha meditação em todo o dia."
+    },
+    {
+      "numero": 98,
+      "texto": "Tu, pelos teus mandamentos, me fazes mais sábio do que os meus inimigos; pois estão sempre comigo."
+    },
+    {
+      "numero": 99,
+      "texto": "Tenho mais entendimento do que todos os meus mestres, porque os teus testemunhos são a minha meditação."
+    },
+    {
+      "numero": 100,
+      "texto": "Entendo mais do que os antigos; porque guardo os teus preceitos."
+    },
+    {
+      "numero": 101,
+      "texto": "Desviei os meus pés de todo caminho mau, para guardar a tua palavra."
+    },
+    {
+      "numero": 102,
+      "texto": "Não me apartei dos teus juízos, pois tu me ensinaste."
+    },
+    {
+      "numero": 103,
+      "texto": "Oh! quão doces são as tuas palavras ao meu paladar, mais doces do que o mel à minha boca."
+    },
+    {
+      "numero": 104,
+      "texto": "Pelos teus mandamentos alcancei entendimento; por isso odeio todo falso caminho."
+    },
+    {
+      "numero": 105,
+      "texto": "Lâmpada para os meus pés é tua palavra, e luz para o meu caminho."
+    },
+    {
+      "numero": 106,
+      "texto": "Jurei, e o cumprirei, que guardarei os teus justos juízos."
+    },
+    {
+      "numero": 107,
+      "texto": "Estou aflitíssimo; vivifica-me, ó Senhor, segundo a tua palavra."
+    },
+    {
+      "numero": 108,
+      "texto": "Aceita, eu te rogo, as oferendas voluntárias da minha boca, ó Senhor; ensina-me os teus juízos."
+    },
+    {
+      "numero": 109,
+      "texto": "A minha alma está de contínuo nas minhas mãos; todavia não me esqueço da tua lei."
+    },
+    {
+      "numero": 110,
+      "texto": "Os ímpios me armaram laço; contudo não me desviei dos teus preceitos."
+    },
+    {
+      "numero": 111,
+      "texto": "Os teus testemunhos tenho eu tomado por herança para sempre, pois são o gozo do meu coração."
+    },
+    {
+      "numero": 112,
+      "texto": "Inclinei o meu coração a guardar os teus estatutos, para sempre, até ao fim."
+    },
+    {
+      "numero": 113,
+      "texto": "Odeio os pensamentos vãos, mas amo a tua lei."
+    },
+    {
+      "numero": 114,
+      "texto": "Tu és o meu refúgio e o meu escudo; espero na tua palavra."
+    },
+    {
+      "numero": 115,
+      "texto": "Apartai-vos de mim, malfeitores, pois guardarei os mandamentos do meu Deus."
+    },
+    {
+      "numero": 116,
+      "texto": "Sustenta-me conforme a tua palavra, para que viva, e não me deixes envergonhado da minha esperança."
+    },
+    {
+      "numero": 117,
+      "texto": "Sustenta-me, e serei salvo, e de contínuo terei respeito aos teus estatutos."
+    },
+    {
+      "numero": 118,
+      "texto": "Tu tens pisado aos pés todos os que se desviam dos teus estatutos, pois o engano deles é falsidade."
+    },
+    {
+      "numero": 119,
+      "texto": "Tu tiraste da terra todos os ímpios, como a escória, por isso amo os teus testemunhos."
+    },
+    {
+      "numero": 120,
+      "texto": "O meu corpo se arrepiou com temor de ti, e temi os teus juízos."
+    },
+    {
+      "numero": 121,
+      "texto": "Fiz juízo e justiça; não me entregues aos meus opressores."
+    },
+    {
+      "numero": 122,
+      "texto": "Fica por fiador do teu servo para o bem; não deixes que os soberbos me oprimam."
+    },
+    {
+      "numero": 123,
+      "texto": "Os meus olhos desfaleceram pela tua salvação e pela promessa da tua justiça."
+    },
+    {
+      "numero": 124,
+      "texto": "Usa com o teu servo segundo a tua benignidade, e ensina-me os teus estatutos."
+    },
+    {
+      "numero": 125,
+      "texto": "Sou teu servo; dá-me inteligência, para entender os teus testemunhos."
+    },
+    {
+      "numero": 126,
+      "texto": "Já é tempo de operares, ó Senhor, pois eles têm quebrantado a tua lei."
+    },
+    {
+      "numero": 127,
+      "texto": "Por isso am"
+    },
+    {
+      "numero": 128,
+      "texto": "Por isso estimo todos os teus preceitos acerca de tudo, como retos, e odeio toda falsa vereda."
+    },
+    {
+      "numero": 129,
+      "texto": "Maravilhosos são os teus testemunhos; portanto, a minha alma os guarda."
+    },
+    {
+      "numero": 130,
+      "texto": "A entrada das tuas palavras dá luz, dá entendimento aos símplices."
+    },
+    {
+      "numero": 131,
+      "texto": "Abri a minha boca, e respirei, pois que desejei os teus mandamentos."
+    },
+    {
+      "numero": 132,
+      "texto": "Olha para mim, e tem piedade de mim, conforme usas com os que amam o teu nome."
+    },
+    {
+      "numero": 133,
+      "texto": "Ordena os meus passos na tua palavra, e não se apodere de mim iniqüidade alguma."
+    },
+    {
+      "numero": 134,
+      "texto": "Livra-me da opressão do homem; assim guardarei os teus preceitos."
+    },
+    {
+      "numero": 135,
+      "texto": "Faze resplandecer o teu rosto sobre o teu servo, e ensina-me os teus estatutos."
+    },
+    {
+      "numero": 136,
+      "texto": "Rios de águas correm dos meus olhos, porque não guardam a tua lei."
+    },
+    {
+      "numero": 137,
+      "texto": "Justo és, ó Senhor, e retos são os teus juízos."
+    },
+    {
+      "numero": 138,
+      "texto": "Os teus testemunhos que ordenaste são retos e muito fiéis."
+    },
+    {
+      "numero": 139,
+      "texto": "O meu zelo me consumiu, porque os meus inimigos se esqueceram da tua palavra."
+    },
+    {
+      "numero": 140,
+      "texto": "A tua palavra é muito pura; portanto, o teu servo a ama."
+    },
+    {
+      "numero": 141,
+      "texto": "Pequeno sou e desprezado, porém não me esqueço dos teus mandamentos."
+    },
+    {
+      "numero": 142,
+      "texto": "A tua justiça é uma justiça eterna, e a tua lei é a verdade."
+    },
+    {
+      "numero": 143,
+      "texto": "Aflição e angústia se apoderam de mim; contudo os teus mandamentos são o meu prazer."
+    },
+    {
+      "numero": 144,
+      "texto": "A justiça dos teus testemunhos é eterna; dá-me inteligência, e viverei."
+    },
+    {
+      "numero": 145,
+      "texto": "Clamei de todo o meu coração; escuta-me, Senhor, e guardarei os teus estatutos."
+    },
+    {
+      "numero": 146,
+      "texto": "A ti te invoquei; salva-me, e guardarei os teus testemunhos."
+    },
+    {
+      "numero": 147,
+      "texto": "Antecipei o cair da noite, e clamei; esperei na tua palavra."
+    },
+    {
+      "numero": 148,
+      "texto": "Os meus olhos anteciparam as vigílias da noite, para meditar na tua palavra."
+    },
+    {
+      "numero": 149,
+      "texto": "Ouve a minha voz, segundo a tua benignidade; vivifica-me, ó Senhor, segundo o teu juízo."
+    },
+    {
+      "numero": 150,
+      "texto": "Aproximam-se os que se dão a maus tratos; afastam-se da tua lei."
+    },
+    {
+      "numero": 151,
+      "texto": "Tu estás perto, ó Senhor, e todos os teus mandamentos são a verdade."
+    },
+    {
+      "numero": 152,
+      "texto": "Acerca dos teus testemunhos soube, desde a antiguidade, que tu os fundaste para sempre."
+    },
+    {
+      "numero": 153,
+      "texto": "Olha para a minha aflição, e livra-me, pois não me esqueci da tua lei."
+    },
+    {
+      "numero": 154,
+      "texto": "Pleiteia a minha causa, e livra-me; vivifica-me segundo a tua palavra."
+    },
+    {
+      "numero": 155,
+      "texto": "A salvação está longe dos ímpios, pois não buscam os teus estatutos."
+    },
+    {
+      "numero": 156,
+      "texto": "Muitas são, ó Senhor, as tuas misericórdias; vivifica-me segundo os teus juízos."
+    },
+    {
+      "numero": 157,
+      "texto": "Muitos são os meus perseguidores e os meus inimigos; mas não me desvio dos teus testemunhos."
+    },
+    {
+      "numero": 158,
+      "texto": "Vi os transgressores, e me afligi, porque não observam a tua palavra."
+    },
+    {
+      "numero": 159,
+      "texto": "Considera como amo os teus preceitos; vivifica-me, ó Senhor, segundo a tua benignidade."
+    },
+    {
+      "numero": 160,
+      "texto": "A tua palavra é a verdade desde o princípio, e cada um dos teus juízos dura para sempre."
+    },
+    {
+      "numero": 161,
+      "texto": "Príncipes me perseguiram sem causa, mas o meu coração temeu a tua palavra."
+    },
+    {
+      "numero": 162,
+      "texto": "Folgo com a tua palavra, como aquele que acha um grande despojo."
+    },
+    {
+      "numero": 163,
+      "texto": "Abomino e odeio a mentira; mas amo a tua lei."
+    },
+    {
+      "numero": 164,
+      "texto": "Sete vezes no dia te louvo pelos juízos da tua justiça."
+    },
+    {
+      "numero": 165,
+      "texto": "Muita paz têm os que amam a tua lei, e para eles não há tropeço."
+    },
+    {
+      "numero": 166,
+      "texto": "Senhor, tenho esperado na tua salvação, e tenho cumprido os teus mandamentos."
+    },
+    {
+      "numero": 167,
+      "texto": "A minha alma tem observado os teus testemunhos; amo-os excessivamente."
+    },
+    {
+      "numero": 168,
+      "texto": "Tenho observado os teus preceitos, e os teus testemunhos, porque todos os meus caminhos estão diante de ti."
+    },
+    {
+      "numero": 169,
+      "texto": "Chegue a ti o meu clamor, ó Senhor; dá-me entendimento conforme a tua palavra."
+    },
+    {
+      "numero": 170,
+      "texto": "Chegue a minha súplica perante a tua face; livra-me segundo a tua palavra."
+    },
+    {
+      "numero": 171,
+      "texto": "Os meus lábios proferiram o louvor, quando me ensinaste os teus estatutos."
+    },
+    {
+      "numero": 172,
+      "texto": "A minha língua falará da tua palavra, pois todos os teus mandamentos são justiça."
+    },
+    {
+      "numero": 173,
+      "texto": "Venha a tua mão socorrer-me, pois escolhi os teus preceitos."
+    },
+    {
+      "numero": 174,
+      "texto": "Tenho desejado a tua salvação, ó Senhor; a tua lei é todo o meu prazer."
+    },
+    {
+      "numero": 175,
+      "texto": "Viva a minha alma, e louvar-te-á; ajudem-me os teus juízos."
+    },
+    {
+      "numero": 176,
+      "texto": "Desgarrei-me como a ovelha perdida; busca o teu servo, pois não me esqueci dos teus mandamentos."
+    }
+  ]
+}

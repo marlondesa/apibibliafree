@@ -1,0 +1,261 @@
+{
+  "livro": "Josué",
+  "slug_livro": "josue",
+  "testamento": "Antigo Testamento",
+  "capitulo": 15,
+  "total_versiculos": 63,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A sorte que coube à tribo dos filhos de Judá, segundo as suas famílias, foi até ao termo de Edom, o deserto de Zim, para o sul, na extremidade do lado meridional."
+    },
+    {
+      "numero": 2,
+      "texto": "E foi o seu termo para o sul, desde a extremidade do Mar Salgado, desde a baía que olha para o sul;"
+    },
+    {
+      "numero": 3,
+      "texto": "E sai para o sul, até à subida de Acrabim, e passa a Zim, e sobe do sul a Cades-Barnéia, e passa por Hezrom, e sobe a Adar, e vira para Carca;"
+    },
+    {
+      "numero": 4,
+      "texto": "E passa Azmom, e sai ao ribeiro do Egito, e as saídas deste termo vão até ao mar; este será o vosso termo do lado do sul."
+    },
+    {
+      "numero": 5,
+      "texto": "O termo, porém, para o oriente será o Mar Salgado, até à foz do Jordão; e o termo para o norte será da baía do mar, desde a foz do Jordão."
+    },
+    {
+      "numero": 6,
+      "texto": "E este termo subirá até Bete-Hogla, e passará do norte a Bete-Arabá, e este termo subirá até à pedra de Boã, filho de Rúben."
+    },
+    {
+      "numero": 7,
+      "texto": "Subirá mais este termo a Debir desde o vale de Acor, indo para o norte rumo a Gilgal, a qual está em frente da subida de Adumim, que está para o sul do ribeiro; então este termo continua até às águas de En-Semes; e as suas saídas estão do lado de En-Rogel."
+    },
+    {
+      "numero": 8,
+      "texto": "E este termo sobe pelo vale do filho de Hinom, do lado sul dos jebuseus (esta é Jerusalém) e sobe este termo até ao cume do monte que está diante do vale de Hinom para o ocidente, que está no fim do vale dos refains do lado do norte."
+    },
+    {
+      "numero": 9,
+      "texto": "Então este termo vai desde a altura do monte até à fonte das águas de Neftoa; e sai até às cidades do monte de Efrom; vai mais este termo até Baalá (esta é Quiriate-Jearim)."
+    },
+    {
+      "numero": 10,
+      "texto": "Então volta este termo desde Baalá para o ocidente, até às montanhas de Seir, e passa ao lado do monte de Jearim do lado do norte (esta é Quesalom) e desce a Bete-Semes, e passa por Timna;"
+    },
+    {
+      "numero": 11,
+      "texto": "Sai este termo mais ao lado de Ecrom, para o norte, e este termo vai a Sicrom e passa o monte de Baalá, e sai em Jabneel; e assim este termo finda no mar."
+    },
+    {
+      "numero": 12,
+      "texto": "Será, porém, o termo do lado do ocidente o Mar Grande, e suas adjacências; este é o termo dos filhos de Judá ao redor, segundo as suas famílias."
+    },
+    {
+      "numero": 13,
+      "texto": "Mas a Calebe, filho de Jefoné, deu uma parte no meio dos filhos de Judá, conforme a ordem do Senhor a Josué; a saber, a cidade de Arba, que é Hebrom; este Arba era pai de Anaque."
+    },
+    {
+      "numero": 14,
+      "texto": "E Calebe expulsou dali os três filhos de Anaque: Sesai, e Aimã, e Talmai, gerados de Anaque."
+    },
+    {
+      "numero": 15,
+      "texto": "E dali subiu aos habitantes de Debir; e fora antes o nome de Debir, Quiriate-Sefer."
+    },
+    {
+      "numero": 16,
+      "texto": "E disse Calebe: Quem ferir a Quiriate-Sefer, e a tomar, lhe darei a minha filha Acsa por mulher."
+    },
+    {
+      "numero": 17,
+      "texto": "Tomou-a, pois, Otniel, filho de Quenaz, irmão de Calebe; e deu-lhe a sua filha Acsa por mulher."
+    },
+    {
+      "numero": 18,
+      "texto": "E sucedeu que, vindo ela a ele, o persuadiu que pedisse um campo a seu pai; e ela desceu do seu jumento; então Calebe lhe disse: Que é que tens?"
+    },
+    {
+      "numero": 19,
+      "texto": "E ela disse: Dá-me uma bênção; pois me deste terra seca, dá-me também fontes de águas. Então lhe deu as fontes superiores e as fontes inferiores."
+    },
+    {
+      "numero": 20,
+      "texto": "Esta é a herança da tribo dos filhos de Judá, segundo as suas famílias."
+    },
+    {
+      "numero": 21,
+      "texto": "São, pois, as cidades da tribo dos filhos de Judá, até ao termo de Edom, no extremo sul: Cabzeel, e Eder, e Jagur."
+    },
+    {
+      "numero": 22,
+      "texto": "E Quiná, e Dimona, e Adada,"
+    },
+    {
+      "numero": 23,
+      "texto": "E Quedes, e Hazor, e Itnã,"
+    },
+    {
+      "numero": 24,
+      "texto": "Zife, e Telem, e Bealote,"
+    },
+    {
+      "numero": 25,
+      "texto": "E Hazor-Hadata, e Queriote-Hezrom (que é Hazor),"
+    },
+    {
+      "numero": 26,
+      "texto": "Amã e Sema, e Moladá,"
+    },
+    {
+      "numero": 27,
+      "texto": "E Hazar-Gada, e Hesmom, e Bete-Palete,"
+    },
+    {
+      "numero": 28,
+      "texto": "E Hazar-Sual, e Berseba, e Biziotiá,"
+    },
+    {
+      "numero": 29,
+      "texto": "Baalá, e Iim, e Azem,"
+    },
+    {
+      "numero": 30,
+      "texto": "E Eltolade, e Quesil, e Hormá."
+    },
+    {
+      "numero": 31,
+      "texto": "E Ziclague, e Madmana, e Sansana,"
+    },
+    {
+      "numero": 32,
+      "texto": "E Lebaote, e Silim, e Aim, e Rimom; todas as cidades e as suas aldeias, vinte e nove."
+    },
+    {
+      "numero": 33,
+      "texto": "Nas planícies: Estaol, e Zorá, e Asná,"
+    },
+    {
+      "numero": 34,
+      "texto": "E Zanoa, e En-Ganim, Tapua, e Enã."
+    },
+    {
+      "numero": 35,
+      "texto": "E Jarmute, e Adulão, Socó, e Azeca,"
+    },
+    {
+      "numero": 36,
+      "texto": "E Saaraim, e Aditaim, e Gederá, e Gederotaim; catorze cidades e as suas aldeias."
+    },
+    {
+      "numero": 37,
+      "texto": "Zenã, e Hadasa, e Migdal-Gade,"
+    },
+    {
+      "numero": 38,
+      "texto": "E Dileã, e Mizpe, e Jocteel,"
+    },
+    {
+      "numero": 39,
+      "texto": "Laquis, e Bozcate, e Eglom,"
+    },
+    {
+      "numero": 40,
+      "texto": "E Cabom, e Laamás, e Quitlis,"
+    },
+    {
+      "numero": 41,
+      "texto": "E Gederote, Bete-Dagom, e Naamá, e Maquedá, dezesseis cidades e as suas aldeias."
+    },
+    {
+      "numero": 42,
+      "texto": "Libna, e Eter, e Asã,"
+    },
+    {
+      "numero": 43,
+      "texto": "E Iftá, e Asná, e Nezibe,"
+    },
+    {
+      "numero": 44,
+      "texto": "E Queila, e Aczibe, e Maressa; nove cidades e as suas aldeias."
+    },
+    {
+      "numero": 45,
+      "texto": "Ecrom, com suas vilas, e as suas aldeias."
+    },
+    {
+      "numero": 46,
+      "texto": "Desde Ecrom, e até ao mar, todas as que estão do lado de Asdode, e as suas aldeias."
+    },
+    {
+      "numero": 47,
+      "texto": "Asdode, com as suas vilas e as suas aldeias; Gaza, com as suas vilas e as suas aldeias, até ao rio do Egito, e o Mar Grande e o seu termo."
+    },
+    {
+      "numero": 48,
+      "texto": "E nas montanhas: Samir, Jatir, e Socó."
+    },
+    {
+      "numero": 49,
+      "texto": "E Daná, e Quiriate-Saná (que é Debir),"
+    },
+    {
+      "numero": 50,
+      "texto": "E Anabe, Estemó, e Anim,"
+    },
+    {
+      "numero": 51,
+      "texto": "E Gósen, e Holom, e Giló; onze cidades e as suas aldeias."
+    },
+    {
+      "numero": 52,
+      "texto": "Arabe, e Dumá e Esã,"
+    },
+    {
+      "numero": 53,
+      "texto": "E Janim, e Bete-Tapua e Afeca,"
+    },
+    {
+      "numero": 54,
+      "texto": "E Hunta, e Quiriate-Arba (que é Hebrom), e Zior; nove cidades e as suas aldeias."
+    },
+    {
+      "numero": 55,
+      "texto": "Maom, Carmelo, e Zife, e Jutá,"
+    },
+    {
+      "numero": 56,
+      "texto": "E Jizreel, e Jocdeão, e Zanoa,"
+    },
+    {
+      "numero": 57,
+      "texto": "Caim, Gibeá, e Timna; dez cidades e as suas aldeias."
+    },
+    {
+      "numero": 58,
+      "texto": "Halul, Bete-Zur, e Gedor,"
+    },
+    {
+      "numero": 59,
+      "texto": "E Maarate, e Bete-Anote, e Eltecom; seis cidades e as suas aldeias."
+    },
+    {
+      "numero": 60,
+      "texto": "Quiriate-Baal (que é Quiriate-Jearim), e Rabá; duas cidades e as suas aldeias."
+    },
+    {
+      "numero": 61,
+      "texto": "No deserto: Bete-Arabá, Midim, e Secacá,"
+    },
+    {
+      "numero": 62,
+      "texto": "E Nibsã, e a Cidade do Sal, e En-Gedi; seis cidades e as suas aldeias."
+    },
+    {
+      "numero": 63,
+      "texto": "Não puderam, porém, os filhos de Judá expulsar os jebuseus que habitavam em Jerusalém; assim habitaram os jebuseus com os filhos de Judá em Jerusalém, até ao dia de hoje."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "livro": "Romanos",
+  "slug_livro": "romanos",
+  "testamento": "Novo Testamento",
+  "capitulo": 11,
+  "total_versiculos": 36,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Digo, pois: Porventura rejeitou Deus o seu povo? De modo nenhum; porque também eu sou israelita, da descendência de Abraão, da tribo de Benjamim."
+    },
+    {
+      "numero": 2,
+      "texto": "Deus não rejeitou o seu povo, que antes conheceu. Ou não sabeis o que a Escritura diz de Elias, como fala a Deus contra Israel, dizendo:"
+    },
+    {
+      "numero": 3,
+      "texto": "Senhor, mataram os teus profetas, e derribaram os teus altares; e só eu fiquei, e buscam a minha alma?"
+    },
+    {
+      "numero": 4,
+      "texto": "Mas que lhe diz a resposta divina? Reservei para mim sete mil homens, que não dobraram os joelhos a Baal."
+    },
+    {
+      "numero": 5,
+      "texto": "Assim, pois, também agora neste tempo ficou um remanescente, segundo a eleição da graça."
+    },
+    {
+      "numero": 6,
+      "texto": "Mas se é por graça, já não é pelas obras; de outra maneira, a graça já não é graça. Se, porém, é pelas obras, já não é mais graça; de outra maneira a obra já não é obra."
+    },
+    {
+      "numero": 7,
+      "texto": "Pois quê? O que Israel buscava não o alcançou; mas os eleitos o alcançaram, e os outros foram endurecidos."
+    },
+    {
+      "numero": 8,
+      "texto": "Como está escrito: Deus lhes deu espírito de profundo sono, olhos para não verem, e ouvidos para não ouvirem, até ao dia de hoje."
+    },
+    {
+      "numero": 9,
+      "texto": "E Davi diz: Torne-se-lhes a sua mesa em laço, e em armadilha, E em tropeço, por sua retribuição;"
+    },
+    {
+      "numero": 10,
+      "texto": "Escureçam-se-lhes os olhos para não verem, E encurvem-se-lhes continuamente as costas."
+    },
+    {
+      "numero": 11,
+      "texto": "Digo, pois: Porventura tropeçaram, para que caíssem? De modo nenhum, mas pela sua queda veio a salvação aos gentios, para os incitar à emulação."
+    },
+    {
+      "numero": 12,
+      "texto": "E se a sua queda é a riqueza do mundo, e a sua diminuição a riqueza dos gentios, quanto mais a sua plenitude!"
+    },
+    {
+      "numero": 13,
+      "texto": "Porque convosco falo, gentios, que, enquanto for apóstolo dos gentios, exalto o meu ministério;"
+    },
+    {
+      "numero": 14,
+      "texto": "Para ver se de alguma maneira posso incitar à emulação os da minha carne e salvar alguns deles."
+    },
+    {
+      "numero": 15,
+      "texto": "Porque, se a sua rejeição é a reconciliação do mundo, qual será a sua admissão, senão a vida dentre os mortos?"
+    },
+    {
+      "numero": 16,
+      "texto": "E, se as primícias são santas, também a massa o é; se a raiz é santa, também os ramos o são."
+    },
+    {
+      "numero": 17,
+      "texto": "E se alguns dos ramos foram quebrados, e tu, sendo zambujeiro, foste enxertado em lugar deles, e feito participante da raiz e da seiva da oliveira,"
+    },
+    {
+      "numero": 18,
+      "texto": "Não te glories contra os ramos; e, se contra eles te gloriares, não és tu que sustentas a raiz, mas a raiz a ti."
+    },
+    {
+      "numero": 19,
+      "texto": "Dirás, pois: Os ramos foram quebrados, para que eu fosse enxertado."
+    },
+    {
+      "numero": 20,
+      "texto": "Está bem; pela sua incredulidade foram quebrados, e tu estás em pé pela fé. Então não te ensoberbeças, mas teme."
+    },
+    {
+      "numero": 21,
+      "texto": "Porque, se Deus não poupou os ramos naturais, teme que não te poupe a ti também."
+    },
+    {
+      "numero": 22,
+      "texto": "Considera, pois, a bondade e a severidade de Deus: para com os que caíram, severidade; mas para contigo, benignidade, se permaneceres na sua benignidade; de outra maneira também tu serás cortado."
+    },
+    {
+      "numero": 23,
+      "texto": "E também eles, se não permanecerem na incredulidade, serão enxertados; porque poderoso é Deus para os tornar a enxertar."
+    },
+    {
+      "numero": 24,
+      "texto": "Porque, se tu foste cortado do natural zambujeiro e, contra a natureza, enxertado na boa oliveira, quanto mais esses, que são naturais, serão enxertados na sua própria oliveira!"
+    },
+    {
+      "numero": 25,
+      "texto": "Porque não quero, irmãos, que ignoreis este segredo (para que não presumais de vós mesmos): que o endurecimento veio em parte sobre Israel, até que a plenitude dos gentios haja entrado."
+    },
+    {
+      "numero": 26,
+      "texto": "E assim todo o Israel será salvo, como está escrito: De Sião virá o Libertador, E desviará de Jacó as impiedades."
+    },
+    {
+      "numero": 27,
+      "texto": "E esta será a minha aliança com eles, Quando eu tirar os seus pecados."
+    },
+    {
+      "numero": 28,
+      "texto": "Assim que, quanto ao evangelho, são inimigos por causa de vós; mas, quanto à eleição, amados por causa dos pais."
+    },
+    {
+      "numero": 29,
+      "texto": "Porque os dons e a vocação de Deus são sem arrependimento."
+    },
+    {
+      "numero": 30,
+      "texto": "Porque assim como vós também antigamente fostes desobedientes a Deus, mas agora alcançastes misericórdia pela desobediência deles,"
+    },
+    {
+      "numero": 31,
+      "texto": "Assim também estes agora foram desobedientes, para também alcançarem misericórdia pela misericórdia a vós demonstrada."
+    },
+    {
+      "numero": 32,
+      "texto": "Porque Deus encerrou a todos debaixo da desobediência, para com todos usar de misericórdia."
+    },
+    {
+      "numero": 33,
+      "texto": "Ó profundidade das riquezas, tanto da sabedoria, como da ciência de Deus! Quão insondáveis são os seus juízos, e quão inescrutáveis os seus caminhos!"
+    },
+    {
+      "numero": 34,
+      "texto": "Por que quem compreendeu a mente do Senhor? ou quem foi seu conselheiro?"
+    },
+    {
+      "numero": 35,
+      "texto": "Ou quem lhe deu primeiro a ele, para que lhe seja recompensado?"
+    },
+    {
+      "numero": 36,
+      "texto": "Porque dele e por ele, e para ele, são todas as coisas; glória, pois, a ele eternamente. Amém."
+    }
+  ]
+}

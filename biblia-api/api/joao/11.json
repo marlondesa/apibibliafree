@@ -1,0 +1,237 @@
+{
+  "livro": "João",
+  "slug_livro": "joao",
+  "testamento": "Novo Testamento",
+  "capitulo": 11,
+  "total_versiculos": 57,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Estava, porém, enfermo um certo Lázaro, de betânia, aldeia de Maria e de sua irmã Marta."
+    },
+    {
+      "numero": 2,
+      "texto": "E Maria era aquela que tinha ungido o Senhor com ungüento, e lhe tinha enxugado os pés com os seus cabelos, cujo irmão Lázaro estava enfermo."
+    },
+    {
+      "numero": 3,
+      "texto": "Mandaram-lhe, pois, suas irmãs dizer: Senhor, eis que está enfermo aquele que tu amas."
+    },
+    {
+      "numero": 4,
+      "texto": "E Jesus, ouvindo isto, disse: Esta enfermidade não é para morte, mas para glória de Deus, para que o Filho de Deus seja glorificado por ela."
+    },
+    {
+      "numero": 5,
+      "texto": "Ora, Jesus amava a Marta, e a sua irmã, e a Lázaro."
+    },
+    {
+      "numero": 6,
+      "texto": "Ouvindo, pois, que estava enfermo, ficou ainda dois dias no lugar onde estava."
+    },
+    {
+      "numero": 7,
+      "texto": "Depois disto, disse aos seus discípulos: Vamos outra vez para a Judéia."
+    },
+    {
+      "numero": 8,
+      "texto": "Disseram-lhe os discípulos: Rabi, ainda agora os judeus procuravam apedrejar-te, e tornas para lá?"
+    },
+    {
+      "numero": 9,
+      "texto": "Jesus respondeu: Não há doze horas no dia? Se alguém andar de dia, não tropeça, porque vê a luz deste mundo;"
+    },
+    {
+      "numero": 10,
+      "texto": "Mas, se andar de noite, tropeça, porque nele não há luz."
+    },
+    {
+      "numero": 11,
+      "texto": "Assim falou; e depois disse-lhes: Lázaro, o nosso amigo, dorme, mas vou despertá-lo do sono."
+    },
+    {
+      "numero": 12,
+      "texto": "Disseram, pois, os seus discípulos: Senhor, se dorme, estará salvo."
+    },
+    {
+      "numero": 13,
+      "texto": "Mas Jesus dizia isto da sua morte; eles, porém, cuidavam que falava do repouso do sono."
+    },
+    {
+      "numero": 14,
+      "texto": "Então Jesus disse-lhes claramente: Lázaro está morto;"
+    },
+    {
+      "numero": 15,
+      "texto": "E folgo, por amor de vós, de que eu lá não estivesse, para que acrediteis; mas vamos ter com ele."
+    },
+    {
+      "numero": 16,
+      "texto": "Disse, pois, Tomé, chamado Dídimo, aos condiscípulos: Vamos nós também, para morrermos com ele."
+    },
+    {
+      "numero": 17,
+      "texto": "Chegando, pois, Jesus, achou que já havia quatro dias que estava na sepultura."
+    },
+    {
+      "numero": 18,
+      "texto": "(Ora Betânia distava de Jerusalém quase quinze estádios. )"
+    },
+    {
+      "numero": 19,
+      "texto": "E muitos dos judeus tinham ido consolar a Marta e a Maria, acerca de seu irmão."
+    },
+    {
+      "numero": 20,
+      "texto": "Ouvindo, pois, Marta que Jesus vinha, saiu-lhe ao encontro; Maria, porém, ficou assentada em casa."
+    },
+    {
+      "numero": 21,
+      "texto": "Disse, pois, Marta a Jesus: Senhor, se tu estivesses aqui, meu irmão não teria morrido."
+    },
+    {
+      "numero": 22,
+      "texto": "Mas também agora sei que tudo quanto pedires a Deus, Deus to concederá."
+    },
+    {
+      "numero": 23,
+      "texto": "Disse-lhe Jesus: Teu irmão há de ressuscitar."
+    },
+    {
+      "numero": 24,
+      "texto": "Disse-lhe Marta: Eu sei que há de ressuscitar na ressurreição do último dia."
+    },
+    {
+      "numero": 25,
+      "texto": "Disse-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá;"
+    },
+    {
+      "numero": 26,
+      "texto": "E todo aquele que vive, e crê em mim, nunca morrerá. Crês tu isto?"
+    },
+    {
+      "numero": 27,
+      "texto": "Disse-lhe ela: Sim, Senhor, creio que tu és o Cristo, o Filho de Deus, que havia de vir ao mundo."
+    },
+    {
+      "numero": 28,
+      "texto": "E, dito isto, partiu, e chamou em segredo a Maria, sua irmã, dizendo: O Mestre está cá, e chama-te."
+    },
+    {
+      "numero": 29,
+      "texto": "Ela, ouvindo isto, levantou-se logo, e foi ter com ele."
+    },
+    {
+      "numero": 30,
+      "texto": "(Pois, Jesus ainda não tinha chegado à aldeia, mas estava no lugar onde Marta o encontrara.)"
+    },
+    {
+      "numero": 31,
+      "texto": "Vendo, pois, os judeus, que estavam com ela em casa e a consolavam, que Maria apressadamente se levantara e saíra, seguiram-na, dizendo: Vai ao sepulcro para chorar ali."
+    },
+    {
+      "numero": 32,
+      "texto": "Tendo, pois, Maria chegado aonde Jesus estava, e vendo-o, lançou-se aos seus pés, dizendo-lhe: Senhor, se tu estivesses aqui, meu irmão não teria morrido."
+    },
+    {
+      "numero": 33,
+      "texto": "Jesus pois, quando a viu chorar, e também chorando os judeus que com ela vinham, moveu-se muito em espírito, e perturbou-se."
+    },
+    {
+      "numero": 34,
+      "texto": "E disse: Onde o pusestes? Disseram-lhe: Senhor, vem, e vê."
+    },
+    {
+      "numero": 35,
+      "texto": "Jesus chorou."
+    },
+    {
+      "numero": 36,
+      "texto": "Disseram, pois, os judeus: Vede como o amava."
+    },
+    {
+      "numero": 37,
+      "texto": "E alguns deles disseram: Não podia ele, que abriu os olhos ao cego, fazer também com que este não morresse?"
+    },
+    {
+      "numero": 38,
+      "texto": "Jesus, pois, movendo-se outra vez muito em si mesmo, veio ao sepulcro; e era uma caverna, e tinha uma pedra posta sobre ela."
+    },
+    {
+      "numero": 39,
+      "texto": "Disse Jesus: Tirai a pedra. Marta, irmã do defunto, disse-lhe: Senhor, já cheira mal, porque é já de quatro dias."
+    },
+    {
+      "numero": 40,
+      "texto": "Disse-lhe Jesus: Não te hei dito que, se creres, verás a glória de Deus?"
+    },
+    {
+      "numero": 41,
+      "texto": "Tiraram, pois, a pedra de onde o defunto jazia. E Jesus, levantando os olhos para cima, disse: Pai, graças te dou, por me haveres ouvido."
+    },
+    {
+      "numero": 42,
+      "texto": "Eu bem sei que sempre me ouves, mas eu disse isto por causa da multidão que está em redor, para que creiam que tu me enviaste."
+    },
+    {
+      "numero": 43,
+      "texto": "E, tendo dito isto, clamou com grande voz: Lázaro, sai para fora."
+    },
+    {
+      "numero": 44,
+      "texto": "E o defunto saiu, tendo as mãos e os pés ligados com faixas, e o seu rosto envolto num lenço. Disse-lhes Jesus: Desligai-o, e deixai-o ir."
+    },
+    {
+      "numero": 45,
+      "texto": "Muitos, pois, dentre os judeus que tinham vindo a Maria, e que tinham visto o que Jesus fizera, creram nele."
+    },
+    {
+      "numero": 46,
+      "texto": "Mas alguns deles foram ter com os fariseus, e disseram-lhes o que Jesus tinha feito."
+    },
+    {
+      "numero": 47,
+      "texto": "Depois os principais dos sacerdotes e os fariseus formaram conselho, e diziam: Que faremos? porquanto este homem faz muitos sinais."
+    },
+    {
+      "numero": 48,
+      "texto": "Se o deixamos assim, todos crerão nele, e virão os romanos, e tirar-nos-ão o nosso lugar e a nação."
+    },
+    {
+      "numero": 49,
+      "texto": "E Caifás, um deles que era sumo sacerdote naquele ano, lhes disse: Vós nada sabeis,"
+    },
+    {
+      "numero": 50,
+      "texto": "Nem considerais que nos convém que um homem morra pelo povo, e que não pereça toda a nação."
+    },
+    {
+      "numero": 51,
+      "texto": "Ora ele não disse isto de si mesmo, mas, sendo o sumo sacerdote naquele ano, profetizou que Jesus devia morrer pela nação."
+    },
+    {
+      "numero": 52,
+      "texto": "E não somente pela nação, mas também para reunir em um corpo os filhos de Deus que andavam dispersos."
+    },
+    {
+      "numero": 53,
+      "texto": "Desde aquele dia, pois, consultavam-se para o matarem."
+    },
+    {
+      "numero": 54,
+      "texto": "Jesus, pois, já não andava manifestamente entre os judeus, mas retirou-se dali para a terra junto do deserto, para uma cidade chamada Efraim; e ali ficou com os seus discípulos."
+    },
+    {
+      "numero": 55,
+      "texto": "E estava próxima a páscoa dos judeus, e muitos daquela região subiram a Jerusalém antes da páscoa para se purificarem."
+    },
+    {
+      "numero": 56,
+      "texto": "Buscavam, pois, a Jesus, e diziam uns aos outros, estando no templo: Que vos parece? Não virá à festa?"
+    },
+    {
+      "numero": 57,
+      "texto": "Ora, os principais dos sacerdotes e os fariseus tinham dado ordem para que, se alguém soubesse onde ele estava, o denunciasse, para o prenderem."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "livro": "Efésios",
+  "slug_livro": "efesios",
+  "testamento": "Novo Testamento",
+  "capitulo": 2,
+  "total_versiculos": 22,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E vos vivificou, estando vós mortos em ofensas e pecados,"
+    },
+    {
+      "numero": 2,
+      "texto": "Em que noutro tempo andastes segundo o curso deste mundo, segundo o príncipe das potestades do ar, do espírito que agora opera nos filhos da desobediência;"
+    },
+    {
+      "numero": 3,
+      "texto": "Entre os quais todos nós também antes andávamos nos desejos da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos por natureza filhos da ira, como os outros também."
+    },
+    {
+      "numero": 4,
+      "texto": "Mas Deus, que é riquíssimo em misericórdia, pelo seu muito amor com que nos amou,"
+    },
+    {
+      "numero": 5,
+      "texto": "Estando nós ainda mortos em nossas ofensas, nos vivificou juntamente com Cristo (pela graça sois salvos),"
+    },
+    {
+      "numero": 6,
+      "texto": "E nos ressuscitou juntamente com ele e nos fez assentar nos lugares celestiais, em Cristo Jesus;"
+    },
+    {
+      "numero": 7,
+      "texto": "Para mostrar nos séculos vindouros as abundantes riquezas da sua graça pela sua benignidade para conosco em Cristo Jesus."
+    },
+    {
+      "numero": 8,
+      "texto": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus."
+    },
+    {
+      "numero": 9,
+      "texto": "Não vem das obras, para que ninguém se glorie;"
+    },
+    {
+      "numero": 10,
+      "texto": "Porque somos feitura sua, criados em Cristo Jesus para as boas obras, as quais Deus preparou para que andássemos nelas."
+    },
+    {
+      "numero": 11,
+      "texto": "Portanto, lembrai-vos de que vós noutro tempo éreis gentios na carne, e chamados incircuncisão pelos que na carne se chamam circuncisão feita pela mão dos homens;"
+    },
+    {
+      "numero": 12,
+      "texto": "Que naquele tempo estáveis sem Cristo, separados da comunidade de Israel, e estranhos às alianças da promessa, não tendo esperança, e sem Deus no mundo."
+    },
+    {
+      "numero": 13,
+      "texto": "Mas agora em Cristo Jesus, vós, que antes estáveis longe, já pelo sangue de Cristo chegastes perto."
+    },
+    {
+      "numero": 14,
+      "texto": "Porque ele é a nossa paz, o qual de ambos os povos fez um; e, derrubando a parede de separação que estava no meio,"
+    },
+    {
+      "numero": 15,
+      "texto": "Na sua carne desfez a inimizade, isto é, a lei dos mandamentos, que consistia em ordenanças, para criar em si mesmo dos dois um novo homem, fazendo a paz,"
+    },
+    {
+      "numero": 16,
+      "texto": "E pela cruz reconciliar ambos com Deus em um corpo, matando com ela as inimizades."
+    },
+    {
+      "numero": 17,
+      "texto": "E, vindo, ele evangelizou a paz, a vós que estáveis longe, e aos que estavam perto;"
+    },
+    {
+      "numero": 18,
+      "texto": "Porque por ele ambos temos acesso ao Pai em um mesmo Espírito."
+    },
+    {
+      "numero": 19,
+      "texto": "Assim que já não sois estrangeiros, nem forasteiros, mas concidadãos dos santos, e da família de Deus;"
+    },
+    {
+      "numero": 20,
+      "texto": "Edificados sobre o fundamento dos apóstolos e dos profetas, de que Jesus Cristo é a principal pedra da esquina;"
+    },
+    {
+      "numero": 21,
+      "texto": "No qual todo o edifício, bem ajustado, cresce para templo santo no Senhor."
+    },
+    {
+      "numero": 22,
+      "texto": "No qual também vós juntamente sois edificados para morada de Deus em Espírito."
+    }
+  ]
+}

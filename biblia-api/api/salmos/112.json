@@ -1,0 +1,49 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 112,
+  "total_versiculos": 10,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Louvai ao SENHOR. Bem-aventurado o homem que teme ao SENHOR, que em seus mandamentos tem grande prazer."
+    },
+    {
+      "numero": 2,
+      "texto": "A sua semente será poderosa na terra; a geração dos retos será abençoada."
+    },
+    {
+      "numero": 3,
+      "texto": "Prosperidade e riquezas haverá na sua casa, e a sua justiça permanece para sempre."
+    },
+    {
+      "numero": 4,
+      "texto": "Aos justos nasce luz nas trevas; ele é piedoso, misericordioso e justo."
+    },
+    {
+      "numero": 5,
+      "texto": "O homem bom se compadece, e empresta; disporá as suas coisas com juízo;"
+    },
+    {
+      "numero": 6,
+      "texto": "Porque nunca será abalado; o justo estará em memória eterna."
+    },
+    {
+      "numero": 7,
+      "texto": "Não temerá maus rumores; o seu coração está firme, confiando no Senhor."
+    },
+    {
+      "numero": 8,
+      "texto": "O seu coração está bem confirmado, ele não temerá, até que veja o seu desejo sobre os seus inimigos."
+    },
+    {
+      "numero": 9,
+      "texto": "Ele espalhou, deu aos necessitados; a sua justiça permanece para sempre, e a sua força se exaltará em glória."
+    },
+    {
+      "numero": 10,
+      "texto": "O ímpio o verá, e se entristecerá; rangerá os dentes, e se consumirá; o desejo dos ímpios perecerá."
+    }
+  ]
+}

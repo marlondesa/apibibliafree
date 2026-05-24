@@ -1,0 +1,73 @@
+{
+  "livro": "jó",
+  "slug_livro": "jó",
+  "testamento": "Antigo Testamento",
+  "capitulo": 35,
+  "total_versiculos": 16,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Respondeu mais Eliú, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Tens por direito dizeres: Maior é a minha justiça do que a de Deus?"
+    },
+    {
+      "numero": 3,
+      "texto": "Porque disseste: De que me serviria? Que proveito tiraria mais do que do meu pecado?"
+    },
+    {
+      "numero": 4,
+      "texto": "Eu te darei resposta, a ti e aos teus amigos contigo."
+    },
+    {
+      "numero": 5,
+      "texto": "Atenta para os céus, e vê; e contempla as mais altas nuvens, que são mais altas do que tu."
+    },
+    {
+      "numero": 6,
+      "texto": "Se pecares, que efetuarás contra ele? Se as tuas transgressões se multiplicarem, que lhe farás?"
+    },
+    {
+      "numero": 7,
+      "texto": "Se fores justo, que lhe darás, ou que receberá ele da tua mão?"
+    },
+    {
+      "numero": 8,
+      "texto": "A tua impiedade faria mal a outro tal como tu; e a tua justiça aproveitaria ao filho do homem."
+    },
+    {
+      "numero": 9,
+      "texto": "Por causa das muitas opressões os homens clamam por causa do braço dos grandes."
+    },
+    {
+      "numero": 10,
+      "texto": "Porém ninguém diz: Onde está Deus que me criou, que dá salmos durante a noite;"
+    },
+    {
+      "numero": 11,
+      "texto": "Que nos ensina mais do que aos animais da terra e nos faz mais sábios do que as aves dos céus?"
+    },
+    {
+      "numero": 12,
+      "texto": "Clamam, porém ele não responde, por causa da arrogância dos maus."
+    },
+    {
+      "numero": 13,
+      "texto": "Certo é que Deus não ouvirá a vaidade, nem atentará para ela o Todo-Poderoso."
+    },
+    {
+      "numero": 14,
+      "texto": "E quanto ao que disseste, que o não verás, juízo há perante ele; por isso espera nele."
+    },
+    {
+      "numero": 15,
+      "texto": "Mas agora, porque a sua ira ainda não se exerce, nem grandemente considera a arrogância,"
+    },
+    {
+      "numero": 16,
+      "texto": "Logo Jó em vão abre a sua boca, e sem ciência multiplica palavras."
+    }
+  ]
+}

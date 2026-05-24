@@ -1,0 +1,65 @@
+{
+  "livro": "Eclesiastes",
+  "slug_livro": "eclesiastes",
+  "testamento": "Antigo Testamento",
+  "capitulo": 12,
+  "total_versiculos": 14,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Lembra-te também do teu Criador nos dias da tua mocidade, antes que venham os maus dias, e cheguem os anos dos quais venhas a dizer: Não tenho neles contentamento;"
+    },
+    {
+      "numero": 2,
+      "texto": "Antes que se escureçam o sol, e a luz, e a lua, e as estrelas, e tornem a vir as nuvens depois da chuva;"
+    },
+    {
+      "numero": 3,
+      "texto": "No dia em que tremerem os guardas da casa, e se encurvarem os homens fortes, e cessarem os moedores, por já serem poucos, e se escurecerem os que olham pelas janelas;"
+    },
+    {
+      "numero": 4,
+      "texto": "E as portas da rua se fecharem por causa do baixo ruído da moedura, e se levantar à voz das aves, e todas as filhas da música se abaterem."
+    },
+    {
+      "numero": 5,
+      "texto": "Como também quando temerem o que é alto, e houver espantos no caminho, e florescer a amendoeira, e o gafanhoto for um peso, e perecer o apetite; porque o homem se vai à sua casa eterna, e os pranteadore andarão rodeando pela praça;"
+    },
+    {
+      "numero": 6,
+      "texto": "Antes que se rompa o cordão de prata, e se quebre o copo de ouro, e se despedace o cântaro junto à fonte, e se quebre a roda junto ao poço,"
+    },
+    {
+      "numero": 7,
+      "texto": "E o pó volte à terra, como o era, e o espírito volte a Deus, que o deu."
+    },
+    {
+      "numero": 8,
+      "texto": "Vaidade de vaidades, diz o pregador, tudo é vaidade."
+    },
+    {
+      "numero": 9,
+      "texto": "E, quanto mais sábio foi o pregador, tanto mais ensinou ao povo sabedoria; e atentando, e esquadrinhando, compôs muitos provérbios."
+    },
+    {
+      "numero": 10,
+      "texto": "Procurou o pregador achar palavras agradáveis; e escreveu-as com retidão, palavras de verdade."
+    },
+    {
+      "numero": 11,
+      "texto": "As palavras dos sábios são como aguilhões, e como pregos, bem fixados pelos mestres das assembléias, que nos foram dadas pelo único Pastor."
+    },
+    {
+      "numero": 12,
+      "texto": "E, demais disto, filho meu, atenta: não há limite para fazer livros, e o muito estudar é enfado da carne."
+    },
+    {
+      "numero": 13,
+      "texto": "De tudo o que se tem ouvido, o fim é: Teme a Deus, e guarda os seus mandamentos; porque isto é o dever de todo o homem."
+    },
+    {
+      "numero": 14,
+      "texto": "Porque Deus há de trazer a juízo toda a obra, e até tudo o que está encoberto, quer seja bom, quer seja mau."
+    }
+  ]
+}

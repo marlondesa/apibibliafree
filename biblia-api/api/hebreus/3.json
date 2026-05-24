@@ -1,0 +1,85 @@
+{
+  "livro": "Hebreus",
+  "slug_livro": "hebreus",
+  "testamento": "Novo Testamento",
+  "capitulo": 3,
+  "total_versiculos": 19,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Por isso, irmãos santos, participantes da vocação celestial, considerai a Jesus Cristo, apóstolo e sumo sacerdote da nossa confissão,"
+    },
+    {
+      "numero": 2,
+      "texto": "Sendo fiel ao que o constituiu, como também o foi Moisés em toda a sua casa."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque ele é tido por digno de tanto maior glória do que Moisés, quanto maior honra do que a casa tem aquele que a edificou."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque toda a casa é edificada por alguém, mas o que edificou todas as coisas é Deus."
+    },
+    {
+      "numero": 5,
+      "texto": "E, na verdade, Moisés foi fiel em toda a sua casa, como servo, para testemunho das coisas que se haviam de anunciar;"
+    },
+    {
+      "numero": 6,
+      "texto": "Mas Cristo, como Filho, sobre a sua própria casa; a qual casa somos nós, se tão somente conservarmos firme a confiança e a glória da esperança até ao fim."
+    },
+    {
+      "numero": 7,
+      "texto": "Portanto, como diz o Espírito Santo: Se ouvirdes hoje a sua voz,"
+    },
+    {
+      "numero": 8,
+      "texto": "Não endureçais os vossos corações,Como na provocação, no dia da tentação no deserto."
+    },
+    {
+      "numero": 9,
+      "texto": "Onde vossos pais me tentaram, me provaram,E viram por quarenta anos as minhas obras."
+    },
+    {
+      "numero": 10,
+      "texto": "Por isso me indignei contra esta geração, E disse: Estes sempre erram em seu coração, E não conheceram os meus caminhos."
+    },
+    {
+      "numero": 11,
+      "texto": "Assim jurei na minha ira Que não entrarão no meu repouso."
+    },
+    {
+      "numero": 12,
+      "texto": "Vede, irmãos, que nunca haja em qualquer de vós um coração mau e infiel, para se apartar do Deus vivo."
+    },
+    {
+      "numero": 13,
+      "texto": "Antes, exortai-vos uns aos outros todos os dias, durante o tempo que se chama Hoje, para que nenhum de vós se endureça pelo engano do pecado;"
+    },
+    {
+      "numero": 14,
+      "texto": "Porque nos tornamos participantes de Cristo, se retivermos firmemente o princípio da nossa confiança até ao fim."
+    },
+    {
+      "numero": 15,
+      "texto": "Enquanto se diz: Hoje, se ouvirdes a sua voz, Não endureçais os vossos corações, como na provocação."
+    },
+    {
+      "numero": 16,
+      "texto": "Porque, havendo-a alguns ouvido, o provocaram; mas não todos os que saíram do Egito por meio de Moisés."
+    },
+    {
+      "numero": 17,
+      "texto": "Mas com quem se indignou por quarenta anos? Não foi porventura com os que pecaram, cujos corpos caíram no deserto?"
+    },
+    {
+      "numero": 18,
+      "texto": "E a quem jurou que não entrariam no seu repouso, senão aos que foram desobedientes?"
+    },
+    {
+      "numero": 19,
+      "texto": "E vemos que não puderam entrar por causa da sua incredulidade."
+    }
+  ]
+}

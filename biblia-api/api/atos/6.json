@@ -1,0 +1,69 @@
+{
+  "livro": "atos",
+  "slug_livro": "atos",
+  "testamento": "Novo Testamento",
+  "capitulo": 6,
+  "total_versiculos": 15,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ora, naqueles dias, crescendo o número dos discípulos, houve uma murmuração dos gregos contra os hebreus, porque as suas viúvas eram desprezadas no ministério cotidiano."
+    },
+    {
+      "numero": 2,
+      "texto": "E os doze, convocando a multidão dos discípulos, disseram: Não é razoável que nós deixemos a palavra de Deus e sirvamos às mesas."
+    },
+    {
+      "numero": 3,
+      "texto": "Escolhei, pois, irmãos, dentre vós, sete homens de boa reputação, cheios do Espírito Santo e de sabedoria, aos quais constituamos sobre este importante negócio."
+    },
+    {
+      "numero": 4,
+      "texto": "Mas nós perseveraremos na oração e no ministério da palavra."
+    },
+    {
+      "numero": 5,
+      "texto": "E este parecer contentou a toda a multidão, e elegeram Estêvão, homem cheio de fé e do Espírito Santo, e Filipe, e Prócoro, e Nicanor, e Timão, e Parmenas e Nicolau, prosélito de Antioquia;"
+    },
+    {
+      "numero": 6,
+      "texto": "E os apresentaram ante os apóstolos, e estes, orando, lhes impuseram as mãos."
+    },
+    {
+      "numero": 7,
+      "texto": "E crescia a palavra de Deus, e em Jerusalém se multiplicava muito o número dos discípulos, e grande parte dos sacerdotes obedecia à fé."
+    },
+    {
+      "numero": 8,
+      "texto": "E Estêvão, cheio de fé e de poder, fazia prodígios e grandes sinais entre o povo."
+    },
+    {
+      "numero": 9,
+      "texto": "E levantaram-se alguns que eram da sinagoga chamada dos libertinos, e dos cireneus e dos alexandrinos, e dos que eram da Cilícia e da Asia, e disputavam com Estêvão."
+    },
+    {
+      "numero": 10,
+      "texto": "E não podiam resistir à sabedoria, e ao Espírito com que falava."
+    },
+    {
+      "numero": 11,
+      "texto": "Então subornaram uns homens, para que dissessem: Ouvimos-lhe proferir palavras blasfemas contra Moisés e contra Deus."
+    },
+    {
+      "numero": 12,
+      "texto": "E excitaram o povo, os anciãos e os escribas; e, investindo contra ele, o arrebataram e o levaram ao conselho."
+    },
+    {
+      "numero": 13,
+      "texto": "E apresentaram falsas testemunhas, que diziam: Este homem não cessa de proferir palavras blasfemas contra este santo lugar e a lei;"
+    },
+    {
+      "numero": 14,
+      "texto": "Porque nós lhe ouvimos dizer que esse Jesus Nazareno há de destruir este lugar e mudar os costumes que Moisés nos deu."
+    },
+    {
+      "numero": 15,
+      "texto": "Então todos os que estavam assentados no conselho, fixando os olhos nele, viram o seu rosto como o rosto de um anjo."
+    }
+  ]
+}

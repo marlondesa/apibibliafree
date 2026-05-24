@@ -1,0 +1,45 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 52,
+  "total_versiculos": 9,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Por que te glorias na malícia, ó homem poderoso? Pois a bondade de Deus permanece continuamente."
+    },
+    {
+      "numero": 2,
+      "texto": "A tua língua intenta o mal, como uma navalha amolada, traçando enganos."
+    },
+    {
+      "numero": 3,
+      "texto": "Tu amas mais o mal do que o bem, e a mentira mais do que o falar a retidão. (Selá.)"
+    },
+    {
+      "numero": 4,
+      "texto": "Amas todas as palavras devoradoras, ó língua fraudulenta."
+    },
+    {
+      "numero": 5,
+      "texto": "Também Deus te destruirá para sempre; arrebatar-te-á e arrancar-te-á da tua habitação, e desarraigar-te-á da terra dos viventes. (Selá.)"
+    },
+    {
+      "numero": 6,
+      "texto": "E os justos o verão, e temerão: e se rirão dele, dizendo:"
+    },
+    {
+      "numero": 7,
+      "texto": "Eis aqui o homem que não pôs em Deus a sua fortaleza, antes confiou na abundância das suas riquezas, e se fortaleceu na sua maldade."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas eu sou como a oliveira verde na casa de Deus; confio na misericórdia de Deus para sempre, eternamente."
+    },
+    {
+      "numero": 9,
+      "texto": "Para sempre te louvarei, porque tu o fizeste, e esperarei no teu nome, porque é bom diante de teus santos."
+    }
+  ]
+}

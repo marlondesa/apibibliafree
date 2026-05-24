@@ -1,0 +1,137 @@
+{
+  "livro": "Ezequiel",
+  "slug_livro": "ezequiel",
+  "testamento": "Antigo Testamento",
+  "capitulo": 32,
+  "total_versiculos": 32,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E sucedeu que, no ano duodécimo, no duodécimo mês, ao primeiro do mês, veio a mim a palavra do SENHOR, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Filho do homem, levanta uma lamentação sobre Faraó, rei do Egito, e dize-lhe: Eras semelhante a um filho do leão entre as nações, mas tu és como uma baleia nos mares, e rompias os teus rios, e turbavas as águas com os teus pés, e pisavas os teus rios."
+    },
+    {
+      "numero": 3,
+      "texto": "Assim diz o Senhor DEUS: Portanto, estenderei sobre ti a minha rede com reunião de muitos povos, e te farão subir na minha rede."
+    },
+    {
+      "numero": 4,
+      "texto": "Então te deixarei em terra; sobre a face do campo te lançarei, e farei posar sobre ti todas as aves do céu, e fartarei de ti os animais de toda a terra."
+    },
+    {
+      "numero": 5,
+      "texto": "E porei as tuas carnes sobre os montes, e encherei os vales da tua altura."
+    },
+    {
+      "numero": 6,
+      "texto": "E regarei com o teu sangue a terra onde nadas, até aos montes; e os rios se encherão de ti."
+    },
+    {
+      "numero": 7,
+      "texto": "E, apagando-te eu, cobrirei os céus, e enegrecerei as suas estrelas; ao sol encobrirei com uma nuvem, e a lua não fará resplandecer a sua luz."
+    },
+    {
+      "numero": 8,
+      "texto": "Todas as brilhantes luzes do céu enegrecerei sobre ti, e trarei trevas sobre a tua terra, diz o Senhor DEUS."
+    },
+    {
+      "numero": 9,
+      "texto": "E afligirei os corações de muitos povos, quando eu levar a tua destruição entre as nações, às terras que não conheceste."
+    },
+    {
+      "numero": 10,
+      "texto": "E farei com que muitos povos fiquem pasmados de ti, e os seus reis tremam sobremaneira, quando eu brandir a minha espada ante os seus rostos; e estremecerão a cada momento, cada um pela sua vida, no dia da tua queda."
+    },
+    {
+      "numero": 11,
+      "texto": "Porque assim diz o Senhor DEUS: A espada do rei de babilônia virá sobre ti."
+    },
+    {
+      "numero": 12,
+      "texto": "Farei cair a tua multidão pelas espadas dos poderosos, que são todos os mais terríveis das nações; e destruirão a soberba do Egito, e toda a sua multidão será destruída."
+    },
+    {
+      "numero": 13,
+      "texto": "E exterminarei todos os seus animais sobre as muitas águas; nem as turbará mais pé de homem, nem as turbarão unhas de animais."
+    },
+    {
+      "numero": 14,
+      "texto": "Então farei assentar as suas águas, e farei correr os seus rios como o azeite, diz o Senhor DEUS."
+    },
+    {
+      "numero": 15,
+      "texto": "Quando eu tornar a terra do Egito em desolação, e ela for despojada da sua plenitude, e quando ferir a todos os que habitam nela, então saberão que eu sou o Senhor."
+    },
+    {
+      "numero": 16,
+      "texto": "Esta é a lamentação que se fará; que as filhas das nações farão; sobre o Egito e sobre toda a sua multidão, diz o Senhor DEUS."
+    },
+    {
+      "numero": 17,
+      "texto": "E sucedeu que, no ano duodécimo, aos quinze do mês, veio a mim a palavra do Senhor, dizendo:"
+    },
+    {
+      "numero": 18,
+      "texto": "Filho do homem, pranteia sobre a multidão do Egito, e faze-a descer, a ela e às filhas das nações magníficas, às partes mais baixas da terra, juntamente com os que descem à cova."
+    },
+    {
+      "numero": 19,
+      "texto": "A quem sobrepujas tu em formosura? Desce, e deita-te com os incircuncisos."
+    },
+    {
+      "numero": 20,
+      "texto": "No meio daqueles que foram mortos à espada cairão; à espada ela está entregue; arrastai-a e a toda a sua multidão."
+    },
+    {
+      "numero": 21,
+      "texto": "Os mais poderosos dos fortes lhe falarão desde o meio do inferno, com os que a socorrem; desceram, jazeram com os incircuncisos mortos à espada."
+    },
+    {
+      "numero": 22,
+      "texto": "Ali está Assur com toda a sua multidão; em redor dele estão os seus sepulcros; todos eles mortos, abatidos à espada."
+    },
+    {
+      "numero": 23,
+      "texto": "Os seus sepulcros foram postos nas extremidades da cova, e a sua multidão está em redor do seu sepulcro; todos eles mortos, abatidos à espada; os que tinham causado espanto na terra dos viventes."
+    },
+    {
+      "numero": 24,
+      "texto": "Ali está Elão com toda a sua multidão em redor do seu sepulcro; todos eles mortos, abatidos à espada; desceram incircuncisos às partes mais baixas da terra, causaram terror na terra dos viventes e levaram a sua vergonha com os que desceram à cova."
+    },
+    {
+      "numero": 25,
+      "texto": "No meio dos mortos lhe puseram uma cama, entre toda a sua multidão; ao redor dele estão os seus sepulcros; todos eles são incircuncisos, mortos à espada; porque causaram terror na terra dos viventes, e levaram a sua vergonha com os que desceram à cova; foi posto no meio dos mortos."
+    },
+    {
+      "numero": 26,
+      "texto": "Ali estão Meseque, Tubal e toda a sua multidão; ao redor deles estão os seus sepulcros; todos eles são incircuncisos, e mortos à espada, porquanto causaram terror na terra dos viventes."
+    },
+    {
+      "numero": 27,
+      "texto": "Porém não jazerão com os poderosos que caíram dos incircuncisos, os quais desceram ao inferno com as suas armas de guerra e puseram as suas espadas debaixo das suas cabeças; e a sua iniqüidade está sobre os seus ossos, porquanto eram o terror dos fortes na terra dos viventes."
+    },
+    {
+      "numero": 28,
+      "texto": "Também tu serás quebrado no meio dos incircuncisos, e jazerás com os que foram mortos à espada."
+    },
+    {
+      "numero": 29,
+      "texto": "Ali está Edom, os seus reis e todos os seus príncipes, que com o seu poder foram postos com os que foram mortos à espada; estes jazem com os incircuncisos e com os que desceram à cova."
+    },
+    {
+      "numero": 30,
+      "texto": "Ali estão os príncipes do norte, todos eles, e todos os sidônios, que desceram com os mortos, envergonhados com o terror causado pelo seu poder; e jazem incircuncisos com os que foram mortos à espada, e levam a sua vergonha com os que desceram à cova."
+    },
+    {
+      "numero": 31,
+      "texto": "Faraó os verá, e se consolará com toda a sua multidão; sim, o próprio Faraó, e todo o seu exército, mortos à espada, diz o Senhor DEUS."
+    },
+    {
+      "numero": 32,
+      "texto": "Porque também eu pus o meu espanto na terra dos viventes; por isso jazerá no meio dos incircuncisos, com os mortos à espada, Faraó e toda a sua multidão, diz o Senhor DEUS."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "livro": "Marcos",
+  "slug_livro": "marcos",
+  "testamento": "Novo Testamento",
+  "capitulo": 3,
+  "total_versiculos": 35,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E outra vez entrou na sinagoga, e estava ali um homem que tinha uma das mãos mirrada."
+    },
+    {
+      "numero": 2,
+      "texto": "E estavam observando-o securaria no sábado, para o acusarem."
+    },
+    {
+      "numero": 3,
+      "texto": "E disse ao homem que tinha a mão mirrada: Levanta-te e vem para o meio."
+    },
+    {
+      "numero": 4,
+      "texto": "E perguntou-lhes: É lícito no sábado fazer bem, ou fazer mal? salvar a vida, ou matar? E eles calaram-se."
+    },
+    {
+      "numero": 5,
+      "texto": "E, olhando para eles em redor com indignação, condoendo-se da dureza do seu coração, disse ao homem: Estende a tua mão. E ele a estendeu, e foi-lhe restituída a sua mão, sã como a outra."
+    },
+    {
+      "numero": 6,
+      "texto": "E, tendo saído os fariseus, tomaram logo conselho com os herodianos contra ele, procurando ver como o matariam."
+    },
+    {
+      "numero": 7,
+      "texto": "E retirou-se Jesus com os seus discípulos para o mar, e seguia-o uma grande multidão da Galiléia e da Judéia,"
+    },
+    {
+      "numero": 8,
+      "texto": "E de Jerusalém, e da Iduméia, e de além do Jordão, e de perto de Tiro e de Sidom; uma grande multidão que, ouvindo quão grandes coisas fazia, vinha ter com ele."
+    },
+    {
+      "numero": 9,
+      "texto": "E ele disse aos seus discípulos que lhe tivessem sempre pronto um barquinho junto dele, por causa da multidão, para que o não oprimisse,"
+    },
+    {
+      "numero": 10,
+      "texto": "Porque tinha curado a muitos, de tal maneira que todos quantos tinham algum mal se arrojavam sobre ele, para lhe tocarem."
+    },
+    {
+      "numero": 11,
+      "texto": "E os espíritos imundos vendo-o, prostravam-se diante dele, e clamavam, dizendo: Tu és o Filho de Deus."
+    },
+    {
+      "numero": 12,
+      "texto": "E ele os ameaçava muito, para que não o manifestassem."
+    },
+    {
+      "numero": 13,
+      "texto": "E subiu ao monte, e chamou para si os que ele quis; e vieram a ele."
+    },
+    {
+      "numero": 14,
+      "texto": "E nomeou doze para que estivessem com ele e os mandasse a pregar,"
+    },
+    {
+      "numero": 15,
+      "texto": "E para que tivessem o poderde curar as enfermidades e expulsar os demônios:"
+    },
+    {
+      "numero": 16,
+      "texto": "A Simão, a quem pôs o nome de Pedro,"
+    },
+    {
+      "numero": 17,
+      "texto": "E a Tiago, filho de Zebedeu, e a João, irmão de Tiago, aos quais pôs o nome de Boanerges, que significa: Filhos do trovão;"
+    },
+    {
+      "numero": 18,
+      "texto": "E a André, e a Filipe, e a Bartolomeu, e a Mateus, e a Tomé, e a Tiago, filho de Alfeu, e a Tadeu, e a Simão, o Cananita,"
+    },
+    {
+      "numero": 19,
+      "texto": "E a Judas Iscariotes, o que o entregou."
+    },
+    {
+      "numero": 20,
+      "texto": "E foram para uma casa. E afluiu outra vez a multidão, de tal maneira que nem sequer podiam comer pão."
+    },
+    {
+      "numero": 21,
+      "texto": "E, quando os seus ouviram isto, saíram para o prender; porque diziam: Está fora de si."
+    },
+    {
+      "numero": 22,
+      "texto": "E os escribas, que tinham descido de Jerusalém, diziam: Tem Belzebu, e pelo príncipe dos demônios expulsa os demônios."
+    },
+    {
+      "numero": 23,
+      "texto": "E, chamando-os a si, disse-lhes por parábolas: Como pode Satanás expulsar Satanás?"
+    },
+    {
+      "numero": 24,
+      "texto": "E, se um reino se dividir contra si mesmo, tal reino não pode subsistir;"
+    },
+    {
+      "numero": 25,
+      "texto": "E, se uma casa se dividir contra si mesma, tal casa não pode subsistir."
+    },
+    {
+      "numero": 26,
+      "texto": "E, se Satanás se levantar contra si mesmo, e for dividido, não pode subsistir; antes tem fim."
+    },
+    {
+      "numero": 27,
+      "texto": "Ninguém pode roubar os bens do valente, entrando-lhe em sua casa, se primeiro não maniatar o valente; e então roubará a sua casa."
+    },
+    {
+      "numero": 28,
+      "texto": "Na verdade vos digo que todos os pecados serão perdoados aos filhos dos homens, e toda a sorte de blasfêmias, com que blasfemarem;"
+    },
+    {
+      "numero": 29,
+      "texto": "Qualquer, porém, que blasfemar contra o Espírito Santo, nunca obterá perdão, mas será réu do eterno juízo"
+    },
+    {
+      "numero": 30,
+      "texto": "(Porque diziam: Tem espírito imundo)."
+    },
+    {
+      "numero": 31,
+      "texto": "Chegaram, então, seus irmãos e sua mãe; e, estando fora, mandaram-no chamar."
+    },
+    {
+      "numero": 32,
+      "texto": "E a multidão estava assentada ao redor dele, e disseram-lhe: Eis que tua mãe e teus irmãos te procuram, e estão lá fora."
+    },
+    {
+      "numero": 33,
+      "texto": "E ele lhes respondeu, dizendo: Quem é minha mãe e meus irmãos?"
+    },
+    {
+      "numero": 34,
+      "texto": "E, olhando em redor para os que estavam assentados junto dele, disse: Eis aqui minha mãe e meus irmãos."
+    },
+    {
+      "numero": 35,
+      "texto": "Porquanto, qualquer que fizer a vontade de Deus, esse é meu irmão, e minha irmã, e minha mãe."
+    }
+  ]
+}

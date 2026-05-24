@@ -1,0 +1,157 @@
+{
+  "livro": "Levítico",
+  "slug_livro": "levitico",
+  "testamento": "Antigo Testamento",
+  "capitulo": 19,
+  "total_versiculos": 37,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Falou mais o SENHOR a Moisés, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Fala a toda a congregação dos filhos de Israel, e dize-lhes: Santos sereis, porque eu, o Senhor vosso Deus, sou santo."
+    },
+    {
+      "numero": 3,
+      "texto": "Cada um temerá a sua mãe e a seu pai, e guardará os meus sábados. Eu sou o Senhor vosso Deus."
+    },
+    {
+      "numero": 4,
+      "texto": "Não vos virareis para os ídolos nem vos fareis deuses de fundição. Eu sou o Senhor vosso Deus."
+    },
+    {
+      "numero": 5,
+      "texto": "E, quando oferecerdes sacrifício pacífico ao Senhor, da vossa própria vontade o oferecereis."
+    },
+    {
+      "numero": 6,
+      "texto": "No dia em que o sacrificardes, e no dia seguinte, se comerá; mas o que sobejar ao terceiro dia, será queimado com fogo."
+    },
+    {
+      "numero": 7,
+      "texto": "E se alguma coisa dele for comida ao terceiro dia, coisa abominável é; não será aceita."
+    },
+    {
+      "numero": 8,
+      "texto": "E qualquer que o comer levará a sua iniqüidade, porquanto profanou a santidade do Senhor; por isso tal alma será extirpada do seu povo."
+    },
+    {
+      "numero": 9,
+      "texto": "Quando também fizerdes a colheita da vossa terra, o canto do teu campo não segarás totalmente, nem as espigas caídas colherás da tua sega."
+    },
+    {
+      "numero": 10,
+      "texto": "Semelhantemente não rabiscarás a tua vinha, nem colherás os bagos caídos da tua vinha; deixá-los-ás ao pobre e ao estrangeiro. Eu sou o Senhor vosso Deus."
+    },
+    {
+      "numero": 11,
+      "texto": "Não furtareis, nem mentireis, nem usareis de falsidade cada um com o seu próximo;"
+    },
+    {
+      "numero": 12,
+      "texto": "Nem jurareis falso pelo meu nome, pois profanarás o nome do teu Deus. Eu sou o Senhor."
+    },
+    {
+      "numero": 13,
+      "texto": "Não oprimirás o teu próximo, nem o roubarás; a paga do diarista não ficará contigo até pela manhã."
+    },
+    {
+      "numero": 14,
+      "texto": "Não amaldiçoarás ao surdo, nem porás tropeço diante do cego; mas temerás o teu Deus. Eu sou o Senhor."
+    },
+    {
+      "numero": 15,
+      "texto": "Não farás injustiça no juízo; não respeitarás o pobre, nem honrarás o poderoso; com justiça julgarás o teu próximo."
+    },
+    {
+      "numero": 16,
+      "texto": "Não andarás como mexeriqueiro entre o teu povo; não te porás contra o sangue do teu próximo. Eu sou o Senhor."
+    },
+    {
+      "numero": 17,
+      "texto": "Não odiarás a teu irmão no teu coração; não deixarás de repreender o teu próximo, e por causa dele não sofrerás pecado."
+    },
+    {
+      "numero": 18,
+      "texto": "Não te vingarás nem guardarás ira contra os filhos do teu povo; mas amarás o teu próximo como a ti mesmo. Eu sou o Senhor."
+    },
+    {
+      "numero": 19,
+      "texto": "Guardarás os meus estatutos; não permitirás que se ajuntem misturadamente os teus animais de diferentes espécies; no teu campo não semearás sementes diversas, e não vestirás roupa de diversos estofos misturados."
+    },
+    {
+      "numero": 20,
+      "texto": "E, quando um homem se deitar com uma mulher que for serva desposada com outro homem, e não for resgatada nem se lhe houver dado liberdade, então serão açoitados; não morrerão, pois ela não foi libertada."
+    },
+    {
+      "numero": 21,
+      "texto": "E, por expiação da sua culpa, trará ao Senhor, à porta da tenda da congregação, um carneiro da expiação,"
+    },
+    {
+      "numero": 22,
+      "texto": "E, com o carneiro da expiação da culpa, o sacerdote fará propiciação por ele perante o Senhor, pelo pecado que cometeu; e este lhe será perdoado."
+    },
+    {
+      "numero": 23,
+      "texto": "E, quando tiverdes entrado na terra, e plantardes toda a árvore de comer, ser-vos-á incircunciso o seu fruto; três anos vos será incircunciso; dele não se comerá."
+    },
+    {
+      "numero": 24,
+      "texto": "Porém no quarto ano todo o seu fruto será santo para dar louvores ao Senhor."
+    },
+    {
+      "numero": 25,
+      "texto": "E no quinto ano comereis o seu fruto, para que vos faça aumentar a sua produção. Eu sou o Senhor vosso Deus."
+    },
+    {
+      "numero": 26,
+      "texto": "Não comereis coisa alguma com o sangue; não agourareis nem adivinhareis."
+    },
+    {
+      "numero": 27,
+      "texto": "Não cortareis o cabelo, arredondando os cantos da vossa cabeça, nem danificareis as extremidades da tua barba."
+    },
+    {
+      "numero": 28,
+      "texto": "Pelos mortos não dareis golpes na vossa carne; nem fareis marca alguma sobre vós. Eu sou o Senhor."
+    },
+    {
+      "numero": 29,
+      "texto": "Não contaminarás a tua filha, fazendo-a prostituir-se; para que a terra não se prostitua, nem se encha de maldade."
+    },
+    {
+      "numero": 30,
+      "texto": "Guardareis os meus sábados, e o meu santuário reverenciareis. Eu sou o Senhor."
+    },
+    {
+      "numero": 31,
+      "texto": "Não vos virareis para os adivinhadores e encantadores; não os busqueis, contaminando-vos com eles. Eu sou o Senhor vosso Deus."
+    },
+    {
+      "numero": 32,
+      "texto": "Diante das cãs te levantarás, e honrarás a face do ancião; e temerás o teu Deus. Eu sou o Senhor."
+    },
+    {
+      "numero": 33,
+      "texto": "E quando o estrangeiro peregrinar convosco na vossa terra, não o oprimireis."
+    },
+    {
+      "numero": 34,
+      "texto": "Como um natural entre vós será o estrangeiro que peregrina convosco; amá-lo-ás como a ti mesmo, pois estrangeiros fostes na terra do Egito. Eu sou o Senhor vosso Deus."
+    },
+    {
+      "numero": 35,
+      "texto": "Não cometereis injustiça no juízo, nem na vara, nem no peso, nem na medida."
+    },
+    {
+      "numero": 36,
+      "texto": "Balanças justas, pesos justos, efa justo, e justo him tereis. Eu sou o Senhor vosso Deus, que vos tirei da terra do Egito."
+    },
+    {
+      "numero": 37,
+      "texto": "Por isso guardareis todos os meus estatutos, e todos os meus juízos, e os cumprireis. Eu sou o Senhor."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "livro": "1 Timóteo",
+  "slug_livro": "1-timoteo",
+  "testamento": "Novo Testamento",
+  "capitulo": 2,
+  "total_versiculos": 15,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Admoesto-te, pois, antes de tudo, que se façam deprecações, orações, intercessões, e ações de graças, por todos os homens;"
+    },
+    {
+      "numero": 2,
+      "texto": "Pelos reis, e por todos os que estão em eminência, para que tenhamos uma vida quieta e sossegada, em toda a piedade e honestidade;"
+    },
+    {
+      "numero": 3,
+      "texto": "Porque isto é bom e agradável diante de Deus nosso Salvador,"
+    },
+    {
+      "numero": 4,
+      "texto": "Que quer que todos os homens se salvem, e venham ao conhecimento da verdade."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque há um só Deus, e um só Mediador entre Deus e os homens, Jesus Cristo homem."
+    },
+    {
+      "numero": 6,
+      "texto": "O qual se deu a si mesmo em preço de redenção por todos, para servir de testemunho a seu tempo."
+    },
+    {
+      "numero": 7,
+      "texto": "Para o que (digo a verdade em Cristo, não minto) fui constituído pregador, e apóstolo, e doutor dos gentios na fé e na verdade."
+    },
+    {
+      "numero": 8,
+      "texto": "Quero, pois, que os homens orem em todo o lugar, levantando mãos santas, sem ira nem contenda."
+    },
+    {
+      "numero": 9,
+      "texto": "Que do mesmo modo as mulheres se ataviem em traje honesto, com pudor e modéstia, não com tranças, ou com ouro, ou pérolas, ou vestidos preciosos,"
+    },
+    {
+      "numero": 10,
+      "texto": "Mas (como convém a mulheres que fazem profissão de servir a Deus) com boas obras."
+    },
+    {
+      "numero": 11,
+      "texto": "A mulher aprenda em silêncio, com toda a sujeição."
+    },
+    {
+      "numero": 12,
+      "texto": "Não permito, porém, que a mulher ensine, nem use de autoridade sobre o marido, mas que esteja em silêncio."
+    },
+    {
+      "numero": 13,
+      "texto": "Porque primeiro foi formado Adão, depois Eva."
+    },
+    {
+      "numero": 14,
+      "texto": "E Adão não foi enganado, mas a mulher, sendo enganada, caiu em transgressão."
+    },
+    {
+      "numero": 15,
+      "texto": "Salvar-se-á, porém, dando à luz filhos, se permanecer com modéstia na fé, no amor e na santificação."
+    }
+  ]
+}

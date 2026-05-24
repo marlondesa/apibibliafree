@@ -1,0 +1,37 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 120,
+  "total_versiculos": 7,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Na minha angústia clamei ao SENHOR, e me ouviu."
+    },
+    {
+      "numero": 2,
+      "texto": "Senhor, livra a minha alma dos lábios mentirosos e da língua enganadora."
+    },
+    {
+      "numero": 3,
+      "texto": "Que te será dado, ou que te será acrescentado, língua enganadora?"
+    },
+    {
+      "numero": 4,
+      "texto": "Flechas agudas do poderoso, com brasas vivas de zimbro."
+    },
+    {
+      "numero": 5,
+      "texto": "Ai de mim, que peregrino em Meseque, e habito nas tendas de Quedar."
+    },
+    {
+      "numero": 6,
+      "texto": "A minha alma bastante tempo habitou com os que detestam a paz."
+    },
+    {
+      "numero": 7,
+      "texto": "Pacífico sou, mas quando eu falo já eles procuram a guerra."
+    }
+  ]
+}

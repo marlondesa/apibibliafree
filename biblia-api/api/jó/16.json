@@ -1,0 +1,97 @@
+{
+  "livro": "jó",
+  "slug_livro": "jó",
+  "testamento": "Antigo Testamento",
+  "capitulo": 16,
+  "total_versiculos": 22,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então respondeu Jó, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Tenho ouvido muitas coisas como estas; todos vós sois consoladores molestos."
+    },
+    {
+      "numero": 3,
+      "texto": "Porventura não terão fim essas palavras de vento? Ou o que te irrita, para assim responderes?"
+    },
+    {
+      "numero": 4,
+      "texto": "Falaria eu também como vós falais, se a vossa alma estivesse em lugar da minha alma, ou amontoaria palavras contra vós, e menearia contra vós a minha cabeça?"
+    },
+    {
+      "numero": 5,
+      "texto": "Antes vos fortaleceria com a minha boca, e a consolação dos meus lábios abrandaria a vossa dor."
+    },
+    {
+      "numero": 6,
+      "texto": "Se eu falar, a minha dor não cessa, e, calando-me eu, qual é o meu alívio?"
+    },
+    {
+      "numero": 7,
+      "texto": "Na verdade, agora tu me tens fatigado; tu assolaste toda a minha companhia,"
+    },
+    {
+      "numero": 8,
+      "texto": "Testemunha disto é que já me fizeste enrugado, e a minha magreza já se levanta contra mim, e no meu rosto testifica contra mim."
+    },
+    {
+      "numero": 9,
+      "texto": "Na sua ira me despedaçou, e ele me perseguiu; rangeu os seus dentes contra mim; aguça o meu adversário os seus olhos contra mim."
+    },
+    {
+      "numero": 10,
+      "texto": "Abrem a sua boca contra mim; com desprezo me feriram nos queixos, e contra mim se ajuntam todos."
+    },
+    {
+      "numero": 11,
+      "texto": "Entrega-me Deus ao perverso, e nas mãos dos ímpios me faz cair."
+    },
+    {
+      "numero": 12,
+      "texto": "Descansado estava eu, porém ele me quebrantou; e pegou-me pela cerviz, e me despedaçou; também me pôs por seu alvo."
+    },
+    {
+      "numero": 13,
+      "texto": "Cercam-me os seus flecheiros; atravessa-me os rins, e não me poupa, e o meu fel derrama sobre a terra,"
+    },
+    {
+      "numero": 14,
+      "texto": "Fere-me com ferimento sobre ferimento; arremete contra mim como um valente."
+    },
+    {
+      "numero": 15,
+      "texto": "Cosi sobre a minha pele o cilício, e revolvi a minha cabeça no pó."
+    },
+    {
+      "numero": 16,
+      "texto": "O meu rosto está todo avermelhado de chorar, e sobre as minhas pálpebras está a sombra da morte:"
+    },
+    {
+      "numero": 17,
+      "texto": "Apesar de não haver violência nas minhas mãos, e de ser pura a minha oração."
+    },
+    {
+      "numero": 18,
+      "texto": "Ah! terra, não cubras o meu sangue e não haja lugar para ocultar o meu clamor!"
+    },
+    {
+      "numero": 19,
+      "texto": "Eis que também agora a minha testemunha está no céu, e nas alturas o meu testemunho está."
+    },
+    {
+      "numero": 20,
+      "texto": "Os meus amigos são os que zombam de mim; os meus olhos se desfazem em lágrimas diante de Deus."
+    },
+    {
+      "numero": 21,
+      "texto": "Ah! se alguém pudesse contender com Deus pelo homem, como o homem pelo seu próximo!"
+    },
+    {
+      "numero": 22,
+      "texto": "Porque decorridos poucos anos, eu seguirei o caminho por onde não tornarei."
+    }
+  ]
+}

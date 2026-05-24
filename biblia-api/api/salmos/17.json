@@ -1,0 +1,69 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 17,
+  "total_versiculos": 15,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ouve, SENHOR, a justiça; atende ao meu clamor; dá ouvidos à minha oração, que não é feita com lábios enganosos."
+    },
+    {
+      "numero": 2,
+      "texto": "Saia a minha sentença de diante do teu rosto; atendam os teus olhos à razão."
+    },
+    {
+      "numero": 3,
+      "texto": "Provaste o meu coração; visitaste-me de noite; examinaste-me, e nada achaste; propus que a minha boca não transgredirá."
+    },
+    {
+      "numero": 4,
+      "texto": "Quanto ao trato dos homens, pela palavra dos teus lábios me guardei das veredas do destruidor."
+    },
+    {
+      "numero": 5,
+      "texto": "Dirige os meus passos nos teus caminhos, para que as minhas pegadas não vacilem."
+    },
+    {
+      "numero": 6,
+      "texto": "Eu te invoquei, ó Deus, pois me queres ouvir; inclina para mim os teus ouvidos, e escuta as minhas palavras."
+    },
+    {
+      "numero": 7,
+      "texto": "Faze maravilhosas as tuas beneficências, ó tu que livras aqueles que em ti confiam dos que se levantam contra a tua destra."
+    },
+    {
+      "numero": 8,
+      "texto": "Guarda-me como à menina do olho; esconde-me debaixo da sombra das tuas asas,"
+    },
+    {
+      "numero": 9,
+      "texto": "Dos ímpios que me oprimem, dos meus inimigos mortais que me andam cercando."
+    },
+    {
+      "numero": 10,
+      "texto": "Na sua gordura se encerram, com a boca falam soberbamente."
+    },
+    {
+      "numero": 11,
+      "texto": "Têm-nos cercado agora nossos passos; e baixaram os seus olhos para a terra;"
+    },
+    {
+      "numero": 12,
+      "texto": "Parecem-se com o leão que deseja arrebatar a sua presa, e com o leãozinho que se põe em esconderijos."
+    },
+    {
+      "numero": 13,
+      "texto": "Levanta-te, Senhor, detém-no, derriba-o, livra a minha alma do ímpio, com a tua espada;"
+    },
+    {
+      "numero": 14,
+      "texto": "Dos homens com a tua mão, Senhor, dos homens do mundo, cuja porção está nesta vida, e cujo ventre enches do teu tesouro oculto. Estão fartos de filhos e dão os seus sobejos às suas crianças."
+    },
+    {
+      "numero": 15,
+      "texto": "Quanto a mim, contemplarei a tua face na justiça; eu me satisfarei da tua semelhança quando acordar."
+    }
+  ]
+}

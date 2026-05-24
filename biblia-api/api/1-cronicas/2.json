@@ -1,0 +1,229 @@
+{
+  "livro": "1 Crônicas",
+  "slug_livro": "1-cronicas",
+  "testamento": "Antigo Testamento",
+  "capitulo": 2,
+  "total_versiculos": 55,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Estes são os filhos de Israel: Rúben, Simeão, Levi, Judá, Issacar e Zebulom;"
+    },
+    {
+      "numero": 2,
+      "texto": "Dã, José e Benjamim, Naftali, Gade e Aser."
+    },
+    {
+      "numero": 3,
+      "texto": "Os filhos de Judá foram Er, e Onã, e Selá, estes três lhe nasceram da filha de Suá, a cananéia; e Er, o primogênito de Judá, foi mau aos olhos do Senhor, pelo que o matou."
+    },
+    {
+      "numero": 4,
+      "texto": "Porém Tamar, sua nora, lhe deu à luz Perez e Zerá; todos os filhos de Judá foram cinco."
+    },
+    {
+      "numero": 5,
+      "texto": "Os filhos de Perez foram Hezrom e Hamul."
+    },
+    {
+      "numero": 6,
+      "texto": "E os filhos de Zerá: Zinri, e Etã, e Hemã, e Calcol, e Dara: cinco ao todo."
+    },
+    {
+      "numero": 7,
+      "texto": "E os filhos de Carmi foram Acar, o perturbador de Israel, que pecou no anátema."
+    },
+    {
+      "numero": 8,
+      "texto": "E o filho de Etã foi Azarias."
+    },
+    {
+      "numero": 9,
+      "texto": "E os filhos de Hezrom, que lhe nasceram, foram Jerameel, e Rão, e Quelubai."
+    },
+    {
+      "numero": 10,
+      "texto": "E Rão gerou a Aminadabe, e Aminadabe gerou a Naassom, príncipe dos filhos de Judá."
+    },
+    {
+      "numero": 11,
+      "texto": "E Naassom gerou a Salma, e Salma gerou a Boaz."
+    },
+    {
+      "numero": 12,
+      "texto": "E Boaz gerou a Obede, e Obede gerou a Jessé."
+    },
+    {
+      "numero": 13,
+      "texto": "E Jessé gerou a Eliabe, seu primogênito, e Abinadabe, o segundo, e Siméia, o terceiro."
+    },
+    {
+      "numero": 14,
+      "texto": "Natanael, o quarto, Radai, o quinto."
+    },
+    {
+      "numero": 15,
+      "texto": "Ozém, o sexto, Davi, o sétimo."
+    },
+    {
+      "numero": 16,
+      "texto": "E foram suas irmãs Zeruia e Abigail; e foram os filhos de Zeruia: Abisai e Joabe, e Asael, três."
+    },
+    {
+      "numero": 17,
+      "texto": "E Abigail deu à luz a Amasa; e o pai de Amasa foi Jeter, o ismaelita."
+    },
+    {
+      "numero": 18,
+      "texto": "E Calebe, filho de Hezrom, gerou filhos de Azuba, sua mulher, e de Jeriote; e os filhos desta foram estes: Jeser, Sobabe, e Ardom."
+    },
+    {
+      "numero": 19,
+      "texto": "E morreu Azuba; e Calebe tomou para si a Efrate, da qual lhe nasceu Hur."
+    },
+    {
+      "numero": 20,
+      "texto": "E Hur gerou a Uri, e Uri gerou a Bezaleel."
+    },
+    {
+      "numero": 21,
+      "texto": "Então Hezrom coabitou com a filha de Maquir, pai de Gileade, e, sendo ele de sessenta anos, a tomou; e ela deu à luz a Segube."
+    },
+    {
+      "numero": 22,
+      "texto": "E Segube gerou a Jair; e este tinha vinte e três cidades na terra de Gileade."
+    },
+    {
+      "numero": 23,
+      "texto": "E Gesur e Arã tomaram deles as aldeias de Jair, e Quenate, e seus lugares, sessenta cidades; todos estes foram filhos de Maquir, pai de Gileade."
+    },
+    {
+      "numero": 24,
+      "texto": "E, depois da morte de Hezrom, em Calebe de Efrata, Abia, mulher de Hezrom, deu à luz a Asur, pai de Tecoa."
+    },
+    {
+      "numero": 25,
+      "texto": "E os filhos de Jerameel, primogênito de Hezrom, foram Rão, o primogênito, Buna, Orem, Ozém e Aías."
+    },
+    {
+      "numero": 26,
+      "texto": "Teve também Jerameel ainda outra mulher cujo nome era Atara; esta foi a mãe de Onã."
+    },
+    {
+      "numero": 27,
+      "texto": "E foram os filhos de Rão, primogênito de Jerameel: Maaz, Jamim, e Equer."
+    },
+    {
+      "numero": 28,
+      "texto": "E foram os filhos de Onã: Samai e Jada; e os filhos de Samai: Nadabe e Abisur."
+    },
+    {
+      "numero": 29,
+      "texto": "E o nome da mulher de Abisur era Abiail, que lhe deu a Abã e a Molide."
+    },
+    {
+      "numero": 30,
+      "texto": "E foram os filhos de Nadabe, Selede e Apaim; e Selede morreu sem filhos."
+    },
+    {
+      "numero": 31,
+      "texto": "E o filho de Apaim foi Isi; e o filho de Isi, Sesã. E o filho de Sesã, Alai."
+    },
+    {
+      "numero": 32,
+      "texto": "E os filhos de Jada, irmão de Samai, foram Jeter e Jônatas; e Jeter morreu sem filhos."
+    },
+    {
+      "numero": 33,
+      "texto": "E os filhos de Jônatas foram: Pelete e Zaza; estes foram os filhos de Jerameel."
+    },
+    {
+      "numero": 34,
+      "texto": "E Sesã não teve filhos, mas filhas; e tinha Sesã um servo egípcio, cujo nome era Jará."
+    },
+    {
+      "numero": 35,
+      "texto": "Deu, pois, Sesã sua filha por mulher a Jará, seu servo; e lhe deu à luz a Atai."
+    },
+    {
+      "numero": 36,
+      "texto": "E Atai gerou a Natã, e Natã gerou a Zabade."
+    },
+    {
+      "numero": 37,
+      "texto": "E Zabade gerou a Eflal, e Eflal gerou a Obede."
+    },
+    {
+      "numero": 38,
+      "texto": "E Obede gerou a Jeú, e Jeú gerou a Azarias."
+    },
+    {
+      "numero": 39,
+      "texto": "E Azarias gerou a Helez, e Helez gerou a Eleasá."
+    },
+    {
+      "numero": 40,
+      "texto": "E Eleasá gerou a Sismai, e Sismai gerou a Salum."
+    },
+    {
+      "numero": 41,
+      "texto": "E Salum gerou a Jecamias, e Jecamias gerou a Elisama."
+    },
+    {
+      "numero": 42,
+      "texto": "E foram os filhos de Calebe, irmão de Jerameel, Messa, seu primogênito (este foi o pai de Zife), e os filhos de Maressa, pai de Hebrom."
+    },
+    {
+      "numero": 43,
+      "texto": "E foram os filhos de Hebrom: Coré, Tápua, Requém e Sema."
+    },
+    {
+      "numero": 44,
+      "texto": "E Sema gerou a Raão, pai de Jorqueão; e Requém gerou a Samai."
+    },
+    {
+      "numero": 45,
+      "texto": "E foi o filho de Samai, Maom; e Maom foi pai de Bete-Zur."
+    },
+    {
+      "numero": 46,
+      "texto": "E Efá, a concubina de Calebe, deu à luz a Harã, a Mosa, e a Gazez; e Harã gerou a Gazez."
+    },
+    {
+      "numero": 47,
+      "texto": "E foram filhos de Jadai: Regém, Jotão, Gesã, Pelete, Efá e Saafe."
+    },
+    {
+      "numero": 48,
+      "texto": "De Maaca, concubina, Calebe gerou a Seber e a Tiraná."
+    },
+    {
+      "numero": 49,
+      "texto": "E a mulher de Saafe, pai de Madmana, deu à luz a Seva, pai de Macbena e pai de Gibeá; e foi a filha de Calebe, Acsa."
+    },
+    {
+      "numero": 50,
+      "texto": "Estes foram os filhos de Calebe, filho de Hur, o primogênito de Efrata: Sobal, pai de Quiriate-Jearim,"
+    },
+    {
+      "numero": 51,
+      "texto": "E Salma, pai dos belemitas, Harefe, pai de Bete-Gader."
+    },
+    {
+      "numero": 52,
+      "texto": "E foram os filhos de Sobal, pai de Quiriate-Jearim: Haroé e metade dos menuítas."
+    },
+    {
+      "numero": 53,
+      "texto": "E as famílias de Quiriate-Jearim foram os jitreus, e os puteus, e os sumateus, e os misraeus; destes saíram os zorateus, e os estaoleus."
+    },
+    {
+      "numero": 54,
+      "texto": "Os filhos de Salma foram Belém e os netofatitas, Atarote, Bete-Joabe, e metade dos manaatitas, e os zoritas."
+    },
+    {
+      "numero": 55,
+      "texto": "E as famílias dos escribas que habitavam em Jabez foram os tiratitas, os simeatitas e os sucatitas; estes são os queneus, que vieram de Hamate, pai da casa de Recabe."
+    }
+  ]
+}

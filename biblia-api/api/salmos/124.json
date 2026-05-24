@@ -1,0 +1,41 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 124,
+  "total_versiculos": 8,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Se não fora o Senhor, que esteve ao nosso lado, ora diga Israel;"
+    },
+    {
+      "numero": 2,
+      "texto": "Se não fora o Senhor, que esteve ao nosso lado, quando os homens se levantaram contra nós,"
+    },
+    {
+      "numero": 3,
+      "texto": "Eles então nos teriam engolido vivos, quando a sua ira se acendeu contra nós."
+    },
+    {
+      "numero": 4,
+      "texto": "Então as águas teriam transbordado sobre nós, e a corrente teria passado sobre a nossa alma;"
+    },
+    {
+      "numero": 5,
+      "texto": "Então as águas altivas teriam passado sobre a nossa alma;"
+    },
+    {
+      "numero": 6,
+      "texto": "Bendito seja o Senhor, que não nos deu por presa aos seus dentes."
+    },
+    {
+      "numero": 7,
+      "texto": "A nossa alma escapou, como um pássaro do laço dos passarinheiros; o laço quebrou-se, e nós escapamos."
+    },
+    {
+      "numero": 8,
+      "texto": "O nosso socorro está no nome do Senhor, que fez o céu e a terra."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 90,
+  "total_versiculos": 17,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "SENHOR, tu tens sido o nosso refúgio, de geração em geração."
+    },
+    {
+      "numero": 2,
+      "texto": "Antes que os montes nascessem, ou que tu formasses a terra e o mundo, mesmo de eternidade a eternidade, tu és Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "Tu reduzes o homem à destruição; e dizes: Tornai-vos, filhos dos homens."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque mil anos são aos teus olhos como o dia de ontem que passou, e como a vigília da noite."
+    },
+    {
+      "numero": 5,
+      "texto": "Tu os levas como uma corrente de água; são como um sono; de manhã são como a erva que cresce."
+    },
+    {
+      "numero": 6,
+      "texto": "De madrugada floresce e cresce; à tarde corta-se e seca."
+    },
+    {
+      "numero": 7,
+      "texto": "Pois somos consumidos pela tua ira, e pelo teu furor somos angustiados."
+    },
+    {
+      "numero": 8,
+      "texto": "Diante de ti puseste as nossas iniqüidades, os nossos pecados ocultos, à luz do teu rosto."
+    },
+    {
+      "numero": 9,
+      "texto": "Pois todos os nossos dias vão passando na tua indignação; passamos os nossos anos como um conto que se conta."
+    },
+    {
+      "numero": 10,
+      "texto": "Os dias da nossa vida chegam a setenta anos, e se alguns, pela sua robustez, chegam a oitenta anos, o orgulho deles é canseira e enfado, pois cedo se corta e vamos voando."
+    },
+    {
+      "numero": 11,
+      "texto": "Quem conhece o poder da tua ira? Segundo és tremendo, assim é o teu furor."
+    },
+    {
+      "numero": 12,
+      "texto": "Ensina-nos a contar os nossos dias, de tal maneira que alcancemos corações sábios."
+    },
+    {
+      "numero": 13,
+      "texto": "Volta-te para nós, Senhor; até quando? Aplaca-te para com os teus servos."
+    },
+    {
+      "numero": 14,
+      "texto": "Farta-nos de madrugada com a tua benignidade, para que nos regozijemos, e nos alegremos todos os nossos dias."
+    },
+    {
+      "numero": 15,
+      "texto": "Alegra-nos pelos dias em que nos afligiste, e pelos anos em que vimos o mal."
+    },
+    {
+      "numero": 16,
+      "texto": "Apareça a tua obra aos teus servos, e a tua glória sobre seus filhos."
+    },
+    {
+      "numero": 17,
+      "texto": "E seja sobre nós a formosura do Senhor nosso Deus, e confirma sobre nós a obra das nossas mãos; sim, confirma a obra das nossas mãos."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "livro": "Eclesiastes",
+  "slug_livro": "eclesiastes",
+  "testamento": "Antigo Testamento",
+  "capitulo": 11,
+  "total_versiculos": 10,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Lança o teu pão sobre as águas, porque depois de muitos dias o acharás."
+    },
+    {
+      "numero": 2,
+      "texto": "Reparte com sete, e ainda até com oito, porque não sabes que mal haverá sobre a terra."
+    },
+    {
+      "numero": 3,
+      "texto": "Estando as nuvens cheias, derramam a chuva sobre a terra, e caindo a árvore para o sul, ou para o norte, no lugar em que a árvore cair ali ficará."
+    },
+    {
+      "numero": 4,
+      "texto": "Quem observa o vento, nunca semeará, e o que olha para as nuvens nunca segará."
+    },
+    {
+      "numero": 5,
+      "texto": "Assim como tu não sabes qual o caminho do vento, nem como se formam os ossos no ventre da mulher grávida, assim também não sabes as obras de Deus, que faz todas as coisas."
+    },
+    {
+      "numero": 6,
+      "texto": "Pela manhã semeia a tua semente, e à tarde não retires a tua mão, porque tu não sabes qual prosperará, se esta, se aquela, ou se ambas serão igualmente boas."
+    },
+    {
+      "numero": 7,
+      "texto": "Certamente suave é a luz, e agradável é aos olhos ver o sol."
+    },
+    {
+      "numero": 8,
+      "texto": "Porém, se o homem viver muitos anos, e em todos eles se alegrar, também se deve lembrar dos dias das trevas, porque hão de ser muitos. Tudo quanto sucede é vaidade."
+    },
+    {
+      "numero": 9,
+      "texto": "Alegra-te, jovem, na tua mocidade, e recreie-se o teu coração nos dias da tua mocidade, e anda pelos caminhos do teu coração, e pela vista dos teus olhos; sabe, porém, que por todas estas coisas te trará Deus a juízo."
+    },
+    {
+      "numero": 10,
+      "texto": "Afasta, pois, a ira do teu coração, e remove da tua carne o mal, porque a adolescência e a juventude são vaidade."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "livro": "Deuteronômio",
+  "slug_livro": "deuteronomio",
+  "testamento": "Antigo Testamento",
+  "capitulo": 14,
+  "total_versiculos": 29,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Filhos sois do SENHOR vosso Deus; não vos dareis golpes, nem fareis calva entre vossos olhos por causa de algum morto."
+    },
+    {
+      "numero": 2,
+      "texto": "Porque és povo santo ao Senhor teu Deus; e o Senhor te escolheu, de todos os povos que há sobre a face da terra, para lhe seres o seu próprio povo."
+    },
+    {
+      "numero": 3,
+      "texto": "Nenhuma coisa abominável comereis."
+    },
+    {
+      "numero": 4,
+      "texto": "Estes são os animais que comereis: o boi, a ovelha, e a cabra."
+    },
+    {
+      "numero": 5,
+      "texto": "O veado e a corça, e o búfalo, e a cabra montês, e o texugo, e a camurça, e o gamo."
+    },
+    {
+      "numero": 6,
+      "texto": "Todo o animal que tem unhas fendidas, divididas em duas, que rumina, entre os animais, aquilo comereis."
+    },
+    {
+      "numero": 7,
+      "texto": "Porém estes não comereis, dos que somente ruminam, ou que têm a unha fendida: o camelo, e a lebre, e o coelho, porque ruminam mas não têm a unha fendida; imundos vos serão."
+    },
+    {
+      "numero": 8,
+      "texto": "Nem o porco, porque tem unha fendida, mas não rumina; imundo vos será; não comereis da carne destes, e não tocareis nos seus cadáveres."
+    },
+    {
+      "numero": 9,
+      "texto": "Isto comereis de tudo o que há nas águas; tudo o que tem barbatanas e escamas comereis."
+    },
+    {
+      "numero": 10,
+      "texto": "Mas tudo o que não tiver barbatanas nem escamas não o comereis; imundo vos será."
+    },
+    {
+      "numero": 11,
+      "texto": "Toda a ave limpa comereis."
+    },
+    {
+      "numero": 12,
+      "texto": "Porém estas são as que não comereis: a águia, e o quebrantosso, e o xofrango,"
+    },
+    {
+      "numero": 13,
+      "texto": "E o abutre, e o falcão, e o milhafre, segundo a sua espécie."
+    },
+    {
+      "numero": 14,
+      "texto": "E todo o corvo, segundo a sua espécie."
+    },
+    {
+      "numero": 15,
+      "texto": "E o avestruz, e o mocho, e a gaivota, e o gavião, segundo a sua espécie."
+    },
+    {
+      "numero": 16,
+      "texto": "E o bufo, e a coruja, e a gralha,"
+    },
+    {
+      "numero": 17,
+      "texto": "E o cisne, e o pelicano, e o corvo marinho,"
+    },
+    {
+      "numero": 18,
+      "texto": "E a cegonha, e a garça, segundo a sua espécie, e a poupa, e o morcego."
+    },
+    {
+      "numero": 19,
+      "texto": "Também todo o inseto que voa, vos será imundo; não se comerá."
+    },
+    {
+      "numero": 20,
+      "texto": "Toda a ave limpa comereis."
+    },
+    {
+      "numero": 21,
+      "texto": "Não comereis nenhum animal morto; ao estrangeiro, que está dentro das tuas portas, o darás a comer, ou o venderás ao estranho, porquanto és povo santo ao Senhor teu Deus. Não cozerás o cabrito com leite da sua mãe."
+    },
+    {
+      "numero": 22,
+      "texto": "Certamente darás os dízimos de todo o fruto da tua semente, que cada ano se recolher do campo."
+    },
+    {
+      "numero": 23,
+      "texto": "E, perante o Senhor teu Deus, no lugar que escolher para ali fazer habitar o seu nome, comerás os dízimos do teu grão, do teu mosto e do teu azeite, e os primogênitos das tuas vacas e das tuas ovelhas; para que aprendas a temer ao Senhor teu Deus todos os dias."
+    },
+    {
+      "numero": 24,
+      "texto": "E quando o caminho te for tão comprido que os não possas levar, por estar longe de ti o lugar que escolher o Senhor teu Deus para ali pôr o seu nome, quando o Senhor teu Deus te tiver abençoado;"
+    },
+    {
+      "numero": 25,
+      "texto": "Então vende-os, e ata o dinheiro na tua mão, e vai ao lugar que escolher o Senhor teu Deus;"
+    },
+    {
+      "numero": 26,
+      "texto": "E aquele dinheiro darás por tudo o que deseja a tua alma, por vacas, e por ovelhas, e por vinho, e por bebida forte, e por tudo o que te pedir a tua alma; come-o ali perante o Senhor teu Deus, e alegra-te, tu e a tua casa;"
+    },
+    {
+      "numero": 27,
+      "texto": "Porém não desampararás o levita que está dentro das tuas portas; pois não tem parte nem herança contigo."
+    },
+    {
+      "numero": 28,
+      "texto": "Ao fim de três anos tirarás todos os dízimos da tua colheita no mesmo ano, e os recolherás dentro das tuas portas;"
+    },
+    {
+      "numero": 29,
+      "texto": "Então virá o levita (pois nem parte nem herança tem contigo), e o estrangeiro, e o órfão, e a viúva, que estão dentro das tuas portas, e comerão, e fartar-se-ão; para que o Senhor teu Deus te abençoe em toda a obra que as tuas mãos fizerem."
+    }
+  ]
+}

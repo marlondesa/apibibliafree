@@ -1,0 +1,41 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 82,
+  "total_versiculos": 8,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Deus está na congregação dos poderosos; julga no meio dos deuses."
+    },
+    {
+      "numero": 2,
+      "texto": "Até quando julgareis injustamente, e aceitareis as pessoas dos ímpios? (Selá.)"
+    },
+    {
+      "numero": 3,
+      "texto": "Fazei justiça ao pobre e ao órfão; justificai o aflito e o necessitado."
+    },
+    {
+      "numero": 4,
+      "texto": "Livrai o pobre e o necessitado; tirai-os das mãos dos ímpios."
+    },
+    {
+      "numero": 5,
+      "texto": "Eles não conhecem, nem entendem; andam em trevas; todos os fundamentos da terra vacilam."
+    },
+    {
+      "numero": 6,
+      "texto": "Eu disse: Vós sois deuses, e todos vós filhos do Altíssimo."
+    },
+    {
+      "numero": 7,
+      "texto": "Todavia morrereis como homens, e caireis como qualquer dos príncipes."
+    },
+    {
+      "numero": 8,
+      "texto": "Levanta-te, ó Deus, julga a terra, pois tu possuis todas as nações."
+    }
+  ]
+}

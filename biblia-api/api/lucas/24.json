@@ -1,0 +1,221 @@
+{
+  "livro": "Lucas",
+  "slug_livro": "lucas",
+  "testamento": "Novo Testamento",
+  "capitulo": 24,
+  "total_versiculos": 53,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E no primeiro dia da semana, muito de madrugada, foram elas ao sepulcro, levando as especiarias que tinham preparado, e algumas outras com elas."
+    },
+    {
+      "numero": 2,
+      "texto": "E acharam a pedra revolvida do sepulcro."
+    },
+    {
+      "numero": 3,
+      "texto": "E, entrando, não acharam o corpo do Senhor Jesus."
+    },
+    {
+      "numero": 4,
+      "texto": "E aconteceu que, estando elas muito perplexas a esse respeito, eis que pararam junto delas dois homens, com vestes resplandecentes."
+    },
+    {
+      "numero": 5,
+      "texto": "E, estando elas muito atemorizadas, e abaixando o rosto para o chão, eles lhes disseram: Por que buscais o vivente entre os mortos?"
+    },
+    {
+      "numero": 6,
+      "texto": "Não está aqui, mas ressuscitou. Lembrai-vos como vos falou, estando ainda na Galiléia,"
+    },
+    {
+      "numero": 7,
+      "texto": "Dizendo: Convém que o Filho do homem seja entregue nas mãos de homens pecadores, e seja crucificado, e ao terceiro dia ressuscite."
+    },
+    {
+      "numero": 8,
+      "texto": "E lembraram-se das suas palavras."
+    },
+    {
+      "numero": 9,
+      "texto": "E, voltando do sepulcro, anunciaram todas estas coisas aos onze e a todos os demais."
+    },
+    {
+      "numero": 10,
+      "texto": "E eram Maria Madalena, e Joana, e Maria, mãe de Tiago, e as outras que com elas estavam, as que diziam estas coisas aos apóstolos."
+    },
+    {
+      "numero": 11,
+      "texto": "E as suas palavras lhes pareciam como desvario, e não as creram."
+    },
+    {
+      "numero": 12,
+      "texto": "Pedro, porém, levantando-se, correu ao sepulcro e, abaixando-se, viu só os lençóis ali postos; e retirou-se, admirando consigo aquele caso."
+    },
+    {
+      "numero": 13,
+      "texto": "E eis que no mesmo dia iam dois deles para uma aldeia, que distava de Jerusalém sessenta estádios, cujo nome era Emaús."
+    },
+    {
+      "numero": 14,
+      "texto": "E iam falando entre si de tudo aquilo que havia sucedido."
+    },
+    {
+      "numero": 15,
+      "texto": "E aconteceu que, indo eles falando entre si, e fazendo perguntas um ao outro, o mesmo Jesus se aproximou, e ia com eles."
+    },
+    {
+      "numero": 16,
+      "texto": "Mas os olhos deles estavam como que fechados, para que o não conhecessem."
+    },
+    {
+      "numero": 17,
+      "texto": "E ele lhes disse: Que palavras são essas que, caminhando, trocais entre vós, e por que estais tristes?"
+    },
+    {
+      "numero": 18,
+      "texto": "E, respondendo um, cujo nome era Cléopas, disse-lhe: És tu só peregrino em Jerusalém, e não sabes as coisas que nela têm sucedido nestes dias?"
+    },
+    {
+      "numero": 19,
+      "texto": "E ele lhes perguntou: Quais? E eles lhe disseram: As que dizem respeito a Jesus Nazareno, que foi homem profeta, poderoso em obras e palavras diante de Deus e de todo o povo;"
+    },
+    {
+      "numero": 20,
+      "texto": "E como os principais dos sacerdotes e os nossos príncipes o entregaram à condenação de morte, e o crucificaram."
+    },
+    {
+      "numero": 21,
+      "texto": "E nós esperávamos que fosse ele o que remisse Israel; mas agora, sobre tudo isso, é já hoje o terceiro dia desde que essas coisas aconteceram."
+    },
+    {
+      "numero": 22,
+      "texto": "É verdade que também algumas mulheres dentre nós nos maravilharam, as quais de madrugada foram ao sepulcro;"
+    },
+    {
+      "numero": 23,
+      "texto": "E, não achando o seu corpo, voltaram, dizendo que também tinham visto uma visão de anjos, que dizem que ele vive."
+    },
+    {
+      "numero": 24,
+      "texto": "E alguns dos que estavam conosco foram ao sepulcro, e acharam ser assim como as mulheres haviam dito; porém, a ele não o viram."
+    },
+    {
+      "numero": 25,
+      "texto": "E ele lhes disse: Ó néscios, e tardos de coração para crer tudo o que os profetas disseram!"
+    },
+    {
+      "numero": 26,
+      "texto": "Porventura não convinha que o Cristo padecesse estas coisas e entrasse na sua glória?"
+    },
+    {
+      "numero": 27,
+      "texto": "E, começando por Moisés, e por todos os profetas, explicava-lhes o que dele se achava em todas as Escrituras."
+    },
+    {
+      "numero": 28,
+      "texto": "E chegaram à aldeia para onde iam, e ele fez como quem ia para mais longe."
+    },
+    {
+      "numero": 29,
+      "texto": "E eles o constrangeram, dizendo: Fica conosco, porque já é tarde, e já declinou o dia. E entrou para ficar com eles."
+    },
+    {
+      "numero": 30,
+      "texto": "E aconteceu que, estando com eles à mesa, tomando o pão, o abençoou e partiu-o, e lho deu."
+    },
+    {
+      "numero": 31,
+      "texto": "Abriram-se-lhes então os olhos, e o conheceram, e ele desapareceu-lhes."
+    },
+    {
+      "numero": 32,
+      "texto": "E disseram um para o outro: Porventura não ardia em nós o nosso coração quando, pelo caminho, nos falava, e quando nos abria as Escrituras?"
+    },
+    {
+      "numero": 33,
+      "texto": "E na mesma hora, levantando-se, tornaram para Jerusalém, e acharam congregados os onze, e os que estavam com eles,"
+    },
+    {
+      "numero": 34,
+      "texto": "Os quais diziam: Ressuscitou verdadeiramente o Senhor, e já apareceu a Simão."
+    },
+    {
+      "numero": 35,
+      "texto": "E eles lhes contaram o que lhes acontecera no caminho, e como deles fora conhecido no partir do pão."
+    },
+    {
+      "numero": 36,
+      "texto": "E falando eles destas coisas, o mesmo Jesus se apresentou no meio deles, e disse-lhes: Paz seja convosco."
+    },
+    {
+      "numero": 37,
+      "texto": "E eles, espantados e atemorizados, pensavam que viam algum espírito."
+    },
+    {
+      "numero": 38,
+      "texto": "E ele lhes disse: Por que estais perturbados, e por que sobem tais pensamentos aos vossos corações?"
+    },
+    {
+      "numero": 39,
+      "texto": "Vede as minhas mãos e os meus pés, que sou eu mesmo; apalpai-me e vede, pois um espírito não tem carne nem ossos, como vedes que eu tenho."
+    },
+    {
+      "numero": 40,
+      "texto": "E, dizendo isto, mostrou-lhes as mãos e os pés."
+    },
+    {
+      "numero": 41,
+      "texto": "E, não o crendo eles ainda por causa da alegria, e estando maravilhados, disse-lhes: Tendes aqui alguma coisa que comer?"
+    },
+    {
+      "numero": 42,
+      "texto": "Então eles apresentaram-lhe parte de um peixe assado, e um favo de mel;"
+    },
+    {
+      "numero": 43,
+      "texto": "O que ele tomou, e comeu diante deles."
+    },
+    {
+      "numero": 44,
+      "texto": "E disse-lhes: São estas as palavras que vos disse estando ainda convosco: Que convinha que se cumprisse tudo o que de mim estava escrito na lei de Moisés, e nos profetas e nos Salmos."
+    },
+    {
+      "numero": 45,
+      "texto": "Então abriu-lhes o entendimento para compreenderem as Escrituras."
+    },
+    {
+      "numero": 46,
+      "texto": "E disse-lhes: Assim está escrito, e assim convinha que o Cristo padecesse, e ao terceiro dia ressuscitasse dentre os mortos,"
+    },
+    {
+      "numero": 47,
+      "texto": "E em seu nome se pregasse o arrependimento e a remissão dos pecados, em todas as nações, começando por Jerusalém."
+    },
+    {
+      "numero": 48,
+      "texto": "E destas coisas sois vós testemunhas."
+    },
+    {
+      "numero": 49,
+      "texto": "E eis que sobre vós envio a promessa de meu Pai; ficai, porém, na cidade de Jerusalém, até que do alto sejais revestidos de poder."
+    },
+    {
+      "numero": 50,
+      "texto": "E levou-os fora, até betânia; e, levantando as suas mãos, os abençoou."
+    },
+    {
+      "numero": 51,
+      "texto": "E aconteceu que, abençoando-os ele, se apartou deles e foi elevado ao céu."
+    },
+    {
+      "numero": 52,
+      "texto": "E, adorando-o eles, tornaram com grande júbilo para Jerusalém."
+    },
+    {
+      "numero": 53,
+      "texto": "E estavam sempre no templo, louvando e bendizendo a Deus. Amém."
+    }
+  ]
+}

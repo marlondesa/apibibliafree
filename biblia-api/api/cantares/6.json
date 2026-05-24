@@ -1,0 +1,61 @@
+{
+  "livro": "Cantares",
+  "slug_livro": "cantares",
+  "testamento": "Antigo Testamento",
+  "capitulo": 6,
+  "total_versiculos": 13,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Para onde foi o teu amado, ó mais formosa entre as mulheres? Para onde se retirou o teu amado, para que o busquemos contigo?"
+    },
+    {
+      "numero": 2,
+      "texto": "O meu amado desceu ao seu jardim, aos canteiros de bálsamo, para apascentar nos jardins e para colher os lírios."
+    },
+    {
+      "numero": 3,
+      "texto": "Eu sou do meu amado, e o meu amado é meu;ele apascenta entre os lírios."
+    },
+    {
+      "numero": 4,
+      "texto": "Formosa és, meu amor, como Tirza, aprazível como Jerusalém, terrível como um exército com bandeiras."
+    },
+    {
+      "numero": 5,
+      "texto": "Desvia de mim os teus olhos, porque eles me dominam. O teu cabelo é como o rebanho das cabras que aparecem em Gileade."
+    },
+    {
+      "numero": 6,
+      "texto": "Os teus dentes são como o rebanho de ovelhas que sobem do lavadouro, e das quais todas produzem gêmeos, e não há estéril entre elas."
+    },
+    {
+      "numero": 7,
+      "texto": "Como um pedaço de romã, assim são as tuas faces entre os teus cabelos."
+    },
+    {
+      "numero": 8,
+      "texto": "Sessenta são as rainhas, e oitenta as concubinas, e as virgens sem número."
+    },
+    {
+      "numero": 9,
+      "texto": "Porém uma é a minha pomba, a minha imaculada, a única de sua mãe, e a mais querida daquela que a deu à luz; viram-na as filhas e chamaram-na bem-aventurada, as rainhas e as concubinas louvaram-na."
+    },
+    {
+      "numero": 10,
+      "texto": "Quem é esta que aparece como a alva do dia, formosa como a lua, brilhante como o sol, terrível como um exército com bandeiras?"
+    },
+    {
+      "numero": 11,
+      "texto": "Desci ao jardim das nogueiras, para ver os frutos do vale, a ver se floresciam as vides e brotavam as romãzeiras."
+    },
+    {
+      "numero": 12,
+      "texto": "Antes de eu o sentir, me pôs a minha alma nos carros do meu nobre povo."
+    },
+    {
+      "numero": 13,
+      "texto": "Volta, volta, ó Sulamita, volta, volta, para que nós te vejamos. Por que olhais para a Sulamita como para as fileiras de dois exércitos?"
+    }
+  ]
+}

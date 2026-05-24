@@ -1,0 +1,45 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 47,
+  "total_versiculos": 9,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Batei palmas, todos os povos; aclamai a Deus com voz de triunfo."
+    },
+    {
+      "numero": 2,
+      "texto": "Porque o Senhor Altíssimo é tremendo, e Rei grande sobre toda a terra."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele nos subjugará os povos e as nações debaixo dos nossos pés."
+    },
+    {
+      "numero": 4,
+      "texto": "Escolherá para nós a nossa herança, a glória de Jacó, a quem amou. (Selá.)"
+    },
+    {
+      "numero": 5,
+      "texto": "Deus subiu com júbilo, o Senhor subiu ao som de trombeta."
+    },
+    {
+      "numero": 6,
+      "texto": "Cantai louvores a Deus, cantai louvores; cantai louvores ao nosso Rei, cantai louvores."
+    },
+    {
+      "numero": 7,
+      "texto": "Pois Deus é o Rei de toda a terra, cantai louvores com inteligência."
+    },
+    {
+      "numero": 8,
+      "texto": "Deus reina sobre os gentios; Deus se assenta sobre o trono da sua santidade."
+    },
+    {
+      "numero": 9,
+      "texto": "Os príncipes do povo se ajuntam, o povo do Deus de Abraão; porque os escudos da terra são de Deus. Ele está muito elevado!"
+    }
+  ]
+}

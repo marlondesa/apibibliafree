@@ -1,0 +1,22 @@
+{
+  "id": 29,
+  "abbrev": "jl",
+  "nome": "Joel",
+  "slug": "joel",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 3,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 32
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 21
+    }
+  ]
+}

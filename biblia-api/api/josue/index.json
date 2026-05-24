@@ -1,0 +1,106 @@
+{
+  "id": 6,
+  "abbrev": "js",
+  "nome": "Josué",
+  "slug": "josue",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 24,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 24
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 24
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 27
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 26
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 35
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 27
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 43
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 24
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 33
+    },
+    {
+      "numero": 14,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 15,
+      "total_versiculos": 63
+    },
+    {
+      "numero": 16,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 17,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 18,
+      "total_versiculos": 28
+    },
+    {
+      "numero": 19,
+      "total_versiculos": 51
+    },
+    {
+      "numero": 20,
+      "total_versiculos": 9
+    },
+    {
+      "numero": 21,
+      "total_versiculos": 45
+    },
+    {
+      "numero": 22,
+      "total_versiculos": 34
+    },
+    {
+      "numero": 23,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 24,
+      "total_versiculos": 33
+    }
+  ]
+}

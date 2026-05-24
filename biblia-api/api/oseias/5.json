@@ -1,0 +1,69 @@
+{
+  "livro": "Oséias",
+  "slug_livro": "oseias",
+  "testamento": "Antigo Testamento",
+  "capitulo": 5,
+  "total_versiculos": 15,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ouvi isto, ó sacerdotes, e escutai, ó casa de Israel, e dai ouvidos, ó casa do rei, porque contra vós se dirige este juízo, visto que fostes um laço para Mizpá, e rede estendida sobre o Tabor."
+    },
+    {
+      "numero": 2,
+      "texto": "Os revoltos se aprofundaram na matança; mas eu castigarei a todos eles."
+    },
+    {
+      "numero": 3,
+      "texto": "Eu conheço a Efraim, e Israel não se esconde de mim; porque agora te tens prostituído, ó Efraim, e Israel se contaminou."
+    },
+    {
+      "numero": 4,
+      "texto": "Não querem ordenar as suas ações a fim de voltarem para o seu Deus, porque o espírito das prostituições está no meio deles, e não conhecem ao Senhor."
+    },
+    {
+      "numero": 5,
+      "texto": "A soberba de Israel testificará no seu rosto; e Israel e Efraim cairão pela sua injustiça, e Judá cairá juntamente com eles."
+    },
+    {
+      "numero": 6,
+      "texto": "Então irão com os seus rebanhos, e com o seu gado, para buscarem ao Senhor, mas não o acharão; ele se retirou deles."
+    },
+    {
+      "numero": 7,
+      "texto": "Aleivosamente se houveram contra o Senhor, porque geraram filhos estranhos; agora em um só mês os consumirá com as suas porções."
+    },
+    {
+      "numero": 8,
+      "texto": "Tocai a buzina em Gibeá, a trombeta em Ramá; gritai altamente em Bete-Áven; depois de ti, ó Benjamim."
+    },
+    {
+      "numero": 9,
+      "texto": "Efraim será para assolação no dia do castigo; entre as tribos de Israel manifestei o que está certo."
+    },
+    {
+      "numero": 10,
+      "texto": "Os príncipes de Judá são como os que mudam os limites; derramarei, pois, o meu furor sobre eles como água."
+    },
+    {
+      "numero": 11,
+      "texto": "Efraim está oprimido e quebrantado no juízo, porque quis andar após o mandamento dos homens."
+    },
+    {
+      "numero": 12,
+      "texto": "Portanto a Efraim serei como a traça, e para a casa de Judá como a podridão."
+    },
+    {
+      "numero": 13,
+      "texto": "Quando Efraim viu a sua enfermidade, e Judá a sua chaga, subiu Efraim à Assíria e enviou ao rei Jarebe; mas ele não poderá sarar-vos, nem curar a vossa chaga."
+    },
+    {
+      "numero": 14,
+      "texto": "Porque para Efraim serei como um leão, e como um leãozinho à casa de Judá: eu, eu o despedaçarei, e irme-ei embora; arrebatarei, e não haverá quem livre."
+    },
+    {
+      "numero": 15,
+      "texto": "Irei e voltarei ao meu lugar, até que se reconheçam culpados e busquem a minha face; estando eles angustiados, de madrugada me buscarão."
+    }
+  ]
+}

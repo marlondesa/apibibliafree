@@ -1,0 +1,61 @@
+{
+  "livro": "1 Coríntios",
+  "slug_livro": "1-corintios",
+  "testamento": "Novo Testamento",
+  "capitulo": 8,
+  "total_versiculos": 13,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ora, no tocante às coisas sacrificadas aos ídolos, sabemos que todos temos ciência. A ciência incha, mas o amor edifica."
+    },
+    {
+      "numero": 2,
+      "texto": "E, se alguém cuida saber alguma coisa, ainda não sabe como convém saber."
+    },
+    {
+      "numero": 3,
+      "texto": "Mas, se alguém ama a Deus, esse é conhecido dele."
+    },
+    {
+      "numero": 4,
+      "texto": "Assim que, quanto ao comer das coisas sacrificadas aos ídolos, sabemos que o ídolo nada é no mundo, e que não há outro Deus, senão um só."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque, ainda que haja também alguns que se chamem deuses, quer no céu quer na terra (como há muitos deuses e muitos senhores),"
+    },
+    {
+      "numero": 6,
+      "texto": "Todavia para nós há um só Deus, o Pai, de quem é tudo e para quem nós vivemos; e um só Senhor, Jesus Cristo, pelo qual são todas as coisas, e nós por ele."
+    },
+    {
+      "numero": 7,
+      "texto": "Mas nem em todos há conhecimento; porque alguns até agora comem, com consciência do ídolo, coisas sacrificadas ao ídolo; e a sua consciência, sendo fraca, fica contaminada."
+    },
+    {
+      "numero": 8,
+      "texto": "Ora a comida não nos faz agradáveis a Deus, porque, se comemos, nada temos de mais e, se não comemos, nada nos falta."
+    },
+    {
+      "numero": 9,
+      "texto": "Mas vede que essa liberdade não seja de alguma maneira escândalo para os fracos."
+    },
+    {
+      "numero": 10,
+      "texto": "Porque, se alguém te vir a ti, que tens ciência, sentado à mesa no templo dos ídolos, não será a consciência do que é fraco induzida a comer das coisas sacrificadas aos ídolos?"
+    },
+    {
+      "numero": 11,
+      "texto": "E pela tua ciência perecerá o irmão fraco, pelo qual Cristo morreu."
+    },
+    {
+      "numero": 12,
+      "texto": "Ora, pecando assim contra os irmãos, e ferindo a sua fraca consciência, pecais contra Cristo."
+    },
+    {
+      "numero": 13,
+      "texto": "Por isso, se a comida escandalizar a meu irmão, nunca mais comerei carne, para que meu irmão não se escandalize."
+    }
+  ]
+}

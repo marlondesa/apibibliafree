@@ -1,0 +1,33 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 1,
+  "total_versiculos": 6,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Bem-aventurado o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores."
+    },
+    {
+      "numero": 2,
+      "texto": "Antes tem o seu prazer na lei do Senhor, e na sua lei medita de dia e de noite."
+    },
+    {
+      "numero": 3,
+      "texto": "Pois será como a árvore plantada junto a ribeiros de águas, a qual dá o seu fruto no seu tempo; as suas folhas não cairão, e tudo quanto fizer prosperará."
+    },
+    {
+      "numero": 4,
+      "texto": "Não são assim os ímpios; mas são como a moinha que o vento espalha."
+    },
+    {
+      "numero": 5,
+      "texto": "Por isso os ímpios não subsistirão no juízo, nem os pecadores na congregação dos justos."
+    },
+    {
+      "numero": 6,
+      "texto": "Porque o Senhor conhece o caminho dos justos; porém o caminho dos ímpios perecerá."
+    }
+  ]
+}

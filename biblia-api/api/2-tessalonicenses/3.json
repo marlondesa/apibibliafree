@@ -1,0 +1,81 @@
+{
+  "livro": "2 Tessalonicenses",
+  "slug_livro": "2-tessalonicenses",
+  "testamento": "Novo Testamento",
+  "capitulo": 3,
+  "total_versiculos": 18,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No demais, irmãos, rogai por nós, para que a palavra do Senhor tenha livre curso e seja glorificada, como também o é entre vós;"
+    },
+    {
+      "numero": 2,
+      "texto": "E para que sejamos livres de homens dissolutos e maus; porque a fé não é de todos."
+    },
+    {
+      "numero": 3,
+      "texto": "Mas fiel é o Senhor, que vos confirmará, e guardará do maligno."
+    },
+    {
+      "numero": 4,
+      "texto": "E confiamos quanto a vós no Senhor, que não só fazeis como fareis o que vos mandamos."
+    },
+    {
+      "numero": 5,
+      "texto": "Ora o Senhor encaminhe os vossos corações no amor de Deus, e na paciência de Cristo."
+    },
+    {
+      "numero": 6,
+      "texto": "Mandamo-vos, porém, irmãos, em nome de nosso Senhor Jesus Cristo, que vos aparteis de todo o irmão que anda desordenadamente, e não segundo a tradição que de nós recebeu."
+    },
+    {
+      "numero": 7,
+      "texto": "Porque vós mesmos sabeis como convém imitar-nos, pois que não nos houvemos desordenadamente entre vós,"
+    },
+    {
+      "numero": 8,
+      "texto": "Nem de graça comemos o pão de homem algum, mas com trabalho e fadiga, trabalhando noite e dia, para não sermos pesados a nenhum de vós."
+    },
+    {
+      "numero": 9,
+      "texto": "Não porque não tivéssemos autoridade, mas para vos dar em nós mesmos exemplo, para nos imitardes."
+    },
+    {
+      "numero": 10,
+      "texto": "Porque, quando ainda estávamos convosco, vos mandamos isto, que, se alguém não quiser trabalhar, não coma também."
+    },
+    {
+      "numero": 11,
+      "texto": "Porquanto ouvimos que alguns entre vós andam desordenadamente, não trabalhando, antes fazendo coisas vãs."
+    },
+    {
+      "numero": 12,
+      "texto": "A esses tais, porém, mandamos, e exortamos por nosso Senhor Jesus Cristo, que, trabalhando com sossego, comam o seu próprio pão."
+    },
+    {
+      "numero": 13,
+      "texto": "E vós, irmãos, não vos canseis de fazer o bem."
+    },
+    {
+      "numero": 14,
+      "texto": "Mas, se alguém não obedecer à nossa palavra por esta carta, notai o tal, e não vos mistureis com ele, para que se envergonhe."
+    },
+    {
+      "numero": 15,
+      "texto": "Todavia não o tenhais como inimigo, mas admoestai-o como irmão."
+    },
+    {
+      "numero": 16,
+      "texto": "Ora, o mesmo Senhor da paz vos dê sempre paz de toda a maneira.O Senhor seja com todos vós."
+    },
+    {
+      "numero": 17,
+      "texto": "Saudação da minha própria mão, de mim, Paulo, que é o sinal em todas as epístolas; assim escrevo."
+    },
+    {
+      "numero": 18,
+      "texto": "A graça de nosso Senhor Jesus Cristo seja com todos vós. Amém."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 3,
+  "total_versiculos": 8,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Senhor, como se têm multiplicado os meus adversários! São muitos os que se levantam contra mim."
+    },
+    {
+      "numero": 2,
+      "texto": "Muitos dizem da minha alma: Não há salvação para ele em Deus. (Selá.)"
+    },
+    {
+      "numero": 3,
+      "texto": "Porém tu, Senhor, és um escudo para mim, a minha glória, e o que exalta a minha cabeça."
+    },
+    {
+      "numero": 4,
+      "texto": "Com a minha voz clamei ao Senhor, e ouviu-me desde o seu santo monte. (Selá.)"
+    },
+    {
+      "numero": 5,
+      "texto": "Eu me deitei e dormi; acordei, porque o Senhor me sustentou."
+    },
+    {
+      "numero": 6,
+      "texto": "Não temerei dez milhares de pessoas que se puseram contra mim e me cercam."
+    },
+    {
+      "numero": 7,
+      "texto": "Levanta-te, Senhor; salva-me, Deus meu; pois feriste a todos os meus inimigos nos queixos; quebraste os dentes aos ímpios."
+    },
+    {
+      "numero": 8,
+      "texto": "A salvação vem do Senhor; sobre o teu povo seja a tua bênção. (Selá.)"
+    }
+  ]
+}

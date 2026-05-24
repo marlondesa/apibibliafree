@@ -1,0 +1,53 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 32,
+  "total_versiculos": 11,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Bem-aventurado aquele cuja transgressão é perdoada, e cujo pecado é coberto."
+    },
+    {
+      "numero": 2,
+      "texto": "Bem-aventurado o homem a quem o Senhor não imputa maldade, e em cujo espírito não há engano."
+    },
+    {
+      "numero": 3,
+      "texto": "Quando eu guardei silêncio, envelheceram os meus ossos pelo meu bramido em todo o dia."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque de dia e de noite a tua mão pesava sobre mim; o meu humor se tornou em sequidão de estio. (Selá.)"
+    },
+    {
+      "numero": 5,
+      "texto": "Confessei-te o meu pecado, e a minha maldade não encobri. Dizia eu: Confessarei ao Senhor as minhas transgressões; e tu perdoaste a maldade do meu pecado. (Selá.)"
+    },
+    {
+      "numero": 6,
+      "texto": "Por isso, todo aquele que é santo orará a ti, a tempo de te poder achar; até no transbordar de muitas águas, estas não lhe chegarão."
+    },
+    {
+      "numero": 7,
+      "texto": "Tu és o lugar em que me escondo; tu me preservas da angústia; tu me cinges de alegres cantos de livramento. (Selá.)"
+    },
+    {
+      "numero": 8,
+      "texto": "Instruir-te-ei, e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos."
+    },
+    {
+      "numero": 9,
+      "texto": "Não sejais como o cavalo, nem como a mula, que não têm entendimento, cuja boca precisa de cabresto e freio para que não se cheguem a ti."
+    },
+    {
+      "numero": 10,
+      "texto": "O ímpio tem muitas dores, mas àquele que confia no Senhor a misericórdia o cercará."
+    },
+    {
+      "numero": 11,
+      "texto": "Alegrai-vos no Senhor, e regozijai-vos, vós os justos; e cantai alegremente, todos vós que sois retos de coração."
+    }
+  ]
+}

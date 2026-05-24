@@ -1,0 +1,8 @@
+{
+  "name": "biblia-api",
+  "version": "1.0.0",
+  "description": "API estática da Bíblia Sagrada - Almeida Corrigida Fiel (ACF)",
+  "scripts": {
+    "gerar": "node gerar.js"
+  }
+}

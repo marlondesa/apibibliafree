@@ -1,0 +1,49 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 146,
+  "total_versiculos": 10,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Louvai ao Senhor. Ó minha alma, louva ao Senhor."
+    },
+    {
+      "numero": 2,
+      "texto": "Louvarei ao Senhor durante a minha vida; cantarei louvores ao meu Deus enquanto eu for vivo."
+    },
+    {
+      "numero": 3,
+      "texto": "Não confieis em príncipes, nem em filho de homem, em quem não há salvação."
+    },
+    {
+      "numero": 4,
+      "texto": "Sai-lhe o espírito, volta para a terra; naquele mesmo dia perecem os seus pensamentos."
+    },
+    {
+      "numero": 5,
+      "texto": "Bem-aventurado aquele que tem o Deus de Jacó por seu auxílio, e cuja esperança está posta no Senhor seu Deus."
+    },
+    {
+      "numero": 6,
+      "texto": "O que fez os céus e a terra, o mar e tudo quanto há neles, e o que guarda a verdade para sempre;"
+    },
+    {
+      "numero": 7,
+      "texto": "O que faz justiça aos oprimidos, o que dá pão aos famintos. O Senhor solta os encarcerados."
+    },
+    {
+      "numero": 8,
+      "texto": "O Senhor abre os olhos aos cegos; o Senhor levanta os abatidos; o Senhor ama os justos;"
+    },
+    {
+      "numero": 9,
+      "texto": "O Senhor guarda os estrangeiros; sustém o órfão e a viúva, mas transtorna o caminho dos ímpios."
+    },
+    {
+      "numero": 10,
+      "texto": "O Senhor reinará eternamente; o teu Deus, ó Sião, de geração em geração. Louvai ao Senhor."
+    }
+  ]
+}

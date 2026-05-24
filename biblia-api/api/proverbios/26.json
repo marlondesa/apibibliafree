@@ -1,0 +1,121 @@
+{
+  "livro": "Provérbios",
+  "slug_livro": "proverbios",
+  "testamento": "Antigo Testamento",
+  "capitulo": 26,
+  "total_versiculos": 28,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Como a neve no verão, e como a chuva na sega, assim não fica bem para o tolo a honra."
+    },
+    {
+      "numero": 2,
+      "texto": "Como ao pássaro o vaguear, como à andorinha o voar, assim a maldição sem causa não virá."
+    },
+    {
+      "numero": 3,
+      "texto": "O açoite é para o cavalo, o freio é para o jumento, e a vara é para as costas dos tolos."
+    },
+    {
+      "numero": 4,
+      "texto": "Não respondas ao tolo segundo a sua estultícia; para que também não te faças semelhante a ele."
+    },
+    {
+      "numero": 5,
+      "texto": "Responde ao tolo segundo a sua estultícia, para que não seja sábio aos seus próprios olhos."
+    },
+    {
+      "numero": 6,
+      "texto": "Os pés corta, e o dano sorve, aquele que manda mensagem pela mão dum tolo."
+    },
+    {
+      "numero": 7,
+      "texto": "Como as pernas do coxo, que pendem flácidas, assim é o provérbio na boca dos tolos."
+    },
+    {
+      "numero": 8,
+      "texto": "Como o que arma a funda com pedra preciosa, assim é aquele que concede honra ao tolo."
+    },
+    {
+      "numero": 9,
+      "texto": "Como o espinho que entra na mão do bêbado, assim é o provérbio na boca dos tolos."
+    },
+    {
+      "numero": 10,
+      "texto": "O Poderoso, que formou todas as coisas, paga ao tolo, e recompensa ao transgressor."
+    },
+    {
+      "numero": 11,
+      "texto": "Como o cão torna ao seu vômito, assim o tolo repete a sua estultícia."
+    },
+    {
+      "numero": 12,
+      "texto": "Tens visto o homem que é sábio a seus próprios olhos? Pode-se esperar mais do tolo do que dele."
+    },
+    {
+      "numero": 13,
+      "texto": "Diz o preguiçoso: Um leão está no caminho; um leão está nas ruas."
+    },
+    {
+      "numero": 14,
+      "texto": "Como a porta gira nos seus gonzos, assim o preguiçoso na sua cama."
+    },
+    {
+      "numero": 15,
+      "texto": "O preguiçoso esconde a sua mão ao seio; e cansa-se até de torná-la à sua boca."
+    },
+    {
+      "numero": 16,
+      "texto": "Mais sábio é o preguiçoso a seus próprios olhos do que sete homens que respondem bem."
+    },
+    {
+      "numero": 17,
+      "texto": "O que, passando, se põe em questão alheia, é como aquele que pega um cão pelas orelhas."
+    },
+    {
+      "numero": 18,
+      "texto": "Como o louco que solta faíscas, flechas, e mortandades,"
+    },
+    {
+      "numero": 19,
+      "texto": "Assim é o homem que engana o seu próximo, e diz: Fiz isso por brincadeira."
+    },
+    {
+      "numero": 20,
+      "texto": "Sem lenha, o fogo se apagará; e não havendo intrigante, cessará a contenda."
+    },
+    {
+      "numero": 21,
+      "texto": "Como o carvão para as brasas, e a lenha para o fogo, assim é o homem contencioso para acender rixas."
+    },
+    {
+      "numero": 22,
+      "texto": "As palavras do intrigante são como doces bocados; elas descem ao mais íntimo do ventre."
+    },
+    {
+      "numero": 23,
+      "texto": "Como o caco de vaso coberto de escórias de prata, assim são os lábios ardentes com o coração maligno."
+    },
+    {
+      "numero": 24,
+      "texto": "Aquele que odeia dissimula com seus lábios, mas no seu íntimo encobre o engano;"
+    },
+    {
+      "numero": 25,
+      "texto": "Quando te suplicar com voz suave não te fies nele, porque abriga sete abominações no seu coração,"
+    },
+    {
+      "numero": 26,
+      "texto": "Cujo ódio se encobre com engano, a sua maldade será exposta perante a congregação."
+    },
+    {
+      "numero": 27,
+      "texto": "O que cava uma cova cairá nela; e o que revolve a pedra, esta voltará sobre ele."
+    },
+    {
+      "numero": 28,
+      "texto": "A língua falsa odeia aos que ela fere, e a boca lisonjeira provoca a ruína."
+    }
+  ]
+}

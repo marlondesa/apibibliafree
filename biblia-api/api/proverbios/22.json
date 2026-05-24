@@ -1,0 +1,125 @@
+{
+  "livro": "Provérbios",
+  "slug_livro": "proverbios",
+  "testamento": "Antigo Testamento",
+  "capitulo": 22,
+  "total_versiculos": 29,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Vale mais ter um bom nome do que muitas riquezas; e o ser estimado é melhor do que a riqueza e o ouro."
+    },
+    {
+      "numero": 2,
+      "texto": "O rico e o pobre se encontram; a todos o Senhor os fez."
+    },
+    {
+      "numero": 3,
+      "texto": "O prudente prevê o mal, e esconde-se; mas os simples passam e acabam pagando."
+    },
+    {
+      "numero": 4,
+      "texto": "O galardão da humildade e o temor do Senhor são riquezas, honra e vida."
+    },
+    {
+      "numero": 5,
+      "texto": "Espinhos e laços há no caminho do perverso; o que guarda a sua alma retira-se para longe dele."
+    },
+    {
+      "numero": 6,
+      "texto": "Educa a criança no caminho em que deve andar; e até quando envelhecer não se desviará dele."
+    },
+    {
+      "numero": 7,
+      "texto": "O rico domina sobre os pobres e o que toma emprestado é servo do que empresta."
+    },
+    {
+      "numero": 8,
+      "texto": "O que semear a perversidade segará males; e com a vara da sua própria indignação será extinto."
+    },
+    {
+      "numero": 9,
+      "texto": "O que vê com bons olhos será abençoado, porque dá do seu pão ao pobre."
+    },
+    {
+      "numero": 10,
+      "texto": "Lança fora o escarnecedor, e se irá a contenda; e acabará a questão e a vergonha."
+    },
+    {
+      "numero": 11,
+      "texto": "O que ama a pureza de coração, e é amável de lábios, será amigo do rei."
+    },
+    {
+      "numero": 12,
+      "texto": "Os olhos do Senhor conservam o conhecimento, mas as palavras do iníquo ele transtornará."
+    },
+    {
+      "numero": 13,
+      "texto": "Diz o preguiçoso: Um leão está lá fora; serei morto no meio das ruas."
+    },
+    {
+      "numero": 14,
+      "texto": "Cova profunda é a boca das mulheres estranhas; aquele contra quem o Senhor se irar, cairá nela."
+    },
+    {
+      "numero": 15,
+      "texto": "A estultícia está ligada ao coração da criança, mas a vara da correção a afugentará dela."
+    },
+    {
+      "numero": 16,
+      "texto": "O que oprime ao pobre para se engrandecer a si mesmo, ou o que dá ao rico, certamente empobrecerá."
+    },
+    {
+      "numero": 17,
+      "texto": "Inclina o teu ouvido e ouve as palavras dos sábios, e aplica o teu coração ao meu conhecimento."
+    },
+    {
+      "numero": 18,
+      "texto": "Porque te será agradável se as guardares no teu íntimo, se aplicares todas elas aos teus lábios."
+    },
+    {
+      "numero": 19,
+      "texto": "Para que a tua confiança esteja no Senhor, faço-te sabê-las hoje, a ti mesmo."
+    },
+    {
+      "numero": 20,
+      "texto": "Porventura não te escrevi excelentes coisas, acerca de todo conselho e conhecimento,"
+    },
+    {
+      "numero": 21,
+      "texto": "Para fazer-te saber a certeza das palavras da verdade, e assim possas responder palavras de verdade aos que te consultarem?"
+    },
+    {
+      "numero": 22,
+      "texto": "Não roubes ao pobre, porque é pobre, nem atropeles na porta o aflito;"
+    },
+    {
+      "numero": 23,
+      "texto": "Porque o Senhor defenderá a sua causa em juízo, e aos que os roubam ele lhes tirará a vida."
+    },
+    {
+      "numero": 24,
+      "texto": "Não sejas companheiro do homem briguento nem andes com o colérico,"
+    },
+    {
+      "numero": 25,
+      "texto": "Para que não aprendas as suas veredas, e tomes um laço para a tua alma."
+    },
+    {
+      "numero": 26,
+      "texto": "Não estejas entre os que se comprometem, e entre os que ficam por fiadores de dívidas,"
+    },
+    {
+      "numero": 27,
+      "texto": "Pois se não tens com que pagar, deixarias que te tirassem até a tua cama de debaixo de ti?"
+    },
+    {
+      "numero": 28,
+      "texto": "Não removas os antigos limites que teus pais fizeram."
+    },
+    {
+      "numero": 29,
+      "texto": "Viste o homem diligente na sua obra? Perante reis será posto; não permanecerá entre os de posição inferior."
+    }
+  ]
+}

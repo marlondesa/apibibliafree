@@ -1,0 +1,85 @@
+{
+  "livro": "1 Pedro",
+  "slug_livro": "1-pedro",
+  "testamento": "Novo Testamento",
+  "capitulo": 4,
+  "total_versiculos": 19,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ora, pois, já que Cristo padeceu por nós na carne, armai-vos também vós com este mesmo pensamento, que aquele que padeceu na carne já cessou do pecado;"
+    },
+    {
+      "numero": 2,
+      "texto": "Para que, no tempo que vos resta na carne, não vivais mais segundo as concupiscências dos homens, mas segundo a vontade de Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque é bastante que no tempo passado da vida fizéssemos a vontade dos gentios, andando em dissoluções, concupiscências, borrachices, glutonarias, bebedices e abomináveis idolatrias;"
+    },
+    {
+      "numero": 4,
+      "texto": "E acham estranho não correrdes com eles no mesmo desenfreamento de dissolução, blasfemando de vós."
+    },
+    {
+      "numero": 5,
+      "texto": "Os quais hão de dar conta ao que está preparado para julgar os vivos e os mortos."
+    },
+    {
+      "numero": 6,
+      "texto": "Porque por isto foi pregado o evangelho também aos mortos, para que, na verdade, fossem julgados segundo os homens na carne, mas vivessem segundo Deus em espírito;"
+    },
+    {
+      "numero": 7,
+      "texto": "E já está próximo o fim de todas as coisas; portanto sede sóbrios e vigiai em oração."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas, sobretudo, tende ardente amor uns para com os outros; porque o amor cobrirá a multidão de pecados."
+    },
+    {
+      "numero": 9,
+      "texto": "Sendo hospitaleiros uns para com os outros, sem murmurações,"
+    },
+    {
+      "numero": 10,
+      "texto": "Cada um administre aos outros o dom como o recebeu, como bons despenseiros da multiforme graça de Deus."
+    },
+    {
+      "numero": 11,
+      "texto": "Se alguém falar, fale segundo as palavras de Deus; se alguém administrar, administre segundo o poder que Deus dá; para que em tudo Deus seja glorificado por Jesus Cristo, a quem pertence a glória e poder para todo o sempre. Amém."
+    },
+    {
+      "numero": 12,
+      "texto": "Amados, não estranheis a ardente prova que vem sobre vós para vos tentar, como se coisa estranha vos acontecesse;"
+    },
+    {
+      "numero": 13,
+      "texto": "Mas alegrai-vos no fato de serdes participantes das aflições de Cristo, para que também na revelação da sua glória vos regozijeis e alegreis."
+    },
+    {
+      "numero": 14,
+      "texto": "Se pelo nome de Cristo sois vituperados, bem-aventurados sois, porque sobre vós repousa o Espírito da glória e de Deus; quanto a eles, é ele, sim, blasfemado, mas quanto a vós, é glorificado."
+    },
+    {
+      "numero": 15,
+      "texto": "Que nenhum de vós padeça como homicida, ou ladrão, ou malfeitor, ou como o que se entremete em negócios alheios;"
+    },
+    {
+      "numero": 16,
+      "texto": "Mas, se padece como cristão, não se envergonhe, antes glorifique a Deus nesta parte."
+    },
+    {
+      "numero": 17,
+      "texto": "Porque já é tempo que comece o julgamento pela casa de Deus; e, se primeiro começa por nós, qual será o fim daqueles que são desobedientes ao evangelho de Deus?"
+    },
+    {
+      "numero": 18,
+      "texto": "E, se o justo apenas se salva, onde aparecerá o ímpio e o pecador?"
+    },
+    {
+      "numero": 19,
+      "texto": "Portanto também os que padecem segundo a vontade de Deus encomendem-lhe as suas almas, como ao fiel Criador, fazendo o bem."
+    }
+  ]
+}

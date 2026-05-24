@@ -1,0 +1,233 @@
+{
+  "livro": "Lucas",
+  "slug_livro": "lucas",
+  "testamento": "Novo Testamento",
+  "capitulo": 8,
+  "total_versiculos": 56,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E aconteceu, depois disto, que andava de cidade em cidade, e de aldeia em aldeia, pregando e anunciando o evangelho do reino de Deus; e os doze iam com ele,"
+    },
+    {
+      "numero": 2,
+      "texto": "E algumas mulheres que haviam sido curadas de espíritos malignos e de enfermidades: Maria, chamada Madalena, da qual saíram sete demônios;"
+    },
+    {
+      "numero": 3,
+      "texto": "E Joana, mulher de Cuza, procurador de Herodes, e Suzana, e muitas outras que o serviam com seus bens."
+    },
+    {
+      "numero": 4,
+      "texto": "E, ajuntando-se uma grande multidão, e vindo de todas as cidades ter com ele, disse por parábola:"
+    },
+    {
+      "numero": 5,
+      "texto": "Um semeador saiu a semear a sua semente e, quando semeava, caiu alguma junto do caminho, e foi pisada, e as aves do céu a comeram;"
+    },
+    {
+      "numero": 6,
+      "texto": "E outra caiu sobre pedra e, nascida, secou-se, pois que não tinha umidade;"
+    },
+    {
+      "numero": 7,
+      "texto": "E outra caiu entre espinhos e crescendo com ela os espinhos, a sufocaram;"
+    },
+    {
+      "numero": 8,
+      "texto": "E outra caiu em boa terra, e, nascida, produziu fruto, a cento por um. Dizendo ele estas coisas, clamava: Quem tem ouvidos para ouvir, ouça."
+    },
+    {
+      "numero": 9,
+      "texto": "E os seus discípulos o interrogaram, dizendo: Que parábola é esta?"
+    },
+    {
+      "numero": 10,
+      "texto": "E ele disse: A vós vos é dado conhecer os mistérios do reino de Deus, mas aos outros por parábolas, para que vendo, não vejam, e ouvindo, não entendam."
+    },
+    {
+      "numero": 11,
+      "texto": "Esta é, pois, a parábola: A semente é a palavra de Deus;"
+    },
+    {
+      "numero": 12,
+      "texto": "E os que estão junto do caminho, estes são os que ouvem; depois vem o diabo, e tira-lhes do coração a palavra, para que não se salvem, crendo;"
+    },
+    {
+      "numero": 13,
+      "texto": "E os que estão sobre pedra, estes são os que, ouvindo a palavra, a recebem com alegria, mas, como não têm raiz, apenas crêem por algum tempo, e no tempo da tentação se desviam;"
+    },
+    {
+      "numero": 14,
+      "texto": "E a que caiu entre espinhos, esses são os que ouviram e, indo pordiante, são sufocados com os cuidados e riquezas e deleites da vida, e não dão fruto com perfeição;"
+    },
+    {
+      "numero": 15,
+      "texto": "E a que caiu em boa terra, esses são os que, ouvindo a palavra, a conservam num coração honesto e bom, e dão fruto com perseverança."
+    },
+    {
+      "numero": 16,
+      "texto": "E ninguém, acendendo uma candeia, a cobre com algum vaso, ou a põe debaixo da cama; mas põe-na no velador, para que os que entram vejam a luz."
+    },
+    {
+      "numero": 17,
+      "texto": "Porque não há coisa oculta que não haja de manifestar-se, nem escondida que não haja de saber-se e vir à luz."
+    },
+    {
+      "numero": 18,
+      "texto": "Vede, pois, como ouvis; porque a qualquer que tiver lhe será dado, e a qualquer que não tiver até o que parece ter lhe será tirado."
+    },
+    {
+      "numero": 19,
+      "texto": "E foram ter com ele sua mãe e seus irmãos, e não podiam aproximar-se dele, por causa da multidão."
+    },
+    {
+      "numero": 20,
+      "texto": "E foi-lhe dito: Estão lá fora tua mãe e teus irmãos, que querem ver-te."
+    },
+    {
+      "numero": 21,
+      "texto": "Mas, respondendo ele, disse-lhes: Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus e a executam."
+    },
+    {
+      "numero": 22,
+      "texto": "E aconteceu que, num daqueles dias, entrou num barco com seus discípulos, e disse-lhes: Passemos para o outro lado do lago. E partiram."
+    },
+    {
+      "numero": 23,
+      "texto": "E, navegando eles, adormeceu; e sobreveio uma tempestade de vento no lago, e enchiam-se de água, estando em perigo."
+    },
+    {
+      "numero": 24,
+      "texto": "E, chegando-se a ele, o despertaram, dizendo: Mestre, Mestre, perecemos. E ele, levantando-se, repreendeu o vento e a fúria da água; e cessaram, e fez-se bonança."
+    },
+    {
+      "numero": 25,
+      "texto": "E disse-lhes: Onde está a vossa fé? E eles, temendo, maravilharam-se, dizendo uns aos outros: Quem é este, que até aos ventos e à água manda, e lhe obedecem?"
+    },
+    {
+      "numero": 26,
+      "texto": "E navegaram para a terra dos gadarenos, que está defronte da Galiléia."
+    },
+    {
+      "numero": 27,
+      "texto": "E, quando desceu para terra, saiu-lhe ao encontro, vindo da cidade, um homem que desde muito tempo estava possesso de demônios, e não andava vestido, nem habitava em qualquer casa, mas nos sepulcros."
+    },
+    {
+      "numero": 28,
+      "texto": "E, quando viu a Jesus, prostrou-se diante dele, exclamando, e dizendo com grande voz: Que tenho eu contigo, Jesus, Filho do Deus Altíssimo? Peço-te que não me atormentes."
+    },
+    {
+      "numero": 29,
+      "texto": "Porque tinha ordenado ao espírito imundo que saísse daquele homem; pois já havia muito tempo que o arrebatava. E guardavamno preso, com grilhões e cadeias; mas, quebrando as prisões, era impelido pelo demônio para os desertos."
+    },
+    {
+      "numero": 30,
+      "texto": "E perguntou-lhe Jesus, dizendo: Qual é o teu nome? E ele disse: Legião; porque tinham entrado nele muitos demônios."
+    },
+    {
+      "numero": 31,
+      "texto": "E rogavam-lhe que os não mandasse para o abismo."
+    },
+    {
+      "numero": 32,
+      "texto": "E andava ali pastando no monte uma vara de muitos porcos; e rogaram-lhe que lhes concedesse entrar neles; e concedeu-lho."
+    },
+    {
+      "numero": 33,
+      "texto": "E, tendo saído os demônios do homem, entraram nos porcos, e a manada precipitou-se de um despenhadeiro no lago, e afogou-se."
+    },
+    {
+      "numero": 34,
+      "texto": "E aqueles que os guardavam, vendo o que acontecera, fugiram, e foram anunciá-lo na cidade e nos campos."
+    },
+    {
+      "numero": 35,
+      "texto": "E saíram a ver o que tinha acontecido, e vieram ter com Jesus. Acharam então o homem, de quem haviam saído os demônios, vestido, e em seu juízo, assentado aos pés de Jesus; e temeram."
+    },
+    {
+      "numero": 36,
+      "texto": "E os que tinham visto contaram-lhes também como fora salvo aquele endemoninhado."
+    },
+    {
+      "numero": 37,
+      "texto": "E toda a multidão da terra dos gadarenos ao redor lhe rogou que se retirasse deles; porque estavam possuídos de grande temor. E entrando ele no barco, voltou."
+    },
+    {
+      "numero": 38,
+      "texto": "E aquele homem, de quem haviam saído os demônios, rogou-lhe que o deixasse estar com ele; mas Jesus o despediu, dizendo:"
+    },
+    {
+      "numero": 39,
+      "texto": "Torna para tua casa, e conta quão grandes coisas te fez Deus. E ele foi apregoando por toda a cidade quão grandes coisas Jesus lhe tinha feito."
+    },
+    {
+      "numero": 40,
+      "texto": "E aconteceu que, quando voltou Jesus, a multidão o recebeu, porque todos o estavam esperando."
+    },
+    {
+      "numero": 41,
+      "texto": "E eis que chegou um homem de nome Jairo, que era príncipe da sinagoga; e, prostrando-se aos pés de Jesus, rogava-lhe que entrasse em sua casa;"
+    },
+    {
+      "numero": 42,
+      "texto": "Porque tinha uma filha única, quase de doze anos, que estava à morte. E indo ele, apertava-o a multidão."
+    },
+    {
+      "numero": 43,
+      "texto": "E uma mulher, que tinha um fluxo de sangue, havia doze anos, e gastara com os médicos todos os seus haveres, e por nenhum pudera ser curada,"
+    },
+    {
+      "numero": 44,
+      "texto": "Chegando por detrás dele, tocou na orla do seu vestido, e logo estancou o fluxo do seu sangue."
+    },
+    {
+      "numero": 45,
+      "texto": "E disse Jesus: Quem é que me tocou? E, negando todos, disse Pedro e os que estavam com ele: Mestre, a multidão te aperta e te oprime, e dizes: Quem é que me tocou?"
+    },
+    {
+      "numero": 46,
+      "texto": "E disse Jesus: Alguém me tocou, porque bem conheci que de mim saiu virtude."
+    },
+    {
+      "numero": 47,
+      "texto": "Então, vendo a mulher que não podia ocultar-se, aproximou-se tremendo e, prostrando-se ante ele, declarou-lhe diante de todo o povo a causa por que lhe havia tocado, e como logo sarara."
+    },
+    {
+      "numero": 48,
+      "texto": "E ele lhe disse: Tem bom ânimo, filha, a tua fé te salvou; vai em paz."
+    },
+    {
+      "numero": 49,
+      "texto": "Estando ele ainda falando, chegou um dos do príncipe da sinagoga, dizendo: A tua filha já está morta, não incomodes o Mestre."
+    },
+    {
+      "numero": 50,
+      "texto": "Jesus, porém, ouvindo-o, respondeu-lhe, dizendo: Não temas; crê somente, e será salva."
+    },
+    {
+      "numero": 51,
+      "texto": "E, entrando em casa, a ninguém deixou entrar, senão a Pedro, e a Tiago, e a João, e ao pai e a mãe da menina."
+    },
+    {
+      "numero": 52,
+      "texto": "E todos choravam, e a pranteavam; e ele disse: Não choreis; não está morta, mas dorme."
+    },
+    {
+      "numero": 53,
+      "texto": "E riam-se dele, sabendo que estava morta."
+    },
+    {
+      "numero": 54,
+      "texto": "Mas ele, pondo-os todos fora, e pegando-lhe na mão, clamou, dizendo: Levanta-te, menina."
+    },
+    {
+      "numero": 55,
+      "texto": "E o seu espírito voltou, e ela logo se levantou; e Jesus mandou que lhe dessem de comer."
+    },
+    {
+      "numero": 56,
+      "texto": "E seus pais ficaram maravilhados; e ele lhes mandou que a ninguém dissessem o que havia sucedido."
+    }
+  ]
+}

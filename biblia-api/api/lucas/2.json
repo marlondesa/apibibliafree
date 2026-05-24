@@ -1,0 +1,217 @@
+{
+  "livro": "Lucas",
+  "slug_livro": "lucas",
+  "testamento": "Novo Testamento",
+  "capitulo": 2,
+  "total_versiculos": 52,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E aconteceu naqueles dias que saiu um decreto da parte de César Augusto, para que todo o mundo se alistasse"
+    },
+    {
+      "numero": 2,
+      "texto": "(Este primeiro alistamento foi feito sendo Quirino presidente da Síria)."
+    },
+    {
+      "numero": 3,
+      "texto": "E todos iam alistar-se, cada um à sua própria cidade."
+    },
+    {
+      "numero": 4,
+      "texto": "E subiu também José da Galiléia, da cidade de Nazaré, à Judéia, à cidade de Davi, chamada Belém (porque era da casa e família de Davi),"
+    },
+    {
+      "numero": 5,
+      "texto": "A fim de alistar-se com Maria, sua esposa, que estava grávida."
+    },
+    {
+      "numero": 6,
+      "texto": "E aconteceu que, estando eles ali, se cumpriram os dias em que ela havia de dar à luz."
+    },
+    {
+      "numero": 7,
+      "texto": "E deu à luz a seu filho primogênito, e envolveu-o em panos, e deitou-o numa manjedoura, porque não havia lugar para eles na estalagem."
+    },
+    {
+      "numero": 8,
+      "texto": "Ora, havia naquela mesma comarca pastores que estavam no campo, e guardavam, durante as vigílias da noite, o seu rebanho."
+    },
+    {
+      "numero": 9,
+      "texto": "E eis que o anjo do Senhor veio sobre eles, e a glória do Senhor os cercou de resplendor, e tiveram grande temor."
+    },
+    {
+      "numero": 10,
+      "texto": "E o anjo lhes disse: Não temais, porque eis aqui vos trago novas de grande alegria, que será para todo o povo:"
+    },
+    {
+      "numero": 11,
+      "texto": "Pois, na cidade de Davi, vos nasceu hoje o Salvador, que é Cristo, o Senhor."
+    },
+    {
+      "numero": 12,
+      "texto": "E isto vos será por sinal: Achareis o menino envolto em panos, e deitado numa manjedoura."
+    },
+    {
+      "numero": 13,
+      "texto": "E, no mesmo instante, apareceu com o anjo uma multidão dos exércitos celestiais, louvando a Deus, e dizendo:"
+    },
+    {
+      "numero": 14,
+      "texto": "Glória a Deus nas alturas, Paz na terra, boa vontade para com os homens."
+    },
+    {
+      "numero": 15,
+      "texto": "E aconteceu que, ausentando-se deles os anjos para o céu, disseram os pastores uns aos outros: Vamos, pois, até Belém, e vejamos isso que aconteceu, e que o Senhor nos fez saber."
+    },
+    {
+      "numero": 16,
+      "texto": "E foram apressadamente, e acharam Maria, e José, e o menino deitado na manjedoura."
+    },
+    {
+      "numero": 17,
+      "texto": "E, vendo-o, divulgaram a palavra que acerca do menino lhes fora dita;"
+    },
+    {
+      "numero": 18,
+      "texto": "E todos os que a ouviram se maravilharam do que os pastores lhes diziam."
+    },
+    {
+      "numero": 19,
+      "texto": "Mas Maria guardava todas estas coisas, conferindo-as em seu coração."
+    },
+    {
+      "numero": 20,
+      "texto": "E voltaram os pastores, glorificando e louvando a Deus por tudo o que tinham ouvido e visto, como lhes havia sido dito."
+    },
+    {
+      "numero": 21,
+      "texto": "E, quando os oito dias foram cumpridos, para circuncidar o menino, foi-lhe dado o nome de Jesus, que pelo anjo lhe fora posto antes de ser concebido."
+    },
+    {
+      "numero": 22,
+      "texto": "E, cumprindo-se os dias da purificação dela, segundo a lei de Moisés, o levaram a Jerusalém, para o apresentarem ao Senhor"
+    },
+    {
+      "numero": 23,
+      "texto": "(Segundo o que está escrito na lei do Senhor: Todo o macho primogênito será consagrado ao Senhor);"
+    },
+    {
+      "numero": 24,
+      "texto": "E para darem a oferta segundo o disposto na lei do Senhor: Um par de rolas ou dois pombinhos."
+    },
+    {
+      "numero": 25,
+      "texto": "Havia em Jerusalém um homem cujo nome era Simeão; e este homem era justo e temente a Deus, esperando a consolação de Israel; e o Espírito Santo estava sobre ele."
+    },
+    {
+      "numero": 26,
+      "texto": "E fora-lhe revelado, pelo Espírito Santo, que ele não morreria antes de ter visto o Cristo do Senhor."
+    },
+    {
+      "numero": 27,
+      "texto": "E pelo Espírito foi ao templo e, quando os pais trouxeram o menino Jesus, para com ele procederem segundo o uso da lei,"
+    },
+    {
+      "numero": 28,
+      "texto": "Ele, então, o tomou em seus braços, e louvou a Deus, e disse:"
+    },
+    {
+      "numero": 29,
+      "texto": "Agora, Senhor, despedes em paz o teu servo, Segundo a tua palavra;"
+    },
+    {
+      "numero": 30,
+      "texto": "Pois já os meus olhos viram a tua salvação,"
+    },
+    {
+      "numero": 31,
+      "texto": "A qual tu preparaste perante a face de todos os povos;"
+    },
+    {
+      "numero": 32,
+      "texto": "Luz para iluminar as nações, E para glória de teu povo Israel."
+    },
+    {
+      "numero": 33,
+      "texto": "E José, e sua mãe, se maravilharam das coisas que dele se diziam."
+    },
+    {
+      "numero": 34,
+      "texto": "E Simeão os abençoou, e disse a Maria, sua mãe: Eis que este é posto para queda e elevação de muitos em Israel, e para sinal que é contraditado"
+    },
+    {
+      "numero": 35,
+      "texto": "(E uma espada traspassará também a tua própria alma); para que se manifestem os pensamentos de muitos corações."
+    },
+    {
+      "numero": 36,
+      "texto": "E estava ali a profetisa Ana, filha de Fanuel, da tribo de Aser. Esta era já avançada em idade, e tinha vivido com o marido sete anos, desde a sua virgindade;"
+    },
+    {
+      "numero": 37,
+      "texto": "E era viúva, de quase oitenta e quatro anos, e não se afastava do templo, servindo a Deus em jejuns e orações, de noite e de dia."
+    },
+    {
+      "numero": 38,
+      "texto": "E sobrevindo na mesma hora, ela dava graças a Deus, e falava dele a todos os que esperavam a redenção em Jerusalém."
+    },
+    {
+      "numero": 39,
+      "texto": "E, quando acabaram de cumprir tudo segundo a lei do Senhor, voltaram à Galiléia, para a sua cidade de Nazaré."
+    },
+    {
+      "numero": 40,
+      "texto": "E o menino crescia, e se fortalecia em espírito, cheio de sabedoria; e a graça de Deus estava sobre ele."
+    },
+    {
+      "numero": 41,
+      "texto": "Ora, todos os anos iam seus pais a Jerusalém à festa da páscoa;"
+    },
+    {
+      "numero": 42,
+      "texto": "E, tendo ele já doze anos, subiram a Jerusalém, segundo o costume do dia da festa."
+    },
+    {
+      "numero": 43,
+      "texto": "E, regressando eles, terminados aqueles dias, ficou o menino Jesus em Jerusalém, e não o soube José, nem sua mãe."
+    },
+    {
+      "numero": 44,
+      "texto": "Pensando, porém, eles que viria de companhia pelo caminho, andaram caminho de um dia, e procuravam-no entre os parentes e conhecidos;"
+    },
+    {
+      "numero": 45,
+      "texto": "E, como o não encontrassem, voltaram a Jerusalém em busca dele."
+    },
+    {
+      "numero": 46,
+      "texto": "E aconteceu que, passados três dias, o acharam no templo, assentado no meio dos doutores, ouvindo-os, e interrogando-os."
+    },
+    {
+      "numero": 47,
+      "texto": "E todos os que o ouviam admiravam a sua inteligência e respostas."
+    },
+    {
+      "numero": 48,
+      "texto": "E quando o viram, maravilharam-se, e disse-lhe sua mãe: Filho, por que fizeste assim para conosco? Eis que teu pai e eu ansiosos te procurávamos."
+    },
+    {
+      "numero": 49,
+      "texto": "E ele lhes disse: Por que é que me procuráveis? Não sabeis que me convém tratar dos negócios de meu Pai?"
+    },
+    {
+      "numero": 50,
+      "texto": "E eles não compreenderam as palavras que lhes dizia."
+    },
+    {
+      "numero": 51,
+      "texto": "E desceu com eles, e foi para Nazaré, e era-lhes sujeito. E sua mãe guardava no seu coração todas estas coisas."
+    },
+    {
+      "numero": 52,
+      "texto": "E crescia Jesus em sabedoria, e em estatura, e em graça para com Deus e os homens."
+    }
+  ]
+}

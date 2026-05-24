@@ -1,0 +1,77 @@
+{
+  "livro": "Ester",
+  "slug_livro": "ester",
+  "testamento": "Antigo Testamento",
+  "capitulo": 4,
+  "total_versiculos": 17,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Quando Mardoqueu soube tudo quanto se havia passado, rasgou as suas vestes, e vestiu-se de saco e de cinza, e saiu pelo meio da cidade, e clamou com grande e amargo clamor;"
+    },
+    {
+      "numero": 2,
+      "texto": "E chegou até diante da porta do rei, porque ninguém vestido de saco podia entrar pelas portas do rei."
+    },
+    {
+      "numero": 3,
+      "texto": "E em todas as províncias aonde a palavra do rei e a sua lei chegava, havia entre os judeus grande luto, com jejum, e choro, e lamentação; e muitos estavam deitados em saco e em cinza."
+    },
+    {
+      "numero": 4,
+      "texto": "Então vieram as servas de Ester, e os seus camareiros, e fizeram-na saber, do que a rainha muito se doeu; e mandou roupas para vestir a Mardoqueu, e tirar-lhe o pano de saco; porém ele não as aceitou."
+    },
+    {
+      "numero": 5,
+      "texto": "Então Ester chamou a Hatá (um dos camareiros do rei, que este tinha posto para servi-la), e deu-lhe ordem para ir a Mardoqueu, para saber que era aquilo, e porquê."
+    },
+    {
+      "numero": 6,
+      "texto": "E, saindo Hatá a Mardoqueu, à praça da cidade, que estava diante da porta do rei,"
+    },
+    {
+      "numero": 7,
+      "texto": "Mardoqueu lhe fez saber tudo quanto lhe tinha sucedido; como também a soma exata do dinheiro, que Hamã dissera que daria para os tesouros do rei, pelos judeus, para destruí-los."
+    },
+    {
+      "numero": 8,
+      "texto": "Também lhe deu a cópia da lei escrita, que se publicara em Susã, para os destruir, para que a mostrasse a Ester, e a fizesse saber; e para lhe ordenar que fosse ter com o rei, e lhe pedisse e suplicasse na sua presença pelo seu povo."
+    },
+    {
+      "numero": 9,
+      "texto": "Veio, pois, Hatá, e fez saber a Ester as palavras de Mardoqueu."
+    },
+    {
+      "numero": 10,
+      "texto": "Então falou Ester a Hatá, mandando-o dizer a Mardoqueu:"
+    },
+    {
+      "numero": 11,
+      "texto": "Todos os servos do rei, e o povo das províncias do rei, bem sabem que todo o homem ou mulher que chegar ao rei no pátio interior, sem ser chamado, não há senão uma sentença, a de morte, salvo se o rei estender para ele o cetro de ouro, para que viva; e eu nestes trinta dias não tenho sido chamada para ir ao rei."
+    },
+    {
+      "numero": 12,
+      "texto": "E fizeram saber a Mardoqueu as palavras de Ester."
+    },
+    {
+      "numero": 13,
+      "texto": "Então Mardoqueu mandou que respondessem a Ester: Não imagines no teu íntimo que, por estares na casa do rei, escaparás só tu entre todos os judeus."
+    },
+    {
+      "numero": 14,
+      "texto": "Porque, se de todo te calares neste tempo, socorro e livramento de outra parte sairá para os judeus, mas tu e a casa de teu pai perecereis; e quem sabe se para tal tempo como este chegaste a este reino?"
+    },
+    {
+      "numero": 15,
+      "texto": "Então disse Ester que tornassem a dizer a Mardoqueu:"
+    },
+    {
+      "numero": 16,
+      "texto": "Vai, ajunta a todos os judeus que se acharem em Susã, e jejuai por mim, e não comais nem bebais por três dias, nem de dia nem de noite, e eu e as minhas servas também assim jejuaremos. E assim irei ter com o rei, ainda que não seja segundo a lei; e se perecer, pereci."
+    },
+    {
+      "numero": 17,
+      "texto": "Então Mardoqueu foi, e fez conforme a tudo quanto Ester lhe ordenou."
+    }
+  ]
+}

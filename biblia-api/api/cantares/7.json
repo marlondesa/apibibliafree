@@ -1,0 +1,61 @@
+{
+  "livro": "Cantares",
+  "slug_livro": "cantares",
+  "testamento": "Antigo Testamento",
+  "capitulo": 7,
+  "total_versiculos": 13,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Quão formosos são os teus pés nos sapatos, ó filha do príncipe! Os contornos de tuas coxas são como jóias, trabalhadas por mãos de artista."
+    },
+    {
+      "numero": 2,
+      "texto": "O teu umbigo como uma taça redonda, a que não falta bebida; o teu ventre como montão de trigo, cercado de lírios."
+    },
+    {
+      "numero": 3,
+      "texto": "Os teus dois seios como dois filhos gêmeos de gazela."
+    },
+    {
+      "numero": 4,
+      "texto": "O teu pescoço como a torre de marfim; os teus olhos como as piscinas de Hesbom, junto à porta de Bate-Rabim; o teu nariz como torre do Líbano, que olha para Damasco."
+    },
+    {
+      "numero": 5,
+      "texto": "A tua cabeça sobre ti é como o monte Carmelo, e os cabelos da tua cabeça como a púrpura; o rei está preso nas galerias."
+    },
+    {
+      "numero": 6,
+      "texto": "Quão formosa, e quão aprazível és, ó amor em delícias!"
+    },
+    {
+      "numero": 7,
+      "texto": "A tua estatura é semelhante à palmeira; e os teus seios são semelhantes aos cachos de uvas."
+    },
+    {
+      "numero": 8,
+      "texto": "Dizia eu: Subirei à palmeira, pegarei em seus ramos; e então os teus seios serão como os cachos na vide, e o cheiro da tua respiração como o das maçãs."
+    },
+    {
+      "numero": 9,
+      "texto": "E a tua boca como o bom vinho para o meu amado, que se bebe suavemente, e faz com que falem os lábios dos que dormem."
+    },
+    {
+      "numero": 10,
+      "texto": "Eu sou do meu amado, e ele me tem afeição."
+    },
+    {
+      "numero": 11,
+      "texto": "Vem, ó amado meu, saiamos ao campo, passemos as noites nas aldeias."
+    },
+    {
+      "numero": 12,
+      "texto": "Levantemo-nos de manhã para ir às vinhas, vejamos se florescem as vides, se já aparecem as tenras uvas, se já brotam as romãzeiras; ali te darei os meus amores."
+    },
+    {
+      "numero": 13,
+      "texto": "As mandrágoras exalam o seu perfume, e às nossas portas há todo o gênero de excelentes frutos, novos e velhos; ó amado meu, eu os guardei para ti."
+    }
+  ]
+}

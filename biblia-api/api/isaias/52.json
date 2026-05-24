@@ -1,0 +1,69 @@
+{
+  "livro": "Isaías",
+  "slug_livro": "isaias",
+  "testamento": "Antigo Testamento",
+  "capitulo": 52,
+  "total_versiculos": 15,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Desperta, desperta, veste-te da tua fortaleza, ó Sião; veste-te das tuas roupas formosas, ó Jerusalém, cidade santa, porque nunca mais entrará em ti nem incircunciso nem imundo."
+    },
+    {
+      "numero": 2,
+      "texto": "Sacode-te do pó, levanta-te, e assenta-te, ó Jerusalém: solta-te das cadeias de teu pescoço, ó cativa filha de Sião."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque assim diz o Senhor: Por nada fostes vendidos; também sem dinheiro sereis resgatados."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque assim diz o Senhor DEUS: O meu povo em tempos passados desceu ao Egito, para peregrinar lá, e a Assíria sem razão o oprimiu."
+    },
+    {
+      "numero": 5,
+      "texto": "E agora, que tenho eu que fazer aqui, diz o Senhor, pois o meu povo foi tomado sem nenhuma razão? Os que dominam sobre ele dão uivos, diz o Senhor; e o meu nome é blasfemado incessantemente o dia todo."
+    },
+    {
+      "numero": 6,
+      "texto": "Portanto o meu povo saberá o meu nome; pois, naquele dia, saberá que sou eu mesmo o que falo: Eis-me aqui."
+    },
+    {
+      "numero": 7,
+      "texto": "Quão formosos são, sobre os montes, os pés do que anuncia as boas novas, que faz ouvir a paz, do que anuncia o bem, que faz ouvir a salvação, do que diz a Sião: O teu Deus reina!"
+    },
+    {
+      "numero": 8,
+      "texto": "Eis a voz dos teus atalaias! Eles alçam a voz, juntamente exultam; porque olho a olho verão, quando o Senhor fizer Sião voltar."
+    },
+    {
+      "numero": 9,
+      "texto": "Clamai cantando, exultai juntamente, desertos de Jerusalém; porque o Senhor consolou o seu povo, remiu a Jerusalém."
+    },
+    {
+      "numero": 10,
+      "texto": "O Senhor desnudou o seu santo braço perante os olhos de todas as nações; e todos os confins da terra verão a salvação do nosso Deus."
+    },
+    {
+      "numero": 11,
+      "texto": "Retirai-vos, retirai-vos, saí daí, não toqueis coisa imunda; saí do meio dela, purificai-vos, os que levais os vasos do Senhor."
+    },
+    {
+      "numero": 12,
+      "texto": "Porque vós não saireis apressadamente, nem ireis fugindo; porque o Senhor irá diante de vós, e o Deus de Israel será a vossa retaguarda."
+    },
+    {
+      "numero": 13,
+      "texto": "Eis que o meu servo procederá com prudência; será exaltado, e elevado, e mui sublime."
+    },
+    {
+      "numero": 14,
+      "texto": "Como pasmaram muitos à vista dele, pois o seu parecer estava tão desfigurado, mais do que o de outro qualquer, e a sua figura mais do que a dos outros filhos dos homens."
+    },
+    {
+      "numero": 15,
+      "texto": "Assim borrifará muitas nações, e os reis fecharão as suas bocas por causa dele; porque aquilo que não lhes foi anunciado verão, e aquilo que eles não ouviram entenderão."
+    }
+  ]
+}

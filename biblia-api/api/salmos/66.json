@@ -1,0 +1,89 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 66,
+  "total_versiculos": 20,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Celebrai com júbilo a Deus, todas as terras."
+    },
+    {
+      "numero": 2,
+      "texto": "Cantai a glória do seu nome; dai glória ao seu louvor."
+    },
+    {
+      "numero": 3,
+      "texto": "Dizei a Deus: Quão tremendo és tu nas tuas obras! Pela grandeza do teu poder se submeterão a ti os teus inimigos."
+    },
+    {
+      "numero": 4,
+      "texto": "Todos os moradores da terra te adorarão e te cantarão; cantarão o teu nome. (Selá.)"
+    },
+    {
+      "numero": 5,
+      "texto": "Vinde, e vede as obras de Deus: é tremendo nos seus feitos para com os filhos dos homens."
+    },
+    {
+      "numero": 6,
+      "texto": "Converteu o mar em terra seca; passaram o rio a pé; ali nos alegramos nele."
+    },
+    {
+      "numero": 7,
+      "texto": "Ele domina eternamente pelo seu poder; os seus olhos estão sobre as nações; não se exaltem os rebeldes. (Selá.)"
+    },
+    {
+      "numero": 8,
+      "texto": "Bendizei, povos, ao nosso Deus, e fazei ouvir a voz do seu louvor,"
+    },
+    {
+      "numero": 9,
+      "texto": "Ao que sustenta com vida a nossa alma, e não consente que sejam abalados os nossos pés."
+    },
+    {
+      "numero": 10,
+      "texto": "Pois tu, ó Deus, nos provaste; tu nos afinaste como se afina a prata."
+    },
+    {
+      "numero": 11,
+      "texto": "Tu nos puseste na rede; afligiste os nossos lombos,"
+    },
+    {
+      "numero": 12,
+      "texto": "Fizeste com que os homens cavalgassem sobre as nossas cabeças; passamos pelo fogo e pela água; mas nos trouxeste a um lugar espaçoso."
+    },
+    {
+      "numero": 13,
+      "texto": "Entrarei em tua casa com holocaustos; pagar-te-ei os meus votos,"
+    },
+    {
+      "numero": 14,
+      "texto": "Os quais pronunciaram os meus lábios, e falou a minha boca, quando estava na angústia."
+    },
+    {
+      "numero": 15,
+      "texto": "Oferecer-te-ei holocaustos gordurosos com incenso de carneiros; oferecerei novilhos com cabritos. (Selá.)"
+    },
+    {
+      "numero": 16,
+      "texto": "Vinde, e ouvi, todos os que temeis a Deus, e eu contarei o que ele tem feito à minha alma."
+    },
+    {
+      "numero": 17,
+      "texto": "A ele clamei com a minha boca, e ele foi exaltado pela minha língua."
+    },
+    {
+      "numero": 18,
+      "texto": "Se eu atender à iniqüidade no meu coração, o Senhor não me ouvirá;"
+    },
+    {
+      "numero": 19,
+      "texto": "Mas, na verdade, Deus me ouviu; atendeu à voz da minha oração."
+    },
+    {
+      "numero": 20,
+      "texto": "Bendito seja Deus, que não rejeitou a minha oração, nem desviou de mim a sua misericórdia."
+    }
+  ]
+}

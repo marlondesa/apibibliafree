@@ -1,0 +1,57 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 60,
+  "total_versiculos": 12,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ó Deus, tu nos rejeitaste, tu nos espalhaste, tu te indignaste; oh, volta-te para nós."
+    },
+    {
+      "numero": 2,
+      "texto": "Abalaste a terra, e a fendeste; sara as suas fendas, pois ela treme."
+    },
+    {
+      "numero": 3,
+      "texto": "Fizeste ver ao teu povo coisas árduas; fizeste-nos beber o vinho do atordoamento."
+    },
+    {
+      "numero": 4,
+      "texto": "Deste um estandarte aos que te temem, para o arvorarem no alto, por causa da verdade. (Selá.)"
+    },
+    {
+      "numero": 5,
+      "texto": "Para que os teus amados sejam livres, salva-nos com a tua destra, e ouve-nos;"
+    },
+    {
+      "numero": 6,
+      "texto": "Deus falou na sua santidade; eu me regozijarei, repartirei a Siquém e medirei o vale de Sucote."
+    },
+    {
+      "numero": 7,
+      "texto": "Meu é Gileade, e meu é Manassés; Efraim é a força da minha cabeça; Judá é o meu legislador."
+    },
+    {
+      "numero": 8,
+      "texto": "Moabe é a minha bacia de lavar; sobre Edom lançarei o meu sapato; alegra-te, ó Filístia, por minha causa."
+    },
+    {
+      "numero": 9,
+      "texto": "Quem me conduzirá à cidade forte? Quem me guiará até Edom?."
+    },
+    {
+      "numero": 10,
+      "texto": "Não serás tu, ó Deus, que nos tinhas rejeitado? tu, ó Deus, que não saíste com os nossos exércitos?"
+    },
+    {
+      "numero": 11,
+      "texto": "Dá-nos auxílio na angústia, porque vão é o socorro do homem."
+    },
+    {
+      "numero": 12,
+      "texto": "Em Deus faremos proezas; porque ele é que pisará os nossos inimigos."
+    }
+  ]
+}

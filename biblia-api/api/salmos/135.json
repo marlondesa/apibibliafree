@@ -1,0 +1,93 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 135,
+  "total_versiculos": 21,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Louvai ao SENHOR. Louvai o nome do SENHOR; louvai-o, servos do SENHOR."
+    },
+    {
+      "numero": 2,
+      "texto": "Vós que assistis na casa do Senhor, nos átrios da casa do nosso Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "Louvai ao Senhor, porque o Senhor é bom; cantai louvores ao seu nome, porque é agradável."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque o Senhor escolheu para si a Jacó, e a Israel para seu próprio tesouro."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque eu conheço que o Senhor é grande e que o nosso Senhor está acima de todos os deuses."
+    },
+    {
+      "numero": 6,
+      "texto": "Tudo o que o Senhor quis, fez, nos céus e na terra, nos mares e em todos os abismos."
+    },
+    {
+      "numero": 7,
+      "texto": "Faz subir os vapores das extremidades da terra; faz os relâmpagos para a chuva; tira os ventos dos seus tesouros."
+    },
+    {
+      "numero": 8,
+      "texto": "O que feriu os primogênitos do Egito, desde os homens até os animais;"
+    },
+    {
+      "numero": 9,
+      "texto": "O que enviou sinais e prodígios no meio de ti, ó Egito, contra Faraó e contra os seus servos;"
+    },
+    {
+      "numero": 10,
+      "texto": "O que feriu muitas nações, e matou poderosos reis:"
+    },
+    {
+      "numero": 11,
+      "texto": "A Siom, rei dos amorreus, e a Ogue, rei de Basã, e a todos os reinos de Canaã;"
+    },
+    {
+      "numero": 12,
+      "texto": "E deu a sua terra em herança, em herança a Israel, seu povo."
+    },
+    {
+      "numero": 13,
+      "texto": "O teu nome, ó Senhor, dura perpetuamente, e a tua memória, ó Senhor, de geração em geração."
+    },
+    {
+      "numero": 14,
+      "texto": "Pois o Senhor julgará o seu povo, e se arrependerá com respeito aos seus servos."
+    },
+    {
+      "numero": 15,
+      "texto": "Os ídolos dos gentios são prata e ouro, obra das mãos dos homens."
+    },
+    {
+      "numero": 16,
+      "texto": "Têm boca, mas não falam; têm olhos, e não vêem,"
+    },
+    {
+      "numero": 17,
+      "texto": "Têm ouvidos, mas não ouvem, nem há respiro algum nas suas bocas."
+    },
+    {
+      "numero": 18,
+      "texto": "Semelhantes a eles se tornem os que os fazem, e todos os que confiam neles."
+    },
+    {
+      "numero": 19,
+      "texto": "Casa de Israel, bendizei ao Senhor; casa de Arão, bendizei ao Senhor;"
+    },
+    {
+      "numero": 20,
+      "texto": "Casa de Levi, bendizei ao Senhor; vós os que temeis ao Senhor, louvai ao Senhor."
+    },
+    {
+      "numero": 21,
+      "texto": "Bendito seja o Senhor desde Sião, que habita em Jerusalém. Louvai ao Senhor."
+    }
+  ]
+}

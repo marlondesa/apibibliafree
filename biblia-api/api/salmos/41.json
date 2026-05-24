@@ -1,0 +1,61 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 41,
+  "total_versiculos": 13,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Bem-aventurado é aquele que atende ao pobre; o SENHOR o livrará no dia do mal."
+    },
+    {
+      "numero": 2,
+      "texto": "O Senhor o livrará, e o conservará em vida; será abençoado na terra, e tu não o entregarás à vontade de seus inimigos."
+    },
+    {
+      "numero": 3,
+      "texto": "O Senhor o sustentará no leito da enfermidade; tu o restaurarás da sua cama de doença."
+    },
+    {
+      "numero": 4,
+      "texto": "Dizia eu: Senhor, tem piedade de mim; sara a minha alma, porque pequei contra ti."
+    },
+    {
+      "numero": 5,
+      "texto": "Os meus inimigos falam mal de mim, dizendo: Quando morrerá ele, e perecerá o seu nome?"
+    },
+    {
+      "numero": 6,
+      "texto": "E, se algum deles vem me ver, fala coisas vãs; no seu coração amontoa a maldade; saindo para fora, é disso que fala."
+    },
+    {
+      "numero": 7,
+      "texto": "Todos os que me odeiam murmuram à uma contra mim; contra mim imaginam o mal, dizendo:"
+    },
+    {
+      "numero": 8,
+      "texto": "Uma doença má se lhe tem apegado; e agora que está deitado, não se levantará mais."
+    },
+    {
+      "numero": 9,
+      "texto": "Até o meu próprio amigo íntimo, em quem eu tanto confiava, que comia do meu pão, levantou contra mim o seu calcanhar."
+    },
+    {
+      "numero": 10,
+      "texto": "Porém tu, Senhor, tem piedade de mim, e levanta-me, para que eu lhes dê o pago."
+    },
+    {
+      "numero": 11,
+      "texto": "Por isto conheço eu que tu me favoreces: que o meu inimigo não triunfa de mim."
+    },
+    {
+      "numero": 12,
+      "texto": "Quanto a mim, tu me sustentas na minha sinceridade, e me puseste diante da tua face para sempre."
+    },
+    {
+      "numero": 13,
+      "texto": "Bendito seja o Senhor Deus de Israel de século em século. Amém e Amém."
+    }
+  ]
+}

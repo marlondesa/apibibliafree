@@ -1,0 +1,38 @@
+{
+  "id": 33,
+  "abbrev": "mq",
+  "nome": "Miquéias",
+  "slug": "miqueias",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 7,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 20
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "livro": "Provérbios",
+  "slug_livro": "proverbios",
+  "testamento": "Antigo Testamento",
+  "capitulo": 9,
+  "total_versiculos": 18,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A sabedoria já edificou a sua casa, já lavrou as suas sete colunas."
+    },
+    {
+      "numero": 2,
+      "texto": "Já abateu os seus animais e misturou o seu vinho, e já preparou a sua mesa."
+    },
+    {
+      "numero": 3,
+      "texto": "Já ordenou às suas criadas, e está convidando desde as alturas da cidade, dizendo:"
+    },
+    {
+      "numero": 4,
+      "texto": "Quem é simples, volte-se para cá. Aos faltos de senso diz:"
+    },
+    {
+      "numero": 5,
+      "texto": "Vinde, comei do meu pão, e bebei do vinho que tenho misturado."
+    },
+    {
+      "numero": 6,
+      "texto": "Deixai os insensatos e vivei; e andai pelo caminho do entendimento."
+    },
+    {
+      "numero": 7,
+      "texto": "O que repreende o escarnecedor, toma afronta para si; e o que censura o ímpio recebe a sua mancha."
+    },
+    {
+      "numero": 8,
+      "texto": "Não repreendas o escarnecedor, para que não te odeie; repreende o sábio, e ele te amará."
+    },
+    {
+      "numero": 9,
+      "texto": "Dá instrução ao sábio, e ele se fará mais sábio; ensina o justo e ele aumentará em entendimento."
+    },
+    {
+      "numero": 10,
+      "texto": "O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo a prudência."
+    },
+    {
+      "numero": 11,
+      "texto": "Porque por meu intermédio se multiplicam os teus dias, e anos de vida se te aumentarão."
+    },
+    {
+      "numero": 12,
+      "texto": "Se fores sábio, para ti serás sábio; e, se fores escarnecedor, só tu o suportarás."
+    },
+    {
+      "numero": 13,
+      "texto": "A mulher louca é alvoroçadora; é simples e nada sabe."
+    },
+    {
+      "numero": 14,
+      "texto": "Assenta-se à porta da sua casa numa cadeira, nas alturas da cidade,"
+    },
+    {
+      "numero": 15,
+      "texto": "E põe-se a chamar aos que vão pelo caminho, e que passam reto pelas veredas, dizendo:"
+    },
+    {
+      "numero": 16,
+      "texto": "Quem é simples, volte-se para cá. E aos faltos de entendimento ela diz:"
+    },
+    {
+      "numero": 17,
+      "texto": "As águas roubadas são doces, e o pão tomado às escondidas é agradável."
+    },
+    {
+      "numero": 18,
+      "texto": "Mas não sabem que ali estão os mortos; os seus convidados estão nas profundezas do inferno."
+    }
+  ]
+}

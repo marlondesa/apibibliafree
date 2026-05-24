@@ -1,0 +1,29 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 127,
+  "total_versiculos": 5,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Se o SENHOR não edificar a casa, em vão trabalham os que a edificam; se o SENHOR não guardar a cidade, em vão vigia a sentinela."
+    },
+    {
+      "numero": 2,
+      "texto": "Inútil vos será levantar de madrugada, repousar tarde, comer o pão de dores, pois assim dá ele aos seus amados o sono."
+    },
+    {
+      "numero": 3,
+      "texto": "Eis que os filhos são herança do Senhor, e o fruto do ventre o seu galardão."
+    },
+    {
+      "numero": 4,
+      "texto": "Como flechas na mão de um homem poderoso, assim são os filhos da mocidade."
+    },
+    {
+      "numero": 5,
+      "texto": "Bem-aventurado o homem que enche deles a sua aljava; não serão confundidos, mas falarão com os seus inimigos à porta."
+    }
+  ]
+}

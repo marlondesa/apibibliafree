@@ -1,0 +1,89 @@
+{
+  "livro": "Marcos",
+  "slug_livro": "marcos",
+  "testamento": "Novo Testamento",
+  "capitulo": 16,
+  "total_versiculos": 20,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E, passado o sábado, Maria Madalena, e Maria, mãe de Tiago, e Salomé, compraram aromas para irem ungi-lo."
+    },
+    {
+      "numero": 2,
+      "texto": "E, no primeiro dia da semana, foram ao sepulcro, de manhã cedo, ao nascer do sol."
+    },
+    {
+      "numero": 3,
+      "texto": "E diziam umas às outras: Quemnos revolverá a pedra da porta do sepulcro?"
+    },
+    {
+      "numero": 4,
+      "texto": "E, olhando, viram que já a pedra estava revolvida; e era ela muito grande."
+    },
+    {
+      "numero": 5,
+      "texto": "E, entrando no sepulcro, viram um jovem assentado à direita, vestido de uma roupa comprida, branca; e ficaram espantadas."
+    },
+    {
+      "numero": 6,
+      "texto": "Ele, porém, disse-lhes: Não vos assusteis; buscais a Jesus Nazareno, que foi crucificado; já ressuscitou, não está aqui; eis aqui o lugar onde o puseram."
+    },
+    {
+      "numero": 7,
+      "texto": "Mas ide, dizei a seus discípulos, e a Pedro, que ele vai adiante de vós para a Galiléia; ali o vereis, como ele vos disse."
+    },
+    {
+      "numero": 8,
+      "texto": "E, saindo elas apressadamente, fugiram do sepulcro, porque estavam possuídas de temor e assombro; e nada diziam a ninguém porque temiam."
+    },
+    {
+      "numero": 9,
+      "texto": "E Jesus, tendo ressuscitado na manhã do primeiro dia da semana, apareceu primeiramente a Maria Madalena, da qual tinha expulsado sete demônios."
+    },
+    {
+      "numero": 10,
+      "texto": "E, partindo ela, anunciou-o àqueles que tinham estado com ele, os quais estavam tristes, e chorando."
+    },
+    {
+      "numero": 11,
+      "texto": "E, ouvindo eles que vivia, e que tinha sido visto por ela, não o creram."
+    },
+    {
+      "numero": 12,
+      "texto": "E depois manifestou-se de outra forma a dois deles, que iam de caminho para o campo."
+    },
+    {
+      "numero": 13,
+      "texto": "E, indo estes, anunciaram-no aos outros, mas nem ainda estes creram."
+    },
+    {
+      "numero": 14,
+      "texto": "Finalmente apareceu aos onze, estando eles assentados juntamente, e lançou-lhes em rosto a sua incredulidade e dureza de coração, por não haverem crido nos que o tinham visto já ressuscitado."
+    },
+    {
+      "numero": 15,
+      "texto": "E disse-lhes: Ide por todo omundo, pregai o evangelho a toda criatura."
+    },
+    {
+      "numero": 16,
+      "texto": "Quem crer e for batizado será salvo; mas quem não crer será condenado."
+    },
+    {
+      "numero": 17,
+      "texto": "E estes sinais seguirão aos que crerem: Em meu nome expulsarão os demônios; falarão novas línguas;"
+    },
+    {
+      "numero": 18,
+      "texto": "Pegarão nas serpentes; e, se beberem alguma coisa mortífera, não lhes fará dano algum; e porãoas mãos sobre os enfermos, e os curarão."
+    },
+    {
+      "numero": 19,
+      "texto": "Ora, o Senhor, depois de lhes ter falado, foi recebido no céu, e assentou-se à direita de Deus."
+    },
+    {
+      "numero": 20,
+      "texto": "E eles, tendo partido, pregaram por todas as partes, cooperando com eles o Senhor, e confirmando a palavra com os sinais que se seguiram. Amém."
+    }
+  ]
+}

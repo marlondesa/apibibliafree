@@ -1,0 +1,37 @@
+{
+  "livro": "Jeremias",
+  "slug_livro": "jeremias",
+  "testamento": "Antigo Testamento",
+  "capitulo": 47,
+  "total_versiculos": 7,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A palavra do SENHOR, que veio a Jeremias, o profeta, contra os filisteus, antes que Faraó ferisse a Gaza."
+    },
+    {
+      "numero": 2,
+      "texto": "Assim diz o Senhor: Eis que se levantam as águas do norte, e tornar-se-ão em torrente transbordante, e alagarão a terra e sua plenitude, a cidade, e os que nela habitam; e os homens clamarão, e todos os moradores da terra se lamentarão;"
+    },
+    {
+      "numero": 3,
+      "texto": "Ao ruído estrepitoso dos cascos dos seus fortes cavalos, ao barulho de seus carros, ao estrondo das suas rodas; os pais não atendem aos filhos, por causa da fraqueza das mãos;"
+    },
+    {
+      "numero": 4,
+      "texto": "Por causa do dia que vem, para destruir a todos os filisteus, para cortar de Tiro e de Sidom todo o restante que os socorra; porque o Senhor destruirá os filisteus, o remanescente da ilha de Caftor."
+    },
+    {
+      "numero": 5,
+      "texto": "A calvície veio sobre Gaza, foi desarraigada Ascalom, com o restante do seu vale; até quando te retalharás?"
+    },
+    {
+      "numero": 6,
+      "texto": "Ah; espada do Senhor! Até quando deixarás de repousar? Volta para a tua bainha, descansa, e aquieta-te."
+    },
+    {
+      "numero": 7,
+      "texto": "Mas como te aquietarás? Pois o Senhor deu ordem à espada contra Ascalom, e contra a praia do mar, para onde ele a enviou."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 147,
+  "total_versiculos": 20,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Louvai ao SENHOR, porque é bom cantar louvores ao nosso Deus, porque é agradável; decoroso é o louvor."
+    },
+    {
+      "numero": 2,
+      "texto": "O Senhor edifica a Jerusalém, congrega os dispersos de Israel."
+    },
+    {
+      "numero": 3,
+      "texto": "Sara os quebrantados de coração, e lhes ata as suas feridas."
+    },
+    {
+      "numero": 4,
+      "texto": "Conta o número das estrelas, chama-as a todas pelos seus nomes."
+    },
+    {
+      "numero": 5,
+      "texto": "Grande é o nosso Senhor, e de grande poder; o seu entendimento é infinito."
+    },
+    {
+      "numero": 6,
+      "texto": "O Senhor eleva os humildes, e abate os ímpios até à terra."
+    },
+    {
+      "numero": 7,
+      "texto": "Cantai ao Senhor em ação de graças; cantai louvores ao nosso Deus sobre a harpa."
+    },
+    {
+      "numero": 8,
+      "texto": "Ele é o que cobre o céu de nuvens, o que prepara a chuva para a terra, e o que faz produzir erva sobre os montes;"
+    },
+    {
+      "numero": 9,
+      "texto": "O que dá aos animais o seu sustento, e aos filhos dos corvos, quando clamam."
+    },
+    {
+      "numero": 10,
+      "texto": "Não se deleita na força do cavalo, nem se compraz nas pernas do homem."
+    },
+    {
+      "numero": 11,
+      "texto": "O Senhor se agrada dos que o temem e dos que esperam na sua misericórdia."
+    },
+    {
+      "numero": 12,
+      "texto": "Louva, ó Jerusalém, ao Senhor; louva, ó Sião, ao teu Deus."
+    },
+    {
+      "numero": 13,
+      "texto": "Porque fortaleceu os ferrolhos das tuas portas; abençoa aos teus filhos dentro de ti."
+    },
+    {
+      "numero": 14,
+      "texto": "Ele é o que põe em paz os teus termos, e da flor da farinha te farta."
+    },
+    {
+      "numero": 15,
+      "texto": "O que envia o seu mandamento à terra; a sua palavra corre velozmente."
+    },
+    {
+      "numero": 16,
+      "texto": "O que dá a neve como lã; esparge a geada como cinza;"
+    },
+    {
+      "numero": 17,
+      "texto": "O que lança o seu gelo em pedaços; quem pode resistir ao seu frio?"
+    },
+    {
+      "numero": 18,
+      "texto": "Manda a sua palavra, e os faz derreter; faz soprar o vento, e correm as águas."
+    },
+    {
+      "numero": 19,
+      "texto": "Mostra a sua palavra a Jacó, os seus estatutos e os seus juízos a Israel."
+    },
+    {
+      "numero": 20,
+      "texto": "Não fez assim a nenhuma outra nação; e quanto aos seus juízos, não os conhecem. Louvai ao Senhor."
+    }
+  ]
+}

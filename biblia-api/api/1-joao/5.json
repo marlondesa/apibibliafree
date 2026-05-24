@@ -1,0 +1,93 @@
+{
+  "livro": "1 João",
+  "slug_livro": "1-joao",
+  "testamento": "Novo Testamento",
+  "capitulo": 5,
+  "total_versiculos": 21,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Todo aquele que crê que Jesus é o Cristo, é nascido de Deus; e todo aquele que ama ao que o gerou também ama ao que dele é nascido."
+    },
+    {
+      "numero": 2,
+      "texto": "Nisto conhecemos que amamos os filhos de Deus, quando amamos a Deus e guardamos os seus mandamentos."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque este é o amor de Deus: que guardemos os seus mandamentos; e os seus mandamentos não são pesados."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque todo o que é nascido de Deus vence o mundo; e esta é a vitória que vence o mundo, a nossa fé."
+    },
+    {
+      "numero": 5,
+      "texto": "Quem é que vence o mundo, senão aquele que crê que Jesus é o Filho de Deus?"
+    },
+    {
+      "numero": 6,
+      "texto": "Este é aquele que veio por água e sangue, isto é, Jesus Cristo; não só por água, mas por água e por sangue. E o Espírito é o que testifica, porque o Espírito é a verdade."
+    },
+    {
+      "numero": 7,
+      "texto": "Porque três são os que testificam no céu: o Pai, a Palavra, e o Espírito Santo; e estes três são um."
+    },
+    {
+      "numero": 8,
+      "texto": "E três são os que testificam na terra: o Espírito, e a água e o sangue; e estes três concordam num."
+    },
+    {
+      "numero": 9,
+      "texto": "Se recebemos o testemunho dos homens, o testemunho de Deus é maior; porque o testemunho de Deus é este, que de seu Filho testificou."
+    },
+    {
+      "numero": 10,
+      "texto": "Quem crê no Filho de Deus, em si mesmo tem o testemunho; quem a Deus não crê mentiroso o fez, porquanto não creu no testemunho que Deus de seu Filho deu."
+    },
+    {
+      "numero": 11,
+      "texto": "E o testemunho é este: que Deus nos deu a vida eterna; e esta vida está em seu Filho."
+    },
+    {
+      "numero": 12,
+      "texto": "Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida."
+    },
+    {
+      "numero": 13,
+      "texto": "Estas coisas vos escrevi a vós, os que credes no nome do Filho de Deus, para que saibais que tendes a vida eterna, e para que creiais no nome do Filho de Deus."
+    },
+    {
+      "numero": 14,
+      "texto": "E esta é a confiança que temos nele, que, se pedirmos alguma coisa, segundo a sua vontade, ele nos ouve."
+    },
+    {
+      "numero": 15,
+      "texto": "E, se sabemos que nos ouve em tudo o que pedimos, sabemos que alcançamos as petições que lhe fizemos."
+    },
+    {
+      "numero": 16,
+      "texto": "Se alguém vir pecar seu irmão, pecado que não é para morte, orará, e Deus dará a vida àqueles que não pecarem para morte. Há pecado para morte, e por esse não digo que ore."
+    },
+    {
+      "numero": 17,
+      "texto": "Toda a iniqüidade é pecado, e há pecado que não é para morte."
+    },
+    {
+      "numero": 18,
+      "texto": "Sabemos que todo aquele que é nascido de Deus não peca; mas o que de Deus é gerado conserva-se a si mesmo, e o maligno não lhe toca."
+    },
+    {
+      "numero": 19,
+      "texto": "Sabemos que somos de Deus, e que todo o mundo está no maligno."
+    },
+    {
+      "numero": 20,
+      "texto": "E sabemos que já o Filho de Deus é vindo, e nos deu entendimento para que conheçamos ao Verdadeiro; e no que é verdadeiro estamos, isto é, em seu Filho Jesus Cristo. Este é o verdadeiro Deus e a vida eterna."
+    },
+    {
+      "numero": 21,
+      "texto": "Filhinhos, guardai-vos dos ídolos. Amém."
+    }
+  ]
+}

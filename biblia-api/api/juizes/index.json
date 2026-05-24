@@ -1,0 +1,94 @@
+{
+  "id": 7,
+  "abbrev": "jz",
+  "nome": "Juízes",
+  "slug": "juizes",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 21,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 36
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 24
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 32
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 40
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 25
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 35
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 57
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 40
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 25
+    },
+    {
+      "numero": 14,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 15,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 16,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 17,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 18,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 19,
+      "total_versiculos": 30
+    },
+    {
+      "numero": 20,
+      "total_versiculos": 48
+    },
+    {
+      "numero": 21,
+      "total_versiculos": 25
+    }
+  ]
+}

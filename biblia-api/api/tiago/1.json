@@ -1,0 +1,117 @@
+{
+  "livro": "Tiago",
+  "slug_livro": "tiago",
+  "testamento": "Novo Testamento",
+  "capitulo": 1,
+  "total_versiculos": 27,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Tiago, servo de Deus, e do Senhor Jesus Cristo, às doze tribos que andam dispersas, saúde."
+    },
+    {
+      "numero": 2,
+      "texto": "Meus irmãos, tende grande gozo quando cairdes em várias tentações;"
+    },
+    {
+      "numero": 3,
+      "texto": "Sabendo que a prova da vossa fé opera a paciência."
+    },
+    {
+      "numero": 4,
+      "texto": "Tenha, porém, a paciência a sua obra perfeita, para que sejais perfeitos e completos, sem faltar em coisa alguma."
+    },
+    {
+      "numero": 5,
+      "texto": "E, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente, e o não lança em rosto, e ser-lhe-á dada."
+    },
+    {
+      "numero": 6,
+      "texto": "Peça-a, porém, com fé, em nada duvidando; porque o que duvida é semelhante à onda do mar, que é levada pelo vento, e lançada de uma para outra parte."
+    },
+    {
+      "numero": 7,
+      "texto": "Não pense tal homem que receberá do Senhor alguma coisa."
+    },
+    {
+      "numero": 8,
+      "texto": "O homem de coração dobre é inconstante em todos os seus caminhos."
+    },
+    {
+      "numero": 9,
+      "texto": "Mas glorie-se o irmão abatido na sua exaltação,"
+    },
+    {
+      "numero": 10,
+      "texto": "E o rico em seu abatimento; porque ele passará como a flor da erva."
+    },
+    {
+      "numero": 11,
+      "texto": "Porque sai o sol com ardor, e a erva seca, e a sua flor cai, e a formosa aparência do seu aspecto perece; assim se murchará também o rico em seus caminhos."
+    },
+    {
+      "numero": 12,
+      "texto": "Bem-aventurado o homem que sofre a tentação; porque, quando for provado, receberá a coroa da vida, a qual o Senhor tem prometido aos que o amam."
+    },
+    {
+      "numero": 13,
+      "texto": "Ninguém, sendo tentado, diga: De Deus sou tentado; porque Deus não pode ser tentado pelo mal, e a ninguém tenta."
+    },
+    {
+      "numero": 14,
+      "texto": "Mas cada um é tentado, quando atraído e engodado pela sua própria concupiscência."
+    },
+    {
+      "numero": 15,
+      "texto": "Depois, havendo a concupiscência concebido, dá à luz o pecado; e o pecado, sendo consumado, gera a morte."
+    },
+    {
+      "numero": 16,
+      "texto": "Não erreis, meus amados irmãos."
+    },
+    {
+      "numero": 17,
+      "texto": "Toda a boa dádiva e todo o dom perfeito vem do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação."
+    },
+    {
+      "numero": 18,
+      "texto": "Segundo a sua vontade, ele nos gerou pela palavra da verdade, para que fôssemos como primícias das suas criaturas."
+    },
+    {
+      "numero": 19,
+      "texto": "Portanto, meus amados irmãos, todo o homem seja pronto para ouvir, tardio para falar, tardio para se irar."
+    },
+    {
+      "numero": 20,
+      "texto": "Porque a ira do homem não opera a justiça de Deus."
+    },
+    {
+      "numero": 21,
+      "texto": "Por isso, rejeitando toda a imundícia e superfluidade de malícia, recebei com mansidão a palavra em vós enxertada, a qual pode salvar as vossas almas."
+    },
+    {
+      "numero": 22,
+      "texto": "E sede cumpridores da palavra, e não somente ouvintes, enganando-vos a vós mesmos."
+    },
+    {
+      "numero": 23,
+      "texto": "Porque, se alguém é ouvinte da palavra, e não cumpridor, é semelhante ao homem que contempla ao espelho o seu rosto natural;"
+    },
+    {
+      "numero": 24,
+      "texto": "Porque se contempla a si mesmo, e vai-se, e logo se esquece de como era."
+    },
+    {
+      "numero": 25,
+      "texto": "Aquele, porém, que atenta bem para a lei perfeita da liberdade, e nisso persevera, não sendo ouvinte esquecediço, mas fazedor da obra, este tal será bem-aventurado no seu feito."
+    },
+    {
+      "numero": 26,
+      "texto": "Se alguém entre vós cuida ser religioso, e não refreia a sua língua, antes engana o seu coração, a religião desse é vã."
+    },
+    {
+      "numero": 27,
+      "texto": "A religião pura e imaculada para com Deus e Pai, é esta: Visitar os órfãos e as viúvas nas suas tribulações, e guardar-se da corrupção do mundo."
+    }
+  ]
+}

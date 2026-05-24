@@ -1,0 +1,73 @@
+{
+  "livro": "Isaías",
+  "slug_livro": "isaias",
+  "testamento": "Antigo Testamento",
+  "capitulo": 11,
+  "total_versiculos": 16,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Porque brotará um rebento do tronco de Jessé, e das suas raízes um renovo frutificará."
+    },
+    {
+      "numero": 2,
+      "texto": "E repousará sobre ele o Espírito do Senhor, o espírito de sabedoria e de entendimento, o espírito de conselho e de fortaleza, o espírito de conhecimento e de temor do Senhor."
+    },
+    {
+      "numero": 3,
+      "texto": "E deleitar-se-á no temor do Senhor; e não julgará segundo a vista dos seus olhos, nem repreenderá segundo o ouvir dos seus ouvidos."
+    },
+    {
+      "numero": 4,
+      "texto": "Mas julgará com justiça aos pobres, e repreenderá com eqüidade aos mansos da terra; e ferirá a terra com a vara de sua boca, e com o sopro dos seus lábios matará ao ímpio,"
+    },
+    {
+      "numero": 5,
+      "texto": "E a justiça será o cinto dos seus lombos, e a fidelidade o cinto dos seus rins."
+    },
+    {
+      "numero": 6,
+      "texto": "E morará o lobo com o cordeiro, e o leopardo com o cabrito se deitará, e o bezerro, e o filho de leão e o animal cevado andarão juntos, e um menino pequeno os guiará."
+    },
+    {
+      "numero": 7,
+      "texto": "A vaca e a ursa pastarão juntas, seus filhos se deitarão juntos, e o leão comerá palha como o boi."
+    },
+    {
+      "numero": 8,
+      "texto": "E brincará a criança de peito sobre a toca da áspide, e a desmamada colocará a sua mão na cova do basilisco."
+    },
+    {
+      "numero": 9,
+      "texto": "Não se fará mal nem dano algum em todo o meu santo monte, porque a terra se encherá do conhecimento do Senhor, como as águas cobrem o mar."
+    },
+    {
+      "numero": 10,
+      "texto": "E acontecerá naquele dia que a raiz de Jessé, a qual estará posta por estandarte dos povos, será buscada pelos gentios; e o lugar do seu repouso será glorioso."
+    },
+    {
+      "numero": 11,
+      "texto": "E há de ser que naquele dia o Senhor tornará a pôr a sua mão para adquirir outra vez o remanescente do seu povo, que for deixado, da Assíria, e do Egito, e de Patros, e da Etiópia, e de Elã, e de Sinar, e de Hamate, e das ilhas do mar."
+    },
+    {
+      "numero": 12,
+      "texto": "E levantará um estandarte entre as nações, e ajuntará os desterrados de Israel, e os dispersos de Judá congregará desde os quatro confins da terra."
+    },
+    {
+      "numero": 13,
+      "texto": "E afastar-se-á a inveja de Efraim, e os adversários de Judá serão desarraigados; Efraim não invejará a Judá, e Judá não oprimirá a Efraim."
+    },
+    {
+      "numero": 14,
+      "texto": "Antes voarão sobre os ombros dos filisteus ao ocidente; juntos despojarão aos do oriente; em Edom e Moabe porão as suas mãos, e os filhos de Amom lhes obedecerão."
+    },
+    {
+      "numero": 15,
+      "texto": "E o Senhor destruirá totalmente a língua do mar do Egito, e moverá a sua mão contra o rio com a força do seu vento e, ferindo-o, dividi-lo-á em sete correntes e fará que por ele passem com sapatos secos."
+    },
+    {
+      "numero": 16,
+      "texto": "E haverá caminho plano para o remanescente do seu povo, que for deixado da Assíria, como sucedeu a Israel no dia em que subiu da terra do Egito."
+    }
+  ]
+}

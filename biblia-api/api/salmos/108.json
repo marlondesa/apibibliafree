@@ -1,0 +1,61 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 108,
+  "total_versiculos": 13,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Preparado está o meu coração, ó Deus; cantarei e darei louvores até com a minha glória."
+    },
+    {
+      "numero": 2,
+      "texto": "Despertai, saltério e harpa; eu mesmo despertarei ao romper da alva."
+    },
+    {
+      "numero": 3,
+      "texto": "Louvar-te-ei entre os povos, Senhor, e a ti cantarei louvores entre as nações."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque a tua benignidade se estende até aos céus, e a tua verdade chega até às mais altas nuvens."
+    },
+    {
+      "numero": 5,
+      "texto": "Exalta-te sobre os céus, ó Deus, e a tua glória sobre toda a terra."
+    },
+    {
+      "numero": 6,
+      "texto": "Para que sejam livres os teus amados, salva-nos com a tua destra, e ouve-nos."
+    },
+    {
+      "numero": 7,
+      "texto": "Deus falou na sua santidade; eu me regozijarei; repartirei a Siquém, e medirei o vale de Sucote."
+    },
+    {
+      "numero": 8,
+      "texto": "Meu é Gileade, meu é Manassés; e Efraim a força da minha cabeça, Judá o meu legislador."
+    },
+    {
+      "numero": 9,
+      "texto": "Moabe a minha bacia de lavar; sobre Edom lançarei o meu sapato, sobre a Filístia jubilarei."
+    },
+    {
+      "numero": 10,
+      "texto": "Quem me levará à cidade forte? Quem me guiará até Edom?"
+    },
+    {
+      "numero": 11,
+      "texto": "Porventura não serás tu, ó Deus, que nos rejeitaste? E não sairás, ó Deus, com os nossos exércitos?"
+    },
+    {
+      "numero": 12,
+      "texto": "Dá-nos auxílio para sair da angústia, porque vão é o socorro da parte do homem."
+    },
+    {
+      "numero": 13,
+      "texto": "Em Deus faremos proezas, pois ele calcará aos pés os nossos inimigos."
+    }
+  ]
+}

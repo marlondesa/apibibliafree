@@ -1,0 +1,213 @@
+{
+  "livro": "2 Samuel",
+  "slug_livro": "2-samuel",
+  "testamento": "Antigo Testamento",
+  "capitulo": 22,
+  "total_versiculos": 51,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E Falou Davi ao SENHOR as palavras deste cântico, no dia em que o SENHOR o livrou das mãos de todos os seus inimigos e das mãos de Saul."
+    },
+    {
+      "numero": 2,
+      "texto": "Disse pois: O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador."
+    },
+    {
+      "numero": 3,
+      "texto": "Deus é o meu rochedo, nele confiarei; o meu escudo, e a força da minha salvação, o meu alto retiro, e o meu refúgio. Ó meu Salvador, da violência me salvas."
+    },
+    {
+      "numero": 4,
+      "texto": "O Senhor, digno de louvor, invocarei, e de meus inimigos ficarei livre,"
+    },
+    {
+      "numero": 5,
+      "texto": "Porque me cercaram as ondas de morte; as torrentes dos homens ímpios me assombraram."
+    },
+    {
+      "numero": 6,
+      "texto": "Cordas do inferno me cingiram; encontraram-me laços de morte."
+    },
+    {
+      "numero": 7,
+      "texto": "Estando em angústia, invoquei ao Senhor, e a meu Deus clamei; do seu templo ouviu ele a minha voz, e o meu clamor chegou aos seus ouvidos."
+    },
+    {
+      "numero": 8,
+      "texto": "Então se abalou e tremeu a terra, os fundamentos dos céus se moveram e abalaram, porque ele se irou."
+    },
+    {
+      "numero": 9,
+      "texto": "Subiu fumaça de suas narinas, e da sua boca um fogo devorador; carvões se incenderam dele."
+    },
+    {
+      "numero": 10,
+      "texto": "E abaixou os céus, e desceu; e uma escuridão havia debaixo de seus pés."
+    },
+    {
+      "numero": 11,
+      "texto": "E subiu sobre um querubim, e voou; e foi visto sobre as asas do vento."
+    },
+    {
+      "numero": 12,
+      "texto": "E por tendas pôs as trevas ao redor de si; ajuntamento de águas, nuvens dos céus."
+    },
+    {
+      "numero": 13,
+      "texto": "Pelo resplendor da sua presença brasas de fogo se acenderam."
+    },
+    {
+      "numero": 14,
+      "texto": "Trovejou desde os céus o Senhor; e o Altíssimo fez soar a sua voz."
+    },
+    {
+      "numero": 15,
+      "texto": "E disparou flechas, e os dissipou; raios, e os perturbou."
+    },
+    {
+      "numero": 16,
+      "texto": "E apareceram as profundezas do mar, e os fundamentos do mundo se descobriram; pela repreensão do Senhor, pelo sopro do vento das suas narinas."
+    },
+    {
+      "numero": 17,
+      "texto": "Desde o alto enviou, e me tomou; tirou-me das muitas águas."
+    },
+    {
+      "numero": 18,
+      "texto": "Livrou-me do meu poderoso inimigo, e daqueles que me tinham ódio, porque eram mais fortes do que eu."
+    },
+    {
+      "numero": 19,
+      "texto": "Encontraram-me no dia da minha calamidade; porém o Senhor se fez o meu amparo."
+    },
+    {
+      "numero": 20,
+      "texto": "E tirou-me para um lugar espaçoso, e livrou-me, porque tinha prazer em mim."
+    },
+    {
+      "numero": 21,
+      "texto": "Recompensou-me o Senhor conforme a minha justiça; conforme a pureza de minhas mãos me retribuiu."
+    },
+    {
+      "numero": 22,
+      "texto": "Porque guardei os caminhos do Senhor; e não me apartei impiamente do meu Deus."
+    },
+    {
+      "numero": 23,
+      "texto": "Porque todos os seus juízos estavam diante de mim; e de seus estatutos não me desviei."
+    },
+    {
+      "numero": 24,
+      "texto": "Porém fui sincero perante ele; e guardei-me da minha iniqüidade."
+    },
+    {
+      "numero": 25,
+      "texto": "E me retribuiu o Senhor conforme a minha justiça, conforme a minha pureza diante dos seus olhos."
+    },
+    {
+      "numero": 26,
+      "texto": "Com o benigno te mostras benigno; com o homem íntegro te mostras perfeito."
+    },
+    {
+      "numero": 27,
+      "texto": "Com o puro te mostras puro; mas com o perverso te mostras rígido."
+    },
+    {
+      "numero": 28,
+      "texto": "E o povo aflito livras; mas teus olhos são contra os altivos, e tu os abaterás."
+    },
+    {
+      "numero": 29,
+      "texto": "Porque tu, Senhor, és a minha lâmpada; e o Senhor ilumina as minhas trevas."
+    },
+    {
+      "numero": 30,
+      "texto": "Porque contigo passo pelo meio de um esquadrão; pelo meu Deus salto um muro."
+    },
+    {
+      "numero": 31,
+      "texto": "O caminho de Deus é perfeito, e a palavra do Senhor refinada; e é o escudo de todos os que nele confiam."
+    },
+    {
+      "numero": 32,
+      "texto": "Por que, quem é Deus, senão o Senhor? E quem é rochedo, senão o nosso Deus?"
+    },
+    {
+      "numero": 33,
+      "texto": "Deus é a minha fortaleza e a minha força, e ele perfeitamente desembaraça o meu caminho."
+    },
+    {
+      "numero": 34,
+      "texto": "Faz ele os meus pés como os das cervas, e me põe sobre as minhas alturas."
+    },
+    {
+      "numero": 35,
+      "texto": "Instrui as minhas mãos para a peleja, de maneira que um arco de cobre se quebra pelos meus braços."
+    },
+    {
+      "numero": 36,
+      "texto": "Também me deste o escudo da tua salvação, e pela tua brandura me vieste a engrandecer."
+    },
+    {
+      "numero": 37,
+      "texto": "Alargaste os meus passos debaixo de mim, e não vacilaram os meus artelhos."
+    },
+    {
+      "numero": 38,
+      "texto": "Persegui os meus inimigos, e os derrotei, e nunca me tornei até que os consumisse."
+    },
+    {
+      "numero": 39,
+      "texto": "E os consumi, e os atravessei, de modo que nunca mais se levantaram, mas caíram debaixo dos meus pés."
+    },
+    {
+      "numero": 40,
+      "texto": "Porque me cingiste de força para a peleja; fizeste abater-se debaixo de mim os que se levantaram contra mim,"
+    },
+    {
+      "numero": 41,
+      "texto": "E deste-me o pescoço de meus inimigos, daqueles que me tinham ódio, e os destruí."
+    },
+    {
+      "numero": 42,
+      "texto": "Olharam, porém não houve libertador; sim, para o Senhor, porém não lhes respondeu."
+    },
+    {
+      "numero": 43,
+      "texto": "Então os moí como o pó da terra; como a lama das ruas os trilhei e dissipei."
+    },
+    {
+      "numero": 44,
+      "texto": "Também me livraste das contendas do meu povo; guardaste-me para cabeça das nações; o povo que não conhecia me servirá."
+    },
+    {
+      "numero": 45,
+      "texto": "Os filhos de estranhos se me sujeitaram; ouvindo a minha voz, me obedeceram."
+    },
+    {
+      "numero": 46,
+      "texto": "Os filhos de estranhos desfaleceram; e, cingindo-se, saíram dos seus esconderijos."
+    },
+    {
+      "numero": 47,
+      "texto": "Vive o Senhor, e bendito seja o meu rochedo; e exaltado seja Deus, a rocha da minha salvação,"
+    },
+    {
+      "numero": 48,
+      "texto": "O Deus que me dá inteira vingança, e sujeita os povos debaixo de mim."
+    },
+    {
+      "numero": 49,
+      "texto": "E o que me tira dentre os meus inimigos; e tu me exaltas sobre os que contra mim se levantam; do homem violento me livras."
+    },
+    {
+      "numero": 50,
+      "texto": "Por isso, ó Senhor, te louvarei entre os gentios, e entoarei louvores ao teu nome."
+    },
+    {
+      "numero": 51,
+      "texto": "Ele é a torre das salvações do seu rei, e usa de benignidade com o seu ungido, com Davi, e com a sua descendência para sempre."
+    }
+  ]
+}

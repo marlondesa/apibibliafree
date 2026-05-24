@@ -1,0 +1,137 @@
+{
+  "livro": "Provérbios",
+  "slug_livro": "proverbios",
+  "testamento": "Antigo Testamento",
+  "capitulo": 10,
+  "total_versiculos": 32,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Provérbios de Salomão: O filho sábio alegra a seu pai, mas o filho insensato é a tristeza de sua mãe."
+    },
+    {
+      "numero": 2,
+      "texto": "Os tesouros da impiedade de nada aproveitam; mas a justiça livra da morte."
+    },
+    {
+      "numero": 3,
+      "texto": "O Senhor não deixa o justo passar fome, mas rechaça a aspiração dos perversos."
+    },
+    {
+      "numero": 4,
+      "texto": "O que trabalha com mão displicente empobrece, mas a mão dos diligentes enriquece."
+    },
+    {
+      "numero": 5,
+      "texto": "O que ajunta no verão é filho ajuizado, mas o que dorme na sega é filho que envergonha."
+    },
+    {
+      "numero": 6,
+      "texto": "Bênçãos há sobre a cabeça do justo, mas a violência cobre a boca dos perversos."
+    },
+    {
+      "numero": 7,
+      "texto": "A memória do justo é abençoada, mas o nome dos perversos apodrecerá."
+    },
+    {
+      "numero": 8,
+      "texto": "O sábio de coração aceita os mandamentos, mas o insensato de lábios ficará transtornado."
+    },
+    {
+      "numero": 9,
+      "texto": "Quem anda em sinceridade, anda seguro; mas o que perverte os seus caminhos ficará conhecido."
+    },
+    {
+      "numero": 10,
+      "texto": "O que acena com os olhos causa dores, e o tolo de lábios ficará transtornado."
+    },
+    {
+      "numero": 11,
+      "texto": "A boca do justo é fonte de vida, mas a violência cobre a boca dos perversos."
+    },
+    {
+      "numero": 12,
+      "texto": "O ódio excita contendas, mas o amor cobre todos os pecados."
+    },
+    {
+      "numero": 13,
+      "texto": "Nos lábios do entendido se acha a sabedoria, mas a vara é para as costas do falto de entendimento."
+    },
+    {
+      "numero": 14,
+      "texto": "Os sábios entesouram a sabedoria; mas a boca do tolo o aproxima da ruína."
+    },
+    {
+      "numero": 15,
+      "texto": "Os bens do rico são a sua cidade forte, a pobreza dos pobres a sua ruína."
+    },
+    {
+      "numero": 16,
+      "texto": "A obra do justo conduz à vida, o fruto do perverso, ao pecado."
+    },
+    {
+      "numero": 17,
+      "texto": "O caminho para a vida é daquele que guarda a instrução, mas o que deixa a repreensão comete erro."
+    },
+    {
+      "numero": 18,
+      "texto": "O que encobre o ódio tem lábios falsos, e o que divulga má fama é um insensato."
+    },
+    {
+      "numero": 19,
+      "texto": "Na multidão de palavras não falta pecado, mas o que modera os seus lábios é sábio."
+    },
+    {
+      "numero": 20,
+      "texto": "Prata escolhida é a língua do justo; o coração dos perversos é de nenhum valor."
+    },
+    {
+      "numero": 21,
+      "texto": "Os lábios do justo apascentam a muitos, mas os tolos morrem por falta de entendimento."
+    },
+    {
+      "numero": 22,
+      "texto": "A bênção do Senhor é que enriquece; e não traz consigo dores."
+    },
+    {
+      "numero": 23,
+      "texto": "Para o tolo, o cometer desordem é divertimento; mas para o homem entendido é o ter sabedoria."
+    },
+    {
+      "numero": 24,
+      "texto": "Aquilo que o perverso teme sobrevirá a ele, mas o desejo dos justos será concedido."
+    },
+    {
+      "numero": 25,
+      "texto": "Como passa a tempestade, assim desaparece o perverso, mas o justo tem fundamento perpétuo."
+    },
+    {
+      "numero": 26,
+      "texto": "Como vinagre para os dentes, como fumaça para os olhos, assim é o preguiçoso para aqueles que o mandam."
+    },
+    {
+      "numero": 27,
+      "texto": "O temor do Senhor aumenta os dias, mas os perversos terão os anos da vida abreviados."
+    },
+    {
+      "numero": 28,
+      "texto": "A esperança dos justos é alegria, mas a expectação dos perversos perecerá."
+    },
+    {
+      "numero": 29,
+      "texto": "O caminho do Senhor é fortaleza para os retos, mas ruína para os que praticam a iniqüidade."
+    },
+    {
+      "numero": 30,
+      "texto": "O justo nunca jamais será abalado, mas os perversos não habitarão a terra."
+    },
+    {
+      "numero": 31,
+      "texto": "A boca do justo jorra sabedoria, mas a língua da perversidade será cortada."
+    },
+    {
+      "numero": 32,
+      "texto": "Os lábios do justo sabem o que agrada, mas a boca dos perversos, só perversidades."
+    }
+  ]
+}

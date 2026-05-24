@@ -1,0 +1,81 @@
+{
+  "livro": "2 Coríntios",
+  "slug_livro": "2-corintios",
+  "testamento": "Novo Testamento",
+  "capitulo": 10,
+  "total_versiculos": 18,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Além disto, eu, Paulo, vos rogo, pela mansidão e benignidade de Cristo, eu que, na verdade, quando presente entre vós, sou humilde, mas ausente, ousado para convosco;"
+    },
+    {
+      "numero": 2,
+      "texto": "Rogo-vos, pois, que, quando estiver presente, não me veja obrigado a usar com confiança da ousadia que espero ter com alguns, que nos julgam, como se andássemos segundo a carne."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque, andando na carne, não militamos segundo a carne."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque as armas da nossa milícia não são carnais, mas sim poderosas em Deus para destruição das fortalezas;"
+    },
+    {
+      "numero": 5,
+      "texto": "Destruindo os conselhos, e toda a altivez que se levanta contra o conhecimento de Deus, e levando cativo todo o entendimento à obediência de Cristo;"
+    },
+    {
+      "numero": 6,
+      "texto": "E estando prontos para vingar toda a desobediência, quando for cumprida a vossa obediência."
+    },
+    {
+      "numero": 7,
+      "texto": "Olhais para as coisas segundo a aparência? Se alguém confia de si mesmo que é de Cristo, pense outra vez isto consigo, que, assim como ele é de Cristo, também nós de Cristo somos."
+    },
+    {
+      "numero": 8,
+      "texto": "Porque, ainda que eu me glorie mais alguma coisa do nosso poder, o qual o Senhor nos deu para edificação, e não para vossa destruição, não me envergonharei."
+    },
+    {
+      "numero": 9,
+      "texto": "Para que não pareça como se quisera intimidar-vos por cartas."
+    },
+    {
+      "numero": 10,
+      "texto": "Porque as suas cartas, dizem, são graves e fortes, mas a presença do corpo é fraca, e a palavra desprezível."
+    },
+    {
+      "numero": 11,
+      "texto": "Pense o tal isto, que, quais somos na palavra por cartas, estando ausentes, tais seremos também por obra, estando presentes."
+    },
+    {
+      "numero": 12,
+      "texto": "Porque não ousamos classificar-nos, ou comparar-nos com alguns, que se louvam a si mesmos; mas estes que se medem a si mesmos, e se comparam consigo mesmos, estão sem entendimento."
+    },
+    {
+      "numero": 13,
+      "texto": "Porém, não nos gloriaremos fora da medida, mas conforme a reta medida que Deus nos deu, para chegarmos até vós;"
+    },
+    {
+      "numero": 14,
+      "texto": "Porque não nos estendemos além do que convém, como se não houvéssemos de chegar até vós, pois já chegamos também até vós no evangelho de Cristo,"
+    },
+    {
+      "numero": 15,
+      "texto": "Não nos gloriando fora da medida nos trabalhos alheios; antes tendo esperança de que, crescendo a vossa fé, seremos abundantemente engrandecidos entre vós, conforme a nossa regra,"
+    },
+    {
+      "numero": 16,
+      "texto": "Para anunciar o evangelho nos lugares que estão além de vós e não em campo de outrem, para não nos gloriarmos no que estava já preparado."
+    },
+    {
+      "numero": 17,
+      "texto": "Aquele, porém, que se gloria, glorie-se no Senhor."
+    },
+    {
+      "numero": 18,
+      "texto": "Porque não é aprovado quem a si mesmo se louva, mas, sim, aquele a quem o Senhor louva."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "livro": "Mateus",
+  "slug_livro": "mateus",
+  "testamento": "Novo Testamento",
+  "capitulo": 22,
+  "total_versiculos": 46,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então Jesus, tomando a palavra, tornou a falar-lhes em parábolas, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "O reino dos céus é semelhante a um certo rei que celebrou as bodas de seu filho;"
+    },
+    {
+      "numero": 3,
+      "texto": "E enviou os seus servos a chamar os convidados para as bodas, e estes não quiseram vir."
+    },
+    {
+      "numero": 4,
+      "texto": "Depois, enviou outros servos, dizendo: Dizei aos convidados: Eis que tenho o meu jantar preparado, os meus bois e cevados já mortos, e tudo já pronto; vinde às bodas."
+    },
+    {
+      "numero": 5,
+      "texto": "Eles, porém, não fazendo caso, foram, um para o seu campo, outro para o seu negócio;"
+    },
+    {
+      "numero": 6,
+      "texto": "E os outros, apoderando-se dos servos, os ultrajaram e mataram."
+    },
+    {
+      "numero": 7,
+      "texto": "E o rei, tendo notícia disto, encolerizou-se e, enviando os seus exércitos, destruiu aqueles homicidas, e incendiou a sua cidade."
+    },
+    {
+      "numero": 8,
+      "texto": "Então diz aos servos: As bodas, na verdade, estão preparadas, mas os convidados não eram dignos."
+    },
+    {
+      "numero": 9,
+      "texto": "Ide, pois, às saídas dos caminhos, e convidai para as bodas a todos os que encontrardes."
+    },
+    {
+      "numero": 10,
+      "texto": "E os servos, saindo pelos caminhos, ajuntaram todos quantos encontraram, tanto maus como bons; e a festa nupcial foi cheia de convidados."
+    },
+    {
+      "numero": 11,
+      "texto": "E o rei, entrando para ver os convidados, viu ali um homem que não estava trajado com veste de núpcias."
+    },
+    {
+      "numero": 12,
+      "texto": "E disse-lhe: Amigo, como entraste aqui, não tendo veste nupcial? E ele emudeceu."
+    },
+    {
+      "numero": 13,
+      "texto": "Disse, então, o rei aos servos: Amarrai-o de pés e mãos, levai-o, e lançai-o nas trevas exteriores; ali haverá pranto e ranger de dentes."
+    },
+    {
+      "numero": 14,
+      "texto": "Porque muitos são chamados, mas poucos escolhidos."
+    },
+    {
+      "numero": 15,
+      "texto": "Então, retirando-se os fariseus, consultaram entre si como o surpreenderiam nalguma palavra;"
+    },
+    {
+      "numero": 16,
+      "texto": "E enviaram-lhe os seus discípulos, com os herodianos, dizendo: Mestre, bem sabemos que és verdadeiro, e ensinas o caminho de Deus segundo a verdade, e de ninguém se te dá, porque não olhas a aparência dos homens."
+    },
+    {
+      "numero": 17,
+      "texto": "Dize-nos, pois, que te parece? É lícito pagar o tributo a César, ou não?"
+    },
+    {
+      "numero": 18,
+      "texto": "Jesus, porém, conhecendo a sua malícia, disse: Por que me experimentais, hipócritas?"
+    },
+    {
+      "numero": 19,
+      "texto": "Mostrai-me a moeda do tributo. E eles lhe apresentaram um dinheiro."
+    },
+    {
+      "numero": 20,
+      "texto": "E ele diz-lhes: De quem é esta efígie e esta inscrição?"
+    },
+    {
+      "numero": 21,
+      "texto": "Dizem-lhe eles: De César. Então ele lhes disse: Dai pois a César o que é de César, e a Deus o que é de Deus."
+    },
+    {
+      "numero": 22,
+      "texto": "E eles, ouvindo isto, maravilharam-se, e, deixando-o, se retiraram."
+    },
+    {
+      "numero": 23,
+      "texto": "No mesmo dia chegaram junto dele os saduceus, que dizem não haver ressurreição, e o interrogaram,"
+    },
+    {
+      "numero": 24,
+      "texto": "Dizendo: Mestre, Moisés disse: Se morrer alguém, não tendo filhos, casará o seu irmão com a mulher dele, e suscitará descendência a seu irmão."
+    },
+    {
+      "numero": 25,
+      "texto": "Ora, houve entre nós sete irmãos; e o primeiro, tendo casado, morreu e, não tendo descendência, deixou sua mulher a seu irmão."
+    },
+    {
+      "numero": 26,
+      "texto": "Da mesma sorte o segundo, e o terceiro, até ao sétimo;"
+    },
+    {
+      "numero": 27,
+      "texto": "Por fim, depois de todos, morreu também a mulher."
+    },
+    {
+      "numero": 28,
+      "texto": "Portanto, na ressurreição, de qual dos sete será a mulher, visto que todos a possuíram?"
+    },
+    {
+      "numero": 29,
+      "texto": "Jesus, porém, respondendo, disse-lhes: Errais, não conhecendo as Escrituras, nem o poder de Deus."
+    },
+    {
+      "numero": 30,
+      "texto": "Porque na ressurreição nem casam nem são dados em casamento; mas serão como os anjos de Deus no céu."
+    },
+    {
+      "numero": 31,
+      "texto": "E, acerca da ressurreição dos mortos, não tendes lido o que Deus vos declarou, dizendo:"
+    },
+    {
+      "numero": 32,
+      "texto": "Eu sou o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó? Ora, Deus não é Deus dos mortos, mas dos vivos."
+    },
+    {
+      "numero": 33,
+      "texto": "E, as turbas, ouvindo isto, ficaram maravilhadas da sua doutrina."
+    },
+    {
+      "numero": 34,
+      "texto": "E os fariseus, ouvindo que ele fizera emudecer os saduceus, reuniram-se no mesmo lugar."
+    },
+    {
+      "numero": 35,
+      "texto": "E um deles, doutor da lei, interrogou-o para o experimentar, dizendo:"
+    },
+    {
+      "numero": 36,
+      "texto": "Mestre, qual é o grande mandamento na lei?"
+    },
+    {
+      "numero": 37,
+      "texto": "E Jesus disse-lhe: Amarás o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento."
+    },
+    {
+      "numero": 38,
+      "texto": "Este é o primeiro e grande mandamento."
+    },
+    {
+      "numero": 39,
+      "texto": "E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo."
+    },
+    {
+      "numero": 40,
+      "texto": "Destes dois mandamentos dependem toda a lei e os profetas."
+    },
+    {
+      "numero": 41,
+      "texto": "E, estando reunidos os fariseus, interrogou-os Jesus,"
+    },
+    {
+      "numero": 42,
+      "texto": "Dizendo: Que pensais vós do Cristo? De quem é filho? Eles disseram-lhe: De Davi."
+    },
+    {
+      "numero": 43,
+      "texto": "Disse-lhes ele: Como é então que Davi, em espírito, lhe chama Senhor, dizendo:"
+    },
+    {
+      "numero": 44,
+      "texto": "Disse o Senhor ao meu Senhor:Assenta-te à minha direita,Até que eu ponha os teus inimigos por escabelo de teus pés?"
+    },
+    {
+      "numero": 45,
+      "texto": "Se Davi, pois, lhe chama Senhor, como é seu filho?"
+    },
+    {
+      "numero": 46,
+      "texto": "E ninguém podia responder-lhe uma palavra; nem desde aquele dia ousou mais alguém interrogá-lo."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 63,
+  "abbrev": "2jo",
+  "nome": "2 João",
+  "slug": "2-joao",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 1,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 13
+    }
+  ]
+}

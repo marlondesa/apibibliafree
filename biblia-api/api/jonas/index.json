@@ -1,0 +1,26 @@
+{
+  "id": 32,
+  "abbrev": "jn",
+  "nome": "Jonas",
+  "slug": "jonas",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 4,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 11
+    }
+  ]
+}

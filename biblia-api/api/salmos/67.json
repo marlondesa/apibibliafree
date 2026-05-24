@@ -1,0 +1,37 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 67,
+  "total_versiculos": 7,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Deus tenha misericórdia de nós e nos abençoe; e faça resplandecer o seu rosto sobre nós (Selá.)"
+    },
+    {
+      "numero": 2,
+      "texto": "Para que se conheça na terra o teu caminho, e entre todas as nações a tua salvação."
+    },
+    {
+      "numero": 3,
+      "texto": "Louvem-te a ti, ó Deus, os povos; louvem-te os povos todos."
+    },
+    {
+      "numero": 4,
+      "texto": "Alegrem-se e regozijem-se as nações, pois julgarás os povos com eqüidade, e governarás as nações sobre a terra. (Selá.)"
+    },
+    {
+      "numero": 5,
+      "texto": "Louvem-te a ti, ó Deus, os povos; louvem-te os povos todos."
+    },
+    {
+      "numero": 6,
+      "texto": "Então a terra dará o seu fruto; e Deus, o nosso Deus, nos abençoará."
+    },
+    {
+      "numero": 7,
+      "texto": "Deus nos abençoará, e todas as extremidades da terra o temerão."
+    }
+  ]
+}

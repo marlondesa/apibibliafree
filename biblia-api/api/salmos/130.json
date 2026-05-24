@@ -1,0 +1,41 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 130,
+  "total_versiculos": 8,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Das profundezas a ti clamo, ó SENHOR."
+    },
+    {
+      "numero": 2,
+      "texto": "Senhor, escuta a minha voz; sejam os teus ouvidos atentos à voz das minhas súplicas."
+    },
+    {
+      "numero": 3,
+      "texto": "Se tu, Senhor, observares as iniqüidades, Senhor, quem subsistirá?"
+    },
+    {
+      "numero": 4,
+      "texto": "Mas contigo está o perdão, para que sejas temido."
+    },
+    {
+      "numero": 5,
+      "texto": "Aguardo ao Senhor; a minha alma o aguarda, e espero na sua palavra."
+    },
+    {
+      "numero": 6,
+      "texto": "A minha alma anseia pelo Senhor, mais do que os guardas pela manhã, mais do que aqueles que guardam pela manhã."
+    },
+    {
+      "numero": 7,
+      "texto": "Espere Israel no Senhor, porque no Senhor há misericórdia, e nele há abundante redenção."
+    },
+    {
+      "numero": 8,
+      "texto": "E ele remirá a Israel de todas as suas iniqüidades."
+    }
+  ]
+}

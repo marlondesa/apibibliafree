@@ -1,0 +1,221 @@
+{
+  "livro": "João",
+  "slug_livro": "joao",
+  "testamento": "Novo Testamento",
+  "capitulo": 7,
+  "total_versiculos": 53,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E depois disto Jesus andava pela Galiléia, e já não queria andar pela Judéia, pois os judeus procuravam matá-lo."
+    },
+    {
+      "numero": 2,
+      "texto": "E estava próxima a festa dos judeus, a dos tabernáculos."
+    },
+    {
+      "numero": 3,
+      "texto": "Disseram-lhe, pois, seus irmãos: Sai daqui, e vai para a Judéia, para que também os teus discípulos vejam as obras que fazes."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque não há ninguém que procure ser conhecido que faça coisa alguma em oculto. Se fazes estas coisas, manifesta-te ao mundo."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque nem mesmo seus irmãos criam nele."
+    },
+    {
+      "numero": 6,
+      "texto": "Disse-lhes, pois, Jesus: Ainda não é chegado o meu tempo, mas o vosso tempo sempre está pronto."
+    },
+    {
+      "numero": 7,
+      "texto": "O mundo não vos pode odiar, mas ele me odeia a mim, porquanto dele testifico que as suas obras são más."
+    },
+    {
+      "numero": 8,
+      "texto": "Subi vós a esta festa; eu não subo ainda a esta festa, porque ainda o meu tempo não está cumprido."
+    },
+    {
+      "numero": 9,
+      "texto": "E, havendo-lhes dito isto, ficou na Galiléia."
+    },
+    {
+      "numero": 10,
+      "texto": "Mas, quando seus irmãos já tinham subido à festa, então subiu ele também, não manifestamente, mas como em oculto."
+    },
+    {
+      "numero": 11,
+      "texto": "Ora, os judeus procuravam-no na festa, e diziam: Onde está ele?"
+    },
+    {
+      "numero": 12,
+      "texto": "E havia grande murmuração entre a multidão a respeito dele. Diziam alguns: Ele é bom. E outros diziam: Não, antes engana o povo."
+    },
+    {
+      "numero": 13,
+      "texto": "Todavia ninguém falava dele abertamente, por medo dos judeus."
+    },
+    {
+      "numero": 14,
+      "texto": "Mas, no meio da festa subiu Jesus ao templo, e ensinava."
+    },
+    {
+      "numero": 15,
+      "texto": "E os judeus maravilhavam-se, dizendo: Como sabe este letras, não as tendo aprendido?"
+    },
+    {
+      "numero": 16,
+      "texto": "Jesus lhes respondeu, e disse: A minha doutrina não é minha, mas daquele que me enviou."
+    },
+    {
+      "numero": 17,
+      "texto": "Se alguém quiser fazer a vontade dele, pela mesma doutrina conhecerá se ela é de Deus, ou se eu falo de mim mesmo."
+    },
+    {
+      "numero": 18,
+      "texto": "Quem fala de si mesmo busca a sua própria glória; mas o que busca a glória daquele que o enviou, esse é verdadeiro, e não há nele injustiça."
+    },
+    {
+      "numero": 19,
+      "texto": "Não vos deu Moisés a lei? e nenhum de vós observa a lei. Por que procurais matar-me?"
+    },
+    {
+      "numero": 20,
+      "texto": "A multidão respondeu, e disse: Tens demônio; quem procura matar-te?"
+    },
+    {
+      "numero": 21,
+      "texto": "Respondeu Jesus, e disse-lhes: Fiz uma só obra, e todos vos maravilhais."
+    },
+    {
+      "numero": 22,
+      "texto": "Pelo motivo de que Moisés vos deu a circuncisão (não que fosse de Moisés, mas dos pais), no sábado circuncidais um homem."
+    },
+    {
+      "numero": 23,
+      "texto": "Se o homem recebe a circuncisão no sábado, para que a lei de Moisés não seja quebrantada, indignais-vos contra mim, porque no sábado curei de todo um homem?"
+    },
+    {
+      "numero": 24,
+      "texto": "Não julgueis segundo a aparência, mas julgai segundo a reta justiça."
+    },
+    {
+      "numero": 25,
+      "texto": "Então alguns dos de Jerusalém diziam: Não é este o que procuram matar?"
+    },
+    {
+      "numero": 26,
+      "texto": "E ei-lo aí está falando abertamente, e nada lhe dizem. Porventura sabem verdadeiramente os príncipes que de fato este é o Cristo?"
+    },
+    {
+      "numero": 27,
+      "texto": "Todavia bem sabemos de onde este é; mas, quando vier o Cristo, ninguém saberá de onde ele é."
+    },
+    {
+      "numero": 28,
+      "texto": "Clamava, pois, Jesus no templo, ensinando, e dizendo: Vós conheceis-me, e sabeis de onde sou; e eu não vim de mim mesmo, mas aquele que me enviou é verdadeiro, o qual vós não conheceis."
+    },
+    {
+      "numero": 29,
+      "texto": "Mas eu conheço-o, porque dele sou e ele me enviou."
+    },
+    {
+      "numero": 30,
+      "texto": "Procuravam, pois, prendê-lo, mas ninguém lançou mão dele, porque ainda não era chegada a sua hora."
+    },
+    {
+      "numero": 31,
+      "texto": "E muitos da multidão creram nele, e diziam: Quando o Cristo vier, fará ainda mais sinais do que os que este tem feito?"
+    },
+    {
+      "numero": 32,
+      "texto": "Os fariseus ouviram que a multidão murmurava dele estas coisas; e os fariseus e os principais dos sacerdotes mandaram servidores para o prenderem."
+    },
+    {
+      "numero": 33,
+      "texto": "Disse-lhes, pois, Jesus: Ainda um pouco de tempo estou convosco, e depois vou para aquele que me enviou."
+    },
+    {
+      "numero": 34,
+      "texto": "Vós me buscareis, e não me achareis; e onde eu estou, vós não podeis vir."
+    },
+    {
+      "numero": 35,
+      "texto": "Disseram, pois, os judeus uns para os outros: Para onde irá este, que o não acharemos? Irá porventura para os dispersos entre os gregos, e ensinará os gregos?"
+    },
+    {
+      "numero": 36,
+      "texto": "Que palavra é esta que disse: Buscar-me-eis, e não me achareis; e: Aonde eu estou vós não podeis ir?"
+    },
+    {
+      "numero": 37,
+      "texto": "E no último dia, o grande dia da festa, Jesus pôs-se em pé, e clamou, dizendo: Se alguém tem sede, venha a mim, e beba."
+    },
+    {
+      "numero": 38,
+      "texto": "Quem crê em mim, como diz a Escritura, rios de água viva correrão do seu ventre."
+    },
+    {
+      "numero": 39,
+      "texto": "E isto disse ele do Espírito que haviam de receber os que nele cressem; porque o Espírito Santo ainda não fora dado, por ainda Jesus não ter sido glorificado."
+    },
+    {
+      "numero": 40,
+      "texto": "Então muitos da multidão, ouvindo esta palavra, diziam: Verdadeiramente este é o Profeta."
+    },
+    {
+      "numero": 41,
+      "texto": "Outros diziam: Este é o Cristo; mas diziam outros: Vem, pois, o Cristo da Galiléia?"
+    },
+    {
+      "numero": 42,
+      "texto": "Não diz a Escritura que o Cristo vem da descendência de Davi, e de Belém, da aldeia de onde era Davi?"
+    },
+    {
+      "numero": 43,
+      "texto": "Assim entre o povo havia dissensão por causa dele."
+    },
+    {
+      "numero": 44,
+      "texto": "E alguns deles queriam prendê-lo, mas ninguém lançou mão dele."
+    },
+    {
+      "numero": 45,
+      "texto": "E os servidores foram ter com os principais dos sacerdotes e fariseus; e eles lhes perguntaram: Por que não o trouxestes?"
+    },
+    {
+      "numero": 46,
+      "texto": "Responderam os servidores: Nunca homem algum falou assim como este homem."
+    },
+    {
+      "numero": 47,
+      "texto": "Responderam-lhes, pois, os fariseus: Também vós fostes enganados?"
+    },
+    {
+      "numero": 48,
+      "texto": "Creu nele porventura algum dos principais ou dos fariseus?"
+    },
+    {
+      "numero": 49,
+      "texto": "Mas esta multidão, que não sabe a lei, é maldita."
+    },
+    {
+      "numero": 50,
+      "texto": "Nicodemos, que era um deles (o que de noite fora ter com Jesus), disse-lhes:"
+    },
+    {
+      "numero": 51,
+      "texto": "Porventura condena a nossa lei um homem sem primeiro o ouvir e ter conhecimento do que faz?"
+    },
+    {
+      "numero": 52,
+      "texto": "Responderam eles, e disseram-lhe: És tu também da Galiléia? Examina, e verás que da Galiléia nenhum profeta surgiu."
+    },
+    {
+      "numero": 53,
+      "texto": "E cada um foi para sua casa."
+    }
+  ]
+}

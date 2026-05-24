@@ -1,0 +1,197 @@
+{
+  "livro": "João",
+  "slug_livro": "joao",
+  "testamento": "Novo Testamento",
+  "capitulo": 5,
+  "total_versiculos": 47,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Depois disto havia uma festa entre os judeus, e Jesus subiu a Jerusalém."
+    },
+    {
+      "numero": 2,
+      "texto": "Ora, em Jerusalém há, próximo à porta das ovelhas, um tanque, chamado em hebreu Betesda, o qual tem cinco alpendres."
+    },
+    {
+      "numero": 3,
+      "texto": "Nestes jazia grande multidão de enfermos, cegos, mancos e ressicados, esperando o movimento da água."
+    },
+    {
+      "numero": 4,
+      "texto": "Porquanto um anjo descia em certo tempo ao tanque, e agitava a água; e o primeiro que ali descia, depois do movimento da água, sarava de qualquer enfermidade que tivesse."
+    },
+    {
+      "numero": 5,
+      "texto": "E estava ali um homem que, havia trinta e oito anos, se achava enfermo."
+    },
+    {
+      "numero": 6,
+      "texto": "E Jesus, vendo este deitado, e sabendo que estava neste estado havia muito tempo, disse-lhe: Queres ficar são?"
+    },
+    {
+      "numero": 7,
+      "texto": "O enfermo respondeu-lhe: Senhor, não tenho homem algum que, quando a água é agitada, me ponha no tanque; mas, enquanto eu vou, desce outro antes de mim."
+    },
+    {
+      "numero": 8,
+      "texto": "Jesus disse-lhe: Levanta-te, toma o teu leito, e anda."
+    },
+    {
+      "numero": 9,
+      "texto": "Logo aquele homem ficou são; e tomou o seu leito, e andava. E aquele dia era sábado."
+    },
+    {
+      "numero": 10,
+      "texto": "Então os judeus disseram àquele que tinha sido curado: É sábado, não te é lícito levar o leito."
+    },
+    {
+      "numero": 11,
+      "texto": "Ele respondeu-lhes: Aquele que me curou, ele próprio disse: Toma o teu leito, e anda."
+    },
+    {
+      "numero": 12,
+      "texto": "Perguntaram-lhe, pois: Quem é o homem que te disse: Toma o teu leito, e anda?"
+    },
+    {
+      "numero": 13,
+      "texto": "E o que fora curado não sabia quem era; porque Jesus se havia retirado, em razão de naquele lugar haver grande multidão."
+    },
+    {
+      "numero": 14,
+      "texto": "Depois Jesus encontrou-o no templo, e disse-lhe: Eis que já estás são; não peques mais, para que não te suceda alguma coisa pior."
+    },
+    {
+      "numero": 15,
+      "texto": "E aquele homem foi, e anunciou aos judeus que Jesus era o que o curara."
+    },
+    {
+      "numero": 16,
+      "texto": "E por esta causa os judeus perseguiram a Jesus, e procuravam matá-lo, porque fazia estas coisas no sábado."
+    },
+    {
+      "numero": 17,
+      "texto": "E Jesus lhes respondeu: Meu Pai trabalha até agora, e eu trabalho também."
+    },
+    {
+      "numero": 18,
+      "texto": "Por isso, pois, os judeus ainda mais procuravam matá-lo, porque não só quebrantava o sábado, mas também dizia que Deus era seu próprio Pai, fazendo-se igual a Deus."
+    },
+    {
+      "numero": 19,
+      "texto": "Mas Jesus respondeu, e disse-lhes: Na verdade, na verdade vos digo que o Filho por si mesmo não pode fazer coisa alguma, se o não vir fazer o Pai; porque tudo quanto ele faz, o Filho o faz igualmente."
+    },
+    {
+      "numero": 20,
+      "texto": "Porque o Pai ama o Filho, e mostra-lhe tudo o que faz; e ele lhe mostrará maiores obras do que estas, para que vos maravilheis."
+    },
+    {
+      "numero": 21,
+      "texto": "Pois, assim como o Pai ressuscita os mortos, e os vivifica, assim também o Filho vivifica aqueles que quer."
+    },
+    {
+      "numero": 22,
+      "texto": "E também o Pai a ninguém julga, mas deu ao Filho todo o juízo;"
+    },
+    {
+      "numero": 23,
+      "texto": "Para que todos honrem o Filho, como honram o Pai. Quem não honra o Filho, não honra o Pai que o enviou."
+    },
+    {
+      "numero": 24,
+      "texto": "Na verdade, na verdade vos digo que quem ouve a minha palavra, e crê naquele que me enviou, tem a vida eterna, e não entrará em condenação, mas passou da morte para a vida."
+    },
+    {
+      "numero": 25,
+      "texto": "Em verdade, em verdade vos digo que vem a hora, e agora é, em que os mortos ouvirão a voz do Filho de Deus, e os que a ouvirem viverão."
+    },
+    {
+      "numero": 26,
+      "texto": "Porque, como o Pai tem a vida em si mesmo, assim deu também ao Filho ter a vida em si mesmo;"
+    },
+    {
+      "numero": 27,
+      "texto": "E deu-lhe o poder de exercer o juízo, porque é o Filho do homem."
+    },
+    {
+      "numero": 28,
+      "texto": "Não vos maravilheis disto; porque vem a hora em que todos os que estão nos sepulcros ouvirão a sua voz."
+    },
+    {
+      "numero": 29,
+      "texto": "E os que fizeram o bem sairão para a ressurreição da vida; e os que fizeram o mal para a ressurreição da condenação."
+    },
+    {
+      "numero": 30,
+      "texto": "Eu não posso de mim mesmo fazer coisa alguma. Como ouço, assim julgo; e o meu juízo é justo, porque não busco a minha vontade, mas a vontade do Pai que me enviou."
+    },
+    {
+      "numero": 31,
+      "texto": "Se eu testifico de mim mesmo, o meu testemunho não é verdadeiro."
+    },
+    {
+      "numero": 32,
+      "texto": "Há outro que testifica de mim, e sei que o testemunho que ele dá de mim é verdadeiro."
+    },
+    {
+      "numero": 33,
+      "texto": "Vós mandastes mensageiros a João, e ele deu testemunho da verdade."
+    },
+    {
+      "numero": 34,
+      "texto": "Eu, porém, não recebo testemunho de homem; mas digo isto, para que vos salveis."
+    },
+    {
+      "numero": 35,
+      "texto": "Ele era a candeia que ardia e alumiava, e vós quisestes alegrar-vos por um pouco de tempo com a sua luz."
+    },
+    {
+      "numero": 36,
+      "texto": "Mas eu tenho maior testemunho do que o de João; porque as obras que o Pai me deu para realizar, as mesmas obras que eu faço, testificam de mim, que o Pai me enviou."
+    },
+    {
+      "numero": 37,
+      "texto": "E o Pai, que me enviou, ele mesmo testificou de mim. Vós nunca ouvistes a sua voz, nem vistes o seu parecer."
+    },
+    {
+      "numero": 38,
+      "texto": "E a sua palavra não permanece em vós, porque naquele que ele enviou não credes vós."
+    },
+    {
+      "numero": 39,
+      "texto": "Examinais as Escrituras, porque vós cuidais ter nelas a vida eterna, e são elas que de mim testificam;"
+    },
+    {
+      "numero": 40,
+      "texto": "E não quereis vir a mim para terdes vida."
+    },
+    {
+      "numero": 41,
+      "texto": "Eu não recebo glória dos homens;"
+    },
+    {
+      "numero": 42,
+      "texto": "Mas bem vos conheço, que não tendes em vós o amor de Deus."
+    },
+    {
+      "numero": 43,
+      "texto": "Eu vim em nome de meu Pai, e não me aceitais; se outro vier em seu próprio nome, a esse aceitareis."
+    },
+    {
+      "numero": 44,
+      "texto": "Como podeis vós crer, recebendo honra uns dos outros, e não buscando a honra que vem só de Deus?"
+    },
+    {
+      "numero": 45,
+      "texto": "Não cuideis que eu vos hei de acusar para com o Pai. Há um que vos acusa, Moisés, em quem vós esperais."
+    },
+    {
+      "numero": 46,
+      "texto": "Porque, se vós crêsseis em Moisés, creríeis em mim; porque de mim escreveu ele."
+    },
+    {
+      "numero": 47,
+      "texto": "Mas, se não credes nos seus escritos, como crereis nas minhas palavras?"
+    }
+  ]
+}

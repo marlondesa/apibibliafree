@@ -1,0 +1,41 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 138,
+  "total_versiculos": 8,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eu te louvarei, de todo o meu coração; na presença dos deuses a ti cantarei louvores."
+    },
+    {
+      "numero": 2,
+      "texto": "Inclinar-me-ei para o teu santo templo, e louvarei o teu nome pela tua benignidade, e pela tua verdade; pois engrandeceste a tua palavra acima de todo o teu nome."
+    },
+    {
+      "numero": 3,
+      "texto": "No dia em que eu clamei, me escutaste; e alentaste com força a minha alma."
+    },
+    {
+      "numero": 4,
+      "texto": "Todos os reis da terra te louvarão, ó Senhor, quando ouvirem as palavras da tua boca;"
+    },
+    {
+      "numero": 5,
+      "texto": "E cantarão os caminhos do Senhor; pois grande é a glória do Senhor."
+    },
+    {
+      "numero": 6,
+      "texto": "Ainda que o Senhor é excelso, atenta todavia para o humilde; mas ao soberbo conhece-o de longe."
+    },
+    {
+      "numero": 7,
+      "texto": "Andando eu no meio da angústia, tu me reviverás; estenderás a tua mão contra a ira dos meus inimigos, e a tua destra me salvará."
+    },
+    {
+      "numero": 8,
+      "texto": "O Senhor aperfeiçoará o que me toca; a tua benignidade, ó Senhor, dura para sempre; não desampares as obras das tuas mãos."
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "livro": "Lucas",
+  "slug_livro": "lucas",
+  "testamento": "Novo Testamento",
+  "capitulo": 23,
+  "total_versiculos": 56,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E, levantando-se toda a multidão deles, o levaram a Pilatos."
+    },
+    {
+      "numero": 2,
+      "texto": "E começaram a acusá-lo, dizendo: Havemos achado este pervertendo a nação, proibindo dar o tributo a César, e dizendo que ele mesmo é Cristo, o rei."
+    },
+    {
+      "numero": 3,
+      "texto": "E Pilatos perguntou-lhe, dizendo: Tu és o Rei dos Judeus? E ele, respondendo, disse-lhe: Tu o dizes."
+    },
+    {
+      "numero": 4,
+      "texto": "E disse Pilatos aos principais dos sacerdotes, e à multidão: Não acho culpa alguma neste homem."
+    },
+    {
+      "numero": 5,
+      "texto": "Mas eles insistiam cada vez mais, dizendo: Alvoroça o povo ensinando por toda a Judéia, começando desde a Galiléia até aqui."
+    },
+    {
+      "numero": 6,
+      "texto": "Então Pilatos, ouvindo falar da Galiléia perguntou se aquele homem era galileu."
+    },
+    {
+      "numero": 7,
+      "texto": "E, sabendo que era da jurisdição de Herodes, remeteu-o a Herodes, que também naqueles dias estava em Jerusalém."
+    },
+    {
+      "numero": 8,
+      "texto": "E Herodes, quando viu a Jesus, alegrou-se muito; porque havia muito que desejava vê-lo, por ter ouvido dele muitas coisas; e esperava que lhe veria fazer algum sinal."
+    },
+    {
+      "numero": 9,
+      "texto": "E interrogava-o com muitas palavras, mas ele nada lhe respondia."
+    },
+    {
+      "numero": 10,
+      "texto": "E estavam os principais dos sacerdotes, e os escribas, acusando-o com grande veemência."
+    },
+    {
+      "numero": 11,
+      "texto": "E Herodes, com os seus soldados, desprezou-o e, escarnecendo dele, vestiu-o de uma roupa resplandecente e tornou a enviá-lo a Pilatos."
+    },
+    {
+      "numero": 12,
+      "texto": "E no mesmo dia, Pilatos e Herodes entre si se fizeram amigos; pois dantes andavam em inimizade um com o outro."
+    },
+    {
+      "numero": 13,
+      "texto": "E, convocando Pilatos os principais dos sacerdotes, e os magistrados, e o povo,"
+    },
+    {
+      "numero": 14,
+      "texto": "Disse-lhes: Haveis-me apresentado este homem como pervertedor do povo; e eis que, examinando-o na vossa presença, nenhuma culpa, das de que o acusais, acho neste homem."
+    },
+    {
+      "numero": 15,
+      "texto": "Nem mesmo Herodes, porque a ele vos remeti, e eis que não tem feito coisa alguma digna de morte."
+    },
+    {
+      "numero": 16,
+      "texto": "Castigá-lo-ei, pois, e soltá-lo-ei."
+    },
+    {
+      "numero": 17,
+      "texto": "E era-lhe necessário soltar-lhes um pela festa."
+    },
+    {
+      "numero": 18,
+      "texto": "Mas toda a multidão clamou a uma, dizendo: Fora daqui com este, e solta-nos Barrabás."
+    },
+    {
+      "numero": 19,
+      "texto": "O qual fora lançado na prisão por causa de uma sedição feita na cidade, e de um homicídio."
+    },
+    {
+      "numero": 20,
+      "texto": "Falou, pois, outra vez Pilatos, querendo soltar a Jesus."
+    },
+    {
+      "numero": 21,
+      "texto": "Mas eles clamavam em contrário, dizendo: Crucifica-o, crucifica-o."
+    },
+    {
+      "numero": 22,
+      "texto": "Então ele, pela terceira vez, lhes disse: Mas que mal fez este? Não acho nele culpa alguma de morte. Castigá-lo-ei pois, e soltá-lo-ei."
+    },
+    {
+      "numero": 23,
+      "texto": "Mas eles instavam com grandes gritos, pedindo que fosse crucificado. E os seus gritos, e os dos principais dos sacerdotes, prevaleciam."
+    },
+    {
+      "numero": 24,
+      "texto": "Então Pilatos julgou que devia fazer o que eles pediam."
+    },
+    {
+      "numero": 25,
+      "texto": "E soltou-lhes o que fora lançado na prisão por uma sedição e homicídio, que era o que pediam; mas entregou Jesus à vontade deles."
+    },
+    {
+      "numero": 26,
+      "texto": "E quando o iam levando, tomaram um certo Simão, cireneu, que vinha do campo, e puseram-lhe a cruz às costas, para que a levasse após Jesus."
+    },
+    {
+      "numero": 27,
+      "texto": "E seguia-o grande multidão de povo e de mulheres, as quais batiam nos peitos, e o lamentavam."
+    },
+    {
+      "numero": 28,
+      "texto": "Jesus, porém, voltando-se para elas, disse: Filhas de Jerusalém, não choreis por mim; chorai antes por vós mesmas, e por vossos filhos."
+    },
+    {
+      "numero": 29,
+      "texto": "Porque eis que hão de vir dias em que dirão: Bem-aventuradas as estéreis, e os ventres que não geraram, e os peitos que não amamentaram!"
+    },
+    {
+      "numero": 30,
+      "texto": "Então começarão a dizer aos montes: Caí sobre nós, e aos outeiros: Cobri-nos."
+    },
+    {
+      "numero": 31,
+      "texto": "Porque, se ao madeiro verde fazem isto, que se fará ao seco?"
+    },
+    {
+      "numero": 32,
+      "texto": "E também conduziram outros dois, que eram malfeitores, para com ele serem mortos."
+    },
+    {
+      "numero": 33,
+      "texto": "E, quando chegaram ao lugar chamado a Caveira, ali o crucificaram, e aos malfeitores, um à direita e outro à esquerda."
+    },
+    {
+      "numero": 34,
+      "texto": "E dizia Jesus: Pai, perdoa-lhes, porque não sabem o que fazem. E, repartindo as suas vestes, lançaram sortes."
+    },
+    {
+      "numero": 35,
+      "texto": "E o povo estava olhando. E também os príncipes zombavam dele, dizendo: Aos outros salvou, salve-se a si mesmo, se este é o Cristo, o escolhido de Deus."
+    },
+    {
+      "numero": 36,
+      "texto": "E também os soldados o escarneciam, chegando-se a ele, e apresentando-lhe vinagre."
+    },
+    {
+      "numero": 37,
+      "texto": "E dizendo: Se tu és o Rei dos Judeus, salva-te a ti mesmo."
+    },
+    {
+      "numero": 38,
+      "texto": "E também por cima dele, estava um título, escrito em letras gregas, romanas, e hebraicas: ESTE É O REI DOS JUDEUS."
+    },
+    {
+      "numero": 39,
+      "texto": "E um dos malfeitores que estavam pendurados blasfemava dele, dizendo: Se tu és o Cristo, salva-te a ti mesmo, e a nós."
+    },
+    {
+      "numero": 40,
+      "texto": "Respondendo, porém, o outro, repreendia-o, dizendo: Tu nem ainda temes a Deus, estando na mesma condenação?"
+    },
+    {
+      "numero": 41,
+      "texto": "E nós, na verdade, com justiça, porque recebemos o que os nossos feitos mereciam; mas este nenhum mal fez."
+    },
+    {
+      "numero": 42,
+      "texto": "E disse a Jesus: Senhor, lembra-te de mim, quando entrares no teu reino."
+    },
+    {
+      "numero": 43,
+      "texto": "E disse-lhe Jesus: Em verdade te digo que hoje estarás comigo no Paraíso."
+    },
+    {
+      "numero": 44,
+      "texto": "E era já quase a hora sexta, e houve trevas em toda a terra até à hora nona, escurecendo-se o sol;"
+    },
+    {
+      "numero": 45,
+      "texto": "E rasgou-se ao meio o véu do templo."
+    },
+    {
+      "numero": 46,
+      "texto": "E, clamando Jesus com grande voz, disse: Pai, nas tuas mãos entrego o meu espírito. E, havendo dito isto, expirou."
+    },
+    {
+      "numero": 47,
+      "texto": "E o centurião, vendo o que tinha acontecido, deu glória a Deus, dizendo: Na verdade, este homem era justo."
+    },
+    {
+      "numero": 48,
+      "texto": "E toda a multidão que se ajuntara a este espetáculo, vendo o que havia acontecido, voltava batendo nos peitos."
+    },
+    {
+      "numero": 49,
+      "texto": "E todos os seus conhecidos, e as mulheres que juntamente o haviam seguido desde a Galiléia, estavam de longe vendo estas coisas."
+    },
+    {
+      "numero": 50,
+      "texto": "E eis que um homem por nome José, senador, homem de bem e justo,"
+    },
+    {
+      "numero": 51,
+      "texto": "Que não tinha consentido no conselho e nos atos dos outros, de Arimatéia, cidade dos judeus, e que também esperava o reino de Deus;"
+    },
+    {
+      "numero": 52,
+      "texto": "Esse, chegando a Pilatos, pediu o corpo de Jesus."
+    },
+    {
+      "numero": 53,
+      "texto": "E, havendo-o tirado, envolveu-o num lençol, e pô-lo num sepulcro escavado numa penha, onde ninguém ainda havia sido posto."
+    },
+    {
+      "numero": 54,
+      "texto": "E era o dia da preparação, e amanhecia o sábado."
+    },
+    {
+      "numero": 55,
+      "texto": "E as mulheres, que tinham vindo com ele da Galiléia, seguiram também e viram o sepulcro, e como foi posto o seu corpo."
+    },
+    {
+      "numero": 56,
+      "texto": "E, voltando elas, prepararam especiarias e ungüentos; e no sábado repousaram, conforme o mandamento."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 25,
+  "total_versiculos": 22,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A ti, SENHOR, levanto a minha alma."
+    },
+    {
+      "numero": 2,
+      "texto": "Deus meu, em ti confio, não me deixes confundido, nem que os meus inimigos triunfem sobre mim."
+    },
+    {
+      "numero": 3,
+      "texto": "Na verdade, não serão confundidos os que esperam em ti; confundidos serão os que transgridem sem causa."
+    },
+    {
+      "numero": 4,
+      "texto": "Faze-me saber os teus caminhos, Senhor; ensina-me as tuas veredas."
+    },
+    {
+      "numero": 5,
+      "texto": "Guia-me na tua verdade, e ensina-me, pois tu és o Deus da minha salvação; por ti estou esperando todo o dia."
+    },
+    {
+      "numero": 6,
+      "texto": "Lembra-te, Senhor, das tuas misericórdias e das tuas benignidades, porque são desde a eternidade."
+    },
+    {
+      "numero": 7,
+      "texto": "Não te lembres dos pecados da minha mocidade, nem das minhas transgressões; mas segundo a tua misericórdia, lembra-te de mim, por tua bondade, Senhor."
+    },
+    {
+      "numero": 8,
+      "texto": "Bom e reto é o Senhor; por isso ensinará o caminho aos pecadores."
+    },
+    {
+      "numero": 9,
+      "texto": "Guiará os mansos em justiça e aos mansos ensinará o seu caminho."
+    },
+    {
+      "numero": 10,
+      "texto": "Todas as veredas do Senhor são misericórdia e verdade para aqueles que guardam a sua aliança e os seus testemunhos."
+    },
+    {
+      "numero": 11,
+      "texto": "Por amor do teu nome, Senhor, perdoa a minha iniqüidade, pois é grande."
+    },
+    {
+      "numero": 12,
+      "texto": "Qual é o homem que teme ao Senhor? Ele o ensinará no caminho que deve escolher."
+    },
+    {
+      "numero": 13,
+      "texto": "A sua alma pousará no bem, e a sua semente herdará a terra."
+    },
+    {
+      "numero": 14,
+      "texto": "O segredo do Senhor é com aqueles que o temem; e ele lhes mostrará a sua aliança."
+    },
+    {
+      "numero": 15,
+      "texto": "Os meus olhos estão continuamente no Senhor, pois ele tirará os meus pés da rede."
+    },
+    {
+      "numero": 16,
+      "texto": "Olha para mim, e tem piedade de mim, porque estou solitário e aflito."
+    },
+    {
+      "numero": 17,
+      "texto": "As ânsias do meu coração se têm multiplicado; tira-me dos meus apertos."
+    },
+    {
+      "numero": 18,
+      "texto": "Olha para a minha aflição e para a minha dor, e perdoa todos os meus pecados."
+    },
+    {
+      "numero": 19,
+      "texto": "Olha para os meus inimigos, pois se vão multiplicando e me odeiam com ódio cruel."
+    },
+    {
+      "numero": 20,
+      "texto": "Guarda a minha alma, e livra-me; não me deixes confundido, porquanto confio em ti."
+    },
+    {
+      "numero": 21,
+      "texto": "Guardem-me a sinceridade e a retidão, porquanto espero em ti."
+    },
+    {
+      "numero": 22,
+      "texto": "Redime, ó Deus, a Israel de todas as suas angústias."
+    }
+  ]
+}

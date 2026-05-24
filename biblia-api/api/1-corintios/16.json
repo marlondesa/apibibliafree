@@ -1,0 +1,105 @@
+{
+  "livro": "1 Coríntios",
+  "slug_livro": "1-corintios",
+  "testamento": "Novo Testamento",
+  "capitulo": 16,
+  "total_versiculos": 24,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ora, quanto à coleta que se faz para os santos, fazei vós também o mesmo que ordenei às igrejas da Galácia."
+    },
+    {
+      "numero": 2,
+      "texto": "No primeiro dia da semana cada um de vós ponha de parte o que puder ajuntar, conforme a sua prosperidade, para que não se façam as coletas quando eu chegar."
+    },
+    {
+      "numero": 3,
+      "texto": "E, quando tiver chegado, mandarei os que por cartas aprovardes, para levar a vossa dádiva a Jerusalém."
+    },
+    {
+      "numero": 4,
+      "texto": "E, se valer a pena que eu também vá, irão comigo."
+    },
+    {
+      "numero": 5,
+      "texto": "Irei, porém, ter convosco depois de ter passado pela macedônia (porque tenho de passar pela macedônia)."
+    },
+    {
+      "numero": 6,
+      "texto": "E bem pode ser que fique convosco, e passe também o inverno, para que me acompanheis aonde quer que eu for."
+    },
+    {
+      "numero": 7,
+      "texto": "Porque não vos quero agora ver de passagem, mas espero ficar convosco algum tempo, se o Senhor o permitir."
+    },
+    {
+      "numero": 8,
+      "texto": "Ficarei, porém, em Éfeso até ao Pentecostes;"
+    },
+    {
+      "numero": 9,
+      "texto": "Porque uma porta grande e eficaz se me abriu; e há muitos adversários."
+    },
+    {
+      "numero": 10,
+      "texto": "E, se Timóteo for, vede que esteja sem temor convosco; porque trabalha na obra do Senhor, como eu também."
+    },
+    {
+      "numero": 11,
+      "texto": "Portanto, ninguém o despreze, mas acompanhai-o em paz, para que venha ter comigo; pois o espero com os irmãos."
+    },
+    {
+      "numero": 12,
+      "texto": "E, acerca do irmão Apolo, roguei-lhe muito que fosse com os irmãos ter convosco, mas, na verdade, não teve vontade de ir agora; irá, porém, quando se lhe oferecer boa ocasião."
+    },
+    {
+      "numero": 13,
+      "texto": "Vigiai, estai firmes na fé; portai-vos varonilmente, e fortalecei-vos."
+    },
+    {
+      "numero": 14,
+      "texto": "Todas as vossas coisas sejam feitas com amor."
+    },
+    {
+      "numero": 15,
+      "texto": "Agora vos rogo, irmãos (sabeis que a família de Estéfanas é as primícias da Acaia, e que se tem dedicado ao ministério dos santos),"
+    },
+    {
+      "numero": 16,
+      "texto": "Que também vos sujeiteis aos tais, e a todo aquele que auxilia na obra e trabalha."
+    },
+    {
+      "numero": 17,
+      "texto": "Folgo, porém, com a vinda de Estéfanas, de Fortunato e de Acaico; porque estes supriram o que da vossa parte me faltava."
+    },
+    {
+      "numero": 18,
+      "texto": "Porque recrearam o meu espírito e o vosso. Reconhecei, pois, aos tais."
+    },
+    {
+      "numero": 19,
+      "texto": "As igrejas da Ásia vos saúdam. Saúdam-vos afetuosamente no Senhor áqüila e Priscila, com a igreja que está em sua casa."
+    },
+    {
+      "numero": 20,
+      "texto": "Todos os irmãos vos saúdam. Saudai-vos uns aos outros com ósculo santo."
+    },
+    {
+      "numero": 21,
+      "texto": "Saudação da minha própria mão, de Paulo."
+    },
+    {
+      "numero": 22,
+      "texto": "Se alguém não ama ao Senhor Jesus Cristo, seja anátema. Maranata!"
+    },
+    {
+      "numero": 23,
+      "texto": "A graça do Senhor Jesus Cristo seja convosco."
+    },
+    {
+      "numero": 24,
+      "texto": "O meu amor seja com todos vós em Cristo Jesus. Amém."
+    }
+  ]
+}

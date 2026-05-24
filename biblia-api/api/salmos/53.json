@@ -1,0 +1,33 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 53,
+  "total_versiculos": 6,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Disse o néscio no seu coração: Não há Deus. Têm-se corrompido, e cometido abominável iniqüidade; não há ninguém que faça o bem."
+    },
+    {
+      "numero": 2,
+      "texto": "Deus olhou desde os céus para os filhos dos homens, para ver se havia algum que tivesse entendimento e buscasse a Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "Desviaram-se todos, e juntamente se fizeram imundos; não há quem faça o bem, não, nem sequer um."
+    },
+    {
+      "numero": 4,
+      "texto": "Acaso não têm conhecimento os que praticam a iniqüidade, os quais comem o meu povo como se comessem pão? Eles não invocaram a Deus."
+    },
+    {
+      "numero": 5,
+      "texto": "Ali se acharam em grande temor, onde não havia temor, pois Deus espalhou os ossos daquele que te cercava; tu os confundiste, porque Deus os rejeitou."
+    },
+    {
+      "numero": 6,
+      "texto": "Oh! se já de Sião viesse a salvação de Israel! Quando Deus fizer voltar os cativos do seu povo, então se regozijará Jacó e se alegrará Israel."
+    }
+  ]
+}

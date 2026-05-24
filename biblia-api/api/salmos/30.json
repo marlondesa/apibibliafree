@@ -1,0 +1,57 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 30,
+  "total_versiculos": 12,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Exaltar-te-ei, ó SENHOR, porque tu me exaltaste; e não fizeste com que meus inimigos se alegrassem sobre mim."
+    },
+    {
+      "numero": 2,
+      "texto": "Senhor meu Deus, clamei a ti, e tu me saraste."
+    },
+    {
+      "numero": 3,
+      "texto": "Senhor, fizeste subir a minha alma da sepultura; conservaste-me a vida para que não descesse ao abismo."
+    },
+    {
+      "numero": 4,
+      "texto": "Cantai ao Senhor, vós que sois seus santos, e celebrai a memória da sua santidade."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque a sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite, mas a alegria vem pela manhã."
+    },
+    {
+      "numero": 6,
+      "texto": "Eu dizia na minha prosperidade: Não vacilarei jamais."
+    },
+    {
+      "numero": 7,
+      "texto": "Tu, Senhor, pelo teu favor fizeste forte a minha montanha; tu encobriste o teu rosto, e fiquei perturbado."
+    },
+    {
+      "numero": 8,
+      "texto": "A ti, Senhor, clamei, e ao Senhor supliquei."
+    },
+    {
+      "numero": 9,
+      "texto": "Que proveito há no meu sangue, quando desço à cova? Porventura te louvará o pó? Anunciará ele a tua verdade?"
+    },
+    {
+      "numero": 10,
+      "texto": "Ouve, Senhor, e tem piedade de mim, Senhor; sê o meu auxílio."
+    },
+    {
+      "numero": 11,
+      "texto": "Tornaste o meu pranto em folguedo; desataste o meu pano de saco, e me cingiste de alegria,"
+    },
+    {
+      "numero": 12,
+      "texto": "Para que a minha glória a ti cante louvores, e não se cale. Senhor, meu Deus, eu te louvarei para sempre."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "livro": "jó",
+  "slug_livro": "jó",
+  "testamento": "Antigo Testamento",
+  "capitulo": 40,
+  "total_versiculos": 24,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Respondeu mais o SENHOR a Jó, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Porventura o contender contra o Todo-Poderoso é sabedoria? Quem argüi assim a Deus, responda por isso."
+    },
+    {
+      "numero": 3,
+      "texto": "Então Jó respondeu ao Senhor, dizendo:"
+    },
+    {
+      "numero": 4,
+      "texto": "Eis que sou vil; que te responderia eu? A minha mão ponho à boca."
+    },
+    {
+      "numero": 5,
+      "texto": "Uma vez tenho falado, e não replicarei; ou ainda duas vezes, porém não prosseguirei."
+    },
+    {
+      "numero": 6,
+      "texto": "Então o Senhor respondeu a Jó de um redemoinho, dizendo:"
+    },
+    {
+      "numero": 7,
+      "texto": "Cinge agora os teus lombos como homem; eu te perguntarei, e tu me explicarás."
+    },
+    {
+      "numero": 8,
+      "texto": "Porventura também tornarás tu vão o meu juízo, ou tu me condenarás, para te justificares?"
+    },
+    {
+      "numero": 9,
+      "texto": "Ou tens braço como Deus, ou podes trovejar com voz como ele o faz?"
+    },
+    {
+      "numero": 10,
+      "texto": "Orna-te, pois, de excelência e alteza; e veste-te de majestade e de glória."
+    },
+    {
+      "numero": 11,
+      "texto": "Derrama os furores da tua ira, e atenta para todo o soberbo, e abate-o."
+    },
+    {
+      "numero": 12,
+      "texto": "Olha para todo o soberbo, e humilha-o, e atropela os ímpios no seu lugar."
+    },
+    {
+      "numero": 13,
+      "texto": "Esconde-os juntamente no pó; ata-lhes os rostos em oculto."
+    },
+    {
+      "numero": 14,
+      "texto": "Então também eu a ti confessarei que a tua mão direita te poderá salvar."
+    },
+    {
+      "numero": 15,
+      "texto": "Contemplas agora o beemote, que eu fiz contigo, que come a erva como o boi."
+    },
+    {
+      "numero": 16,
+      "texto": "Eis que a sua força está nos seus lombos, e o seu poder nos músculos do seu ventre."
+    },
+    {
+      "numero": 17,
+      "texto": "Quando quer, move a sua cauda como cedro; os nervos das suas coxas estão entretecidos."
+    },
+    {
+      "numero": 18,
+      "texto": "Os seus ossos são como tubos de bronze; a sua ossada é como barras de ferro."
+    },
+    {
+      "numero": 19,
+      "texto": "Ele é obra-prima dos caminhos de Deus; o que o fez o proveu da sua espada."
+    },
+    {
+      "numero": 20,
+      "texto": "Em verdade os montes lhe produzem pastos, onde todos os animais do campo folgam."
+    },
+    {
+      "numero": 21,
+      "texto": "Deita-se debaixo das árvores sombrias, no esconderijo das canas e da lama."
+    },
+    {
+      "numero": 22,
+      "texto": "As árvores sombrias o cobrem, com sua sombra; os salgueiros do ribeiro o cercam."
+    },
+    {
+      "numero": 23,
+      "texto": "Eis que um rio transborda, e ele não se apressa, confiando ainda que o Jordão se levante até à sua boca."
+    },
+    {
+      "numero": 24,
+      "texto": "Podê-lo-iam porventura caçar à vista de seus olhos, ou com laços lhe furar o nariz?"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 52,
+  "abbrev": "1ts",
+  "nome": "1 Tessalonicenses",
+  "slug": "1-tessalonicenses",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 5,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 28
+    }
+  ]
+}

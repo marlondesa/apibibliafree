@@ -1,0 +1,129 @@
+{
+  "livro": "Mateus",
+  "slug_livro": "mateus",
+  "testamento": "Novo Testamento",
+  "capitulo": 11,
+  "total_versiculos": 30,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E aconteceu que, acabando Jesus de dar instruções aos seus doze discípulos, partiu dali a ensinar e a pregar nas cidades deles."
+    },
+    {
+      "numero": 2,
+      "texto": "E João, ouvindo no cárcere falar dos feitos de Cristo, enviou dois dos seus discípulos,"
+    },
+    {
+      "numero": 3,
+      "texto": "A dizer-lhe: És tu aquele que havia de vir, ou esperamos outro?"
+    },
+    {
+      "numero": 4,
+      "texto": "E Jesus, respondendo, disse-lhes: Ide, e anunciai a João as coisas que ouvis e vedes:"
+    },
+    {
+      "numero": 5,
+      "texto": "Os cegos vêem, e os coxos andam; os leprosos são limpos, e os surdos ouvem; os mortos são ressuscitados, e aos pobres é anunciado o evangelho."
+    },
+    {
+      "numero": 6,
+      "texto": "E bem-aventurado é aquele que não se escandalizar em mim."
+    },
+    {
+      "numero": 7,
+      "texto": "E, partindo eles, começou Jesus a dizer às turbas, a respeito de João: Que fostes ver no deserto? uma cana agitada pelo vento?"
+    },
+    {
+      "numero": 8,
+      "texto": "Sim, que fostes ver? um homem ricamente vestido? Os que trajam ricamente estão nas casas dos reis."
+    },
+    {
+      "numero": 9,
+      "texto": "Mas, então que fostes ver? um profeta? Sim, vos digo eu, e muito mais do que profeta;"
+    },
+    {
+      "numero": 10,
+      "texto": "Porque é este de quem está escrito:Eis que diante da tua face envio o meu anjo,que preparará diante de ti o teu caminho."
+    },
+    {
+      "numero": 11,
+      "texto": "Em verdade vos digo que, entre os que de mulher têm nascido, não apareceu alguém maior do que João o Batista; mas aquele que é o menor no reino dos céus é maior do que ele."
+    },
+    {
+      "numero": 12,
+      "texto": "E, desde os dias de João o Batista até agora, se faz violência ao reino dos céus, e pela força se apoderam dele."
+    },
+    {
+      "numero": 13,
+      "texto": "Porque todos os profetas e a lei profetizaram até João."
+    },
+    {
+      "numero": 14,
+      "texto": "E, se quereis dar crédito, é este o Elias que havia de vir."
+    },
+    {
+      "numero": 15,
+      "texto": "Quem tem ouvidos para ouvir, ouça."
+    },
+    {
+      "numero": 16,
+      "texto": "Mas, a quem assemelharei esta geração? É semelhante aos meninos que se assentam nas praças, e clamam aos seus companheiros,"
+    },
+    {
+      "numero": 17,
+      "texto": "E dizem: Tocamo-vos flauta, e não dançastes; cantamo-vos lamentações, e não chorastes."
+    },
+    {
+      "numero": 18,
+      "texto": "Porquanto veio João, não comendo nem bebendo, e dizem: Tem demônio."
+    },
+    {
+      "numero": 19,
+      "texto": "Veio o Filho do homem, comendo e bebendo, e dizem: Eis aí um homem comilão e beberrão, amigo dos publicanos e pecadores. Mas a sabedoria é justificada por seus filhos."
+    },
+    {
+      "numero": 20,
+      "texto": "Então começou ele a lançar em rosto às cidades onde se operou a maior parte dos seus prodígios o não se haverem arrependido, dizendo:"
+    },
+    {
+      "numero": 21,
+      "texto": "Ai de ti, Corazim! ai de ti, Betsaida! porque, se em Tiro e em Sidom fossem feitos os prodígios que em vós se fizeram, há muito que se teriam arrependido, com saco e com cinza."
+    },
+    {
+      "numero": 22,
+      "texto": "Por isso eu vos digo que haverá menos rigor para Tiro e Sidom, no dia do juízo, do que para vós."
+    },
+    {
+      "numero": 23,
+      "texto": "E tu, Cafarnaum, que te ergues até ao céu, serás abatida até ao inferno; porque, se em Sodoma tivessem sido feitos os prodígios que em ti se operaram, teria ela permanecido até hoje."
+    },
+    {
+      "numero": 24,
+      "texto": "Eu vos digo, porém, que haverá menos rigor para os de Sodoma, no dia do juízo, do que para ti."
+    },
+    {
+      "numero": 25,
+      "texto": "Naquele tempo, respondendo Jesus, disse: Graças te dou, ó Pai, Senhor do céu e da terra, que ocultaste estas coisas aos sábios e entendidos, e as revelaste aos pequeninos."
+    },
+    {
+      "numero": 26,
+      "texto": "Sim, ó Pai, porque assim te aprouve."
+    },
+    {
+      "numero": 27,
+      "texto": "Todas as coisas me foram entregues por meu Pai, e ninguém conhece o Filho, senão o Pai; e ninguém conhece o Pai, senão o Filho, e aquele a quem o Filho o quiser revelar."
+    },
+    {
+      "numero": 28,
+      "texto": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei."
+    },
+    {
+      "numero": 29,
+      "texto": "Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para as vossas almas."
+    },
+    {
+      "numero": 30,
+      "texto": "Porque o meu jugo é suave e o meu fardo é leve."
+    }
+  ]
+}

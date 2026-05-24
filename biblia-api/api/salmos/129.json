@@ -1,0 +1,41 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 129,
+  "total_versiculos": 8,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Muitas vezes me angustiaram desde a minha mocidade, diga agora Israel;"
+    },
+    {
+      "numero": 2,
+      "texto": "Muitas vezes me angustiaram desde a minha mocidade; todavia não prevaleceram contra mim."
+    },
+    {
+      "numero": 3,
+      "texto": "Os lavradores araram sobre as minhas costas; compridos fizeram os seus sulcos."
+    },
+    {
+      "numero": 4,
+      "texto": "O Senhor é justo; cortou as cordas dos ímpios."
+    },
+    {
+      "numero": 5,
+      "texto": "Sejam confundidos, e voltem para trás todos os que odeiam a Sião."
+    },
+    {
+      "numero": 6,
+      "texto": "Sejam como a erva dos telhados que se seca antes que a arranquem."
+    },
+    {
+      "numero": 7,
+      "texto": "Com a qual o segador não enche a sua mão, nem o que ata os feixes enche o seu braço."
+    },
+    {
+      "numero": 8,
+      "texto": "Nem tampouco os que passam dizem: A bênção do Senhor seja sobre vós; nós vos abençoamos em nome do Senhor."
+    }
+  ]
+}

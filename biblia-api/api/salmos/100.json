@@ -1,0 +1,29 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 100,
+  "total_versiculos": 5,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Celebrai com júbilo ao SENHOR, todas as terras."
+    },
+    {
+      "numero": 2,
+      "texto": "Servi ao Senhor com alegria; e entrai diante dele com canto."
+    },
+    {
+      "numero": 3,
+      "texto": "Sabei que o Senhor é Deus; foi ele que nos fez, e não nós a nós mesmos; somos povo seu e ovelhas do seu pasto."
+    },
+    {
+      "numero": 4,
+      "texto": "Entrai pelas portas dele com gratidão, e em seus átrios com louvor; louvai-o, e bendizei o seu nome."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque o Senhor é bom, e eterna a sua misericórdia; e a sua verdade dura de geração em geração."
+    }
+  ]
+}

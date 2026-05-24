@@ -1,0 +1,97 @@
+{
+  "livro": "jó",
+  "slug_livro": "jó",
+  "testamento": "Antigo Testamento",
+  "capitulo": 14,
+  "total_versiculos": 22,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O homem, nascido da mulher, é de poucos dias e farto de inquietação."
+    },
+    {
+      "numero": 2,
+      "texto": "Sai como a flor, e murcha; foge também como a sombra, e não permanece."
+    },
+    {
+      "numero": 3,
+      "texto": "E sobre este tal abres os teus olhos, e a mim me fazes entrar no juízo contigo."
+    },
+    {
+      "numero": 4,
+      "texto": "Quem do imundo tirará o puro? Ninguém."
+    },
+    {
+      "numero": 5,
+      "texto": "Visto que os seus dias estão determinados, contigo está o número dos seus meses; e tu lhe puseste limites, e não passará além deles."
+    },
+    {
+      "numero": 6,
+      "texto": "Desvia-te dele, para que tenha repouso, até que, como o jornaleiro, tenha contentamento no seu dia."
+    },
+    {
+      "numero": 7,
+      "texto": "Porque há esperança para a árvore que, se for cortada, ainda se renovará, e não cessarão os seus renovos."
+    },
+    {
+      "numero": 8,
+      "texto": "Se envelhecer na terra a sua raiz, e o seu tronco morrer no pó,"
+    },
+    {
+      "numero": 9,
+      "texto": "Ao cheiro das águas brotará, e dará ramos como uma planta."
+    },
+    {
+      "numero": 10,
+      "texto": "Porém, morto o homem, é consumido; sim, rendendo o homem o espírito, então onde está ele?"
+    },
+    {
+      "numero": 11,
+      "texto": "Como as águas se retiram do mar, e o rio se esgota, e fica seco,"
+    },
+    {
+      "numero": 12,
+      "texto": "Assim o homem se deita, e não se levanta; até que não haja mais céus, não acordará nem despertará de seu sono."
+    },
+    {
+      "numero": 13,
+      "texto": "Quem dera que me escondesses na sepultura, e me ocultasses até que a tua ira se fosse; e me pusesses um limite, e te lembrasses de mim!"
+    },
+    {
+      "numero": 14,
+      "texto": "Morrendo o homem, porventura tornará a viver? Todos os dias de meu combate esperaria, até que viesse a minha mudança."
+    },
+    {
+      "numero": 15,
+      "texto": "Chamar-me-ias, e eu te responderia, e terias afeto à obra de tuas mãos."
+    },
+    {
+      "numero": 16,
+      "texto": "Mas agora contas os meus passos; porventura não vigias sobre o meu pecado?"
+    },
+    {
+      "numero": 17,
+      "texto": "A minha transgressão está selada num saco, e amontoas as minhas iniqüidades."
+    },
+    {
+      "numero": 18,
+      "texto": "E, na verdade, caindo a montanha, desfaz-se; e a rocha se remove do seu lugar."
+    },
+    {
+      "numero": 19,
+      "texto": "As águas gastam as pedras, as cheias afogam o pó da terra; e tu fazes perecer a esperança do homem;"
+    },
+    {
+      "numero": 20,
+      "texto": "Tu para sempre prevaleces contra ele, e ele passa; mudas o seu rosto, e o despedes."
+    },
+    {
+      "numero": 21,
+      "texto": "Os seus filhos recebem honra, sem que ele o saiba; são humilhados, sem que ele o perceba;"
+    },
+    {
+      "numero": 22,
+      "texto": "Mas a sua carne nele tem dores, e a sua alma nele lamenta."
+    }
+  ]
+}

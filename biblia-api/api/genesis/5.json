@@ -1,0 +1,137 @@
+{
+  "livro": "Gênesis",
+  "slug_livro": "genesis",
+  "testamento": "Antigo Testamento",
+  "capitulo": 5,
+  "total_versiculos": 32,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Este é o livro das gerações de Adão. No dia em que Deus criou o homem, à semelhança de Deus o fez."
+    },
+    {
+      "numero": 2,
+      "texto": "Homem e mulher os criou; e os abençoou e chamou o seu nome Adão, no dia em que foram criados."
+    },
+    {
+      "numero": 3,
+      "texto": "E Adão viveu cento e trinta anos, e gerou um filho à sua semelhança, conforme a sua imagem, e pôs-lhe o nome de Sete."
+    },
+    {
+      "numero": 4,
+      "texto": "E foram os dias de Adão, depois que gerou a Sete, oitocentos anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 5,
+      "texto": "E foram todos os dias que Adão viveu, novecentos e trinta anos, e morreu."
+    },
+    {
+      "numero": 6,
+      "texto": "E viveu Sete cento e cinco anos, e gerou a Enos."
+    },
+    {
+      "numero": 7,
+      "texto": "E viveu Sete, depois que gerou a Enos, oitocentos e sete anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 8,
+      "texto": "E foram todos os dias de Sete novecentos e doze anos, e morreu."
+    },
+    {
+      "numero": 9,
+      "texto": "E viveu Enos noventa anos, e gerou a Cainã."
+    },
+    {
+      "numero": 10,
+      "texto": "E viveu Enos, depois que gerou a Cainã, oitocentos e quinze anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 11,
+      "texto": "E foram todos os dias de Enos novecentos e cinco anos, e morreu."
+    },
+    {
+      "numero": 12,
+      "texto": "E viveu Cainã setenta anos, e gerou a Maalaleel."
+    },
+    {
+      "numero": 13,
+      "texto": "E viveu Cainã, depois que gerou a Maalaleel, oitocentos e quarenta anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 14,
+      "texto": "E foram todos os dias de Cainã novecentos e dez anos, e morreu."
+    },
+    {
+      "numero": 15,
+      "texto": "E viveu Maalaleel sessenta e cinco anos, e gerou a Jerede."
+    },
+    {
+      "numero": 16,
+      "texto": "E viveu Maalaleel, depois que gerou a Jerede, oitocentos e trinta anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 17,
+      "texto": "E foram todos os dias de Maalaleel oitocentos e noventa e cinco anos, e morreu."
+    },
+    {
+      "numero": 18,
+      "texto": "E viveu Jerede cento e sessenta e dois anos, e gerou a Enoque."
+    },
+    {
+      "numero": 19,
+      "texto": "E viveu Jerede, depois que gerou a Enoque, oitocentos anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 20,
+      "texto": "E foram todos os dias de Jerede novecentos e sessenta e dois anos, e morreu."
+    },
+    {
+      "numero": 21,
+      "texto": "E viveu Enoque sessenta e cinco anos, e gerou a Matusalém."
+    },
+    {
+      "numero": 22,
+      "texto": "E andou Enoque com Deus, depois que gerou a Matusalém, trezentos anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 23,
+      "texto": "E foram todos os dias de Enoque trezentos e sessenta e cinco anos."
+    },
+    {
+      "numero": 24,
+      "texto": "E andou Enoque com Deus; e não apareceu mais, porquanto Deus para si o tomou."
+    },
+    {
+      "numero": 25,
+      "texto": "E viveu Matusalém cento e oitenta e sete anos, e gerou a Lameque."
+    },
+    {
+      "numero": 26,
+      "texto": "E viveu Matusalém, depois que gerou a Lameque, setecentos e oitenta e dois anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 27,
+      "texto": "E foram todos os dias de Matusalém novecentos e sessenta e nove anos, e morreu."
+    },
+    {
+      "numero": 28,
+      "texto": "E viveu Lameque cento e oitenta e dois anos, e gerou um filho,"
+    },
+    {
+      "numero": 29,
+      "texto": "A quem chamou Noé, dizendo: Este nos consolará acerca de nossas obras e do trabalho de nossas mãos, por causa da terra que o Senhor amaldiçoou."
+    },
+    {
+      "numero": 30,
+      "texto": "E viveu Lameque, depois que gerou a Noé, quinhentos e noventa e cinco anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 31,
+      "texto": "E foram todos os dias de Lameque setecentos e setenta e sete anos, e morreu."
+    },
+    {
+      "numero": 32,
+      "texto": "E era Noé da idade de quinhentos anos, e gerou Noé a Sem, Cão e Jafé."
+    }
+  ]
+}

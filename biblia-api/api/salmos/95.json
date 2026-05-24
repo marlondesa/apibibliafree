@@ -1,0 +1,53 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 95,
+  "total_versiculos": 11,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Vinde, cantemos ao SENHOR; jubilemos à rocha da nossa salvação."
+    },
+    {
+      "numero": 2,
+      "texto": "Apresentemo-nos ante a sua face com louvores, e celebremo-lo com salmos."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque o Senhor é Deus grande, e Rei grande sobre todos os deuses."
+    },
+    {
+      "numero": 4,
+      "texto": "Nas suas mãos estão as profundezas da terra, e as alturas dos montes são suas."
+    },
+    {
+      "numero": 5,
+      "texto": "Seu é o mar, e ele o fez, e as suas mãos formaram a terra seca."
+    },
+    {
+      "numero": 6,
+      "texto": "Ó, vinde, adoremos e prostremo-nos; ajoelhemos diante do Senhor que nos criou."
+    },
+    {
+      "numero": 7,
+      "texto": "Porque ele é o nosso Deus, e nós povo do seu pasto e ovelhas da sua mão. Se hoje ouvirdes a sua voz,"
+    },
+    {
+      "numero": 8,
+      "texto": "Não endureçais os vossos corações, assim como na provocação e como no dia da tentação no deserto;"
+    },
+    {
+      "numero": 9,
+      "texto": "Quando vossos pais me tentaram, me provaram, e viram a minha obra."
+    },
+    {
+      "numero": 10,
+      "texto": "Quarenta anos estive desgostado com esta geração, e disse: É um povo que erra de coração, e não tem conhecido os meus caminhos."
+    },
+    {
+      "numero": 11,
+      "texto": "A quem jurei na minha ira que não entrarão no meu repouso."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 87,
+  "total_versiculos": 7,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O seu fundamento está nos montes santos."
+    },
+    {
+      "numero": 2,
+      "texto": "O Senhor ama as portas de Sião, mais do que todas as habitações de Jacó."
+    },
+    {
+      "numero": 3,
+      "texto": "Coisas gloriosas se dizem de ti, ó cidade de Deus. (Selá.)"
+    },
+    {
+      "numero": 4,
+      "texto": "Farei menção de Raabe e de Babilônia àqueles que me conhecem; eis que da Filístia, e de Tiro, e da Etiópia, se dirá: Este homem nasceu ali."
+    },
+    {
+      "numero": 5,
+      "texto": "E de Sião se dirá: Este e aquele homem nasceram ali; e o mesmo Altíssimo a estabelecerá."
+    },
+    {
+      "numero": 6,
+      "texto": "O Senhor contará na descrição dos povos que este homem nasceu ali. (Selá.)"
+    },
+    {
+      "numero": 7,
+      "texto": "Assim os cantores como os tocadores de instrumentos estarão lá; todas as minhas fontes estão em ti."
+    }
+  ]
+}

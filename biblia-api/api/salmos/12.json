@@ -1,0 +1,41 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 12,
+  "total_versiculos": 8,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salva-nos, SENHOR, porque faltam os homens bons; porque são poucos os fiéis entre os filhos dos homens."
+    },
+    {
+      "numero": 2,
+      "texto": "Cada um fala com falsidade ao seu próximo; falam com lábios lisonjeiros e coração dobrado."
+    },
+    {
+      "numero": 3,
+      "texto": "O Senhor cortará todos os lábios lisonjeiros e a língua que fala soberbamente."
+    },
+    {
+      "numero": 4,
+      "texto": "Pois dizem: Com a nossa língua prevaleceremos; são nossos os lábios; quem é senhor sobre nós?"
+    },
+    {
+      "numero": 5,
+      "texto": "Pela opressão dos pobres, pelo gemido dos necessitados me levantarei agora, diz o Senhor; porei a salvo aquele para quem eles assopram."
+    },
+    {
+      "numero": 6,
+      "texto": "As palavras do Senhor são palavras puras, como prata refinada em fornalha de barro, purificada sete vezes."
+    },
+    {
+      "numero": 7,
+      "texto": "Tu os guardarás, Senhor; desta geração os livrarás para sempre."
+    },
+    {
+      "numero": 8,
+      "texto": "Os ímpios andam por toda parte, quando os mais vis dos filhos dos homens são exaltados."
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "livro": "Marcos",
+  "slug_livro": "marcos",
+  "testamento": "Novo Testamento",
+  "capitulo": 13,
+  "total_versiculos": 37,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E, saindo ele do templo, disse-lhe um dos seus discípulos: Mestre, olha que pedras, e que edifícios!"
+    },
+    {
+      "numero": 2,
+      "texto": "E, respondendo Jesus, disse-lhe: Vês estes grandes edifícios? Não ficará pedra sobre pedra que não seja derrubada."
+    },
+    {
+      "numero": 3,
+      "texto": "E, assentando-se ele no Monte das Oliveiras, defronte do templo, Pedro, e Tiago, e João e André lhe perguntaram em particular:"
+    },
+    {
+      "numero": 4,
+      "texto": "Dize-nos, quando serão essas coisas, e que sinal haverá quando todas elas estiverem para se cumprir."
+    },
+    {
+      "numero": 5,
+      "texto": "E Jesus, respondendo-lhes, começou a dizer: Olhai que ninguém vos engane;"
+    },
+    {
+      "numero": 6,
+      "texto": "Porque muitos virão em meu nome, dizendo: Eu sou o Cristo; e enganarão a muitos."
+    },
+    {
+      "numero": 7,
+      "texto": "E, quando ouvirdes de guerras e de rumores de guerras, não vos perturbeis; porque assim deve acontecer; mas ainda não será o fim."
+    },
+    {
+      "numero": 8,
+      "texto": "Porque se levantará nação contra nação, e reino contra reino, e haverá terremotos em diversos lugares, e haverá fomes e tribulações. Estas coisas sào os princípios das dores."
+    },
+    {
+      "numero": 9,
+      "texto": "Mas olhai por vós mesmos, porque vos entregarão aos concílios e às sinagogas; e sereis açoitados, e sereis apresentados perante presidentes e reis, por amor de mim, para lhes servir de testemunho."
+    },
+    {
+      "numero": 10,
+      "texto": "Mas importa que o evangelho seja primeiramente pregado entre todas as nações."
+    },
+    {
+      "numero": 11,
+      "texto": "Quando, pois, vos conduzirem e vos entregarem, não estejais solícitos de antemão pelo que haveis de dizer, nem premediteis; mas, o que vos for dado naquela hora, isso falai, porque não sois vós os que falais, mas o Espírito Santo."
+    },
+    {
+      "numero": 12,
+      "texto": "E o irmão entregará à morte o irmão, e o pai ao filho; e levantar-se-ão os filhos contra os pais, e os farão morrer."
+    },
+    {
+      "numero": 13,
+      "texto": "E sereis odiados por todos por amor do meu nome; mas quem perseverar até ao fim, esse será salvo."
+    },
+    {
+      "numero": 14,
+      "texto": "Ora, quando vós virdes a abominação do assolamento, que foi predita por Daniel o profeta, estar onde não deve estar (quem lê, entenda), então os que estiverem na Judéia fujam para os montes."
+    },
+    {
+      "numero": 15,
+      "texto": "E o que estiver sobre o telhado não desça para casa, nem entre a tomar coisa alguma de sua casa;"
+    },
+    {
+      "numero": 16,
+      "texto": "E o que estiver no campo não volte atrás, para tomar as suas vestes."
+    },
+    {
+      "numero": 17,
+      "texto": "Mas ai das grávidas, e das que criarem naqueles dias!"
+    },
+    {
+      "numero": 18,
+      "texto": "Orai, pois, para que a vossa fuga não suceda no inverno."
+    },
+    {
+      "numero": 19,
+      "texto": "Porque naqueles dias haverá uma aflição tal, qual nunca houve desde o princípio da criação, que Deus criou, até agora, nem jamais haverá."
+    },
+    {
+      "numero": 20,
+      "texto": "E, se o Senhor não abreviasse aqueles dias, nenhuma carne se salvaria; mas, por causa dos eleitosque escolheu, abreviou aqueles dias."
+    },
+    {
+      "numero": 21,
+      "texto": "E então, se alguém vos disser: Eis aqui o Cristo; ou: Ei-lo ali; não acrediteis."
+    },
+    {
+      "numero": 22,
+      "texto": "Porque se levantarão falsos cristos, e falsos profetas, e farão sinais e prodígios, para enganarem, se for possível, até os escolhidos."
+    },
+    {
+      "numero": 23,
+      "texto": "Mas vós vede; eis que de antemão vos tenho dito tudo."
+    },
+    {
+      "numero": 24,
+      "texto": "Ora, naqueles dias, depois daquela aflição, o sol se escurecerá, e a lua não dará a sua luz."
+    },
+    {
+      "numero": 25,
+      "texto": "E as estrelas cairão do céu, e as forças que estão nos céus serão abaladas."
+    },
+    {
+      "numero": 26,
+      "texto": "E então verão vir o Filho do homem nas nuvens, com grande poder e glória."
+    },
+    {
+      "numero": 27,
+      "texto": "E ele enviará os seus anjos, e ajuntará os seus escolhidos, desde os quatro ventos, da extremidade da terra até a extremidade do céu."
+    },
+    {
+      "numero": 28,
+      "texto": "Aprendei, pois, a parábola da figueira: Quando já o seu ramo se torna tenro, e brota folhas, bem sabeis que já está próximo o verão."
+    },
+    {
+      "numero": 29,
+      "texto": "Assim também vós, quando virdes sucederem estas coisas, sabei que já está perto, às portas."
+    },
+    {
+      "numero": 30,
+      "texto": "Na verdade vos digo que não passará esta geração, sem que todas estas coisas aconteçam."
+    },
+    {
+      "numero": 31,
+      "texto": "Passará o céu e a terra, mas as minhas palavras não passarão."
+    },
+    {
+      "numero": 32,
+      "texto": "Mas daquele dia e hora ninguém sabe, nem os anjos que estão no céu, nem o Filho, senão o Pai."
+    },
+    {
+      "numero": 33,
+      "texto": "Olhai, vigiai e orai; porque não sabeis quando chegará o tempo."
+    },
+    {
+      "numero": 34,
+      "texto": "É como se um homem, partindo para fora da terra, deixasse a sua casa, e desse autoridade aos seus servos, e a cada um a sua obra, e mandasse ao porteiro que vigiasse."
+    },
+    {
+      "numero": 35,
+      "texto": "Vigiai, pois, porque não sabeis quando virá o senhor da casa; se à tarde, se à meia-noite, se ao cantar do galo, se pela manhã,"
+    },
+    {
+      "numero": 36,
+      "texto": "Para que, vindo de improviso, não vos ache dormindo."
+    },
+    {
+      "numero": 37,
+      "texto": "E as coisas que vos digo, digo-as a todos: Vigiai."
+    }
+  ]
+}

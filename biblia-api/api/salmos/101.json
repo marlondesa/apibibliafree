@@ -1,0 +1,41 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 101,
+  "total_versiculos": 8,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cantarei a misericórdia e o juízo; a ti, SENHOR, cantarei."
+    },
+    {
+      "numero": 2,
+      "texto": "Portar-me-ei com inteligência no caminho reto. Quando virás a mim? Andarei em minha casa com um coração sincero."
+    },
+    {
+      "numero": 3,
+      "texto": "Não porei coisa má diante dos meus olhos. Odeio a obra daqueles que se desviam; não se me pegará a mim."
+    },
+    {
+      "numero": 4,
+      "texto": "Um coração perverso se apartará de mim; não conhecerei o homem mau."
+    },
+    {
+      "numero": 5,
+      "texto": "Aquele que murmura do seu próximo às escondidas, eu o destruirei; aquele que tem olhar altivo e coração soberbo, não suportarei."
+    },
+    {
+      "numero": 6,
+      "texto": "Os meus olhos estarão sobre os fiéis da terra, para que se assentem comigo; o que anda num caminho reto, esse me servirá."
+    },
+    {
+      "numero": 7,
+      "texto": "O que usa de engano não ficará dentro da minha casa; o que fala mentiras não estará firme perante os meus olhos."
+    },
+    {
+      "numero": 8,
+      "texto": "Pela manhã destruirei todos os ímpios da terra, para desarraigar da cidade do Senhor todos os que praticam a iniqüidade."
+    }
+  ]
+}

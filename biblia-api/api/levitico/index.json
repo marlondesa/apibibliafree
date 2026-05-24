@@ -1,0 +1,118 @@
+{
+  "id": 3,
+  "abbrev": "lv",
+  "nome": "Levítico",
+  "slug": "levitico",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 27,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 35
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 19
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 30
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 38
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 36
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 24
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 47
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 8
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 59
+    },
+    {
+      "numero": 14,
+      "total_versiculos": 57
+    },
+    {
+      "numero": 15,
+      "total_versiculos": 33
+    },
+    {
+      "numero": 16,
+      "total_versiculos": 34
+    },
+    {
+      "numero": 17,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 18,
+      "total_versiculos": 30
+    },
+    {
+      "numero": 19,
+      "total_versiculos": 37
+    },
+    {
+      "numero": 20,
+      "total_versiculos": 27
+    },
+    {
+      "numero": 21,
+      "total_versiculos": 24
+    },
+    {
+      "numero": 22,
+      "total_versiculos": 33
+    },
+    {
+      "numero": 23,
+      "total_versiculos": 44
+    },
+    {
+      "numero": 24,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 25,
+      "total_versiculos": 55
+    },
+    {
+      "numero": 26,
+      "total_versiculos": 46
+    },
+    {
+      "numero": 27,
+      "total_versiculos": 34
+    }
+  ]
+}

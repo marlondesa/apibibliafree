@@ -1,0 +1,49 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 75,
+  "total_versiculos": 10,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A ti, ó Deus, glorificamos, a ti damos louvor, pois o teu nome está perto, as tuas maravilhas o declaram."
+    },
+    {
+      "numero": 2,
+      "texto": "Quando eu ocupar o lugar determinado, julgarei retamente."
+    },
+    {
+      "numero": 3,
+      "texto": "A terra e todos os seus moradores estão dissolvidos, mas eu fortaleci as suas colunas. (Selá.)"
+    },
+    {
+      "numero": 4,
+      "texto": "Disse eu aos loucos: Não enlouqueçais, e aos ímpios: Não levanteis a fronte;"
+    },
+    {
+      "numero": 5,
+      "texto": "Não levanteis a vossa fronte altiva, nem faleis com cerviz dura."
+    },
+    {
+      "numero": 6,
+      "texto": "Porque nem do oriente, nem do ocidente, nem do deserto vem a exaltação."
+    },
+    {
+      "numero": 7,
+      "texto": "Mas Deus é o Juiz: a um abate, e a outro exalta."
+    },
+    {
+      "numero": 8,
+      "texto": "Porque na mão do Senhor há um cálice cujo vinho é tinto; está cheio de mistura; e dá a beber dele; mas as escórias dele todos os ímpios da terra as sorverão e beberão."
+    },
+    {
+      "numero": 9,
+      "texto": "E eu o declararei para sempre; cantarei louvores ao Deus de Jacó."
+    },
+    {
+      "numero": 10,
+      "texto": "E quebrarei todas as forças dos ímpios, mas as forças dos justos serão exaltadas."
+    }
+  ]
+}

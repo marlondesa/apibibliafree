@@ -1,0 +1,249 @@
+{
+  "livro": "atos",
+  "slug_livro": "atos",
+  "testamento": "Novo Testamento",
+  "capitulo": 7,
+  "total_versiculos": 60,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E disse o sumo sacerdote: Porventura é isto assim?"
+    },
+    {
+      "numero": 2,
+      "texto": "E ele disse: Homens, irmãos, e pais, ouvi. O Deus da glória apareceu a nosso pai Abraão, estando na mesopotâmia, antes de habitar em Harã,"
+    },
+    {
+      "numero": 3,
+      "texto": "E disse-lhe: Sai da tua terra e dentre a tua parentela, e dirige-te à terra que eu te mostrar."
+    },
+    {
+      "numero": 4,
+      "texto": "Então saiu da terra dos caldeus, e habitou em Harã. E dali, depois que seu pai faleceu, Deus o trouxe para esta terra em que habitais agora."
+    },
+    {
+      "numero": 5,
+      "texto": "E não lhe deu nela herança, nem ainda o espaço de um pé; mas prometeu que lhe daria a posse dela, e depois dele, à sua descendência, não tendo ele ainda filho."
+    },
+    {
+      "numero": 6,
+      "texto": "E falou Deus assim: Que a sua descendência seria peregrina em terra alheia, e a sujeitariam à escravidão, e a maltratariam por quatrocentos anos."
+    },
+    {
+      "numero": 7,
+      "texto": "E eu julgarei a nação que os tiver escravizado, disse Deus. E depois disto sairão e me servirão neste lugar."
+    },
+    {
+      "numero": 8,
+      "texto": "E deu-lhe a aliança da circuncisão; e assim gerou a Isaque, e o circuncidou ao oitavo dia; e Isaque a Jacó; e Jacó aos doze patriarcas."
+    },
+    {
+      "numero": 9,
+      "texto": "E os patriarcas, movidos de inveja, venderam José para o Egito; mas Deus era com ele."
+    },
+    {
+      "numero": 10,
+      "texto": "E livrou-o de todas as suas tribulações, e lhe deu graça e sabedoria ante Faraó, rei do Egito, que o constituiu governador sobre o Egito e toda a sua casa."
+    },
+    {
+      "numero": 11,
+      "texto": "Sobreveio então a todo o país do Egito e de Canaã fome e grande tribulação; e nossos pais não achavam alimentos."
+    },
+    {
+      "numero": 12,
+      "texto": "Mas tendo ouvido Jacó que no Egito havia trigo, enviou ali nossos pais, a primeira vez."
+    },
+    {
+      "numero": 13,
+      "texto": "E na segunda vez foi José conhecido por seus irmãos, e a sua linhagem foi manifesta a Faraó."
+    },
+    {
+      "numero": 14,
+      "texto": "E José mandou chamar a seu pai Jacó, e a toda a sua parentela, que era de setenta e cinco almas."
+    },
+    {
+      "numero": 15,
+      "texto": "E Jacó desceu ao Egito, e morreu, ele e nossos pais;"
+    },
+    {
+      "numero": 16,
+      "texto": "E foram transportados para Siquém, e depositados na sepultura que Abraão comprara por certa soma de dinheiro aos filhos de Emor, pai de Siquém."
+    },
+    {
+      "numero": 17,
+      "texto": "Aproximando-se, porém, o tempo da promessa que Deus tinha feito a Abraão, o povo cresceu e se multiplicou no Egito;"
+    },
+    {
+      "numero": 18,
+      "texto": "Até que se levantou outro rei, que não conhecia a José."
+    },
+    {
+      "numero": 19,
+      "texto": "Esse, usando de astúcia contra a nossa linhagem, maltratou nossos pais, ao ponto de os fazer enjeitar as suas crianças, para que não se multiplicassem."
+    },
+    {
+      "numero": 20,
+      "texto": "Nesse tempo nasceu Moisés, e era mui formoso, e foi criado três meses em casa de seu pai."
+    },
+    {
+      "numero": 21,
+      "texto": "E, sendo enjeitado, tomou-o a filha de Faraó, e o criou como seu filho."
+    },
+    {
+      "numero": 22,
+      "texto": "E Moisés foi instruído em toda a ciência dos egípcios; e era poderoso em suas palavras e obras."
+    },
+    {
+      "numero": 23,
+      "texto": "E, quando completou a idade de quarenta anos, veio-lhe ao coração ir visitar seus irmãos, os filhos de Israel."
+    },
+    {
+      "numero": 24,
+      "texto": "E, vendo maltratado um deles, o defendeu, e vingou o ofendido, matando o egípcio."
+    },
+    {
+      "numero": 25,
+      "texto": "E ele cuidava que seus irmãos entenderiam que Deus lhes havia de dar a liberdade pela sua mão; mas eles não entenderam."
+    },
+    {
+      "numero": 26,
+      "texto": "E no dia seguinte, pelejando eles, foi por eles visto, e quis levá-los à paz, dizendo: Homens, sois irmãos; por que vos agravais um ao outro?"
+    },
+    {
+      "numero": 27,
+      "texto": "E o que ofendia o seu próximo o repeliu, dizendo: Quem te constituiu príncipe e juiz sobre nós?"
+    },
+    {
+      "numero": 28,
+      "texto": "Queres tu matar-me, como ontem mataste o egípcio?"
+    },
+    {
+      "numero": 29,
+      "texto": "E a esta palavra fugiu Moisés, e esteve como estrangeiro na terra de Midiã, onde gerou dois filhos."
+    },
+    {
+      "numero": 30,
+      "texto": "E, completados quarenta anos, apareceu-lhe o anjo do Senhor no deserto do monte Sinai, numa chama de fogo no meio de uma sarça."
+    },
+    {
+      "numero": 31,
+      "texto": "Então Moisés, quando viu isto, se maravilhou da visão; e, aproximando-se para observar, foi-lhe dirigida a voz do Senhor,"
+    },
+    {
+      "numero": 32,
+      "texto": "Dizendo: Eu sou o Deus de teus pais, o Deus de Abraão, e o Deus de Isaque, e o Deus de Jacó. E Moisés, todo trêmulo, não ousava olhar."
+    },
+    {
+      "numero": 33,
+      "texto": "E disse-lhe o Senhor: Tira as alparcas dos teus pés, porque o lugar em que estás é terra santa."
+    },
+    {
+      "numero": 34,
+      "texto": "Tenho visto atentamente a aflição do meu povo que está no Egito, e ouvi os seus gemidos, e desci a livrá-los. Agora, pois, vem, e enviar-te-ei ao Egito."
+    },
+    {
+      "numero": 35,
+      "texto": "A este Moisés, ao qual haviam negado, dizendo: Quem te constituiu príncipe e juiz? a este enviou Deus como príncipe e libertador, pela mão do anjo que lhe aparecera na sarça."
+    },
+    {
+      "numero": 36,
+      "texto": "Foi este que os conduziu para fora, fazendo prodígios e sinais na terra do Egito, e no Mar Vermelho, e no deserto, por quarenta anos."
+    },
+    {
+      "numero": 37,
+      "texto": "Este é aquele Moisés que disse aos filhos de Israel: O Senhor vosso Deus vos levantará dentre vossos irmãos um profeta como eu; a ele ouvireis."
+    },
+    {
+      "numero": 38,
+      "texto": "Este é o que esteve entre a congregação no deserto, com o anjo que lhe falava no monte Sinai, e com nossos pais, o qual recebeu as palavras de vida para no-las dar."
+    },
+    {
+      "numero": 39,
+      "texto": "Ao qual nossos pais não quiseram obedecer, antes o rejeitaram e em seu coração se tornaram ao Egito,"
+    },
+    {
+      "numero": 40,
+      "texto": "Dizendo a Arão: Faze-nos deuses que vão adiante de nós; porque a esse Moisés, que nos tirou da terra do Egito, não sabemos o que lhe aconteceu."
+    },
+    {
+      "numero": 41,
+      "texto": "E naqueles dias fizeram o bezerro, e ofereceram sacrifícios ao ídolo, e se alegraram nas obras das suas mãos."
+    },
+    {
+      "numero": 42,
+      "texto": "Mas Deus se afastou, e os abandonou a que servissem ao exército do céu, como está escrito no livro dos profetas: Porventura me oferecestes vítimas e sacrifícios No deserto por quarenta anos, ó casa de Israel?"
+    },
+    {
+      "numero": 43,
+      "texto": "Antes tomastes o tabernáculo de Moloque,E a estrela do vosso deus Renfã, figuras que vós fizestes para as adorar.Transportar-vos-ei, pois, para além da Babilônia."
+    },
+    {
+      "numero": 44,
+      "texto": "Estava entre nossos pais no deserto o tabernáculo do testemunho, como ordenara aquele que disse a Moisés que o fizesse segundo o modelo que tinha visto."
+    },
+    {
+      "numero": 45,
+      "texto": "O qual, nossos pais, recebendo-o também, o levaram com Josué quando entraram na posse das nações que Deus lançou para fora da presença de nossos pais, até aos dias de Davi,"
+    },
+    {
+      "numero": 46,
+      "texto": "Que achou graça diante de Deus, e pediu que pudesse achar tabernáculo para o Deus de Jacó."
+    },
+    {
+      "numero": 47,
+      "texto": "E Salomão lhe edificou casa;"
+    },
+    {
+      "numero": 48,
+      "texto": "Mas o Altíssimo não habita em templos feitos por mãos de homens, como diz o profeta:"
+    },
+    {
+      "numero": 49,
+      "texto": "O céu é o meu trono,e a terra o estrado dos meus pés.Que casa me edificareis? diz o Senhor,Ou qual é o lugar do meu repouso?"
+    },
+    {
+      "numero": 50,
+      "texto": "Porventura não fez a minha mão todas estas coisas?"
+    },
+    {
+      "numero": 51,
+      "texto": "Homens de dura cerviz, e incircuncisos de coração e ouvido, vós sempre resistis ao Espírito Santo; assim vós sois como vossos pais."
+    },
+    {
+      "numero": 52,
+      "texto": "A qual dos profetas não perseguiram vossos pais? Até mataram os que anteriormente anunciaram a vinda do Justo, do qual vós agora fostes traidores e homicidas;"
+    },
+    {
+      "numero": 53,
+      "texto": "Vós, que recebestes a lei por ordenação dos anjos, e não a guardastes."
+    },
+    {
+      "numero": 54,
+      "texto": "E, ouvindo eles isto, enfureciam-se em seus corações, e rangiam os dentes contra ele."
+    },
+    {
+      "numero": 55,
+      "texto": "Mas ele, estando cheio do Espírito Santo, fixando os olhos no céu, viu a glória de Deus, e Jesus, que estava à direita de Deus;"
+    },
+    {
+      "numero": 56,
+      "texto": "E disse: Eis que vejo os céus abertos, e o Filho do homem, que está em pé à mão direita de Deus."
+    },
+    {
+      "numero": 57,
+      "texto": "Mas eles gritaram com grande voz, taparam os seus ouvidos, e arremeteram unânimes contra ele."
+    },
+    {
+      "numero": 58,
+      "texto": "E, expulsando-o da cidade, o apedrejavam. E as testemunhas depuseram as suas capas aos pés de um jovem chamado Saulo."
+    },
+    {
+      "numero": 59,
+      "texto": "E apedrejaram a Estêvão que em invocação dizia: Senhor Jesus, recebe o meu espírito."
+    },
+    {
+      "numero": 60,
+      "texto": "E, pondo-se de joelhos, clamou com grande voz: Senhor, não lhes imputes este pecado. E, tendo dito isto, adormeceu."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 45,
+  "total_versiculos": 17,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O meu coração ferve com palavras boas, falo do que tenho feito no tocante ao Rei. A minha língua é a pena de um destro escritor."
+    },
+    {
+      "numero": 2,
+      "texto": "Tu és mais formoso do que os filhos dos homens; a graça se derramou em teus lábios; por isso Deus te abençoou para sempre."
+    },
+    {
+      "numero": 3,
+      "texto": "Cinge a tua espada à coxa, ó valente, com a tua glória e a tua majestade."
+    },
+    {
+      "numero": 4,
+      "texto": "E neste teu esplendor cavalga prosperamente, por causa da verdade, da mansidão e da justiça; e a tua destra te ensinará coisas terríveis."
+    },
+    {
+      "numero": 5,
+      "texto": "As tuas flechas são agudas no coração dos inimigos do rei, e por elas os povos caíram debaixo de ti."
+    },
+    {
+      "numero": 6,
+      "texto": "O teu trono, ó Deus, é eterno e perpétuo; o cetro do teu reino é um cetro de eqüidade."
+    },
+    {
+      "numero": 7,
+      "texto": "Tu amas a justiça e odeias a impiedade; por isso Deus, o teu Deus, te ungiu com óleo de alegria mais do que a teus companheiros."
+    },
+    {
+      "numero": 8,
+      "texto": "Todas as tuas vestes cheiram a mirra e aloés e cássia, desde os palácios de marfim de onde te alegram."
+    },
+    {
+      "numero": 9,
+      "texto": "As filhas dos reis estavam entre as tuas ilustres mulheres; à tua direita estava a rainha ornada de finíssimo ouro de Ofir."
+    },
+    {
+      "numero": 10,
+      "texto": "Ouve, filha, e olha, e inclina os teus ouvidos; esquece-te do teu povo e da casa do teu pai."
+    },
+    {
+      "numero": 11,
+      "texto": "Então o rei se afeiçoará da tua formosura, pois ele é teu Senhor; adora-o."
+    },
+    {
+      "numero": 12,
+      "texto": "E a filha de Tiro estará ali com presentes; os ricos do povo suplicarão o teu favor."
+    },
+    {
+      "numero": 13,
+      "texto": "A filha do rei é toda ilustre lá dentro; o seu vestido é entretecido de ouro."
+    },
+    {
+      "numero": 14,
+      "texto": "Levá-la-ão ao rei com vestidos bordados; as virgens que a acompanham a trarão a ti."
+    },
+    {
+      "numero": 15,
+      "texto": "Com alegria e regozijo as trarão; elas entrarão no palácio do rei."
+    },
+    {
+      "numero": 16,
+      "texto": "Em lugar de teus pais estarão teus filhos; deles farás príncipes sobre toda a terra."
+    },
+    {
+      "numero": 17,
+      "texto": "Farei lembrado o teu nome de geração em geração; por isso os povos te louvarão eternamente."
+    }
+  ]
+}

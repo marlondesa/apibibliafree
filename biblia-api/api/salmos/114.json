@@ -1,0 +1,41 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 114,
+  "total_versiculos": 8,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Quando Israel saiu do Egito, e a casa de Jacó de um povo de língua estranha,"
+    },
+    {
+      "numero": 2,
+      "texto": "Judá foi seu santuário, e Israel seu domínio."
+    },
+    {
+      "numero": 3,
+      "texto": "O mar viu isto, e fugiu; o Jordão voltou para trás."
+    },
+    {
+      "numero": 4,
+      "texto": "Os montes saltaram como carneiros, e os outeiros como cordeiros."
+    },
+    {
+      "numero": 5,
+      "texto": "Que tiveste tu, ó mar, que fugiste, e tu, ó Jordão, que voltaste para trás?"
+    },
+    {
+      "numero": 6,
+      "texto": "Montes, que saltastes como carneiros, e outeiros, como cordeiros?"
+    },
+    {
+      "numero": 7,
+      "texto": "Treme, terra, na presença do Senhor, na presença do Deus de Jacó."
+    },
+    {
+      "numero": 8,
+      "texto": "O qual converteu o rochedo em lago de águas, e o seixo em fonte de água."
+    }
+  ]
+}

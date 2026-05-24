@@ -1,0 +1,106 @@
+{
+  "id": 10,
+  "abbrev": "2sm",
+  "nome": "2 Samuel",
+  "slug": "2-samuel",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 24,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 27
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 32
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 39
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 25
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 19
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 27
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 39
+    },
+    {
+      "numero": 14,
+      "total_versiculos": 33
+    },
+    {
+      "numero": 15,
+      "total_versiculos": 37
+    },
+    {
+      "numero": 16,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 17,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 18,
+      "total_versiculos": 33
+    },
+    {
+      "numero": 19,
+      "total_versiculos": 43
+    },
+    {
+      "numero": 20,
+      "total_versiculos": 26
+    },
+    {
+      "numero": 21,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 22,
+      "total_versiculos": 51
+    },
+    {
+      "numero": 23,
+      "total_versiculos": 39
+    },
+    {
+      "numero": 24,
+      "total_versiculos": 25
+    }
+  ]
+}

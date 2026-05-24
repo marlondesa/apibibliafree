@@ -1,0 +1,117 @@
+{
+  "livro": "Números",
+  "slug_livro": "numeros",
+  "testamento": "Antigo Testamento",
+  "capitulo": 6,
+  "total_versiculos": 27,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E falou o SENHOR a Moisés, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Fala aos filhos de Israel, e dize-lhes: Quando um homem ou mulher se tiver separado, fazendo voto de nazireu, para se separar ao Senhor,"
+    },
+    {
+      "numero": 3,
+      "texto": "De vinho e de bebida forte se apartará; vinagre de vinho, nem vinagre de bebida forte não beberá; nem beberá alguma beberagem de uvas; nem uvas frescas nem secas comerá."
+    },
+    {
+      "numero": 4,
+      "texto": "Todos os dias do seu nazireado não comerá de coisa alguma, que se faz da vinha, desde os caroços até às cascas."
+    },
+    {
+      "numero": 5,
+      "texto": "Todos os dias do voto do seu nazireado sobre a sua cabeça não passará navalha; até que se cumpram os dias, que se separou ao Senhor, santo será, deixando crescer livremente o cabelo da sua cabeça."
+    },
+    {
+      "numero": 6,
+      "texto": "Todos os dias que se separar para o Senhor não se aproximará do corpo de um morto."
+    },
+    {
+      "numero": 7,
+      "texto": "Por seu pai, ou por sua mãe, por seu irmão, ou por sua irmã, por eles se não contaminará quando forem mortos; porquanto o nazireado do seu Deus está sobre a sua cabeça."
+    },
+    {
+      "numero": 8,
+      "texto": "Todos os dias do seu nazireado santo será ao Senhor."
+    },
+    {
+      "numero": 9,
+      "texto": "E se alguém vier a morrer junto a ele por acaso, subitamente, que contamine a cabeça do seu nazireado, então no dia da sua purificação rapará a sua cabeça, ao sétimo dia a rapará."
+    },
+    {
+      "numero": 10,
+      "texto": "E ao oitavo dia trará duas rolas, ou dois pombinhos, ao sacerdote, à porta da tenda da congregação;"
+    },
+    {
+      "numero": 11,
+      "texto": "E o sacerdote oferecerá, um para expiação do pecado, e o outro para holocausto; e fará expiação por ele, do que pecou relativamente ao morto; assim naquele mesmo dia santificará a sua cabeça."
+    },
+    {
+      "numero": 12,
+      "texto": "Então separará os dias do seu nazireado ao Senhor, e para expiação da transgressão trará um cordeiro de um ano; e os dias antecedentes serão perdidos, porquanto o seu nazireado foi contaminado."
+    },
+    {
+      "numero": 13,
+      "texto": "E esta é a lei do nazireu: no dia em que se cumprirem os dias do seu nazireado, trá-lo-ão à porta da tenda da congregação;"
+    },
+    {
+      "numero": 14,
+      "texto": "E ele oferecerá a sua oferta ao Senhor, um cordeiro sem defeito de um ano em holocausto, e uma cordeira sem defeito de um ano para expiação do pecado, e um carneiro sem defeito por oferta pacífica;"
+    },
+    {
+      "numero": 15,
+      "texto": "E um cesto de pães ázimos, bolos de flor de farinha com azeite, amassados, e coscorões ázimos untados com azeite, como também a sua oferta de alimentos, e as suas libações."
+    },
+    {
+      "numero": 16,
+      "texto": "E o sacerdote os trará perante o Senhor, e sacrificará a sua expiação do pecado, e o seu holocausto;"
+    },
+    {
+      "numero": 17,
+      "texto": "Também sacrificará o carneiro em sacrifício pacífico ao Senhor, com o cesto dos pães ázimos; e o sacerdote oferecerá a sua oferta de alimentos, e a sua libação."
+    },
+    {
+      "numero": 18,
+      "texto": "Então o nazireu à porta da tenda da congregação rapará a cabeça do seu nazireado, e tomará o cabelo da cabeça do seu nazireado, e o porá sobre o fogo que está debaixo do sacrifício pacífico."
+    },
+    {
+      "numero": 19,
+      "texto": "Depois o sacerdote tomará a espádua cozida do carneiro, e um pão ázimo do cesto, e um coscorão ázimo, e os porá nas mãos do nazireu, depois de haver rapado a cabeça do seu nazireado."
+    },
+    {
+      "numero": 20,
+      "texto": "E o sacerdote os oferecerá em oferta de movimento perante o Senhor: Isto é santo para o sacerdote, juntamente com o peito da oferta de movimento, e com a espádua da oferta alçada; e depois o nazireu poderá beber vinho."
+    },
+    {
+      "numero": 21,
+      "texto": "Esta é a lei do nazireu, que fizer voto da sua oferta ao Senhor pelo seu nazireado, além do que suas posses lhe permitirem; segundo o seu voto, que fizer, assim fará conforme à lei do seu nazireado."
+    },
+    {
+      "numero": 22,
+      "texto": "E falou o Senhor a Moisés, dizendo:"
+    },
+    {
+      "numero": 23,
+      "texto": "Fala a Arão, e a seus filhos dizendo: Assim abençoareis os filhos de Israel, dizendo-lhes:"
+    },
+    {
+      "numero": 24,
+      "texto": "O Senhor te abençoe e te guarde;"
+    },
+    {
+      "numero": 25,
+      "texto": "O Senhor faça resplandecer o seu rosto sobre ti, e tenha misericórdia de ti;"
+    },
+    {
+      "numero": 26,
+      "texto": "O Senhor sobre ti levante o seu rosto e te dê a paz."
+    },
+    {
+      "numero": 27,
+      "texto": "Assim porão o meu nome sobre os filhos de Israel, e eu os abençoarei."
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 107,
+  "total_versiculos": 43,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Louvai ao SENHOR, porque ele é bom, porque a sua benignidade dura para sempre."
+    },
+    {
+      "numero": 2,
+      "texto": "Digam-no os remidos do Senhor, os que remiu da mão do inimigo,"
+    },
+    {
+      "numero": 3,
+      "texto": "E os que congregou das terras do oriente e do ocidente, do norte e do sul."
+    },
+    {
+      "numero": 4,
+      "texto": "Andaram desgarrados pelo deserto, por caminhos solitários; não acharam cidade para habitarem."
+    },
+    {
+      "numero": 5,
+      "texto": "Famintos e sedentos, a sua alma neles desfalecia."
+    },
+    {
+      "numero": 6,
+      "texto": "E clamaram ao Senhor na sua angústia, e os livrou das suas dificuldades."
+    },
+    {
+      "numero": 7,
+      "texto": "E os levou por caminho direito, para irem a uma cidade de habitação."
+    },
+    {
+      "numero": 8,
+      "texto": "Louvem ao Senhor pela sua bondade, e pelas suas maravilhas para com os filhos dos homens."
+    },
+    {
+      "numero": 9,
+      "texto": "Pois fartou a alma sedenta, e encheu de bens a alma faminta."
+    },
+    {
+      "numero": 10,
+      "texto": "Tal como a que se assenta nas trevas e sombra da morte, presa em aflição e em ferro;"
+    },
+    {
+      "numero": 11,
+      "texto": "Porquanto se rebelaram contra as palavras de Deus, e desprezaram o conselho do Altíssimo."
+    },
+    {
+      "numero": 12,
+      "texto": "Portanto, lhes abateu o coração com trabalho; tropeçaram, e não houve quem os ajudasse."
+    },
+    {
+      "numero": 13,
+      "texto": "Então clamaram ao Senhor na sua angústia, e os livrou das suas dificuldades."
+    },
+    {
+      "numero": 14,
+      "texto": "Tirou-os das trevas e sombra da morte; e quebrou as suas prisões."
+    },
+    {
+      "numero": 15,
+      "texto": "Louvem ao Senhor pela sua bondade, e pelas suas maravilhas para com os filhos dos homens."
+    },
+    {
+      "numero": 16,
+      "texto": "Pois quebrou as portas de bronze, e despedaçou os ferrolhos de ferro."
+    },
+    {
+      "numero": 17,
+      "texto": "Os loucos, por causa da sua transgressão, e por causa das suas iniqüidades, são aflitos."
+    },
+    {
+      "numero": 18,
+      "texto": "A sua alma aborreceu toda a comida, e chegaram até às portas da morte."
+    },
+    {
+      "numero": 19,
+      "texto": "Então clamaram ao Senhor na sua angústia, e ele os livrou das suas dificuldades."
+    },
+    {
+      "numero": 20,
+      "texto": "Enviou a sua palavra, e os sarou; e os livrou da sua destruição."
+    },
+    {
+      "numero": 21,
+      "texto": "Louvem ao Senhor pela sua bondade, e pelas suas maravilhas para com os filhos dos homens."
+    },
+    {
+      "numero": 22,
+      "texto": "E ofereçam os sacrifícios de louvor, e relatem as suas obras com regozijo."
+    },
+    {
+      "numero": 23,
+      "texto": "Os que descem ao mar em navios, mercando nas grandes águas."
+    },
+    {
+      "numero": 24,
+      "texto": "Esses vêem as obras do Senhor, e as suas maravilhas no profundo."
+    },
+    {
+      "numero": 25,
+      "texto": "Pois ele manda, e se levanta o vento tempestuoso que eleva as suas ondas."
+    },
+    {
+      "numero": 26,
+      "texto": "Sobem aos céus; descem aos abismos, e a sua alma se derrete em angústias."
+    },
+    {
+      "numero": 27,
+      "texto": "Andam e cambaleiam como ébrios, e perderam todo o tino."
+    },
+    {
+      "numero": 28,
+      "texto": "Então clamam ao Senhor na sua angústia; e ele os livra das suas dificuldades."
+    },
+    {
+      "numero": 29,
+      "texto": "Faz cessar a tormenta, e acalmam-se as suas ondas."
+    },
+    {
+      "numero": 30,
+      "texto": "Então se alegram, porque se aquietaram; assim os leva ao seu porto desejado."
+    },
+    {
+      "numero": 31,
+      "texto": "Louvem ao Senhor pela sua bondade, e pelas suas maravilhas para com os filhos dos homens."
+    },
+    {
+      "numero": 32,
+      "texto": "Exaltem-no na congregação do povo, e glorifiquem-no na assembléia dos anciãos."
+    },
+    {
+      "numero": 33,
+      "texto": "Ele converte os rios em um deserto, e as fontes em terra sedenta;"
+    },
+    {
+      "numero": 34,
+      "texto": "A terra frutífera em estéril, pela maldade dos que nela habitam."
+    },
+    {
+      "numero": 35,
+      "texto": "Converte o deserto em lagoa, e a terra seca em fontes."
+    },
+    {
+      "numero": 36,
+      "texto": "E faz habitar ali os famintos, para que edifiquem cidade para habitação;"
+    },
+    {
+      "numero": 37,
+      "texto": "E semeiam os campos e plantam vinhas, que produzem fruto abundante."
+    },
+    {
+      "numero": 38,
+      "texto": "Também os abençoa, de modo que se multiplicam muito; e o seu gado não diminui."
+    },
+    {
+      "numero": 39,
+      "texto": "Depois se diminuem e se abatem, pela opressão, e aflição e tristeza."
+    },
+    {
+      "numero": 40,
+      "texto": "Derrama o desprezo sobre os príncipes, e os faz andar desgarrados pelo deserto, onde não há caminho."
+    },
+    {
+      "numero": 41,
+      "texto": "Porém livra ao necessitado da opressão, em um lugar alto, e multiplica as famílias como rebanhos."
+    },
+    {
+      "numero": 42,
+      "texto": "Os retos o verão, e se alegrarão, e toda a iniqüidade tapará a boca."
+    },
+    {
+      "numero": 43,
+      "texto": "Quem é sábio observará estas coisas, e eles compreenderão as benignidades do Senhor."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 92,
+  "total_versiculos": 15,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Bom é louvar ao SENHOR, e cantar louvores ao teu nome, ó Altíssimo;"
+    },
+    {
+      "numero": 2,
+      "texto": "Para de manhã anunciar a tua benignidade, e todas as noites a tua fidelidade;"
+    },
+    {
+      "numero": 3,
+      "texto": "Sobre um instrumento de dez cordas, e sobre o saltério; sobre a harpa com som solene."
+    },
+    {
+      "numero": 4,
+      "texto": "Pois tu, Senhor, me alegraste pelos teus feitos; exultarei nas obras das tuas mãos."
+    },
+    {
+      "numero": 5,
+      "texto": "Quão grandes são, Senhor, as tuas obras! Mui profundos são os teus pensamentos."
+    },
+    {
+      "numero": 6,
+      "texto": "O homem brutal não conhece, nem o louco entende isto."
+    },
+    {
+      "numero": 7,
+      "texto": "Quando o ímpio crescer como a erva, e quando florescerem todos os que praticam a iniqüidade, é que serão destruídos perpetuamente."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas tu, Senhor, és o Altíssimo para sempre."
+    },
+    {
+      "numero": 9,
+      "texto": "Pois eis que os teus inimigos, Senhor, eis que os teus inimigos perecerão; serão dispersos todos os que praticam a iniqüidade."
+    },
+    {
+      "numero": 10,
+      "texto": "Porém tu exaltarás o meu poder, como o do boi selvagem. Serei ungido com óleo fresco."
+    },
+    {
+      "numero": 11,
+      "texto": "Os meus olhos verão o meu desejo sobre os meus inimigos, e os meus ouvidos ouvirão o meu desejo acerca dos malfeitores que se levantam contra mim."
+    },
+    {
+      "numero": 12,
+      "texto": "O justo florescerá como a palmeira; crescerá como o cedro no Líbano."
+    },
+    {
+      "numero": 13,
+      "texto": "Os que estão plantados na casa do Senhor florescerão nos átrios do nosso Deus."
+    },
+    {
+      "numero": 14,
+      "texto": "Na velhice ainda darão frutos; serão viçosos e vigorosos,"
+    },
+    {
+      "numero": 15,
+      "texto": "Para anunciar que o Senhor é reto. Ele é a minha rocha e nele não há injustiça."
+    }
+  ]
+}

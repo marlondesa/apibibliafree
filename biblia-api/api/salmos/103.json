@@ -1,0 +1,97 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 103,
+  "total_versiculos": 22,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome."
+    },
+    {
+      "numero": 2,
+      "texto": "Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele é o que perdoa todas as tuas iniqüidades, que sara todas as tuas enfermidades,"
+    },
+    {
+      "numero": 4,
+      "texto": "Que redime a tua vida da perdição; que te coroa de benignidade e de misericórdia,"
+    },
+    {
+      "numero": 5,
+      "texto": "Que farta a tua boca de bens, de sorte que a tua mocidade se renova como a da águia."
+    },
+    {
+      "numero": 6,
+      "texto": "O Senhor faz justiça e juízo a todos os oprimidos."
+    },
+    {
+      "numero": 7,
+      "texto": "Fez conhecidos os seus caminhos a Moisés, e os seus feitos aos filhos de Israel."
+    },
+    {
+      "numero": 8,
+      "texto": "Misericordioso e piedoso é o Senhor; longânimo e grande em benignidade."
+    },
+    {
+      "numero": 9,
+      "texto": "Não reprovará perpetuamente, nem para sempre reterá a sua ira."
+    },
+    {
+      "numero": 10,
+      "texto": "Não nos tratou segundo os nossos pecados, nem nos recompensou segundo as nossas iniqüidades."
+    },
+    {
+      "numero": 11,
+      "texto": "Pois assim como o céu está elevado acima da terra, assim é grande a sua misericórdia para com os que o temem."
+    },
+    {
+      "numero": 12,
+      "texto": "Assim como está longe o oriente do ocidente, assim afasta de nós as nossas transgressões."
+    },
+    {
+      "numero": 13,
+      "texto": "Assim como um pai se compadece de seus filhos, assim o Senhor se compadece daqueles que o temem."
+    },
+    {
+      "numero": 14,
+      "texto": "Pois ele conhece a nossa estrutura; lembra-se de que somos pó."
+    },
+    {
+      "numero": 15,
+      "texto": "Quanto ao homem, os seus dias são como a erva, como a flor do campo assim floresce."
+    },
+    {
+      "numero": 16,
+      "texto": "Passando por ela o vento, logo se vai, e o seu lugar não será mais conhecido."
+    },
+    {
+      "numero": 17,
+      "texto": "Mas a misericórdia do Senhor é desde a eternidade e até a eternidade sobre aqueles que o temem, e a sua justiça sobre os filhos dos filhos;"
+    },
+    {
+      "numero": 18,
+      "texto": "Sobre aqueles que guardam a sua aliança, e sobre os que se lembram dos seus mandamentos para os cumprir."
+    },
+    {
+      "numero": 19,
+      "texto": "O Senhor tem estabelecido o seu trono nos céus, e o seu reino domina sobre tudo."
+    },
+    {
+      "numero": 20,
+      "texto": "Bendizei ao Senhor, todos os seus anjos, vós que excedeis em força, que guardais os seus mandamentos, obedecendo à voz da sua palavra."
+    },
+    {
+      "numero": 21,
+      "texto": "Bendizei ao Senhor, todos os seus exércitos, vós ministros seus, que executais o seu beneplácito."
+    },
+    {
+      "numero": 22,
+      "texto": "Bendizei ao Senhor, todas as suas obras, em todos os lugares do seu domínio; bendize, ó minha alma, ao Senhor."
+    }
+  ]
+}

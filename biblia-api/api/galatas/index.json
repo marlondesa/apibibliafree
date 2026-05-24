@@ -1,0 +1,34 @@
+{
+  "id": 48,
+  "abbrev": "gl",
+  "nome": "Gálatas",
+  "slug": "galatas",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 6,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 24
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 21
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 26
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 18
+    }
+  ]
+}

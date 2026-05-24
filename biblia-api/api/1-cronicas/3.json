@@ -1,0 +1,105 @@
+{
+  "livro": "1 Crônicas",
+  "slug_livro": "1-cronicas",
+  "testamento": "Antigo Testamento",
+  "capitulo": 3,
+  "total_versiculos": 24,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E estes foram os filhos de Davi, que lhe nasceram em Hebrom: o primogênito, Amnom, de Ainoã, a jizreelita; o segundo Daniel, de Abigail, a carmelita;"
+    },
+    {
+      "numero": 2,
+      "texto": "O terceiro, Absalão, filho de Maaca, filha de Talmai, rei de Gesur; o quarto, Adonias, filho de Hagite;"
+    },
+    {
+      "numero": 3,
+      "texto": "O quinto, Sefatias, de Abital; o sexto, Itreão, de Eglá, sua mulher."
+    },
+    {
+      "numero": 4,
+      "texto": "Seis filhos lhe nasceram em Hebrom, porque ali reinou sete anos e seis meses; e trinta e três anos reinou em Jerusalém."
+    },
+    {
+      "numero": 5,
+      "texto": "E estes lhe nasceram em Jerusalém: Siméia, e Sobabe, e Natã, e Salomão; estes quatro lhe nasceram de Bate-Sua, filha de Amiel."
+    },
+    {
+      "numero": 6,
+      "texto": "Nasceram-lhe mais Ibar, Elisama, Elifelete,"
+    },
+    {
+      "numero": 7,
+      "texto": "Nogá, Nefegue, Jafia,"
+    },
+    {
+      "numero": 8,
+      "texto": "Elisama, Eliada, e Elifelete, nove."
+    },
+    {
+      "numero": 9,
+      "texto": "Todos estes foram filhos de Davi, afora os filhos das concubinas e Tamar, irmã deles."
+    },
+    {
+      "numero": 10,
+      "texto": "E o filho de Salomão foi Roboão; de quem foi filho Abias; de quem foi filho Asa; de quem foi filho Jeosafá;"
+    },
+    {
+      "numero": 11,
+      "texto": "De quem foi filho Jorão; de quem foi filho Acazias; de quem foi filho Joás;"
+    },
+    {
+      "numero": 12,
+      "texto": "De quem foi filho Amazias; de quem foi filho Jotão;"
+    },
+    {
+      "numero": 13,
+      "texto": "De quem foi filho Acaz; de quem foi filho Ezequias; de quem foi filho Manassés;"
+    },
+    {
+      "numero": 14,
+      "texto": "De quem foi filho Amom; de quem foi filho Josias."
+    },
+    {
+      "numero": 15,
+      "texto": "E os filhos de Josias foram: o primogênito, Joanã: o segundo, Jeoiaquim; o terceiro, Zedequias; o quarto, Salum."
+    },
+    {
+      "numero": 16,
+      "texto": "E os filhos de Jeoiaquim: Jeconias, seu filho, e Zedequias, seu filho."
+    },
+    {
+      "numero": 17,
+      "texto": "E os filhos de Jeconias: Assir, e seu filho Sealtiel."
+    },
+    {
+      "numero": 18,
+      "texto": "Os filhos deste foram: Malquirão, Pedaías, Senazar, Jecamias, Hosama, e Nedabias."
+    },
+    {
+      "numero": 19,
+      "texto": "E os filhos de Pedaías: Zorobabel e Simei; e os filhos de Zorobabel: Mesulão, Hananias, e Selomite, sua irmã,"
+    },
+    {
+      "numero": 20,
+      "texto": "E Hasubá, Oel, Berequias, Hasadias, Jusabe-Hesede, cinco."
+    },
+    {
+      "numero": 21,
+      "texto": "E os filhos de Hananias: Pelatias e Jesaías; os filhos de Refaías, os filhos de Arnã, os filhos de Obadias, e os filhos de Secanias."
+    },
+    {
+      "numero": 22,
+      "texto": "E o filho de Secanias foi Semaías; e os filhos de Semaías: Hatus, e Igeal, e Bariá, e Nearias, e Safate, seis."
+    },
+    {
+      "numero": 23,
+      "texto": "E os filhos de Nearias: Elioenai, e Ezequias, e Azricão, três."
+    },
+    {
+      "numero": 24,
+      "texto": "E os filhos de Elioenai; Hodavias, Eliasibe, Pelaías, Acube, Joanã, Delaías, e Anani, sete."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 115,
+  "total_versiculos": 18,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Não a nós, SENHOR, não a nós, mas ao teu nome dá glória, por amor da tua benignidade e da tua verdade."
+    },
+    {
+      "numero": 2,
+      "texto": "Porque dirão os gentios: Onde está o seu Deus?"
+    },
+    {
+      "numero": 3,
+      "texto": "Mas o nosso Deus está nos céus; fez tudo o que lhe agradou."
+    },
+    {
+      "numero": 4,
+      "texto": "Os ídolos deles são prata e ouro, obra das mãos dos homens."
+    },
+    {
+      "numero": 5,
+      "texto": "Têm boca, mas não falam; olhos têm, mas não vêem."
+    },
+    {
+      "numero": 6,
+      "texto": "Têm ouvidos, mas não ouvem; narizes têm, mas não cheiram."
+    },
+    {
+      "numero": 7,
+      "texto": "Têm mãos, mas não apalpam; pés têm, mas não andam; nem som algum sai da sua garganta."
+    },
+    {
+      "numero": 8,
+      "texto": "A eles se tornem semelhantes os que os fazem, assim como todos os que neles confiam."
+    },
+    {
+      "numero": 9,
+      "texto": "Israel, confia no Senhor; ele é o seu auxílio e o seu escudo."
+    },
+    {
+      "numero": 10,
+      "texto": "Casa de Arão, confia no Senhor; ele é o seu auxílio e o seu escudo."
+    },
+    {
+      "numero": 11,
+      "texto": "Vós, os que temeis ao Senhor, confiai no Senhor; ele é o seu auxílio e o seu escudo."
+    },
+    {
+      "numero": 12,
+      "texto": "O Senhor se lembrou de nós; ele nos abençoará; abençoará a casa de Israel; abençoará a casa de Arão."
+    },
+    {
+      "numero": 13,
+      "texto": "Abençoará os que temem ao Senhor, tanto pequenos como grandes."
+    },
+    {
+      "numero": 14,
+      "texto": "O Senhor vos aumentará cada vez mais, a vós e a vossos filhos."
+    },
+    {
+      "numero": 15,
+      "texto": "Sois benditos do Senhor, que fez os céus e a terra."
+    },
+    {
+      "numero": 16,
+      "texto": "Os céus são os céus do Senhor; mas a terra a deu aos filhos dos homens."
+    },
+    {
+      "numero": 17,
+      "texto": "Os mortos não louvam ao Senhor, nem os que descem ao silêncio."
+    },
+    {
+      "numero": 18,
+      "texto": "Mas nós bendiremos ao Senhor, desde agora e para sempre. Louvai ao Senhor."
+    }
+  ]
+}

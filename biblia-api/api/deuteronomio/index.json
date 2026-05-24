@@ -1,0 +1,146 @@
+{
+  "id": 5,
+  "abbrev": "dt",
+  "nome": "Deuteronômio",
+  "slug": "deuteronomio",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 34,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 46
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 37
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 49
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 33
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 25
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 26
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 32
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 32
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 14,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 15,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 16,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 17,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 18,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 19,
+      "total_versiculos": 21
+    },
+    {
+      "numero": 20,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 21,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 22,
+      "total_versiculos": 30
+    },
+    {
+      "numero": 23,
+      "total_versiculos": 25
+    },
+    {
+      "numero": 24,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 25,
+      "total_versiculos": 19
+    },
+    {
+      "numero": 26,
+      "total_versiculos": 19
+    },
+    {
+      "numero": 27,
+      "total_versiculos": 26
+    },
+    {
+      "numero": 28,
+      "total_versiculos": 68
+    },
+    {
+      "numero": 29,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 30,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 31,
+      "total_versiculos": 30
+    },
+    {
+      "numero": 32,
+      "total_versiculos": 52
+    },
+    {
+      "numero": 33,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 34,
+      "total_versiculos": 12
+    }
+  ]
+}

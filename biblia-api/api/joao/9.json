@@ -1,0 +1,173 @@
+{
+  "livro": "João",
+  "slug_livro": "joao",
+  "testamento": "Novo Testamento",
+  "capitulo": 9,
+  "total_versiculos": 41,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E, passando Jesus, viu um homem cego de nascença."
+    },
+    {
+      "numero": 2,
+      "texto": "E os seus discípulos lhe perguntaram, dizendo: Rabi, quem pecou, este ou seus pais, para que nascesse cego?"
+    },
+    {
+      "numero": 3,
+      "texto": "Jesus respondeu: Nem ele pecou nem seus pais; mas foi assim para que se manifestem nele as obras de Deus."
+    },
+    {
+      "numero": 4,
+      "texto": "Convém que eu faça as obras daquele que me enviou, enquanto é dia; a noite vem, quando ninguém pode trabalhar."
+    },
+    {
+      "numero": 5,
+      "texto": "Enquanto estou no mundo, sou a luz do mundo."
+    },
+    {
+      "numero": 6,
+      "texto": "Tendo dito isto, cuspiu na terra, e com a saliva fez lodo, e untou com o lodo os olhos do cego."
+    },
+    {
+      "numero": 7,
+      "texto": "E disse-lhe: Vai, lava-te no tanque de Siloé (que significa o Enviado). Foi, pois, e lavou-se, e voltou vendo."
+    },
+    {
+      "numero": 8,
+      "texto": "Então os vizinhos, e aqueles que dantes tinham visto que era cego, diziam: Não é este aquele que estava assentado e mendigava?"
+    },
+    {
+      "numero": 9,
+      "texto": "Uns diziam: É este. E outros: Parece-se com ele. Ele dizia: Sou eu."
+    },
+    {
+      "numero": 10,
+      "texto": "Diziam-lhe, pois: Como se te abriram os olhos?"
+    },
+    {
+      "numero": 11,
+      "texto": "Ele respondeu, e disse: O homem, chamado Jesus, fez lodo, e untou-me os olhos, e disse-me: Vai ao tanque de Siloé, e lava-te. Então fui, e lavei-me, e vi."
+    },
+    {
+      "numero": 12,
+      "texto": "Disseram-lhe, pois: Onde está ele? Respondeu: Não sei."
+    },
+    {
+      "numero": 13,
+      "texto": "Levaram, pois, aos fariseus o que dantes era cego."
+    },
+    {
+      "numero": 14,
+      "texto": "E era sábado quando Jesus fez o lodo e lhe abriu os olhos."
+    },
+    {
+      "numero": 15,
+      "texto": "Tornaram, pois, também os fariseus a perguntar-lhe como vira, e ele lhes disse: Pôs-me lodo sobre os olhos, lavei-me, e vejo."
+    },
+    {
+      "numero": 16,
+      "texto": "Então alguns dos fariseus diziam: Este homem não é de Deus, pois não guarda o sábado. Diziam outros: Como pode um homem pecador fazer tais sinais? E havia dissensão entre eles."
+    },
+    {
+      "numero": 17,
+      "texto": "Tornaram, pois, a dizer ao cego: Tu, que dizes daquele que te abriu os olhos? E ele respondeu: Que é profeta."
+    },
+    {
+      "numero": 18,
+      "texto": "Os judeus, porém, não creram que ele tivesse sido cego, e que agora visse, enquanto não chamaram os pais do que agora via."
+    },
+    {
+      "numero": 19,
+      "texto": "E perguntaram-lhes, dizendo: É este o vosso filho, que vós dizeis ter nascido cego? Como, pois, vê agora?"
+    },
+    {
+      "numero": 20,
+      "texto": "Seus pais lhes responderam, e disseram: Sabemos que este é o nosso filho, e que nasceu cego;"
+    },
+    {
+      "numero": 21,
+      "texto": "Mas como agora vê, não sabemos; ou quem lhe tenha aberto os olhos, não sabemos. Tem idade, perguntai-lho a ele mesmo; e ele falará por si mesmo."
+    },
+    {
+      "numero": 22,
+      "texto": "Seus pais disseram isto, porque temiam os judeus. Porquanto já os judeus tinham resolvido que, se alguém confessasse ser ele o Cristo, fosse expulso da sinagoga."
+    },
+    {
+      "numero": 23,
+      "texto": "Por isso é que seus pais disseram: Tem idade, perguntai-lho a ele mesmo."
+    },
+    {
+      "numero": 24,
+      "texto": "Chamaram, pois, pela segunda vez o homem que tinha sido cego, e disseram-lhe: Dá glória a Deus; nós sabemos que esse homem é pecador."
+    },
+    {
+      "numero": 25,
+      "texto": "Respondeu ele pois, e disse: Se é pecador, não sei; uma coisa sei, é que, havendo eu sido cego, agora vejo."
+    },
+    {
+      "numero": 26,
+      "texto": "E tornaram a dizer-lhe: Que te fez ele? Como te abriu os olhos?"
+    },
+    {
+      "numero": 27,
+      "texto": "Respondeu-lhes: Já vo-lo disse, e não ouvistes; para que o quereis tornar a ouvir? Quereis vós porventura fazer-vos também seus discípulos?"
+    },
+    {
+      "numero": 28,
+      "texto": "Então o injuriaram, e disseram: Discípulo dele sejas tu; nós, porém, somos discípulos de Moisés."
+    },
+    {
+      "numero": 29,
+      "texto": "Nós bem sabemos que Deus falou a Moisés, mas este não sabemos de onde é."
+    },
+    {
+      "numero": 30,
+      "texto": "O homem respondeu, e disse-lhes: Nisto, pois, está a maravilha, que vós não saibais de onde ele é, e contudo me abrisse os olhos."
+    },
+    {
+      "numero": 31,
+      "texto": "Ora, nós sabemos que Deus não ouve a pecadores; mas, se alguém é temente a Deus, e faz a sua vontade, a esse ouve."
+    },
+    {
+      "numero": 32,
+      "texto": "Desde o princípio do mundo nunca se ouviu que alguém abrisse os olhos a um cego de nascença."
+    },
+    {
+      "numero": 33,
+      "texto": "Se este não fosse de Deus, nada poderia fazer."
+    },
+    {
+      "numero": 34,
+      "texto": "Responderam eles, e disseram-lhe: Tu és nascido todo em pecados, e nos ensinas a nós? E expulsaram-no."
+    },
+    {
+      "numero": 35,
+      "texto": "Jesus ouviu que o tinham expulsado e, encontrando-o, disse-lhe: Crês tu no Filho de Deus?"
+    },
+    {
+      "numero": 36,
+      "texto": "Ele respondeu, e disse: Quem é ele, Senhor, para que nele creia?"
+    },
+    {
+      "numero": 37,
+      "texto": "E Jesus lhe disse: Tu já o tens visto, e é aquele que fala contigo."
+    },
+    {
+      "numero": 38,
+      "texto": "Ele disse: Creio, Senhor. E o adorou."
+    },
+    {
+      "numero": 39,
+      "texto": "E disse-lhe Jesus: Eu vim a este mundo para juízo, a fim de que os que não vêem vejam, e os que vêem sejam cegos."
+    },
+    {
+      "numero": 40,
+      "texto": "E aqueles dos fariseus, que estavam com ele, ouvindo isto, disseram-lhe: Também nós somos cegos?"
+    },
+    {
+      "numero": 41,
+      "texto": "Disse-lhes Jesus: Se fôsseis cegos, não teríeis pecado; mas como agora dizeis: Vemos; por isso o vosso pecado permanece."
+    }
+  ]
+}

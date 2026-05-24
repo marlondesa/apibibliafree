@@ -1,0 +1,50 @@
+{
+  "id": 17,
+  "abbrev": "et",
+  "nome": "Ester",
+  "slug": "ester",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 10,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 14
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 14
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 32
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 3
+    }
+  ]
+}

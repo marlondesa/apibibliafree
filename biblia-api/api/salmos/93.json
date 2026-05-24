@@ -1,0 +1,29 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 93,
+  "total_versiculos": 5,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O SENHOR reina; está vestido de majestade. O SENHOR se revestiu e cingiu de poder; o mundo também está firmado, e não poderá vacilar."
+    },
+    {
+      "numero": 2,
+      "texto": "O teu trono está firme desde então; tu és desde a eternidade."
+    },
+    {
+      "numero": 3,
+      "texto": "Os rios levantam, ó Senhor, os rios levantam o seu ruído, os rios levantam as suas ondas."
+    },
+    {
+      "numero": 4,
+      "texto": "Mas o Senhor nas alturas é mais poderoso do que o ruído das grandes águas e do que as grandes ondas do mar."
+    },
+    {
+      "numero": 5,
+      "texto": "Mui fiéis são os teus testemunhos; a santidade convém à tua casa, Senhor, para sempre."
+    }
+  ]
+}

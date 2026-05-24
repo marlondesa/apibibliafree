@@ -1,0 +1,101 @@
+{
+  "livro": "jó",
+  "slug_livro": "jó",
+  "testamento": "Antigo Testamento",
+  "capitulo": 27,
+  "total_versiculos": 23,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E prosseguindo Jó em seu discurso, disse:"
+    },
+    {
+      "numero": 2,
+      "texto": "Vive Deus, que desviou a minha causa, e o Todo-Poderoso, que amargurou a minha alma."
+    },
+    {
+      "numero": 3,
+      "texto": "Que, enquanto em mim houver alento, e o sopro de Deus nas minhas narinas,"
+    },
+    {
+      "numero": 4,
+      "texto": "Não falarão os meus lábios iniqüidade, nem a minha língua pronunciará engano."
+    },
+    {
+      "numero": 5,
+      "texto": "Longe de mim que eu vos justifique; até que eu expire, nunca apartarei de mim a minha integridade."
+    },
+    {
+      "numero": 6,
+      "texto": "À minha justiça me apegarei e não a largarei; não me reprovará o meu coração em toda a minha vida."
+    },
+    {
+      "numero": 7,
+      "texto": "Seja como o ímpio o meu inimigo, e como o perverso o que se levantar contra mim."
+    },
+    {
+      "numero": 8,
+      "texto": "Porque qual será a esperança do hipócrita, havendo sido avaro, quando Deus lhe arrancar a sua alma?"
+    },
+    {
+      "numero": 9,
+      "texto": "Porventura Deus ouvirá o seu clamor, sobrevindo-lhe a tribulação?"
+    },
+    {
+      "numero": 10,
+      "texto": "Deleitar-se-á no TodoPoderoso, ou invocará a Deus em todo o tempo?"
+    },
+    {
+      "numero": 11,
+      "texto": "Ensinar-vos-ei acerca da mão de Deus, e não vos encobrirei o que está com o Todo-Poderoso."
+    },
+    {
+      "numero": 12,
+      "texto": "Eis que todos vós já o vistes; por que, pois, vos desvaneceis na vossa vaidade?"
+    },
+    {
+      "numero": 13,
+      "texto": "Esta, pois, é a porção do homem ímpio da parte de Deus, e a herança, que os tiranos receberão do Todo-Poderoso."
+    },
+    {
+      "numero": 14,
+      "texto": "Se os seus filhos se multiplicarem, será para a espada, e a sua prole não se fartará de pão."
+    },
+    {
+      "numero": 15,
+      "texto": "Os que ficarem dele na morte serão enterrados, e as suas viúvas não chorarão."
+    },
+    {
+      "numero": 16,
+      "texto": "Se amontoar prata como pó, e aparelhar roupas como lodo,"
+    },
+    {
+      "numero": 17,
+      "texto": "Ele as aparelhará, porém o justo as vestirá, e o inocente repartirá a prata."
+    },
+    {
+      "numero": 18,
+      "texto": "E edificará a sua casa como a traça, e como o guarda que faz a cabana."
+    },
+    {
+      "numero": 19,
+      "texto": "Rico se deita, e não será recolhido; abre os seus olhos, e nada terá."
+    },
+    {
+      "numero": 20,
+      "texto": "Pavores se apoderam dele como águas; de noite o arrebata a tempestade."
+    },
+    {
+      "numero": 21,
+      "texto": "O vento oriental leva-o, e ele se vai, e varre-o com ímpeto do seu lugar."
+    },
+    {
+      "numero": 22,
+      "texto": "E Deus lançará isto sobre ele, e não lhe poupará; irá fugindo da sua mão."
+    },
+    {
+      "numero": 23,
+      "texto": "Cada um baterá palmas contra ele e assobiará tirando-o do seu lugar."
+    }
+  ]
+}

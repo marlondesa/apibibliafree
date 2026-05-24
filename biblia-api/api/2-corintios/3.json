@@ -1,0 +1,81 @@
+{
+  "livro": "2 Coríntios",
+  "slug_livro": "2-corintios",
+  "testamento": "Novo Testamento",
+  "capitulo": 3,
+  "total_versiculos": 18,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Porventura começamos outra vez a louvar-nos a nós mesmos? Ou necessitamos, como alguns, de cartas de recomendação para vós, ou de recomendação de vós?"
+    },
+    {
+      "numero": 2,
+      "texto": "Vós sois a nossa carta, escrita em nossos corações, conhecida e lida por todos os homens."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque já é manifesto que vós sois a carta de Cristo, ministrada por nós, e escrita, não com tinta, mas com o Espírito do Deus vivo, não em tábuas de pedra, mas nas tábuas de carne do coração."
+    },
+    {
+      "numero": 4,
+      "texto": "E é por Cristo que temos tal confiança em Deus;"
+    },
+    {
+      "numero": 5,
+      "texto": "Não que sejamos capazes, por nós, de pensar alguma coisa, como de nós mesmos; mas a nossa capacidade vem de Deus,"
+    },
+    {
+      "numero": 6,
+      "texto": "O qual nos fez também capazes de ser ministros de um novo testamento, não da letra, mas do espírito; porque a letra mata e o espírito vivifica."
+    },
+    {
+      "numero": 7,
+      "texto": "E, se o ministério da morte, gravado com letras em pedras, veio em glória, de maneira que os filhos de Israel não podiam fitar os olhos na face de Moisés, por causa da glória do seu rosto, a qual era transitória,"
+    },
+    {
+      "numero": 8,
+      "texto": "Como não será de maior glória o ministério do Espírito?"
+    },
+    {
+      "numero": 9,
+      "texto": "Porque, se o ministério da condenação foi glorioso, muito mais excederá em glória o ministério da justiça."
+    },
+    {
+      "numero": 10,
+      "texto": "Porque também o que foi glorificado nesta parte não foi glorificado, por causa desta excelente glória."
+    },
+    {
+      "numero": 11,
+      "texto": "Porque, se o que era transitório foi para glória, muito mais é em glória o que permanece."
+    },
+    {
+      "numero": 12,
+      "texto": "Tendo, pois, tal esperança, usamos de muita ousadia no falar."
+    },
+    {
+      "numero": 13,
+      "texto": "E não somos como Moisés, que punha um véu sobre a sua face, para que os filhos de Israel não olhassem firmemente para o fim daquilo que era transitório."
+    },
+    {
+      "numero": 14,
+      "texto": "Mas os seus sentidos foram endurecidos; porque até hoje o mesmo véu está por levantar na lição do velho testamento, o qual foi por Cristo abolido;"
+    },
+    {
+      "numero": 15,
+      "texto": "E até hoje, quando é lido Moisés, o véu está posto sobre o coração deles."
+    },
+    {
+      "numero": 16,
+      "texto": "Mas, quando se converterem ao Senhor, então o véu se tirará."
+    },
+    {
+      "numero": 17,
+      "texto": "Ora, o Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade."
+    },
+    {
+      "numero": 18,
+      "texto": "Mas todos nós, com rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados de glória em glória na mesma imagem, como pelo Espírito do Senhor."
+    }
+  ]
+}

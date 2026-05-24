@@ -1,0 +1,46 @@
+{
+  "id": 30,
+  "abbrev": "am",
+  "nome": "Amós",
+  "slug": "amos",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 9,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 27
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 14
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 14
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 15
+    }
+  ]
+}

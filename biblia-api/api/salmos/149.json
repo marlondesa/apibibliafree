@@ -1,0 +1,45 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 149,
+  "total_versiculos": 9,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Louvai ao SENHOR. Cantai ao SENHOR um cântico novo, e o seu louvor na congregação dos santos."
+    },
+    {
+      "numero": 2,
+      "texto": "Alegre-se Israel naquele que o fez, regozijem-se os filhos de Sião no seu Rei."
+    },
+    {
+      "numero": 3,
+      "texto": "Louvem o seu nome com danças; cantem-lhe o seu louvor com tamborim e harpa."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque o Senhor se agrada do seu povo; ornará os mansos com a salvação."
+    },
+    {
+      "numero": 5,
+      "texto": "Exultem os santos na glória; alegrem-se nas suas camas."
+    },
+    {
+      "numero": 6,
+      "texto": "Estejam na sua garganta os altos louvores de Deus, e espada de dois fios nas suas mãos,"
+    },
+    {
+      "numero": 7,
+      "texto": "Para tomarem vingança dos gentios, e darem repreensões aos povos;"
+    },
+    {
+      "numero": 8,
+      "texto": "Para prenderem os seus reis com cadeias, e os seus nobres com grilhões de ferro;"
+    },
+    {
+      "numero": 9,
+      "texto": "Para fazerem neles o juízo escrito; esta será a honra de todos os seus santos. Louvai ao Senhor."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 136,
+  "total_versiculos": 26,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Louvai ao SENHOR, porque ele é bom; porque a sua benignidade dura para sempre."
+    },
+    {
+      "numero": 2,
+      "texto": "Louvai ao Deus dos deuses; porque a sua benignidade dura para sempre."
+    },
+    {
+      "numero": 3,
+      "texto": "Louvai ao Senhor dos senhores; porque a sua benignidade dura para sempre."
+    },
+    {
+      "numero": 4,
+      "texto": "Aquele que só faz maravilhas; porque a sua benignidade dura para sempre."
+    },
+    {
+      "numero": 5,
+      "texto": "Aquele que por entendimento fez os céus; porque a sua benignidade dura para sempre."
+    },
+    {
+      "numero": 6,
+      "texto": "Aquele que estendeu a terra sobre as águas; porque a sua benignidade dura para sempre."
+    },
+    {
+      "numero": 7,
+      "texto": "Aquele que fez os grandes luminares; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 8,
+      "texto": "O sol para governar de dia; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 9,
+      "texto": "A lua e as estrelas para presidirem à noite; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 10,
+      "texto": "O que feriu o Egito nos seus primogênitos; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 11,
+      "texto": "E tirou a Israel do meio deles; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 12,
+      "texto": "Com mão forte, e com braço estendido; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 13,
+      "texto": "Aquele que dividiu o Mar Vermelho em duas partes; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 14,
+      "texto": "E fez passar Israel pelo meio dele; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 15,
+      "texto": "Mas derrubou a Faraó com o seu exército no Mar Vermelho; porque a sua benignidade dura para sempre."
+    },
+    {
+      "numero": 16,
+      "texto": "Aquele que guiou o seu povo pelo deserto; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 17,
+      "texto": "Aquele que feriu os grandes reis; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 18,
+      "texto": "E matou reis famosos; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 19,
+      "texto": "Siom, rei dos amorreus; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 20,
+      "texto": "E Ogue, rei de Basã; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 21,
+      "texto": "E deu a terra deles em herança; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 22,
+      "texto": "E mesmo em herança a Israel, seu servo; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 23,
+      "texto": "Que se lembrou da nossa baixeza; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 24,
+      "texto": "E nos remiu dos nossos inimigos; porque a sua benignidade dura para sempre;"
+    },
+    {
+      "numero": 25,
+      "texto": "O que dá mantimento a toda a carne; porque a sua benignidade dura para sempre."
+    },
+    {
+      "numero": 26,
+      "texto": "Louvai ao Deus dos céus; porque a sua benignidade dura para sempre."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 122,
+  "total_versiculos": 9,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Alegrei-me quando me disseram: Vamos á casa do SENHOR."
+    },
+    {
+      "numero": 2,
+      "texto": "Os nossos pés estão dentro das tuas portas, ó Jerusalém."
+    },
+    {
+      "numero": 3,
+      "texto": "Jerusalém está edificada como uma cidade que é compacta."
+    },
+    {
+      "numero": 4,
+      "texto": "Onde sobem as tribos, as tribos do Senhor, até ao testemunho de Israel, para darem graças ao nome do Senhor."
+    },
+    {
+      "numero": 5,
+      "texto": "Pois ali estão os tronos do juízo, os tronos da casa de Davi."
+    },
+    {
+      "numero": 6,
+      "texto": "Orai pela paz de Jerusalém; prosperarão aqueles que te amam."
+    },
+    {
+      "numero": 7,
+      "texto": "Haja paz dentro de teus muros, e prosperidade dentro dos teus palácios."
+    },
+    {
+      "numero": 8,
+      "texto": "Por causa dos meus irmãos e amigos, direi: Paz esteja em ti."
+    },
+    {
+      "numero": 9,
+      "texto": "Por causa da casa do Senhor nosso Deus, buscarei o teu bem."
+    }
+  ]
+}

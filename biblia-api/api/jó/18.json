@@ -1,0 +1,93 @@
+{
+  "livro": "jó",
+  "slug_livro": "jó",
+  "testamento": "Antigo Testamento",
+  "capitulo": 18,
+  "total_versiculos": 21,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então respondeu Bildade, o suíta, e disse:"
+    },
+    {
+      "numero": 2,
+      "texto": "Até quando poreis fim às palavras? Considerai bem, e então falaremos."
+    },
+    {
+      "numero": 3,
+      "texto": "Por que somos tratados como animais, e como imundos aos vossos olhos?"
+    },
+    {
+      "numero": 4,
+      "texto": "Oh tu, que despedaças a tua alma na tua ira, será a terra deixada por tua causa? Remover-se-ão as rochas do seu lugar?"
+    },
+    {
+      "numero": 5,
+      "texto": "Na verdade, a luz dos ímpios se apagará, e a chama do seu fogo não resplandecerá."
+    },
+    {
+      "numero": 6,
+      "texto": "A luz se escurecerá nas suas tendas, e a sua lâmpada sobre ele se apagará."
+    },
+    {
+      "numero": 7,
+      "texto": "Os seus passos firmes se estreitarão, e o seu próprio conselho o derrubará."
+    },
+    {
+      "numero": 8,
+      "texto": "Porque por seus próprios pés é lançado na rede, e andará nos fios enredados."
+    },
+    {
+      "numero": 9,
+      "texto": "O laço o apanhará pelo calcanhar, e a armadilha o prenderá."
+    },
+    {
+      "numero": 10,
+      "texto": "Está escondida debaixo da terra uma corda, e uma armadilha na vereda."
+    },
+    {
+      "numero": 11,
+      "texto": "Os assombros o espantarão de todos os lados, e o perseguirão a cada passo."
+    },
+    {
+      "numero": 12,
+      "texto": "Será faminto o seu vigor, e a destruição está pronta ao seu lado."
+    },
+    {
+      "numero": 13,
+      "texto": "Serão devorados os membros do seu corpo; sim, o primogênito da morte devorará os seus membros."
+    },
+    {
+      "numero": 14,
+      "texto": "A sua confiança será arrancada da sua tenda, onde está confiado, e isto o fará caminhar para o rei dos terrores."
+    },
+    {
+      "numero": 15,
+      "texto": "Morará na sua mesma tenda, o que não lhe pertence; espalhar-se-á enxofre sobre a sua habitação."
+    },
+    {
+      "numero": 16,
+      "texto": "Por baixo se secarão as suas raízes e por cima serão cortados os seus ramos."
+    },
+    {
+      "numero": 17,
+      "texto": "A sua memória perecerá da terra, e pelas praças não terá nome."
+    },
+    {
+      "numero": 18,
+      "texto": "Da luz o lançarão nas trevas, e afugentá-lo-ão do mundo."
+    },
+    {
+      "numero": 19,
+      "texto": "Não terá filho nem neto entre o seu povo, e nem quem lhe suceda nas suas moradas."
+    },
+    {
+      "numero": 20,
+      "texto": "Do seu dia se espantarão os do ocidente, assim como se espantam os do oriente."
+    },
+    {
+      "numero": 21,
+      "texto": "Tais são, na verdade, as moradas do perverso, e este é o lugar do que não conhece a Deus."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 59,
+  "abbrev": "tg",
+  "nome": "Tiago",
+  "slug": "tiago",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 5,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 27
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 26
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 20
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 131,
+  "total_versiculos": 3,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "SENHOR, o meu coração não se elevou nem os meus olhos se levantaram; não me exercito em grandes matérias, nem em coisas muito elevadas para mim."
+    },
+    {
+      "numero": 2,
+      "texto": "Certamente que me tenho portado e sossegado como uma criança desmamada de sua mãe; a minha alma está como uma criança desmamada."
+    },
+    {
+      "numero": 3,
+      "texto": "Espere Israel no Senhor, desde agora e para sempre."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "livro": "2 Crônicas",
+  "slug_livro": "2-cronicas",
+  "testamento": "Antigo Testamento",
+  "capitulo": 3,
+  "total_versiculos": 17,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E começou Salomão a edificar a casa do SENHOR em Jerusalém, no monte Moriá, onde o SENHOR aparecera a Davi seu pai, no lugar que Davi tinha preparado na eira de Ornã, o jebuseu."
+    },
+    {
+      "numero": 2,
+      "texto": "E começou a edificar no segundo mês, no segundo dia, no ano quarto do seu reinado."
+    },
+    {
+      "numero": 3,
+      "texto": "E estes foram os fundamentos que Salomão pôs para edificar a casa de Deus: o comprimento em côvados, segundo a primeira medida, era de sessenta côvados, e a largura de vinte côvados."
+    },
+    {
+      "numero": 4,
+      "texto": "E o pátio, que estava na frente, tinha vinte côvados de comprimento, segundo a largura da casa, e a altura era de cento e vinte; e por dentro o revestiu com ouro puro."
+    },
+    {
+      "numero": 5,
+      "texto": "E a casa grande forrou com madeira de faia; e então a revestiu com ouro fino; e fez sobre ela palmas e cadeias."
+    },
+    {
+      "numero": 6,
+      "texto": "Também a casa adornou de pedras preciosas, para ornamento; e o ouro era ouro de Parvaim."
+    },
+    {
+      "numero": 7,
+      "texto": "Também na casa revestiu, com ouro, as traves, os umbrais, as suas paredes e as suas portas; e lavrou querubins nas paredes."
+    },
+    {
+      "numero": 8,
+      "texto": "Fez mais a casa do lugar santíssimo, cujo comprimento, segundo a largura da casa, era de vinte côvados, e também a largura de vinte côvados; e revestiu-a de ouro fino, do peso de seiscentos talentos."
+    },
+    {
+      "numero": 9,
+      "texto": "O peso dos pregos era de cinqüenta siclos de ouro; e as câmaras cobriu de ouro."
+    },
+    {
+      "numero": 10,
+      "texto": "Também fez na casa do lugar santíssimo dois querubins de obra móvel, e cobriu-os de ouro."
+    },
+    {
+      "numero": 11,
+      "texto": "E, quanto às asas dos querubins, o seu comprimento era de vinte côvados; a asa de um deles, de cinco côvados, e tocava na parede da casa; e a outra asa de cinco côvados, e tocava na asa do outro querubim."
+    },
+    {
+      "numero": 12,
+      "texto": "Também a asa do outro querubim era de cinco côvados, e tocava na parede da casa; era também a outra asa de cinco côvados, que tocava na asa do outro querubim."
+    },
+    {
+      "numero": 13,
+      "texto": "E as asas destes querubins se estendiam vinte côvados; e estavam postos em pé, e os seus rostos virados para a casa."
+    },
+    {
+      "numero": 14,
+      "texto": "Também fez o véu de azul, púrpura, carmesim e linho fino; e pôs sobre ele querubins;"
+    },
+    {
+      "numero": 15,
+      "texto": "Fez também, diante da casa, duas colunas de trinta e cinco côvados de altura; e o capitel, que estava sobre cada uma, era de cinco côvados."
+    },
+    {
+      "numero": 16,
+      "texto": "Também fez cadeias no oráculo, e as pôs sobre as cabeças das colunas; fez também cem romãs, as quais pôs entre as cadeias."
+    },
+    {
+      "numero": 17,
+      "texto": "E levantou as colunas diante do templo, uma à direita, e outra à esquerda; e chamou o nome da que estava à direita Jaquim, e o nome da que estava à esquerda Boaz."
+    }
+  ]
+}

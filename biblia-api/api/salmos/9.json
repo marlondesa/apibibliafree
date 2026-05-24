@@ -1,0 +1,89 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 9,
+  "total_versiculos": 20,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eu te louvarei, Senhor, com todo o meu coração; contarei todas as tuas maravilhas."
+    },
+    {
+      "numero": 2,
+      "texto": "Em ti me alegrarei e saltarei de prazer; cantarei louvores ao teu nome, ó Altíssimo."
+    },
+    {
+      "numero": 3,
+      "texto": "Porquanto os meus inimigos retornaram, caíram e pereceram diante da tua face."
+    },
+    {
+      "numero": 4,
+      "texto": "Pois tu tens sustentado o meu direito e a minha causa; tu te assentaste no tribunal, julgando justamente;."
+    },
+    {
+      "numero": 5,
+      "texto": "Repreendeste as nações, destruíste os ímpios; apagaste o seu nome para sempre e eternamente."
+    },
+    {
+      "numero": 6,
+      "texto": "Oh! inimigo! acabaram-se para sempre as assolações; e tu arrasaste as cidades, e a sua memória pereceu com elas."
+    },
+    {
+      "numero": 7,
+      "texto": "Mas o Senhor está assentado perpetuamente; já preparou o seu tribunal para julgar."
+    },
+    {
+      "numero": 8,
+      "texto": "Ele mesmo julgará o mundo com justiça; exercerá juízo sobre povos com retidão."
+    },
+    {
+      "numero": 9,
+      "texto": "O Senhor será também um alto refúgio para o oprimido; um alto refúgio em tempos de angústia."
+    },
+    {
+      "numero": 10,
+      "texto": "Em ti confiarão os que conhecem o teu nome; porque tu, Senhor, nunca desamparaste os que te buscam."
+    },
+    {
+      "numero": 11,
+      "texto": "Cantai louvores ao Senhor, que habita em Sião; anunciai entre os povos os seus feitos."
+    },
+    {
+      "numero": 12,
+      "texto": "Pois quando inquire do derramamento de sangue, lembra-se deles: não se esquece do clamor dos aflitos."
+    },
+    {
+      "numero": 13,
+      "texto": "Tem misericórdia de mim, Senhor, olha para a minha aflição, causada por aqueles que me odeiam; tu que me levantas das portas da morte;."
+    },
+    {
+      "numero": 14,
+      "texto": "Para que eu conte todos os teus louvores nas portas da filha de Sião, e me alegre na tua salvação."
+    },
+    {
+      "numero": 15,
+      "texto": "Os gentios enterraram-se na cova que fizeram; na rede que ocultaram ficou preso o seu pé."
+    },
+    {
+      "numero": 16,
+      "texto": "O Senhor é conhecido pelo juízo que fez; enlaçado foi o ímpio nas obras de suas mãos. (Higaiom; Selá.)."
+    },
+    {
+      "numero": 17,
+      "texto": "Os ímpios serão lançados no inferno, e todas as nações que se esquecem de Deus."
+    },
+    {
+      "numero": 18,
+      "texto": "Porque o necessitado não será esquecido para sempre, nem a expectação dos pobres perecerá perpetuamente."
+    },
+    {
+      "numero": 19,
+      "texto": "Levanta-te, Senhor; não prevaleça o homem; sejam julgados os gentios diante da tua face."
+    },
+    {
+      "numero": 20,
+      "texto": "Põe-os em medo, Senhor, para que saibam as nações que são formadas por meros homens. (Selá.)."
+    }
+  ]
+}

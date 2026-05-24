@@ -1,0 +1,74 @@
+{
+  "id": 41,
+  "abbrev": "mc",
+  "nome": "Marcos",
+  "slug": "marcos",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 16,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 45
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 28
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 35
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 41
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 43
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 56
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 37
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 38
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 50
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 52
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 33
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 44
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 37
+    },
+    {
+      "numero": 14,
+      "total_versiculos": 72
+    },
+    {
+      "numero": 15,
+      "total_versiculos": 47
+    },
+    {
+      "numero": 16,
+      "total_versiculos": 20
+    }
+  ]
+}

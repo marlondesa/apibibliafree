@@ -1,0 +1,65 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 48,
+  "total_versiculos": 14,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Grande é o SENHOR e mui digno de louvor, na cidade do nosso Deus, no seu monte santo."
+    },
+    {
+      "numero": 2,
+      "texto": "Formoso de sítio, e alegria de toda a terra é o monte Sião sobre os lados do norte, a cidade do grande Rei."
+    },
+    {
+      "numero": 3,
+      "texto": "Deus é conhecido nos seus palácios por um alto refúgio."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque eis que os reis se ajuntaram; eles passaram juntos."
+    },
+    {
+      "numero": 5,
+      "texto": "Viram-no e ficaram maravilhados; ficaram assombrados e se apressaram em fugir."
+    },
+    {
+      "numero": 6,
+      "texto": "Tremor ali os tomou, e dores como de mulher de parto."
+    },
+    {
+      "numero": 7,
+      "texto": "Tu quebras as naus de Társis com um vento oriental."
+    },
+    {
+      "numero": 8,
+      "texto": "Como o ouvimos, assim o vimos na cidade do Senhor dos Exércitos, na cidade do nosso Deus. Deus a confirmará para sempre. (Selá.)"
+    },
+    {
+      "numero": 9,
+      "texto": "Lembramo-nos, ó Deus, da tua benignidade, no meio do teu templo."
+    },
+    {
+      "numero": 10,
+      "texto": "Segundo é o teu nome, ó Deus, assim é o teu louvor, até aos fins da terra; a tua mão direita está cheia de justiça."
+    },
+    {
+      "numero": 11,
+      "texto": "Alegre-se o monte de Sião; alegrem-se as filhas de Judá por causa dos teus juízos."
+    },
+    {
+      "numero": 12,
+      "texto": "Rodeai Sião, e cercai-a, contai as suas torres."
+    },
+    {
+      "numero": 13,
+      "texto": "Marcai bem os seus antemuros, considerai os seus palácios, para que o conteis à geração seguinte."
+    },
+    {
+      "numero": 14,
+      "texto": "Porque este Deus é o nosso Deus para sempre; ele será nosso guia até à morte."
+    }
+  ]
+}

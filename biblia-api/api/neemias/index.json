@@ -1,0 +1,62 @@
+{
+  "id": 16,
+  "abbrev": "ne",
+  "nome": "Neemias",
+  "slug": "neemias",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 13,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 11
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 32
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 19
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 19
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 73
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 38
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 39
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 36
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 47
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 31
+    }
+  ]
+}

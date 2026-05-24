@@ -1,0 +1,62 @@
+{
+  "id": 58,
+  "abbrev": "hb",
+  "nome": "Hebreus",
+  "slug": "hebreus",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 13,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 14
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 19
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 14
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 28
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 28
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 39
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 40
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 25
+    }
+  ]
+}

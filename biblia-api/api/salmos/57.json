@@ -1,0 +1,53 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 57,
+  "total_versiculos": 11,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Tem misericórdia de mim, ó Deus, tem misericórdia de mim, porque a minha alma confia em ti; e à sombra das tuas asas me abrigo, até que passem as calamidades."
+    },
+    {
+      "numero": 2,
+      "texto": "Clamarei ao Deus altíssimo, ao Deus que por mim tudo executa."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele enviará desde os céus, e me salvará do desprezo daquele que procurava devorar-me. (Selá.) Deus enviará a sua misericórdia e a sua verdade."
+    },
+    {
+      "numero": 4,
+      "texto": "A minha alma está entre leões, e eu estou entre aqueles que estão abrasados, filhos dos homens, cujos dentes são lanças e flechas, e a sua língua espada afiada."
+    },
+    {
+      "numero": 5,
+      "texto": "Sê exaltado, ó Deus, sobre os céus; seja a tua glória sobre toda a terra."
+    },
+    {
+      "numero": 6,
+      "texto": "Armaram uma rede aos meus passos; a minha alma está abatida. Cavaram uma cova diante de mim, porém eles mesmos caíram no meio dela. (Selá.)"
+    },
+    {
+      "numero": 7,
+      "texto": "Preparado está o meu coração, ó Deus, preparado está o meu coração; cantarei, e darei louvores."
+    },
+    {
+      "numero": 8,
+      "texto": "Desperta, glória minha; despertai, saltério e harpa; eu mesmo despertarei ao romper da alva."
+    },
+    {
+      "numero": 9,
+      "texto": "Louvar-te-ei, Senhor, entre os povos; eu te cantarei entre as nações."
+    },
+    {
+      "numero": 10,
+      "texto": "Pois a tua misericórdia é grande até aos céus, e a tua verdade até às nuvens."
+    },
+    {
+      "numero": 11,
+      "texto": "Sê exaltado, ó Deus, sobre os céus; e seja a tua glória sobre toda a terra."
+    }
+  ]
+}

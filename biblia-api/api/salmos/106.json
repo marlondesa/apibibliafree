@@ -1,0 +1,201 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 106,
+  "total_versiculos": 48,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Louvai ao SENHOR. Louvai ao SENHOR, porque ele é bom, porque a sua misericórdia dura para sempre."
+    },
+    {
+      "numero": 2,
+      "texto": "Quem pode contar as obras poderosas do Senhor? Quem anunciará os seus louvores?"
+    },
+    {
+      "numero": 3,
+      "texto": "Bem-aventurados os que guardam o juízo, o que pratica justiça em todos os tempos."
+    },
+    {
+      "numero": 4,
+      "texto": "Lembra-te de mim, Senhor, segundo a tua boa vontade para com o teu povo; visita-me com a tua salvação."
+    },
+    {
+      "numero": 5,
+      "texto": "Para que eu veja os bens de teus escolhidos, para que eu me alegre com a alegria da tua nação, para que me glorie com a tua herança."
+    },
+    {
+      "numero": 6,
+      "texto": "Nós pecamos como os nossos pais, cometemos a iniqüidade, andamos perversamente."
+    },
+    {
+      "numero": 7,
+      "texto": "Nossos pais não entenderam as tuas maravilhas no Egito; não se lembraram da multidão das tuas misericórdias; antes o provocaram no mar, sim no Mar Vermelho."
+    },
+    {
+      "numero": 8,
+      "texto": "Não obstante, ele os salvou por amor do seu nome, para fazer conhecido o seu poder."
+    },
+    {
+      "numero": 9,
+      "texto": "Repreendeu, também, o Mar Vermelho, e este se secou, e os fez caminhar pelos abismos como pelo deserto."
+    },
+    {
+      "numero": 10,
+      "texto": "E os livrou da mão daquele que os odiava, e os remiu da mão do inimigo."
+    },
+    {
+      "numero": 11,
+      "texto": "E as águas cobriram os seus adversários; nem um só deles ficou."
+    },
+    {
+      "numero": 12,
+      "texto": "Então creram nas suas palavras, e cantaram os seus louvores."
+    },
+    {
+      "numero": 13,
+      "texto": "Porém cedo se esqueceram das suas obras; não esperaram o seu conselho."
+    },
+    {
+      "numero": 14,
+      "texto": "Mas deixaram-se levar à cobiça no deserto, e tentaram a Deus na solidão."
+    },
+    {
+      "numero": 15,
+      "texto": "E ele lhes cumpriu o seu desejo, mas enviou magreza às suas almas."
+    },
+    {
+      "numero": 16,
+      "texto": "E invejaram a Moisés no campo, e a Arão, o santo do Senhor."
+    },
+    {
+      "numero": 17,
+      "texto": "Abriu-se a terra, e engoliu a Datã, e cobriu o grupo de Abirão."
+    },
+    {
+      "numero": 18,
+      "texto": "E um fogo se acendeu no seu grupo; a chama abrasou os ímpios."
+    },
+    {
+      "numero": 19,
+      "texto": "Fizeram um bezerro em Horebe e adoraram a imagem fundida."
+    },
+    {
+      "numero": 20,
+      "texto": "E converteram a sua glória na figura de um boi que come erva."
+    },
+    {
+      "numero": 21,
+      "texto": "Esqueceram-se de Deus, seu Salvador, que fizera grandezas no Egito,"
+    },
+    {
+      "numero": 22,
+      "texto": "Maravilhas na terra de Cão, coisas tremendas no Mar Vermelho."
+    },
+    {
+      "numero": 23,
+      "texto": "Por isso disse que os destruiria, não houvesse Moisés, seu escolhido, ficado perante ele na brecha, para desviar a sua indignação, a fim de não os destruir."
+    },
+    {
+      "numero": 24,
+      "texto": "Também desprezaram a terra aprazível; não creram na sua palavra."
+    },
+    {
+      "numero": 25,
+      "texto": "Antes murmuraram nas suas tendas, e não deram ouvidos à voz do Senhor."
+    },
+    {
+      "numero": 26,
+      "texto": "Por isso levantou a sua mão contra eles, para os derrubar no deserto;"
+    },
+    {
+      "numero": 27,
+      "texto": "Para derrubar também a sua semente entre as nações, e espalhá-los pelas terras."
+    },
+    {
+      "numero": 28,
+      "texto": "Também se juntaram com Baal-Peor, e comeram os sacrifícios dos mortos."
+    },
+    {
+      "numero": 29,
+      "texto": "Assim o provocaram à ira com as suas invenções; e a peste rebentou entre eles."
+    },
+    {
+      "numero": 30,
+      "texto": "Então se levantou Finéias, e fez juízo, e cessou aquela peste."
+    },
+    {
+      "numero": 31,
+      "texto": "E isto lhe foi contado como justiça, de geração em geração, para sempre."
+    },
+    {
+      "numero": 32,
+      "texto": "Indignaram-no também junto às águas da contenda, de sorte que sucedeu mal a Moisés, por causa deles;"
+    },
+    {
+      "numero": 33,
+      "texto": "Porque irritaram o seu espírito, de modo que falou imprudentemente com seus lábios."
+    },
+    {
+      "numero": 34,
+      "texto": "Não destruíram os povos, como o Senhor lhes dissera."
+    },
+    {
+      "numero": 35,
+      "texto": "Antes se misturaram com os gentios, e aprenderam as suas obras."
+    },
+    {
+      "numero": 36,
+      "texto": "E serviram aos seus ídolos, que vieram a ser-lhes um laço."
+    },
+    {
+      "numero": 37,
+      "texto": "Demais disto, sacrificaram seus filhos e suas filhas aos demônios,"
+    },
+    {
+      "numero": 38,
+      "texto": "E derramaram sangue inocente, o sangue de seus filhos e de suas filhas que sacrificaram aos ídolos de Canaã; e a terra foi manchada com sangue."
+    },
+    {
+      "numero": 39,
+      "texto": "Assim se contaminaram com as suas obras, e se corromperam com os seus feitos."
+    },
+    {
+      "numero": 40,
+      "texto": "Então se acendeu a ira do Senhor contra o seu povo, de modo que abominou a sua herança."
+    },
+    {
+      "numero": 41,
+      "texto": "E os entregou nas mãos dos gentios; e aqueles que os odiavam se assenhorearam deles."
+    },
+    {
+      "numero": 42,
+      "texto": "E os seus inimigos os oprimiram, e foram humilhados debaixo das suas mãos."
+    },
+    {
+      "numero": 43,
+      "texto": "Muitas vezes os livrou, mas o provocaram com o seu conselho, e foram abatidos pela sua iniqüidade."
+    },
+    {
+      "numero": 44,
+      "texto": "Contudo, atendeu à sua aflição, ouvindo o seu clamor."
+    },
+    {
+      "numero": 45,
+      "texto": "E se lembrou da sua aliança, e se arrependeu segundo a multidão das suas misericórdias."
+    },
+    {
+      "numero": 46,
+      "texto": "Assim, também fez com que deles tivessem misericórdia os que os levaram cativos."
+    },
+    {
+      "numero": 47,
+      "texto": "Salva-nos, Senhor nosso Deus, e congrega-nos dentre os gentios, para que louvemos o teu nome santo, e nos gloriemos no teu louvor."
+    },
+    {
+      "numero": 48,
+      "texto": "Bendito seja o Senhor Deus de Israel, de eternidade em eternidade, e todo o povo diga: Amém. Louvai ao Senhor."
+    }
+  ]
+}

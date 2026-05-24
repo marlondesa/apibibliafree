@@ -1,0 +1,34 @@
+{
+  "id": 49,
+  "abbrev": "ef",
+  "nome": "Efésios",
+  "slug": "efesios",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 6,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 21
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 32
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 33
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 24
+    }
+  ]
+}

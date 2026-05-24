@@ -1,0 +1,106 @@
+{
+  "id": 42,
+  "abbrev": "lc",
+  "nome": "Lucas",
+  "slug": "lucas",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 24,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 80
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 52
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 38
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 44
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 39
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 49
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 50
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 56
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 62
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 42
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 54
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 59
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 35
+    },
+    {
+      "numero": 14,
+      "total_versiculos": 35
+    },
+    {
+      "numero": 15,
+      "total_versiculos": 32
+    },
+    {
+      "numero": 16,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 17,
+      "total_versiculos": 37
+    },
+    {
+      "numero": 18,
+      "total_versiculos": 43
+    },
+    {
+      "numero": 19,
+      "total_versiculos": 48
+    },
+    {
+      "numero": 20,
+      "total_versiculos": 47
+    },
+    {
+      "numero": 21,
+      "total_versiculos": 38
+    },
+    {
+      "numero": 22,
+      "total_versiculos": 71
+    },
+    {
+      "numero": 23,
+      "total_versiculos": 56
+    },
+    {
+      "numero": 24,
+      "total_versiculos": 53
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 134,
+  "total_versiculos": 3,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis aqui, bendizei ao SENHOR todos vós, servos do SENHOR, que assistis na casa do SENHOR todas as noites."
+    },
+    {
+      "numero": 2,
+      "texto": "Levantai as vossas mãos no santuário, e bendizei ao Senhor."
+    },
+    {
+      "numero": 3,
+      "texto": "O Senhor que fez o céu e a terra te abençoe desde Sião."
+    }
+  ]
+}

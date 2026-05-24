@@ -1,0 +1,141 @@
+{
+  "livro": "2 Coríntios",
+  "slug_livro": "2-corintios",
+  "testamento": "Novo Testamento",
+  "capitulo": 11,
+  "total_versiculos": 33,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Quisera eu me suportásseis um pouco na minha loucura! Suportai-me, porém, ainda."
+    },
+    {
+      "numero": 2,
+      "texto": "Porque estou zeloso de vós com zelo de Deus; porque vos tenho preparado para vos apresentar como uma virgem pura a um marido, a saber, a Cristo."
+    },
+    {
+      "numero": 3,
+      "texto": "Mas temo que, assim como a serpente enganou Eva com a sua astúcia, assim também sejam de alguma sorte corrompidos os vossos sentidos, e se apartem da simplicidade que há em Cristo."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque, se alguém for pregar-vos outro Jesus que nós não temos pregado, ou se recebeis outro espírito que não recebestes, ou outro evangelho que não abraçastes, com razão o sofreríeis."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque penso que em nada fui inferior aos mais excelentes apóstolos."
+    },
+    {
+      "numero": 6,
+      "texto": "E, se sou rude na palavra, não o sou contudo na ciência; mas já em todas as coisas nos temos feito conhecer totalmente entre vós."
+    },
+    {
+      "numero": 7,
+      "texto": "Pequei, porventura, humilhando-me a mim mesmo, para que vós fôsseis exaltados, porque de graça vos anunciei o evangelho de Deus?"
+    },
+    {
+      "numero": 8,
+      "texto": "Outras igrejas despojei eu para vos servir, recebendo delas salário; e quando estava presente convosco, e tinha necessidade, a ninguém fui pesado."
+    },
+    {
+      "numero": 9,
+      "texto": "Porque os irmãos que vieram da macedônia supriram a minha necessidade; e em tudo me guardei de vos ser pesado, e ainda me guardarei."
+    },
+    {
+      "numero": 10,
+      "texto": "Como a verdade de Cristo está em mim, esta glória não me será impedida nas regiões da Acaia."
+    },
+    {
+      "numero": 11,
+      "texto": "Por quê? Porque não vos amo? Deus o sabe."
+    },
+    {
+      "numero": 12,
+      "texto": "Mas o que eu faço o farei, para cortar ocasião aos que buscam ocasião, a fim de que, naquilo em que se gloriam, sejam achados assim como nós."
+    },
+    {
+      "numero": 13,
+      "texto": "Porque tais falsos apóstolos são obreiros fraudulentos, transfigurando-se em apóstolos de Cristo."
+    },
+    {
+      "numero": 14,
+      "texto": "E não é maravilha, porque o próprio Satanás se transfigura em anjo de luz."
+    },
+    {
+      "numero": 15,
+      "texto": "Não é muito, pois, que os seus ministros se transfigurem em ministros da justiça; o fim dos quais será conforme as suas obras."
+    },
+    {
+      "numero": 16,
+      "texto": "Outra vez digo: Ninguém me julgue insensato, ou então recebei-me como insensato, para que também me glorie um pouco."
+    },
+    {
+      "numero": 17,
+      "texto": "O que digo, não o digo segundo o Senhor, mas como por loucura, nesta confiança de gloriar-me."
+    },
+    {
+      "numero": 18,
+      "texto": "Pois que muitos se gloriam segundo a carne, eu também me gloriarei."
+    },
+    {
+      "numero": 19,
+      "texto": "Porque, sendo vós sensatos, de boa mente tolerais os insensatos."
+    },
+    {
+      "numero": 20,
+      "texto": "Pois sois sofredores, se alguém vos põe em servidão, se alguém vos devora, se alguém vos apanha, se alguém se exalta, se alguém vos fere no rosto."
+    },
+    {
+      "numero": 21,
+      "texto": "Envergonhado o digo, como se nós fôssemos fracos, mas no que qualquer tem ousadia (com insensatez falo) também eu tenho ousadia."
+    },
+    {
+      "numero": 22,
+      "texto": "São hebreus? também eu. São israelitas? também eu. São descendência de Abraão? também eu."
+    },
+    {
+      "numero": 23,
+      "texto": "São ministros de Cristo? (falo como fora de mim) eu ainda mais: em trabalhos, muito mais; em açoites, mais do que eles; em prisões, muito mais; em perigo de morte, muitas vezes."
+    },
+    {
+      "numero": 24,
+      "texto": "Recebi dos judeus cinco quarentenas de açoites menos um."
+    },
+    {
+      "numero": 25,
+      "texto": "Três vezes fui açoitado com varas, uma vez fui apedrejado, três vezes sofri naufrágio, uma noite e um dia passei no abismo;"
+    },
+    {
+      "numero": 26,
+      "texto": "Em viagens muitas vezes, em perigos de rios, em perigos de salteadores, em perigos dos da minha nação, em perigos dos gentios, em perigos na cidade, em perigos no deserto, em perigos no mar, em perigos entre os falsos irmãos;"
+    },
+    {
+      "numero": 27,
+      "texto": "Em trabalhos e fadiga, em vigílias muitas vezes, em fome e sede, em jejum muitas vezes, em frio e nudez."
+    },
+    {
+      "numero": 28,
+      "texto": "Além das coisas exteriores, me oprime cada dia o cuidado de todas as igrejas."
+    },
+    {
+      "numero": 29,
+      "texto": "Quem enfraquece, que eu também não enfraqueça? Quem se escandaliza, que eu me não abrase?"
+    },
+    {
+      "numero": 30,
+      "texto": "Se convém gloriar-me, gloriar-me-ei no que diz respeito à minha fraqueza."
+    },
+    {
+      "numero": 31,
+      "texto": "O Deus e Pai de nosso Senhor Jesus Cristo, que é eternamente bendito, sabe que não minto."
+    },
+    {
+      "numero": 32,
+      "texto": "Em Damasco, o que governava sob o rei Aretas pôs guardas às portas da cidade dos damascenos, para me prenderem."
+    },
+    {
+      "numero": 33,
+      "texto": "E fui descido num cesto por uma janela da muralha; e assim escapei das suas mãos."
+    }
+  ]
+}

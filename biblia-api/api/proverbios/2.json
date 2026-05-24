@@ -1,0 +1,97 @@
+{
+  "livro": "Provérbios",
+  "slug_livro": "proverbios",
+  "testamento": "Antigo Testamento",
+  "capitulo": 2,
+  "total_versiculos": 22,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Filho meu, se aceitares as minhas palavras, e esconderes contigo os meus mandamentos,"
+    },
+    {
+      "numero": 2,
+      "texto": "Para fazeres o teu ouvido atento à sabedoria; e inclinares o teu coração ao entendimento;"
+    },
+    {
+      "numero": 3,
+      "texto": "Se clamares por conhecimento, e por inteligência alçares a tua voz,"
+    },
+    {
+      "numero": 4,
+      "texto": "Se como a prata a buscares e como a tesouros escondidos a procurares,"
+    },
+    {
+      "numero": 5,
+      "texto": "Então entenderás o temor do Senhor, e acharás o conhecimento de Deus."
+    },
+    {
+      "numero": 6,
+      "texto": "Porque o Senhor dá a sabedoria; da sua boca é que vem o conhecimento e o entendimento."
+    },
+    {
+      "numero": 7,
+      "texto": "Ele reserva a verdadeira sabedoria para os retos. Escudo é para os que caminham na sinceridade,"
+    },
+    {
+      "numero": 8,
+      "texto": "Para que guardem as veredas do juízo. Ele preservará o caminho dos seus santos."
+    },
+    {
+      "numero": 9,
+      "texto": "Então entenderás a justiça, o juízo, a eqüidade e todas as boas veredas."
+    },
+    {
+      "numero": 10,
+      "texto": "Pois quando a sabedoria entrar no teu coração, e o conhecimento for agradável à tua alma,"
+    },
+    {
+      "numero": 11,
+      "texto": "O bom siso te guardará e a inteligência te conservará;"
+    },
+    {
+      "numero": 12,
+      "texto": "Para te afastar do mau caminho, e do homem que fala coisas perversas;"
+    },
+    {
+      "numero": 13,
+      "texto": "Dos que deixam as veredas da retidão, para andarem pelos caminhos escusos;"
+    },
+    {
+      "numero": 14,
+      "texto": "Que se alegram de fazer mal, e folgam com as perversidades dos maus,"
+    },
+    {
+      "numero": 15,
+      "texto": "Cujas veredas são tortuosas e que se desviam nos seus caminhos;"
+    },
+    {
+      "numero": 16,
+      "texto": "Para te afastar da mulher estranha, sim da estranha que lisonjeia com suas palavras;"
+    },
+    {
+      "numero": 17,
+      "texto": "Que deixa o guia da sua mocidade e se esquece da aliança do seu Deus;"
+    },
+    {
+      "numero": 18,
+      "texto": "Porque a sua casa se inclina para a morte, e as suas veredas para os mortos."
+    },
+    {
+      "numero": 19,
+      "texto": "Todos os que se dirigem a ela não voltarão e não atinarão com as veredas da vida."
+    },
+    {
+      "numero": 20,
+      "texto": "Para andares pelos caminhos dos bons, e te conservares nas veredas dos justos."
+    },
+    {
+      "numero": 21,
+      "texto": "Porque os retos habitarão a terra, e os íntegros permanecerão nela."
+    },
+    {
+      "numero": 22,
+      "texto": "Mas os ímpios serão arrancados da terra, e os aleivosos serão dela exterminados."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "livro": "Isaías",
+  "slug_livro": "isaias",
+  "testamento": "Antigo Testamento",
+  "capitulo": 20,
+  "total_versiculos": 6,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No ano em que Tartã, enviado por Sargom, rei da Assíria, veio a Asdode, e guerreou contra ela, e a tomou,"
+    },
+    {
+      "numero": 2,
+      "texto": "Nesse mesmo tempo falou o Senhor por intermédio de Isaías, filho de Amós, dizendo: Vai, solta o cilício de teus lombos, e descalça os sapatos dos teus pés. E ele assim o fez, indo nu e descalço."
+    },
+    {
+      "numero": 3,
+      "texto": "Então disse o Senhor: Assim como o meu servo Isaías andou três anos nu e descalço, por sinal e prodígio sobre o Egito e sobre a Etiópia,"
+    },
+    {
+      "numero": 4,
+      "texto": "Assim o rei da Assíria levará em cativeiro os presos do Egito, e os exilados da Etiópia, tanto moços como velhos, nus e descalços, e com as nádegas descobertas, para vergonha do Egito."
+    },
+    {
+      "numero": 5,
+      "texto": "E assombrar-se-ão, e envergonhar-se-ão, por causa dos etíopes, sua esperança, como também dos egípcios, sua glória."
+    },
+    {
+      "numero": 6,
+      "texto": "Então os moradores desta ilha dirão naquele dia: Vede que tal é a nossa esperança, à qual fugimos por socorro, para nos livrarmos da face do rei da Assíria! Como pois escaparemos nós?"
+    }
+  ]
+}

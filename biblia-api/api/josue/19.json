@@ -1,0 +1,213 @@
+{
+  "livro": "Josué",
+  "slug_livro": "josue",
+  "testamento": "Antigo Testamento",
+  "capitulo": 19,
+  "total_versiculos": 51,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E Saiu a segunda sorte a Simeão, para a tribo dos filhos de Simeão, segundo as suas famílias; e foi a sua herança no meio da herança dos filhos de Judá."
+    },
+    {
+      "numero": 2,
+      "texto": "E tiveram na sua herança: Berseba, e Seba e Moladá."
+    },
+    {
+      "numero": 3,
+      "texto": "E Hazar-Sual, e Balá, e Azem,"
+    },
+    {
+      "numero": 4,
+      "texto": "E Eltolade, e Betul, e Hormá,"
+    },
+    {
+      "numero": 5,
+      "texto": "E Ziclague, e Bete-Marcabote, e Hazar-Susa,"
+    },
+    {
+      "numero": 6,
+      "texto": "E Bete-Lebaote, e Saruém; treze cidades e as suas aldeias."
+    },
+    {
+      "numero": 7,
+      "texto": "E Aim, e Rimom, e Eter, e Asã; quatro cidades e as suas aldeias."
+    },
+    {
+      "numero": 8,
+      "texto": "E todas as aldeias que havia em redor destas cidades, até Baalate-Ber (que é Ramá), do sul; esta é a herança da tribo dos filhos de Simeão, segundo as suas famílias."
+    },
+    {
+      "numero": 9,
+      "texto": "A herança dos filhos de Simeão foi tirada do quinhão dos de Judá, porquanto a herança dos filhos de Judá era demasiadamente grande para eles; pelo que os filhos de Simeão tiveram a sua herança no meio deles."
+    },
+    {
+      "numero": 10,
+      "texto": "E saiu a terceira sorte pelos filhos de Zebulom, segundo as suas famílias; e foi o termo da sua herança até Saride."
+    },
+    {
+      "numero": 11,
+      "texto": "E sobe o seu termo pelo ocidente a Maralá, e vai até Dabesete, e chega também até ao ribeiro que está defronte de Jocneão."
+    },
+    {
+      "numero": 12,
+      "texto": "E de Saride volta para o oriente, para o nascente do sol, até ao termo de Quislote-Tabor, sai a Daberate, e vai subindo a Jafia."
+    },
+    {
+      "numero": 13,
+      "texto": "E dali passa pelo oriente, para o nascente, a Gate-Hefer, em Ete-Cazim, chegando a Rimom-Metoar, que vai até Neá;"
+    },
+    {
+      "numero": 14,
+      "texto": "E rodeando-a, passa o termo para o norte a Hanatom, chegando ao vale de Iftá-El,"
+    },
+    {
+      "numero": 15,
+      "texto": "E Catate, Naalal, e Sinrom, e Idala, e Belém; doze cidades e as suas aldeias."
+    },
+    {
+      "numero": 16,
+      "texto": "Esta é a herança dos filhos de Zebulom, segundo as suas famílias; estas cidades e as suas aldeias."
+    },
+    {
+      "numero": 17,
+      "texto": "A quarta sorte saiu para Issacar; aos filhos de Issacar, segundo as suas famílias."
+    },
+    {
+      "numero": 18,
+      "texto": "E foi o seu termo Jizreel, e Quesulote e Suném,"
+    },
+    {
+      "numero": 19,
+      "texto": "E Hafaraim, e Siom, e Anaarate,"
+    },
+    {
+      "numero": 20,
+      "texto": "E Rabite e Quisiom, e Ebes,"
+    },
+    {
+      "numero": 21,
+      "texto": "E Remete, e En-Ganim, e En-Hadá, e Bete-Pazez."
+    },
+    {
+      "numero": 22,
+      "texto": "E chega este termo até Tabor, e Saazima, e Bete-Semes; e vai terminar no Jordão; dezesseis cidades e as suas aldeias."
+    },
+    {
+      "numero": 23,
+      "texto": "Esta é a herança da tribo dos filhos de Issacar, segundo as suas famílias; estas cidades e as suas aldeias."
+    },
+    {
+      "numero": 24,
+      "texto": "E saiu a quinta sorte para a tribo dos filhos de Aser, segundo as suas famílias."
+    },
+    {
+      "numero": 25,
+      "texto": "E foi o seu termo Helcate, e Hali, e Béten, e Acsafe,"
+    },
+    {
+      "numero": 26,
+      "texto": "E Alameleque, e Amade, e Misal; e chega ao Carmelo para o ocidente, e a Sior-Libnate;"
+    },
+    {
+      "numero": 27,
+      "texto": "E volta para o nascente do sol a Bete-Dagom, e chega a Zebulom e ao vale de Iftá-El, ao norte de Bete-Emeque e de Neiel, e vem sair a Cabul, pela esquerda,"
+    },
+    {
+      "numero": 28,
+      "texto": "E Hebrom, e Reobe, e Hamom, e Caná, até à grande Sidom."
+    },
+    {
+      "numero": 29,
+      "texto": "E volta este termo a Ramá, e até à forte cidade de Tiro; então torna este termo a Hosa, para terminar no mar, na região de Aczibe."
+    },
+    {
+      "numero": 30,
+      "texto": "E Umá, e Afeque, e Reobe; vinte e duas cidades e as suas aldeias."
+    },
+    {
+      "numero": 31,
+      "texto": "Esta é a herança da tribo dos filhos de Aser, segundo as suas famílias; estas cidades e as suas aldeias."
+    },
+    {
+      "numero": 32,
+      "texto": "E saiu a sexta sorte para os filhos de Naftali, segundo as suas famílias."
+    },
+    {
+      "numero": 33,
+      "texto": "E foi o seu termo desde Helefe e desde Alom em Zaananim, e Adami-Neguebe, e Jabneel, até Lacum, terminando no Jordão."
+    },
+    {
+      "numero": 34,
+      "texto": "E volta este termo pelo ocidente a Aznote-Tabor, e dali passa a Hucoque; e chega a Zebulom ao sul, e chega a Aser ao ocidente, e a Judá pelo Jordão, ao nascente do sol."
+    },
+    {
+      "numero": 35,
+      "texto": "E são as cidades fortificadas: Zidim, Zer, e Hamate, Racate e Quinerete,"
+    },
+    {
+      "numero": 36,
+      "texto": "E Adama, e Ramá, e Hazor,"
+    },
+    {
+      "numero": 37,
+      "texto": "E Quedes, e Edrei, e En-Hazor,"
+    },
+    {
+      "numero": 38,
+      "texto": "E Irom, e Migdal-El, Horém e Bete-Anate, e Bete-Semes; dezenove cidades e as suas aldeias."
+    },
+    {
+      "numero": 39,
+      "texto": "Esta é a herança da tribo dos filhos de Naftali, segundo as suas famílias; estas cidades e as suas aldeias."
+    },
+    {
+      "numero": 40,
+      "texto": "A sétima sorte saiu para a tribo dos filhos de Dã, segundo as suas famílias."
+    },
+    {
+      "numero": 41,
+      "texto": "E foi o termo da sua herança, Sora, e Estaol, e Ir-Semes,"
+    },
+    {
+      "numero": 42,
+      "texto": "E Saalabim, e Aijalom, e Itla,"
+    },
+    {
+      "numero": 43,
+      "texto": "E Elom, e Timna, e Ecrom,"
+    },
+    {
+      "numero": 44,
+      "texto": "E Elteque, e Gibetom, e Baalate,"
+    },
+    {
+      "numero": 45,
+      "texto": "E Jeúde, e Bene-Beraque, e Gate-Rimom,"
+    },
+    {
+      "numero": 46,
+      "texto": "E Me-Jarcom, e Racom, com o termo defronte de Jafo;"
+    },
+    {
+      "numero": 47,
+      "texto": "Saiu, porém, pequeno termo aos filhos de Dã, pelo que subiram os filhos de Dã, e pelejaram contra Lesém, e a tomaram, e a feriram ao fio da espada, e a possuíram e habitaram nela; e a Lesém chamaram Dã, conforme ao nome de Dã seu pai."
+    },
+    {
+      "numero": 48,
+      "texto": "Esta é a herança da tribo dos filhos de Dã, segundo as suas famílias; estas cidades e as suas aldeias."
+    },
+    {
+      "numero": 49,
+      "texto": "Acabando, pois, de repartir a terra em herança segundo os seus termos, deram os filhos de Israel a Josué, filho de Num, herança no meio deles."
+    },
+    {
+      "numero": 50,
+      "texto": "Segundo o mandado do Senhor lhe deram a cidade que pediu, a Timnate-Sera, na montanha de Efraim; e reedificou aquela cidade, e habitou nela."
+    },
+    {
+      "numero": 51,
+      "texto": "Estas são as heranças que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das famílias repartiram às tribos dos filhos de Israel, em herança, por sorte, em Siló, perante o Senhor, à porta da tenda da congregação. E assim acabaram de repartir a terra."
+    }
+  ]
+}

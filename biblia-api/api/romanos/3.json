@@ -1,0 +1,133 @@
+{
+  "livro": "Romanos",
+  "slug_livro": "romanos",
+  "testamento": "Novo Testamento",
+  "capitulo": 3,
+  "total_versiculos": 31,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Qual é logo a vantagem do judeu? Ou qual a utilidade da circuncisão?"
+    },
+    {
+      "numero": 2,
+      "texto": "Muita, em toda a maneira, porque, primeiramente, as palavras de Deus lhe foram confiadas."
+    },
+    {
+      "numero": 3,
+      "texto": "Pois quê? Se alguns foram incrédulos, a sua incredulidade aniquilará a fidelidade de Deus?"
+    },
+    {
+      "numero": 4,
+      "texto": "De maneira nenhuma; sempre seja Deus verdadeiro, e todo o homem mentiroso; como está escrito:Para que sejas justificado em tuas palavras,E venças quando fores julgado."
+    },
+    {
+      "numero": 5,
+      "texto": "E, se a nossa injustiça for causa da justiça de Deus, que diremos? Porventura será Deus injusto, trazendo ira sobre nós? (Falo como homem. )"
+    },
+    {
+      "numero": 6,
+      "texto": "De maneira nenhuma; de outro modo, como julgará Deus o mundo?"
+    },
+    {
+      "numero": 7,
+      "texto": "Mas, se pela minha mentira abundou mais a verdade de Deus para glória sua, por que sou eu ainda julgado também como pecador?"
+    },
+    {
+      "numero": 8,
+      "texto": "E por que não dizemos (como somos blasfemados, e como alguns dizem que dizemos): Façamos males, para que venham bens? A condenação desses é justa."
+    },
+    {
+      "numero": 9,
+      "texto": "Pois quê? Somos nós mais excelentes? De maneira nenhuma, pois já dantes demonstramos que, tanto judeus como gregos, todos estão debaixo do pecado;"
+    },
+    {
+      "numero": 10,
+      "texto": "Como está escrito:Não há um justo, nem um sequer."
+    },
+    {
+      "numero": 11,
+      "texto": "Não há ninguém que entenda;Não há ninguém que busque a Deus."
+    },
+    {
+      "numero": 12,
+      "texto": "Todos se extraviaram, e juntamente se fizeram inúteis.Não há quem faça o bem, não há nem um só."
+    },
+    {
+      "numero": 13,
+      "texto": "A sua garganta é um sepulcro aberto;Com as suas línguas tratam enganosamente;Peçonha de áspides está debaixo de seus lábios;"
+    },
+    {
+      "numero": 14,
+      "texto": "Cuja boca está cheia de maldição e amargura."
+    },
+    {
+      "numero": 15,
+      "texto": "Os seus pés são ligeiros para derramar sangue."
+    },
+    {
+      "numero": 16,
+      "texto": "Em seus caminhos há destruição e miséria;"
+    },
+    {
+      "numero": 17,
+      "texto": "E não conheceram o caminho da paz."
+    },
+    {
+      "numero": 18,
+      "texto": "Não há temor de Deus diante de seus olhos."
+    },
+    {
+      "numero": 19,
+      "texto": "Ora, nós sabemos que tudo o que a lei diz, aos que estão debaixo da lei o diz, para que toda a boca esteja fechada e todo o mundo seja condenável diante de Deus."
+    },
+    {
+      "numero": 20,
+      "texto": "Por isso nenhuma carne será justificada diante dele pelas obras da lei, porque pela lei vem o conhecimento do pecado."
+    },
+    {
+      "numero": 21,
+      "texto": "Mas agora se manifestou sem a lei a justiça de Deus, tendo o testemunho da lei e dos profetas;"
+    },
+    {
+      "numero": 22,
+      "texto": "Isto é, a justiça de Deus pela fé em Jesus Cristo para todos e sobre todos os que crêem; porque não há diferença."
+    },
+    {
+      "numero": 23,
+      "texto": "Porque todos pecaram e destituídos estão da glória de Deus;"
+    },
+    {
+      "numero": 24,
+      "texto": "Sendo justificados gratuitamente pela sua graça, pela redenção que há em Cristo Jesus."
+    },
+    {
+      "numero": 25,
+      "texto": "Ao qual Deus propôs para propiciação pela fé no seu sangue, para demonstrar a sua justiça pela remissão dos pecados dantes cometidos, sob a paciência de Deus;"
+    },
+    {
+      "numero": 26,
+      "texto": "Para demonstração da sua justiça neste tempo presente, para que ele seja justo e justificador daquele que tem fé em Jesus."
+    },
+    {
+      "numero": 27,
+      "texto": "Onde está logo a jactância? É excluída. Por qual lei? Das obras? Não; mas pela lei da fé."
+    },
+    {
+      "numero": 28,
+      "texto": "Concluímos, pois, que o homem é justificado pela fé sem as obras da lei."
+    },
+    {
+      "numero": 29,
+      "texto": "É porventura Deus somente dos judeus? E não o é também dos gentios? Também dos gentios, certamente,"
+    },
+    {
+      "numero": 30,
+      "texto": "Visto que Deus é um só, que justifica pela fé a circuncisão, e por meio da fé a incircuncisão."
+    },
+    {
+      "numero": 31,
+      "texto": "Anulamos, pois, a lei pela fé? De maneira nenhuma, antes estabelecemos a lei."
+    }
+  ]
+}

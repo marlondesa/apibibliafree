@@ -1,0 +1,94 @@
+{
+  "id": 43,
+  "abbrev": "jo",
+  "nome": "João",
+  "slug": "joao",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 21,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 51
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 25
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 36
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 54
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 47
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 71
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 53
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 59
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 41
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 42
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 57
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 50
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 38
+    },
+    {
+      "numero": 14,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 15,
+      "total_versiculos": 27
+    },
+    {
+      "numero": 16,
+      "total_versiculos": 33
+    },
+    {
+      "numero": 17,
+      "total_versiculos": 26
+    },
+    {
+      "numero": 18,
+      "total_versiculos": 40
+    },
+    {
+      "numero": 19,
+      "total_versiculos": 42
+    },
+    {
+      "numero": 20,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 21,
+      "total_versiculos": 25
+    }
+  ]
+}

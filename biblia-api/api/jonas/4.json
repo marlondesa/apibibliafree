@@ -1,0 +1,53 @@
+{
+  "livro": "Jonas",
+  "slug_livro": "jonas",
+  "testamento": "Antigo Testamento",
+  "capitulo": 4,
+  "total_versiculos": 11,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Mas isso desagradou extremamente a Jonas, e ele ficou irado."
+    },
+    {
+      "numero": 2,
+      "texto": "E orou ao Senhor, e disse: Ah! Senhor! Não foi esta minha palavra, estando ainda na minha terra? Por isso é que me preveni, fugindo para Társis, pois sabia que és Deus compassivo e misericordioso, longânimo e grande em benignidade, e que te arrependes do mal."
+    },
+    {
+      "numero": 3,
+      "texto": "Peço-te, pois, ó Senhor, tira-me a vida, porque melhor me é morrer do que viver."
+    },
+    {
+      "numero": 4,
+      "texto": "E disse o Senhor: Fazes bem que assim te ires?"
+    },
+    {
+      "numero": 5,
+      "texto": "Então Jonas saiu da cidade, e sentou-se ao oriente dela; e ali fez uma cabana, e sentou-se debaixo dela, à sombra, até ver o que aconteceria à cidade."
+    },
+    {
+      "numero": 6,
+      "texto": "E fez o Senhor Deus nascer uma aboboreira, e ela subiu por cima de Jonas, para que fizesse sombra sobre a sua cabeça, a fim de o livrar do seu enfado; e Jonas se alegrou em extremo por causa da aboboreira."
+    },
+    {
+      "numero": 7,
+      "texto": "Mas Deus enviou um verme, no dia seguinte ao subir da alva, o qual feriu a aboboreira, e esta se secou."
+    },
+    {
+      "numero": 8,
+      "texto": "E aconteceu que, aparecendo o sol, Deus mandou um vento calmoso oriental, e o sol feriu a cabeça de Jonas; e ele desmaiou, e desejou com toda a sua alma morrer, dizendo: Melhor me é morrer do que viver."
+    },
+    {
+      "numero": 9,
+      "texto": "Então disse Deus a Jonas: Fazes bem que assim te ires por causa da aboboreira? E ele disse: Faço bem que me revolte até à morte."
+    },
+    {
+      "numero": 10,
+      "texto": "E disse o Senhor: Tiveste tu compaixão da aboboreira, na qual não trabalhaste, nem a fizeste crescer, que numa noite nasceu, e numa noite pereceu;"
+    },
+    {
+      "numero": 11,
+      "texto": "E não hei de eu ter compaixão da grande cidade de Nínive, em que estão mais de cento e vinte mil homens que não sabem discernir entre a sua mão direita e a sua mão esquerda, e também muitos animais?"
+    }
+  ]
+}

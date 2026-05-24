@@ -1,0 +1,85 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 51,
+  "total_versiculos": 19,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Tem misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias."
+    },
+    {
+      "numero": 2,
+      "texto": "Lava-me completamente da minha iniqüidade, e purifica-me do meu pecado."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque eu conheço as minhas transgressões, e o meu pecado está sempre diante de mim."
+    },
+    {
+      "numero": 4,
+      "texto": "Contra ti, contra ti somente pequei, e fiz o que é mal à tua vista, para que sejas justificado quando falares, e puro quando julgares."
+    },
+    {
+      "numero": 5,
+      "texto": "Eis que em iniqüidade fui formado, e em pecado me concebeu minha mãe."
+    },
+    {
+      "numero": 6,
+      "texto": "Eis que amas a verdade no íntimo, e no oculto me fazes conhecer a sabedoria."
+    },
+    {
+      "numero": 7,
+      "texto": "Purifica-me com hissopo, e ficarei puro; lava-me, e ficarei mais branco do que a neve."
+    },
+    {
+      "numero": 8,
+      "texto": "Faze-me ouvir júbilo e alegria, para que gozem os ossos que tu quebraste."
+    },
+    {
+      "numero": 9,
+      "texto": "Esconde a tua face dos meus pecados, e apaga todas as minhas iniqüidades."
+    },
+    {
+      "numero": 10,
+      "texto": "Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto."
+    },
+    {
+      "numero": 11,
+      "texto": "Não me lances fora da tua presença, e não retires de mim o teu Espírito Santo."
+    },
+    {
+      "numero": 12,
+      "texto": "Torna a dar-me a alegria da tua salvação, e sustém-me com um espírito voluntário."
+    },
+    {
+      "numero": 13,
+      "texto": "Então ensinarei aos transgressores os teus caminhos, e os pecadores a ti se converterão."
+    },
+    {
+      "numero": 14,
+      "texto": "Livra-me dos crimes de sangue, ó Deus, Deus da minha salvação, e a minha língua louvará altamente a tua justiça."
+    },
+    {
+      "numero": 15,
+      "texto": "Abre, Senhor, os meus lábios, e a minha boca entoará o teu louvor."
+    },
+    {
+      "numero": 16,
+      "texto": "Pois não desejas sacrifícios, senão eu os daria; tu não te deleitas em holocaustos."
+    },
+    {
+      "numero": 17,
+      "texto": "Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus."
+    },
+    {
+      "numero": 18,
+      "texto": "Faze o bem a Sião, segundo a tua boa vontade; edifica os muros de Jerusalém."
+    },
+    {
+      "numero": 19,
+      "texto": "Então te agradarás dos sacrifícios de justiça, dos holocaustos e das ofertas queimadas; então se oferecerão novilhos sobre o teu altar."
+    }
+  ]
+}

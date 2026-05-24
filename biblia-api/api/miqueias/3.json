@@ -1,0 +1,57 @@
+{
+  "livro": "Miquéias",
+  "slug_livro": "miqueias",
+  "testamento": "Antigo Testamento",
+  "capitulo": 3,
+  "total_versiculos": 12,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E disse eu: Ouvi, peço-vos, ó chefes de Jacó, e vós, príncipes da casa de Israel; não é a vós que pertence saber o juízo?"
+    },
+    {
+      "numero": 2,
+      "texto": "A vós que odiais o bem, e amais o mal, que arrancais a pele de cima deles, e a carne de cima dos seus ossos;"
+    },
+    {
+      "numero": 3,
+      "texto": "E que comeis a carne do meu povo, e lhes arrancais a pele, e lhes esmiuçais os ossos, e os repartis como para a panela e como carne dentro do caldeirão."
+    },
+    {
+      "numero": 4,
+      "texto": "Então clamarão ao Senhor, mas não os ouvirá; antes esconderá deles a sua face naquele tempo, visto que eles fizeram mal nas suas obras."
+    },
+    {
+      "numero": 5,
+      "texto": "Assim diz o Senhor acerca dos profetas que fazem errar o meu povo, que mordem com os seus dentes, e clamam paz; mas contra aquele que nada lhes dá na boca preparam guerra."
+    },
+    {
+      "numero": 6,
+      "texto": "Portanto, se vos fará noite sem visão, e tereis trevas sem adivinhação, e haverá o sol sobre os profetas, e o dia sobre eles se enegrecerá."
+    },
+    {
+      "numero": 7,
+      "texto": "E os videntes se envergonharão, e os adivinhadores se confundirão; sim, todos eles cobrirão os seus lábios, porque não haverá resposta de Deus."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas eu estou cheio do poder do Espírito do Senhor, e de juízo e de força, para anunciar a Jacó a sua transgressão e a Israel o seu pecado."
+    },
+    {
+      "numero": 9,
+      "texto": "Ouvi agora isto, vós, chefes da casa de Jacó, e príncipes da casa de Israel, que abominais o juízo e perverteis tudo o que é direito,"
+    },
+    {
+      "numero": 10,
+      "texto": "Edificando a Sião com sangue, e a Jerusalém com iniqüidade."
+    },
+    {
+      "numero": 11,
+      "texto": "Os seus chefes dão as sentenças por suborno, e os seus sacerdotes ensinam por interesse, e os seus profetas adivinham por dinheiro; e ainda se encostam ao Senhor, dizendo: Não está o Senhor no meio de nós? Nenhum mal nos sobrevirá."
+    },
+    {
+      "numero": 12,
+      "texto": "Portanto, por causa de vós, Sião será lavrada como um campo, e Jerusalém se tornará em montões de pedras, e o monte desta casa como os altos de um bosque."
+    }
+  ]
+}

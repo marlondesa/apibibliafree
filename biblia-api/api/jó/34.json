@@ -1,0 +1,157 @@
+{
+  "livro": "jó",
+  "slug_livro": "jó",
+  "testamento": "Antigo Testamento",
+  "capitulo": 34,
+  "total_versiculos": 37,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Respondeu mais Eliú, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Ouvi, vós, sábios, as minhas razões; e vós, entendidos, inclinai os ouvidos para mim."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque o ouvido prova as palavras, como o paladar experimenta a comida."
+    },
+    {
+      "numero": 4,
+      "texto": "O que é direito escolhamos para nós; e conheçamos entre nós o que é bom."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque Jó disse: Sou justo, e Deus tirou o meu direito."
+    },
+    {
+      "numero": 6,
+      "texto": "Apesar do meu direito sou considerado mentiroso; a minha ferida é incurável, embora eu esteja sem transgressão."
+    },
+    {
+      "numero": 7,
+      "texto": "Que homem há como Jó, que bebe a zombaria como água?"
+    },
+    {
+      "numero": 8,
+      "texto": "E caminha em companhia dos que praticam a iniqüidade, e anda com homens ímpios?"
+    },
+    {
+      "numero": 9,
+      "texto": "Porque disse: De nada aproveita ao homem o comprazer-se em Deus."
+    },
+    {
+      "numero": 10,
+      "texto": "Portanto vós, homens de entendimento, escutai-me: Longe de Deus esteja o praticar a maldade e do Todo-Poderoso o cometer a perversidade!"
+    },
+    {
+      "numero": 11,
+      "texto": "Porque, segundo a obra do homem, ele lhe paga; e faz a cada um segundo o seu caminho."
+    },
+    {
+      "numero": 12,
+      "texto": "Também, na verdade, Deus não procede impiamente; nem o Todo-Poderoso perverte o juízo."
+    },
+    {
+      "numero": 13,
+      "texto": "Quem lhe entregou o governo da terra? E quem fez todo o mundo?"
+    },
+    {
+      "numero": 14,
+      "texto": "Se ele pusesse o seu coração contra o homem, e recolhesse para si o seu espírito e o seu fôlego,"
+    },
+    {
+      "numero": 15,
+      "texto": "Toda a carne juntamente expiraria, e o homem voltaria para o pó."
+    },
+    {
+      "numero": 16,
+      "texto": "Se, pois, há em ti entendimento, ouve isto; inclina os ouvidos ao som da minha palavra."
+    },
+    {
+      "numero": 17,
+      "texto": "Porventura o que odiasse o direito se firmaria? E tu condenarias aquele que é justo e poderoso?"
+    },
+    {
+      "numero": 18,
+      "texto": "Ou dir-se-á a um rei: Oh! Vil? Ou aos príncipes: Oh! ímpios?"
+    },
+    {
+      "numero": 19,
+      "texto": "Quanto menos àquele, que não faz acepção das pessoas de príncipes, nem estima o rico mais do que o pobre; porque todos são obras de suas mãos."
+    },
+    {
+      "numero": 20,
+      "texto": "Eles num momento morrem; e até à meia-noite os povos são perturbados, e passam, e os poderosos serão tomados não por mão humana."
+    },
+    {
+      "numero": 21,
+      "texto": "Porque os seus olhos estão sobre os caminhos de cada um, e ele vê todos os seus passos."
+    },
+    {
+      "numero": 22,
+      "texto": "Não há trevas nem sombra de morte, onde se escondam os que praticam a iniqüidade."
+    },
+    {
+      "numero": 23,
+      "texto": "Porque Deus não sobrecarrega o homem mais do que é justo, para o fazer ir a juízo diante dele."
+    },
+    {
+      "numero": 24,
+      "texto": "Quebranta aos fortes, sem que se possa inquirir, e põe outros em seu lugar."
+    },
+    {
+      "numero": 25,
+      "texto": "Ele conhece, pois, as suas obras; de noite os transtorna, e ficam moídos."
+    },
+    {
+      "numero": 26,
+      "texto": "Ele os bate como ímpios que são, à vista dos espectadores;"
+    },
+    {
+      "numero": 27,
+      "texto": "Porquanto se desviaram dele, e não compreenderam nenhum de seus caminhos,"
+    },
+    {
+      "numero": 28,
+      "texto": "De sorte que o clamor do pobre subisse até ele, e que ouvisse o clamor dos aflitos."
+    },
+    {
+      "numero": 29,
+      "texto": "Se ele aquietar, quem então inquietará? Se encobrir o rosto, quem então o poderá contemplar? Seja isto para com um povo, seja para com um homem só,"
+    },
+    {
+      "numero": 30,
+      "texto": "Para que o homem hipócrita nunca mais reine, e não haja laços no povo."
+    },
+    {
+      "numero": 31,
+      "texto": "Na verdade, quem a Deus disse: Suportei castigo, não ofenderei mais."
+    },
+    {
+      "numero": 32,
+      "texto": "O que não vejo, ensina-me tu; se fiz alguma maldade, nunca mais a hei de fazer?"
+    },
+    {
+      "numero": 33,
+      "texto": "Virá de ti como há de ser a recompensa, para que tu a rejeites? Faze tu, pois, e não eu, a escolha; fala logo o que sabes."
+    },
+    {
+      "numero": 34,
+      "texto": "Os homens de entendimento dirão comigo, e o homem sábio que me ouvir:"
+    },
+    {
+      "numero": 35,
+      "texto": "Jó falou sem conhecimento; e às suas palavras falta prudência."
+    },
+    {
+      "numero": 36,
+      "texto": "Pai meu! Provado seja Jó até ao fim, pelas suas respostas próprias de homens malignos."
+    },
+    {
+      "numero": 37,
+      "texto": "Porque ao seu pecado acrescenta a transgressão; entre nós bate palmas, e multiplica contra Deus as suas palavras."
+    }
+  ]
+}

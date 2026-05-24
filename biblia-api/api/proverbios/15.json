@@ -1,0 +1,141 @@
+{
+  "livro": "Provérbios",
+  "slug_livro": "proverbios",
+  "testamento": "Antigo Testamento",
+  "capitulo": 15,
+  "total_versiculos": 33,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A resposta branda desvia o furor, mas a palavra dura suscita a ira."
+    },
+    {
+      "numero": 2,
+      "texto": "A língua dos sábios adorna a sabedoria, mas a boca dos tolos derrama a estultícia."
+    },
+    {
+      "numero": 3,
+      "texto": "Os olhos do Senhor estão em todo lugar, contemplando os maus e os bons."
+    },
+    {
+      "numero": 4,
+      "texto": "A língua benigna é árvore de vida, mas a perversidade nela deprime o espírito."
+    },
+    {
+      "numero": 5,
+      "texto": "O tolo despreza a instrução de seu pai, mas o que observa a repreensão se haverá prudentemente."
+    },
+    {
+      "numero": 6,
+      "texto": "Na casa do justo há um grande tesouro, mas nos ganhos do ímpio há perturbação."
+    },
+    {
+      "numero": 7,
+      "texto": "Os lábios dos sábios derramam o conhecimento, mas o coração dos tolos não faz assim."
+    },
+    {
+      "numero": 8,
+      "texto": "O sacrifício dos ímpios é abominável ao Senhor, mas a oração dos retos é o seu contentamento."
+    },
+    {
+      "numero": 9,
+      "texto": "O caminho do ímpio é abominável ao Senhor, mas ao que segue a justiça ele ama."
+    },
+    {
+      "numero": 10,
+      "texto": "Correção severa há para o que deixa a vereda, e o que odeia a repreensão morrerá."
+    },
+    {
+      "numero": 11,
+      "texto": "O inferno e a perdição estão perante o Senhor; quanto mais os corações dos filhos dos homens?"
+    },
+    {
+      "numero": 12,
+      "texto": "O escarnecedor não ama aquele que o repreende, nem se chegará aos sábios."
+    },
+    {
+      "numero": 13,
+      "texto": "O coração alegre aformoseia o rosto, mas pela dor do coração o espírito se abate."
+    },
+    {
+      "numero": 14,
+      "texto": "O coração entendido buscará o conhecimento, mas a boca dos tolos se apascentará de estultícia."
+    },
+    {
+      "numero": 15,
+      "texto": "Todos os dias do oprimido são maus, mas o coração alegre é um banquete contínuo."
+    },
+    {
+      "numero": 16,
+      "texto": "Melhor é o pouco com o temor do Senhor, do que um grande tesouro onde há inquietação."
+    },
+    {
+      "numero": 17,
+      "texto": "Melhor é a comida de hortaliça, onde há amor, do que o boi cevado, e com ele o ódio."
+    },
+    {
+      "numero": 18,
+      "texto": "O homem iracundo suscita contendas, mas o longânimo apaziguará a luta."
+    },
+    {
+      "numero": 19,
+      "texto": "O caminho do preguiçoso é cercado de espinhos, mas a vereda dos retos é bem aplanada."
+    },
+    {
+      "numero": 20,
+      "texto": "O filho sábio alegra seu pai, mas o homem insensato despreza a sua mãe."
+    },
+    {
+      "numero": 21,
+      "texto": "A estultícia é alegria para o que carece de entendimento, mas o homem entendido anda retamente."
+    },
+    {
+      "numero": 22,
+      "texto": "Quando não há conselhos os planos se dispersam, mas havendo muitos conselheiros eles se firmam."
+    },
+    {
+      "numero": 23,
+      "texto": "O homem se alegra em responder bem, e quão boa é a palavra dita a seu tempo!"
+    },
+    {
+      "numero": 24,
+      "texto": "Para o entendido, o caminho da vida leva para cima, para que se desvie do inferno em baixo."
+    },
+    {
+      "numero": 25,
+      "texto": "O Senhor desarraiga a casa dos soberbos, mas estabelece o termo da viúva."
+    },
+    {
+      "numero": 26,
+      "texto": "Abomináveis são para o Senhor os pensamentos do mau, mas as palavras dos puros são aprazíveis."
+    },
+    {
+      "numero": 27,
+      "texto": "O que agir com avareza perturba a sua casa, mas o que odeia presentes viverá."
+    },
+    {
+      "numero": 28,
+      "texto": "O coração do justo medita no que há de responder, mas a boca dos ímpios jorra coisas más."
+    },
+    {
+      "numero": 29,
+      "texto": "O Senhor está longe dos ímpios, mas a oração dos justos escutará."
+    },
+    {
+      "numero": 30,
+      "texto": "A luz dos olhos alegra o coração, a boa notícia fortalece os ossos."
+    },
+    {
+      "numero": 31,
+      "texto": "Os ouvidos que atendem à repreensão da vida farão a sua morada no meio dos sábios."
+    },
+    {
+      "numero": 32,
+      "texto": "O que rejeita a instrução menospreza a própria alma, mas o que escuta a repreensão adquire entendimento."
+    },
+    {
+      "numero": 33,
+      "texto": "O temor do Senhor é a instrução da sabedoria, e precedendo a honra vai a humildade."
+    }
+  ]
+}

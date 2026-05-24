@@ -1,0 +1,17 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 117,
+  "total_versiculos": 2,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Louvai ao SENHOR todas as nações, louvai-o todos os povos."
+    },
+    {
+      "numero": 2,
+      "texto": "Porque a sua benignidade é grande para conosco, e a verdade do Senhor dura para sempre. Louvai ao Senhor."
+    }
+  ]
+}

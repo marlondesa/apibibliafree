@@ -1,0 +1,89 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 72,
+  "total_versiculos": 20,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ó Deus, dá ao rei os teus juízos, e a tua justiça ao filho do rei."
+    },
+    {
+      "numero": 2,
+      "texto": "Ele julgará ao teu povo com justiça, e aos teus pobres com juízo."
+    },
+    {
+      "numero": 3,
+      "texto": "Os montes trarão paz ao povo, e os outeiros, justiça."
+    },
+    {
+      "numero": 4,
+      "texto": "Julgará os aflitos do povo, salvará os filhos do necessitado, e quebrantará o opressor."
+    },
+    {
+      "numero": 5,
+      "texto": "Temer-te-ão enquanto durarem o sol e a lua, de geração em geração."
+    },
+    {
+      "numero": 6,
+      "texto": "Ele descerá como chuva sobre a erva ceifada, como os chuveiros que umedecem a terra."
+    },
+    {
+      "numero": 7,
+      "texto": "Nos seus dias florescerá o justo, e abundância de paz haverá enquanto durar a lua."
+    },
+    {
+      "numero": 8,
+      "texto": "Dominará de mar a mar, e desde o rio até às extremidades da terra."
+    },
+    {
+      "numero": 9,
+      "texto": "Aqueles que habitam no deserto se inclinarão ante ele, e os seus inimigos lamberão o pó."
+    },
+    {
+      "numero": 10,
+      "texto": "Os reis de Társis e das ilhas trarão presentes; os reis de Sabá e de Seba oferecerão dons."
+    },
+    {
+      "numero": 11,
+      "texto": "E todos os reis se prostrarão perante ele; todas as nações o servirão."
+    },
+    {
+      "numero": 12,
+      "texto": "Porque ele livrará ao necessitado quando clamar, como também ao aflito e ao que não tem quem o ajude."
+    },
+    {
+      "numero": 13,
+      "texto": "Compadecer-se-á do pobre e do aflito, e salvará as almas dos necessitados."
+    },
+    {
+      "numero": 14,
+      "texto": "Libertará as suas almas do engano e da violência, e precioso será o seu sangue aos olhos dele."
+    },
+    {
+      "numero": 15,
+      "texto": "E viverá, e se lhe dará do ouro de Sabá; e continuamente se fará por ele oração; e todos os dias o bendirão."
+    },
+    {
+      "numero": 16,
+      "texto": "Haverá um punhado de trigo na terra sobre as cabeças dos montes; o seu fruto se moverá como o Líbano, e os da cidade florescerão como a erva da terra."
+    },
+    {
+      "numero": 17,
+      "texto": "O seu nome permanecerá eternamente; o seu nome se irá propagando de pais a filhos enquanto o sol durar, e os homens serão abençoados nele; todas as nações lhe chamarão bem-aventurado."
+    },
+    {
+      "numero": 18,
+      "texto": "Bendito seja o Senhor Deus, o Deus de Israel, que só ele faz maravilhas."
+    },
+    {
+      "numero": 19,
+      "texto": "E bendito seja para sempre o seu nome glorioso; e encha-se toda a terra da sua glória. Amém e Amém."
+    },
+    {
+      "numero": 20,
+      "texto": "Aqui acabam as orações de Davi, filho de Jessé."
+    }
+  ]
+}

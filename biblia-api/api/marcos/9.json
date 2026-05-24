@@ -1,0 +1,209 @@
+{
+  "livro": "Marcos",
+  "slug_livro": "marcos",
+  "testamento": "Novo Testamento",
+  "capitulo": 9,
+  "total_versiculos": 50,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Dizia-lhes também: Em verdade vos digo que, dos que aqui estão, alguns há que não provarão a morte sem que vejam chegado o reino de Deus com poder."
+    },
+    {
+      "numero": 2,
+      "texto": "E seis dias depois Jesus tomou consigo a Pedro, a Tiago, e a João, e os levou sós, em particular, a um alto monte; e transfigurou-se diante deles;"
+    },
+    {
+      "numero": 3,
+      "texto": "E as suas vestes tornaram- se resplandecentes, extremamente brancas como a neve, tais como nenhum lavadeiro sobre a terra as poderia branquear."
+    },
+    {
+      "numero": 4,
+      "texto": "E apareceu-lhes Elias, com Moisés, e falavam com Jesus."
+    },
+    {
+      "numero": 5,
+      "texto": "E Pedro, tomando a palavra, disse a Jesus: Mestre, é bom que estejamos aqui; e façamos três cabanas, uma para ti, outra para Moisés, e outra para Elias."
+    },
+    {
+      "numero": 6,
+      "texto": "Pois não sabia o que dizia, porque estavam assombrados."
+    },
+    {
+      "numero": 7,
+      "texto": "E desceu uma nuvem que os cobriu com a sua sombra, e saiu da nuvem uma voz que dizia: Este é o meu filho amado; a ele ouvi."
+    },
+    {
+      "numero": 8,
+      "texto": "E, tendo olhado em redor, ninguém mais viram, senão só Jesus com eles."
+    },
+    {
+      "numero": 9,
+      "texto": "E, descendo eles do monte, ordenou-lhes que a ninguém contassem o que tinham visto, até que o Filho do homem ressuscitasse dentre os mortos."
+    },
+    {
+      "numero": 10,
+      "texto": "E eles retiveram o caso entre si, perguntando uns aos outros que seria aquilo, ressuscitar dentre os mortos."
+    },
+    {
+      "numero": 11,
+      "texto": "E interrogaram-no, dizendo: Por que dizem os escribas que é necessário que Elias venha primeiro?"
+    },
+    {
+      "numero": 12,
+      "texto": "E, respondendo ele, disse-lhes: Em verdade Elias virá primeiro, e todas as coisas restaurará; e, como está escrito do Filho do homem, que ele deva padecer muito e ser aviltado."
+    },
+    {
+      "numero": 13,
+      "texto": "Digo-vos, porém, que Elias já veio, e fizeram-lhe tudo o que quiseram, como dele está escrito."
+    },
+    {
+      "numero": 14,
+      "texto": "E, quando se aproximou dos discípulos, viu ao redor deles grande multidão, e alguns escribas que disputavam com eles."
+    },
+    {
+      "numero": 15,
+      "texto": "E logo toda a multidão, vendo-o, ficou espantada e, correndo para ele, o saudaram."
+    },
+    {
+      "numero": 16,
+      "texto": "E perguntou aos escribas: Que é que discutis com eles?"
+    },
+    {
+      "numero": 17,
+      "texto": "E um da multidão, respondendo, disse: Mestre, trouxe-te o meu filho, que tem um espírito mudo;"
+    },
+    {
+      "numero": 18,
+      "texto": "E este, onde quer que o apanhe, despedaça-o, e ele espuma, e range os dentes, e vai definhando; e eu disse aos teus discípulos que o expulsassem, e não puderam."
+    },
+    {
+      "numero": 19,
+      "texto": "E ele, respondendo-lhes, disse: Ó geração incrédula! até quando estarei convosco? até quando vos sofrerei ainda? Trazei-mo."
+    },
+    {
+      "numero": 20,
+      "texto": "E trouxeram-lho; e quando ele o viu, logo o espírito o agitou com violência, e, caindo o endemoninhado por terra, revolvia-se, escumando."
+    },
+    {
+      "numero": 21,
+      "texto": "E perguntou ao pai dele: Quanto tempo há que lhe sucede isto? E ele disse-lhe: Desde a infância."
+    },
+    {
+      "numero": 22,
+      "texto": "E muitas vezes o tem lançado no fogo, e na água, para o destruir; mas, se tu podes fazer alguma coisa, tem compaixão de nós, e ajuda-nos."
+    },
+    {
+      "numero": 23,
+      "texto": "E Jesus disse-lhe: Se tu podes crer, tudo é possível ao que crê."
+    },
+    {
+      "numero": 24,
+      "texto": "E logo o pai do menino, clamando, com lágrimas, disse: Eu creio, Senhor! ajuda a minha incredulidade."
+    },
+    {
+      "numero": 25,
+      "texto": "E Jesus, vendo que a multidão concorria, repreendeu o espírito imundo, dizendo-lhe: Espírito mudo e surdo, eu te ordeno: Sai dele, e não entres mais nele."
+    },
+    {
+      "numero": 26,
+      "texto": "E ele, clamando, e agitando-o com violência, saiu; e ficou o menino como morto, de tal maneira que muitos diziam que estava morto."
+    },
+    {
+      "numero": 27,
+      "texto": "Mas Jesus, tomando-o pela mão, o ergueu, e ele se levantou."
+    },
+    {
+      "numero": 28,
+      "texto": "E, quando entrou em casa, os seus discípulos lhe perguntaram à parte: Por que o não pudemos nós expulsar?"
+    },
+    {
+      "numero": 29,
+      "texto": "E disse-lhes: Esta casta não pode sair com coisa alguma, a não ser com oração e jejum."
+    },
+    {
+      "numero": 30,
+      "texto": "E, tendo partido dali, caminharam pela Galiléia, e não queria que alguém o soubesse;"
+    },
+    {
+      "numero": 31,
+      "texto": "Porque ensinava os seus discípulos, e lhes dizia: O Filho do homem será entregue nas mãos dos homens, e matá-lo-ão; e, morto ele, ressuscitará ao terceiro dia."
+    },
+    {
+      "numero": 32,
+      "texto": "Mas eles não entendiam esta palavra, e receavam interrogá-lo."
+    },
+    {
+      "numero": 33,
+      "texto": "E chegou a Cafarnaum e, entrando em casa, perguntou-lhes: Que estáveis vós discutindo pelo caminho?"
+    },
+    {
+      "numero": 34,
+      "texto": "Mas eles calaram-se; porque pelo caminho tinham disputado entre si qual era o maior."
+    },
+    {
+      "numero": 35,
+      "texto": "E ele, assentando-se, chamou os doze, e disse-lhes: Se alguém quiser ser o primeiro, será o derradeiro de todos e o servo de todos."
+    },
+    {
+      "numero": 36,
+      "texto": "E, lançando mão de um menino, pô-lo no meio deles e, tomando-o nos seus braços, disse-lhes:"
+    },
+    {
+      "numero": 37,
+      "texto": "Qualquer que receber um destes meninos em meu nome, a mim me recebe; e qualquer que a mim me receber, recebe, não a mim, mas ao que me enviou."
+    },
+    {
+      "numero": 38,
+      "texto": "E João lhe respondeu, dizendo: Mestre, vimos um que em teu nome expulsava demônios, o qual não nos segue; e nós lho proibimos, porque não nos segue."
+    },
+    {
+      "numero": 39,
+      "texto": "Jesus, porém, disse: Não lho proibais; porque ninguém há que faça milagre em meu nome e possa logo falar mal de mim."
+    },
+    {
+      "numero": 40,
+      "texto": "Porque quem não é contra nós, é por nós."
+    },
+    {
+      "numero": 41,
+      "texto": "Porquanto, qualquer que vos der a beber um copo de água em meu nome, porque sois discípulos de Cristo, em verdade vos digo que não perderá o seu galardão."
+    },
+    {
+      "numero": 42,
+      "texto": "E qualquer que escandalizar um destes pequeninos que crêem em mim, melhor lhe fora que lhe pusessem ao pescoço uma mó de atafona, e que fosse lançado no mar."
+    },
+    {
+      "numero": 43,
+      "texto": "E, se a tua mão te escandalizar, corta-a; melhor é para ti entrares na vida aleijado do que, tendo duas mãos, ires para o inferno, para o fogo que nunca se apaga,"
+    },
+    {
+      "numero": 44,
+      "texto": "Onde o seu bicho não morre, e o fogo nunca se apaga."
+    },
+    {
+      "numero": 45,
+      "texto": "E, se o teu pé te escandalizar, corta-o; melhor é para ti entrares coxo na vida do que, tendo dois pés, seres lançado no inferno, no fogo que nunca se apaga,"
+    },
+    {
+      "numero": 46,
+      "texto": "Onde o seu bicho não morre, e o fogo nunca se apaga."
+    },
+    {
+      "numero": 47,
+      "texto": "E, se o teu olho te escandalizar, lança-o fora; melhor é para ti entrares no reino de Deus com um só olho do que, tendo dois olhos, seres lançado no fogo do inferno,"
+    },
+    {
+      "numero": 48,
+      "texto": "Onde o seu bicho não morre, e o fogo nunca se apaga."
+    },
+    {
+      "numero": 49,
+      "texto": "Porque cada um será salgado com fogo, e cada sacrifício será salgado com sal."
+    },
+    {
+      "numero": 50,
+      "texto": "Bom é o sal; mas, se o sal se tornar insípido, com que o temperareis? Tende sal em vós mesmos, e paz uns com os outros."
+    }
+  ]
+}

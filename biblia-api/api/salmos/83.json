@@ -1,0 +1,81 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 83,
+  "total_versiculos": 18,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ó Deus, não estejas em silêncio; não te cales, nem te aquietes, ó Deus,"
+    },
+    {
+      "numero": 2,
+      "texto": "Porque eis que teus inimigos fazem tumulto, e os que te odeiam levantaram a cabeça."
+    },
+    {
+      "numero": 3,
+      "texto": "Tomaram astuto conselho contra o teu povo, e consultaram contra os teus escondidos."
+    },
+    {
+      "numero": 4,
+      "texto": "Disseram: Vinde, e desarraiguemo-los para que não sejam nação, nem haja mais memória do nome de Israel."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque consultaram juntos e unânimes; eles se unem contra ti:"
+    },
+    {
+      "numero": 6,
+      "texto": "As tendas de Edom, e dos ismaelitas, de Moabe, e dos agarenos,"
+    },
+    {
+      "numero": 7,
+      "texto": "De Gebal, e de Amom, e de Amaleque, a Filístia, com os moradores de Tiro;"
+    },
+    {
+      "numero": 8,
+      "texto": "Também a Assíria se ajuntou com eles; foram ajudar aos filhos de Ló. (Selá.)"
+    },
+    {
+      "numero": 9,
+      "texto": "Faze-lhes como aos midianitas; como a Sísera, como a Jabim na ribeira de Quisom;"
+    },
+    {
+      "numero": 10,
+      "texto": "Os quais pereceram em Endor; tornaram-se como estrume para a terra."
+    },
+    {
+      "numero": 11,
+      "texto": "Faze aos seus nobres como a Orebe, e como a Zeebe; e a todos os seus príncipes, como a Zebá e como a Zalmuna,"
+    },
+    {
+      "numero": 12,
+      "texto": "Que disseram: Tomemos para nós as casas de Deus em possessão."
+    },
+    {
+      "numero": 13,
+      "texto": "Deus meu, faze-os como um tufão, como a aresta diante do vento."
+    },
+    {
+      "numero": 14,
+      "texto": "Como o fogo que queima um bosque, e como a chama que incendeia as brenhas,"
+    },
+    {
+      "numero": 15,
+      "texto": "Assim os persegue com a tua tempestade, e os assombra com o teu torvelinho."
+    },
+    {
+      "numero": 16,
+      "texto": "Encham-se de vergonha as suas faces, para que busquem o teu nome, Senhor."
+    },
+    {
+      "numero": 17,
+      "texto": "Confundam-se e assombrem-se perpetuamente; envergonhem-se, e pereçam,"
+    },
+    {
+      "numero": 18,
+      "texto": "Para que saibam que tu, a quem só pertence o nome de Senhor, és o Altíssimo sobre toda a terra."
+    }
+  ]
+}

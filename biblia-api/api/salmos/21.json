@@ -1,0 +1,61 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 21,
+  "total_versiculos": 13,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O rei se alegra em tua força, SENHOR; e na tua salvação grandemente se regozija."
+    },
+    {
+      "numero": 2,
+      "texto": "Cumpriste-lhe o desejo do seu coração, e não negaste as súplicas dos seus lábios. (Selá.)"
+    },
+    {
+      "numero": 3,
+      "texto": "Pois vais ao seu encontro com as bênçãos de bondade; pões na sua cabeça uma coroa de ouro fino."
+    },
+    {
+      "numero": 4,
+      "texto": "Vida te pediu, e lha deste, mesmo longura de dias para sempre e eternamente."
+    },
+    {
+      "numero": 5,
+      "texto": "Grande é a sua glória pela tua salvação; glória e majestade puseste sobre ele."
+    },
+    {
+      "numero": 6,
+      "texto": "Pois o abençoaste para sempre; tu o enches de gozo com a tua face."
+    },
+    {
+      "numero": 7,
+      "texto": "Porque o rei confia no Senhor, e pela misericórdia do Altíssimo nunca vacilará."
+    },
+    {
+      "numero": 8,
+      "texto": "A tua mão alcançará todos os teus inimigos, a tua mão direita alcançará aqueles que te odeiam."
+    },
+    {
+      "numero": 9,
+      "texto": "Tu os farás como um forno de fogo no tempo da tua ira; o Senhor os devorará na sua indignação, e o fogo os consumirá."
+    },
+    {
+      "numero": 10,
+      "texto": "Seu fruto destruirás da terra, e a sua semente dentre os filhos dos homens."
+    },
+    {
+      "numero": 11,
+      "texto": "Porque intentaram o mal contra ti; maquinaram um ardil, mas não prevalecerão."
+    },
+    {
+      "numero": 12,
+      "texto": "Assim que tu lhes farás voltar as costas; e com tuas flechas postas nas cordas lhes apontarás ao rosto."
+    },
+    {
+      "numero": 13,
+      "texto": "Exalta-te, Senhor, na tua força; então cantaremos e louvaremos o teu poder."
+    }
+  ]
+}

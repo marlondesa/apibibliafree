@@ -1,0 +1,197 @@
+{
+  "livro": "atos",
+  "slug_livro": "atos",
+  "testamento": "Novo Testamento",
+  "capitulo": 2,
+  "total_versiculos": 47,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E, cumprindo-se o dia de Pentecostes, estavam todos concordemente no mesmo lugar;"
+    },
+    {
+      "numero": 2,
+      "texto": "E de repente veio do céu um som, como de um vento veemente e impetuoso, e encheu toda a casa em que estavam assentados."
+    },
+    {
+      "numero": 3,
+      "texto": "E foram vistas por eles línguas repartidas, como que de fogo, as quais pousaram sobre cada um deles."
+    },
+    {
+      "numero": 4,
+      "texto": "E todos foram cheios do Espírito Santo, e começaram a falar noutras línguas, conforme o Espírito Santo lhes concedia que falassem."
+    },
+    {
+      "numero": 5,
+      "texto": "E em Jerusalém estavam habitando judeus, homens religiosos, de todas as nações que estão debaixo do céu."
+    },
+    {
+      "numero": 6,
+      "texto": "E, quando aquele som ocorreu, ajuntou-se uma multidão, e estava confusa, porque cada um os ouvia falar na sua própria língua."
+    },
+    {
+      "numero": 7,
+      "texto": "E todos pasmavam e se maravilhavam, dizendo uns aos outros: Pois quê! não são galileus todos esses homens que estão falando?"
+    },
+    {
+      "numero": 8,
+      "texto": "Como, pois, os ouvimos, cada um, na nossa própria língua em que somos nascidos?"
+    },
+    {
+      "numero": 9,
+      "texto": "Partos e medos, elamitas e os que habitam na Mesopotâmia, Judéia, Capadócia, Ponto e Asia,"
+    },
+    {
+      "numero": 10,
+      "texto": "E Frígia e Panfília, Egito e partes da Líbia, junto a Cirene, e forasteiros romanos, tanto judeus como prosélitos,"
+    },
+    {
+      "numero": 11,
+      "texto": "Cretenses e árabes, todos nós temos ouvido em nossas próprias línguas falar das grandezas de Deus."
+    },
+    {
+      "numero": 12,
+      "texto": "E todos se maravilhavam e estavam suspensos, dizendo uns para os outros: Que quer isto dizer?"
+    },
+    {
+      "numero": 13,
+      "texto": "E outros, zombando, diziam: Estão cheios de mosto."
+    },
+    {
+      "numero": 14,
+      "texto": "Pedro, porém, pondo-se em pé com os onze, levantou a sua voz, e disse-lhes: Homens judeus, e todos os que habitais em Jerusalém, seja-vos isto notório, e escutai as minhas palavras."
+    },
+    {
+      "numero": 15,
+      "texto": "Estes homens não estão embriagados, como vós pensais, sendo a terceira hora do dia."
+    },
+    {
+      "numero": 16,
+      "texto": "Mas isto é o que foi dito pelo profeta Joel:"
+    },
+    {
+      "numero": 17,
+      "texto": "E nos últimos dias acontecerá, diz Deus, Que do meu Espírito derramarei sobre toda a carne; E os vossos filhos e as vossas filhas profetizarão, Os vossos jovens terão visões, E os vossos velhos sonharão sonhos;"
+    },
+    {
+      "numero": 18,
+      "texto": "E também do meu Espírito derramarei sobre os meus servos e as minhas servas naqueles dias, e profetizarão;"
+    },
+    {
+      "numero": 19,
+      "texto": "E farei aparecer prodígios em cima, no céu; E sinais em baixo na terra, Sangue, fogo e vapor de fumo."
+    },
+    {
+      "numero": 20,
+      "texto": "O sol se converterá em trevas, E a lua em sangue, Antes de chegar o grande e glorioso dia do Senhor;"
+    },
+    {
+      "numero": 21,
+      "texto": "E acontecerá que todo aquele que invocar o nome do Senhor será salvo."
+    },
+    {
+      "numero": 22,
+      "texto": "Homens israelitas, escutai estas palavras: A Jesus Nazareno, homem aprovado por Deus entre vós com maravilhas, prodígios e sinais, que Deus por ele fez no meio de vós, como vós mesmos bem sabeis;"
+    },
+    {
+      "numero": 23,
+      "texto": "A este que vos foi entregue pelo determinado conselho e presciência de Deus, prendestes, crucificastes e matastes pelas mãos de injustos;"
+    },
+    {
+      "numero": 24,
+      "texto": "Ao qual Deus ressuscitou, soltas as ânsias da morte, pois não era possível que fosse retido por ela;"
+    },
+    {
+      "numero": 25,
+      "texto": "Porque dele disse Davi: Sempre via diante de mim o Senhor, Porque está à minha direita, para que eu não seja comovido;"
+    },
+    {
+      "numero": 26,
+      "texto": "Por isso se alegrou o meu coração, e a minha língua exultou; E ainda a minha carne há de repousar em esperança;"
+    },
+    {
+      "numero": 27,
+      "texto": "Pois não deixarás a minha alma no inferno, Nem permitirás que o teu Santo veja a corrupção;"
+    },
+    {
+      "numero": 28,
+      "texto": "Fizeste-me conhecidos os caminhos da vida; Com a tua face me encherás de júbilo."
+    },
+    {
+      "numero": 29,
+      "texto": "Homens irmãos, seja-me lícito dizer-vos livremente acerca do patriarca Davi, que ele morreu e foi sepultado, e entre nós está até hoje a sua sepultura."
+    },
+    {
+      "numero": 30,
+      "texto": "Sendo, pois, ele profeta, e sabendo que Deus lhe havia prometido com juramento que do fruto de seus lombos, segundo a carne, levantaria o Cristo, para o assentar sobre o seu trono,"
+    },
+    {
+      "numero": 31,
+      "texto": "Nesta previsão, disse da ressurreição de Cristo, que a sua alma não foi deixada no inferno, nem a sua carne viu a corrupção."
+    },
+    {
+      "numero": 32,
+      "texto": "Deus ressuscitou a este Jesus, do que todos nós somos testemunhas."
+    },
+    {
+      "numero": 33,
+      "texto": "De sorte que, exaltado pela destra de Deus, e tendo recebido do Pai a promessa do Espírito Santo, derramou isto que vós agora vedes e ouvis."
+    },
+    {
+      "numero": 34,
+      "texto": "Porque Davi não subiu aos céus, mas ele próprio diz:Disse o Senhor ao meu Senhor:Assenta-te à minha direita,"
+    },
+    {
+      "numero": 35,
+      "texto": "Até que ponha os teus inimigos por escabelo de teus pés."
+    },
+    {
+      "numero": 36,
+      "texto": "Saiba pois com certeza toda a casa de Israel que a esse Jesus, a quem vós crucificastes, Deus o fez Senhor e Cristo."
+    },
+    {
+      "numero": 37,
+      "texto": "E, ouvindo eles isto, compungiram-se em seu coração, e perguntaram a Pedro e aos demais apóstolos: Que faremos, homens irmãos?"
+    },
+    {
+      "numero": 38,
+      "texto": "E disse-lhes Pedro: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para perdão dos pecados; e recebereis o dom do Espírito Santo;"
+    },
+    {
+      "numero": 39,
+      "texto": "Porque a promessa vos diz respeito a vós, a vossos filhos, e a todos os que estão longe, a tantos quantos Deus nosso Senhor chamar."
+    },
+    {
+      "numero": 40,
+      "texto": "E com muitas outras palavras isto testificava, e os exortava, dizendo: Salvai-vos desta geração perversa."
+    },
+    {
+      "numero": 41,
+      "texto": "De sorte que foram batizados os que de bom grado receberam a sua palavra; e naquele dia agregaram-se quase três mil almas,"
+    },
+    {
+      "numero": 42,
+      "texto": "E perseveravam na doutrina dos apóstolos, e na comunhão, e no partir do pão, e nas orações."
+    },
+    {
+      "numero": 43,
+      "texto": "E em toda a alma havia temor, e muitas maravilhas e sinais se faziam pelos apóstolos."
+    },
+    {
+      "numero": 44,
+      "texto": "E todos os que criam estavam juntos, e tinham tudo em comum."
+    },
+    {
+      "numero": 45,
+      "texto": "E vendiam suas propriedades e bens, e repartiam com todos, segundo cada um havia de mister."
+    },
+    {
+      "numero": 46,
+      "texto": "E, perseverando unânimes todos os dias no templo, e partindo o pão em casa, comiam juntos com alegria e singeleza de coração,"
+    },
+    {
+      "numero": 47,
+      "texto": "Louvando a Deus, e caindo na graça de todo o povo. E todos os dias acrescentava o Senhor à igreja aqueles que se haviam de salvar."
+    }
+  ]
+}

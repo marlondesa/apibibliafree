@@ -1,0 +1,93 @@
+{
+  "livro": "jó",
+  "slug_livro": "jó",
+  "testamento": "Antigo Testamento",
+  "capitulo": 4,
+  "total_versiculos": 21,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então respondeu Elifaz o temanita, e disse:"
+    },
+    {
+      "numero": 2,
+      "texto": "Se intentarmos falar-te, enfadar-te-ás? Mas quem poderia conter as palavras?"
+    },
+    {
+      "numero": 3,
+      "texto": "Eis que ensinaste a muitos, e tens fortalecido as mãos fracas."
+    },
+    {
+      "numero": 4,
+      "texto": "As tuas palavras firmaram os que tropeçavam e os joelhos desfalecentes tens fortalecido."
+    },
+    {
+      "numero": 5,
+      "texto": "Mas agora, que se trata de ti, te enfadas; e tocando-te a ti, te perturbas."
+    },
+    {
+      "numero": 6,
+      "texto": "Porventura não é o teu temor de Deus a tua confiança, e a tua esperança a integridade dos teus caminhos?"
+    },
+    {
+      "numero": 7,
+      "texto": "Lembra-te agora qual é o inocente que jamais pereceu? E onde foram os sinceros destruídos?"
+    },
+    {
+      "numero": 8,
+      "texto": "Segundo eu tenho visto, os que lavram iniqüidade, e semeiam mal, segam o mesmo."
+    },
+    {
+      "numero": 9,
+      "texto": "Com o hálito de Deus perecem; e com o sopro da sua ira se consomem."
+    },
+    {
+      "numero": 10,
+      "texto": "O rugido do leão, e a voz do leão feroz, e os dentes dos leõezinhos se quebram."
+    },
+    {
+      "numero": 11,
+      "texto": "Perece o leão velho, porque não tem presa; e os filhos da leoa andam dispersos."
+    },
+    {
+      "numero": 12,
+      "texto": "Uma coisa me foi trazida em segredo; e os meus ouvidos perceberam um sussurro dela."
+    },
+    {
+      "numero": 13,
+      "texto": "Entre pensamentos vindos de visões da noite, quando cai sobre os homens o sono profundo,"
+    },
+    {
+      "numero": 14,
+      "texto": "Sobrevieram-me o espanto e o tremor, e todos os meus ossos estremeceram."
+    },
+    {
+      "numero": 15,
+      "texto": "Então um espírito passou por diante de mim; fez-me arrepiar os cabelos da minha carne."
+    },
+    {
+      "numero": 16,
+      "texto": "Parou ele, porém não conheci a sua feição; um vulto estava diante dos meus olhos; houve silêncio, e ouvi uma voz que dizia:"
+    },
+    {
+      "numero": 17,
+      "texto": "Seria porventura o homem mais justo do que Deus? Seria porventura o homem mais puro do que o seu Criador?"
+    },
+    {
+      "numero": 18,
+      "texto": "Eis que ele não confia nos seus servos e aos seus anjos atribui loucura;"
+    },
+    {
+      "numero": 19,
+      "texto": "Quanto menos àqueles que habitam em casas de lodo, cujo fundamento está no pó, e são esmagados como a traça!"
+    },
+    {
+      "numero": 20,
+      "texto": "Desde a manhã até à tarde são despedaçados; e eternamente perecem sem que disso se faça caso."
+    },
+    {
+      "numero": 21,
+      "texto": "Porventura não passa com eles a sua excelência? Morrem, mas sem sabedoria."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 28,
+  "abbrev": "os",
+  "nome": "Oséias",
+  "slug": "oseias",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 14,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 11
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 5
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 19
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 11
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 14
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 14
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 14,
+      "total_versiculos": 9
+    }
+  ]
+}

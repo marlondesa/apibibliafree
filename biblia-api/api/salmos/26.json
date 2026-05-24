@@ -1,0 +1,57 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 26,
+  "total_versiculos": 12,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Julga-me, SENHOR, pois tenho andado em minha sinceridade; tenho confiado também no SENHOR; não vacilarei."
+    },
+    {
+      "numero": 2,
+      "texto": "Examina-me, Senhor, e prova-me; esquadrinha os meus rins e o meu coração."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque a tua benignidade está diante dos meus olhos; e tenho andado na tua verdade."
+    },
+    {
+      "numero": 4,
+      "texto": "Não me tenho assentado com homens vãos, nem converso com os homens dissimulados."
+    },
+    {
+      "numero": 5,
+      "texto": "Tenho odiado a congregação de malfeitores; nem me ajunto com os ímpios."
+    },
+    {
+      "numero": 6,
+      "texto": "Lavo as minhas mãos na inocência; e assim andarei, Senhor, ao redor do teu altar."
+    },
+    {
+      "numero": 7,
+      "texto": "Para publicar com voz de louvor, e contar todas as tuas maravilhas."
+    },
+    {
+      "numero": 8,
+      "texto": "Senhor, eu tenho amado a habitação da tua casa e o lugar onde permanece a tua glória."
+    },
+    {
+      "numero": 9,
+      "texto": "Não apanhes a minha alma com os pecadores, nem a minha vida com os homens sanguinolentos,"
+    },
+    {
+      "numero": 10,
+      "texto": "Em cujas mãos há malefício, e cuja mão direita está cheia de subornos."
+    },
+    {
+      "numero": 11,
+      "texto": "Mas eu ando na minha sinceridade; livra-me e tem piedade de mim."
+    },
+    {
+      "numero": 12,
+      "texto": "O meu pé está posto em caminho plano; nas congregações louvarei ao Senhor."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 31,
+  "abbrev": "ob",
+  "nome": "Obadias",
+  "slug": "obadias",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 1,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 21
+    }
+  ]
+}

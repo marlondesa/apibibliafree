@@ -1,0 +1,33 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 128,
+  "total_versiculos": 6,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Bem-aventurado aquele que teme ao SENHOR e anda nos seus caminhos."
+    },
+    {
+      "numero": 2,
+      "texto": "Pois comerás do trabalho das tuas mãos; feliz serás, e te irá bem."
+    },
+    {
+      "numero": 3,
+      "texto": "A tua mulher será como a videira frutífera aos lados da tua casa; os teus filhos como plantas de oliveira à roda da tua mesa."
+    },
+    {
+      "numero": 4,
+      "texto": "Eis que assim será abençoado o homem que teme ao Senhor."
+    },
+    {
+      "numero": 5,
+      "texto": "O Senhor te abençoará desde Sião, e tu verás o bem de Jerusalém em todos os dias da tua vida."
+    },
+    {
+      "numero": 6,
+      "texto": "E verás os filhos de teus filhos, e a paz sobre Israel."
+    }
+  ]
+}

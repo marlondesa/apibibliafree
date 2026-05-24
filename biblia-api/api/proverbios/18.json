@@ -1,0 +1,105 @@
+{
+  "livro": "Provérbios",
+  "slug_livro": "proverbios",
+  "testamento": "Antigo Testamento",
+  "capitulo": 18,
+  "total_versiculos": 24,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Busca satisfazer seu próprio desejo aquele que se isola; ele se insurge contra toda sabedoria."
+    },
+    {
+      "numero": 2,
+      "texto": "O tolo não tem prazer na sabedoria, mas só em que se manifeste aquilo que agrada o seu coração."
+    },
+    {
+      "numero": 3,
+      "texto": "Vindo o ímpio, vem também o desprezo, e com a ignomínia a vergonha."
+    },
+    {
+      "numero": 4,
+      "texto": "Águas profundas são as palavras da boca do homem, e ribeiro transbordante é a fonte da sabedoria."
+    },
+    {
+      "numero": 5,
+      "texto": "Não é bom favorecer o ímpio, e com isso, fazer o justo perder a questão."
+    },
+    {
+      "numero": 6,
+      "texto": "Os lábios do tolo entram na contenda, e a sua boca brada por açoites."
+    },
+    {
+      "numero": 7,
+      "texto": "A boca do tolo é a sua própria destruição, e os seus lábios um laço para a sua alma."
+    },
+    {
+      "numero": 8,
+      "texto": "As palavras do mexeriqueiro são como doces bocados; elas descem ao íntimo do ventre."
+    },
+    {
+      "numero": 9,
+      "texto": "O que é negligente na sua obra é também irmão do desperdiçador."
+    },
+    {
+      "numero": 10,
+      "texto": "Torre forte é o nome do Senhor; a ela correrá o justo, e estará em alto refúgio."
+    },
+    {
+      "numero": 11,
+      "texto": "Os bens do rico são a sua cidade forte, e como uma muralha na sua imaginação."
+    },
+    {
+      "numero": 12,
+      "texto": "O coração do homem se exalta antes de ser abatido e diante da honra vai a humildade."
+    },
+    {
+      "numero": 13,
+      "texto": "O que responde antes de ouvir comete estultícia que é para vergonha sua."
+    },
+    {
+      "numero": 14,
+      "texto": "O espírito do homem susterá a sua enfermidade, mas ao espírito abatido, quem o suportará?"
+    },
+    {
+      "numero": 15,
+      "texto": "O coração do entendido adquire o conhecimento, e o ouvido dos sábios busca a sabedoria."
+    },
+    {
+      "numero": 16,
+      "texto": "Com presentes o homem alarga o seu caminho e o eleva diante dos grandes."
+    },
+    {
+      "numero": 17,
+      "texto": "O que pleiteia por algo, a princípio parece justo, porém vem o seu próximo e o examina."
+    },
+    {
+      "numero": 18,
+      "texto": "A sorte faz cessar os pleitos, e faz separação entre os poderosos."
+    },
+    {
+      "numero": 19,
+      "texto": "O irmão ofendido é mais difícil de conquistar do que uma cidade forte; e as contendas são como os ferrolhos de um palácio."
+    },
+    {
+      "numero": 20,
+      "texto": "Do fruto da boca de cada um se fartará o seu ventre; dos renovos dos seus lábios ficará satisfeito."
+    },
+    {
+      "numero": 21,
+      "texto": "A morte e a vida estão no poder da língua; e aquele que a ama comerá do seu fruto."
+    },
+    {
+      "numero": 22,
+      "texto": "Aquele que encontra uma esposa, acha o bem, e alcança a benevolência do Senhor."
+    },
+    {
+      "numero": 23,
+      "texto": "O pobre fala com rogos, mas o rico responde com dureza."
+    },
+    {
+      "numero": 24,
+      "texto": "O homem de muitos amigos deve mostrar-se amigável, mas há um amigo mais chegado do que um irmão."
+    }
+  ]
+}

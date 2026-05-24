@@ -1,0 +1,93 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 145,
+  "total_versiculos": 21,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre."
+    },
+    {
+      "numero": 2,
+      "texto": "Cada dia te bendirei, e louvarei o teu nome pelos séculos dos séculos e para sempre."
+    },
+    {
+      "numero": 3,
+      "texto": "Grande é o Senhor, e muito digno de louvor, e a sua grandeza inescrutável."
+    },
+    {
+      "numero": 4,
+      "texto": "Uma geração louvará as tuas obras à outra geração, e anunciarão as tuas proezas."
+    },
+    {
+      "numero": 5,
+      "texto": "Falarei da magnificência gloriosa da tua majestade e das tuas obras maravilhosas."
+    },
+    {
+      "numero": 6,
+      "texto": "E se falará da força dos teus feitos terríveis; e contarei a tua grandeza."
+    },
+    {
+      "numero": 7,
+      "texto": "Proferirão abundantemente a memória da tua grande bondade, e cantarão a tua justiça."
+    },
+    {
+      "numero": 8,
+      "texto": "Piedoso e benigno é o Senhor, sofredor e de grande misericórdia."
+    },
+    {
+      "numero": 9,
+      "texto": "O Senhor é bom para todos, e as suas misericórdias são sobre todas as suas obras."
+    },
+    {
+      "numero": 10,
+      "texto": "Todas as tuas obras te louvarão, ó Senhor, e os teus santos te bendirão."
+    },
+    {
+      "numero": 11,
+      "texto": "Falarão da glória do teu reino, e relatarão o teu poder,"
+    },
+    {
+      "numero": 12,
+      "texto": "Para fazer saber aos filhos dos homens as tuas proezas e a glória da magnificência do teu reino."
+    },
+    {
+      "numero": 13,
+      "texto": "O teu reino é um reino eterno; o teu domínio dura em todas as gerações."
+    },
+    {
+      "numero": 14,
+      "texto": "O Senhor sustenta a todos os que caem, e levanta a todos os abatidos."
+    },
+    {
+      "numero": 15,
+      "texto": "Os olhos de todos esperam em ti, e lhes dás o seu mantimento a seu tempo."
+    },
+    {
+      "numero": 16,
+      "texto": "Abres a tua mão, e fartas os desejos de todos os viventes."
+    },
+    {
+      "numero": 17,
+      "texto": "Justo é o Senhor em todos os seus caminhos, e santo em todas as suas obras."
+    },
+    {
+      "numero": 18,
+      "texto": "Perto está o Senhor de todos os que o invocam, de todos os que o invocam em verdade."
+    },
+    {
+      "numero": 19,
+      "texto": "Ele cumprirá o desejo dos que o temem; ouvirá o seu clamor, e os salvará."
+    },
+    {
+      "numero": 20,
+      "texto": "O Senhor guarda a todos os que o amam; mas todos os ímpios serão destruídos."
+    },
+    {
+      "numero": 21,
+      "texto": "A minha boca falará o louvor do Senhor, e toda a carne louvará o seu santo nome pelos séculos dos séculos e para sempre."
+    }
+  ]
+}

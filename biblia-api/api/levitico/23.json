@@ -1,0 +1,185 @@
+{
+  "livro": "Levítico",
+  "slug_livro": "levitico",
+  "testamento": "Antigo Testamento",
+  "capitulo": 23,
+  "total_versiculos": 44,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Depois falou o SENHOR a Moisés, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Fala aos filhos de Israel, e dize-lhes: As solenidades do Senhor, que convocareis, serão santas convocações; estas são as minhas solenidades:"
+    },
+    {
+      "numero": 3,
+      "texto": "Seis dias trabalho se fará, mas o sétimo dia será o sábado do descanso, santa convocação; nenhum trabalho fareis; sábado do Senhor é em todas as vossas habitações."
+    },
+    {
+      "numero": 4,
+      "texto": "Estas são as solenidades do Senhor, as santas convocações, que convocareis ao seu tempo determinado:"
+    },
+    {
+      "numero": 5,
+      "texto": "No mês primeiro, aos catorze do mês, pela tarde, é a páscoa do Senhor."
+    },
+    {
+      "numero": 6,
+      "texto": "E aos quinze dias deste mês é a festa dos pães ázimos do Senhor; sete dias comereis pães ázimos."
+    },
+    {
+      "numero": 7,
+      "texto": "No primeiro dia tereis santa convocação; nenhum trabalho servil fareis;"
+    },
+    {
+      "numero": 8,
+      "texto": "Mas sete dias oferecereis oferta queimada ao Senhor; ao sétimo dia haverá santa convocação; nenhum trabalho servil fareis."
+    },
+    {
+      "numero": 9,
+      "texto": "E falou o Senhor a Moisés, dizendo:"
+    },
+    {
+      "numero": 10,
+      "texto": "Fala aos filhos de Israel, e dize-lhes: Quando houverdes entrado na terra, que vos hei de dar, e fizerdes a sua colheita, então trareis um molho das primícias da vossa sega ao sacerdote;"
+    },
+    {
+      "numero": 11,
+      "texto": "E ele moverá o molho perante o Senhor, para que sejais aceitos; no dia seguinte ao sábado o sacerdote o moverá."
+    },
+    {
+      "numero": 12,
+      "texto": "E no dia em que moverdes o molho, preparareis um cordeiro sem defeito, de um ano, em holocausto ao Senhor,"
+    },
+    {
+      "numero": 13,
+      "texto": "E a sua oferta de alimentos, será de duas dízimas de flor de farinha, amassada com azeite, para oferta queimada em cheiro suave ao Senhor, e a sua libação será de vinho, um quarto de him."
+    },
+    {
+      "numero": 14,
+      "texto": "E não comereis pão, nem trigo tostado, nem espigas verdes, até aquele mesmo dia em que trouxerdes a oferta do vosso Deus; estatuto perpétuo é por vossas gerações, em todas as vossas habitações."
+    },
+    {
+      "numero": 15,
+      "texto": "Depois para vós contareis desde o dia seguinte ao sábado, desde o dia em que trouxerdes o molho da oferta movida; sete semanas inteiras serão."
+    },
+    {
+      "numero": 16,
+      "texto": "Até ao dia seguinte ao sétimo sábado, contareis cinqüenta dias; então oferecereis nova oferta de alimentos ao Senhor."
+    },
+    {
+      "numero": 17,
+      "texto": "Das vossas habitações trareis dois pães de movimento; de duas dízimas de farinha serão, levedados se cozerão; primícias são ao Senhor."
+    },
+    {
+      "numero": 18,
+      "texto": "Também com o pão oferecereis sete cordeiros sem defeito, de um ano, e um novilho, e dois carneiros; holocausto serão ao Senhor, com a sua oferta de alimentos, e as suas libações, por oferta queimada de cheiro suave ao Senhor."
+    },
+    {
+      "numero": 19,
+      "texto": "Também oferecereis um bode para expiação do pecado, e dois cordeiros de um ano por sacrifício pacífico."
+    },
+    {
+      "numero": 20,
+      "texto": "Então o sacerdote os moverá com o pão das primícias por oferta movida perante o Senhor, com os dois cordeiros; santos serão ao Senhor para uso do sacerdote."
+    },
+    {
+      "numero": 21,
+      "texto": "E naquele mesmo dia apregoareis que tereis santa convocação; nenhum trabalho servil fareis; estatuto perpétuo é em todas as vossas habitações pelas vossas gerações."
+    },
+    {
+      "numero": 22,
+      "texto": "E, quando fizerdes a colheita da vossa terra, não acabarás de segar os cantos do teu campo, nem colherás as espigas caídas da tua sega; para o pobre e para o estrangeiro as deixarás. Eu sou o Senhor vosso Deus."
+    },
+    {
+      "numero": 23,
+      "texto": "E falou o Senhor a Moisés, dizendo:"
+    },
+    {
+      "numero": 24,
+      "texto": "Fala aos filhos de Israel, dizendo: No mês sétimo, ao primeiro do mês, tereis descanso, memorial com sonido de trombetas, santa convocação."
+    },
+    {
+      "numero": 25,
+      "texto": "Nenhum trabalho servil fareis, mas oferecereis oferta queimada ao Senhor."
+    },
+    {
+      "numero": 26,
+      "texto": "Falou mais o Senhor a Moisés, dizendo:"
+    },
+    {
+      "numero": 27,
+      "texto": "Mas aos dez dias desse sétimo mês será o dia da expiação; tereis santa convocação, e afligireis as vossas almas; e oferecereis oferta queimada ao Senhor."
+    },
+    {
+      "numero": 28,
+      "texto": "E naquele mesmo dia nenhum trabalho fareis, porque é o dia da expiação, para fazer expiação por vós perante o Senhor vosso Deus."
+    },
+    {
+      "numero": 29,
+      "texto": "Porque toda a alma, que naquele mesmo dia se não afligir, será extirpada do seu povo."
+    },
+    {
+      "numero": 30,
+      "texto": "Também toda a alma, que naquele mesmo dia fizer algum trabalho, eu a destruirei do meio do seu povo."
+    },
+    {
+      "numero": 31,
+      "texto": "Nenhum trabalho fareis; estatuto perpétuo é pelas vossas gerações em todas as vossas habitações."
+    },
+    {
+      "numero": 32,
+      "texto": "Sábado de descanso vos será; então afligireis as vossas almas; aos nove do mês à tarde, de uma tarde a outra tarde, celebrareis o vosso sábado."
+    },
+    {
+      "numero": 33,
+      "texto": "E falou o Senhor a Moisés, dizendo:"
+    },
+    {
+      "numero": 34,
+      "texto": "Fala aos filhos de Israel, dizendo: Aos quinze dias deste mês sétimo será a festa dos tabernáculos ao Senhor por sete dias."
+    },
+    {
+      "numero": 35,
+      "texto": "Ao primeiro dia haverá santa convocação; nenhum trabalho servil fareis."
+    },
+    {
+      "numero": 36,
+      "texto": "Sete dias oferecereis ofertas queimadas ao Senhor; ao oitavo dia tereis santa convocação, e oferecereis ofertas queimadas ao Senhor; dia de proibição é, nenhum trabalho servil fareis."
+    },
+    {
+      "numero": 37,
+      "texto": "Estas são as solenidades do Senhor, que apregoareis para santas convocações, para oferecer ao Senhor oferta queimada, holocausto e oferta de alimentos, sacrifício e libações, cada qual em seu dia próprio;"
+    },
+    {
+      "numero": 38,
+      "texto": "Além dos sábados do Senhor, e além dos vossos dons, e além de todos os vossos votos, e além de todas as vossas ofertas voluntárias, que dareis ao Senhor."
+    },
+    {
+      "numero": 39,
+      "texto": "Porém aos quinze dias do mês sétimo, quando tiverdes recolhido do fruto da terra, celebrareis a festa do Senhor por sete dias; no primeiro dia haverá descanso, e no oitavo dia haverá descanso."
+    },
+    {
+      "numero": 40,
+      "texto": "E no primeiro dia tomareis para vós ramos de formosas árvores, ramos de palmeiras, ramos de árvores frondosas, e salgueiros de ribeiras; e vos alegrareis perante o Senhor vosso Deus por sete dias."
+    },
+    {
+      "numero": 41,
+      "texto": "E celebrareis esta festa ao Senhor por sete dias cada ano; estatuto perpétuo é pelas vossas gerações; no mês sétimo a celebrareis."
+    },
+    {
+      "numero": 42,
+      "texto": "Sete dias habitareis em tendas; todos os naturais em Israel habitarão em tendas;"
+    },
+    {
+      "numero": 43,
+      "texto": "Para que saibam as vossas gerações que eu fiz habitar os filhos de Israel em tendas, quando os tirei da terra do Egito. Eu sou o Senhor vosso Deus."
+    },
+    {
+      "numero": 44,
+      "texto": "Assim pronunciou Moisés as solenidades do Senhor aos filhos de Israel."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 64,
+  "total_versiculos": 10,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ouve, ó Deus, a minha voz na minha oração; guarda a minha vida do temor do inimigo."
+    },
+    {
+      "numero": 2,
+      "texto": "Esconde-me do secreto conselho dos maus, e do tumulto dos que praticam a iniqüidade."
+    },
+    {
+      "numero": 3,
+      "texto": "Que afiaram as suas línguas como espadas; e armaram por suas flechas palavras amargas,"
+    },
+    {
+      "numero": 4,
+      "texto": "A fim de atirarem em lugar oculto ao que é íntegro; disparam sobre ele repentinamente, e não temem."
+    },
+    {
+      "numero": 5,
+      "texto": "Firmam-se em mau intento; falam de armar laços secretamente, e dizem: Quem os verá?"
+    },
+    {
+      "numero": 6,
+      "texto": "Andam inquirindo malícias, inquirem tudo o que se pode inquirir; e ambos, o íntimo pensamento de cada um deles, e o coração, são profundos."
+    },
+    {
+      "numero": 7,
+      "texto": "Mas Deus atirará sobre eles uma seta, e de repente ficarão feridos."
+    },
+    {
+      "numero": 8,
+      "texto": "Assim eles farão com que as suas línguas tropecem contra si mesmos; todos aqueles que os virem, fugirão."
+    },
+    {
+      "numero": 9,
+      "texto": "E todos os homens temerão, e anunciarão a obra de Deus; e considerarão prudentemente os feitos dele."
+    },
+    {
+      "numero": 10,
+      "texto": "O justo se alegrará no Senhor, e confiará nele, e todos os retos de coração se gloriarão."
+    }
+  ]
+}

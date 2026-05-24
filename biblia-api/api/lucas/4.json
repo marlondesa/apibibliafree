@@ -1,0 +1,185 @@
+{
+  "livro": "Lucas",
+  "slug_livro": "lucas",
+  "testamento": "Novo Testamento",
+  "capitulo": 4,
+  "total_versiculos": 44,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E Jesus, cheio do Espírito Santo, voltou do Jordão e foi levado pelo Espírito ao deserto;"
+    },
+    {
+      "numero": 2,
+      "texto": "E quarenta dias foi tentado pelo diabo, e naqueles dias não comeu coisa alguma; e, terminados eles, teve fome."
+    },
+    {
+      "numero": 3,
+      "texto": "E disse-lhe o diabo: Se tu és o Filho de Deus, dize a esta pedra que se transforme em pão."
+    },
+    {
+      "numero": 4,
+      "texto": "E Jesus lhe respondeu, dizendo: Está escrito que nem só de pão viverá o homem, mas de toda a palavra de Deus."
+    },
+    {
+      "numero": 5,
+      "texto": "E o diabo, levando-o a um alto monte, mostrou-lhe num momento de tempo todos os reinos do mundo."
+    },
+    {
+      "numero": 6,
+      "texto": "E disse-lhe o diabo: Dar-te-ei a ti todo este poder e a sua glória; porque a mim me foi entregue, e dou-o a quem quero."
+    },
+    {
+      "numero": 7,
+      "texto": "Portanto, se tu me adorares, tudo será teu."
+    },
+    {
+      "numero": 8,
+      "texto": "E Jesus, respondendo, disse-lhe: Vai-te para trás de mim, Satanás; porque está escrito: Adorarás o Senhor teu Deus, e só a ele servirás."
+    },
+    {
+      "numero": 9,
+      "texto": "Levou-o também a Jerusalém, e pô-lo sobre o pináculo do templo, e disse-lhe: Se tu és o Filho de Deus, lança-te daqui abaixo;"
+    },
+    {
+      "numero": 10,
+      "texto": "Porque está escrito: Mandará aos seus anjos, acerca de ti, que te guardem,"
+    },
+    {
+      "numero": 11,
+      "texto": "E que te sustenham nas mãos, Para que nunca tropeces com o teu pé em alguma pedra."
+    },
+    {
+      "numero": 12,
+      "texto": "E Jesus, respondendo, disse-lhe: Dito está: Não tentarás ao Senhor teu Deus."
+    },
+    {
+      "numero": 13,
+      "texto": "E, acabando o diabo toda a tentação, ausentou-se dele por algum tempo."
+    },
+    {
+      "numero": 14,
+      "texto": "Então, pela virtude do Espírito, voltou Jesus para a Galiléia, e a sua fama correu por todas as terras em derredor."
+    },
+    {
+      "numero": 15,
+      "texto": "E ensinava nas suas sinagogas, e por todos era louvado."
+    },
+    {
+      "numero": 16,
+      "texto": "E, chegando a Nazaré, onde fora criado, entrou num dia de sábado, segundo o seu costume, na sinagoga, e levantou-se para ler."
+    },
+    {
+      "numero": 17,
+      "texto": "E foi-lhe dado o livro do profeta Isaías; e, quando abriu o livro, achou o lugar em que estava escrito:"
+    },
+    {
+      "numero": 18,
+      "texto": "O Espírito do Senhor é sobre mim, Pois que me ungiu para evangelizar os pobres. Enviou-me a curar os quebrantados de coração,"
+    },
+    {
+      "numero": 19,
+      "texto": "A pregar liberdade aos cativos, E restauração da vista aos cegos, A pôr em liberdade os oprimidos, A anunciar o ano aceitável do Senhor."
+    },
+    {
+      "numero": 20,
+      "texto": "E, cerrando o livro, e tornando-o a dar ao ministro, assentou-se; e os olhos de todos na sinagoga estavam fitos nele."
+    },
+    {
+      "numero": 21,
+      "texto": "Então começou a dizer-lhes: Hoje se cumpriu esta Escritura em vossos ouvidos."
+    },
+    {
+      "numero": 22,
+      "texto": "E todos lhe davam testemunho, e se maravilhavam das palavras de graça que saíam da sua boca; e diziam: Não é este o filho de José?"
+    },
+    {
+      "numero": 23,
+      "texto": "E ele lhes disse: Sem dúvida me direis este provérbio: Médico, cura-te a ti mesmo; faze também aqui na tua pátria tudo que ouvimos ter sido feito em Cafarnaum."
+    },
+    {
+      "numero": 24,
+      "texto": "E disse: Em verdade vos digo que nenhum profeta é bem recebido na sua pátria."
+    },
+    {
+      "numero": 25,
+      "texto": "Em verdade vos digo que muitas viúvas existiam em Israel nos dias de Elias, quando o céu se cerrou por três anos e seis meses, de sorte que em toda a terra houve grande fome;"
+    },
+    {
+      "numero": 26,
+      "texto": "E a nenhuma delas foi enviado Elias, senão a Sarepta de Sidom, a uma mulher viúva."
+    },
+    {
+      "numero": 27,
+      "texto": "E muitos leprosos havia em Israel no tempo do profeta Eliseu, e nenhum deles foi purificado, senão Naamã, o siro."
+    },
+    {
+      "numero": 28,
+      "texto": "E todos, na sinagoga, ouvindo estas coisas, se encheram de ira."
+    },
+    {
+      "numero": 29,
+      "texto": "E, levantando-se, o expulsaram da cidade, e o levaram até ao cume do monte em que a cidade deles estava edificada, para dali o precipitarem."
+    },
+    {
+      "numero": 30,
+      "texto": "Ele, porém, passando pelo meio deles, retirou-se."
+    },
+    {
+      "numero": 31,
+      "texto": "E desceu a Cafarnaum, cidade da Galiléia, e os ensinava nos sábados."
+    },
+    {
+      "numero": 32,
+      "texto": "E admiravam a sua doutrina porque a sua palavra era com autoridade."
+    },
+    {
+      "numero": 33,
+      "texto": "E estava na sinagoga um homem que tinha o espírito de um demônio imundo, e exclamou em alta voz,"
+    },
+    {
+      "numero": 34,
+      "texto": "Dizendo: Ah! que temos nós contigo, Jesus Nazareno? Vieste a destruir-nos? Bem sei quem és: O Santo de Deus."
+    },
+    {
+      "numero": 35,
+      "texto": "E Jesus o repreendeu, dizendo: Cala-te, e sai dele. E o demônio, lançando-o por terra no meio do povo, saiu dele sem lhe fazer mal."
+    },
+    {
+      "numero": 36,
+      "texto": "E veio espanto sobre todos, e falavam uns com os outros, dizendo: Que palavra é esta, que até aos espíritos imundos manda com autoridade e poder, e eles saem?"
+    },
+    {
+      "numero": 37,
+      "texto": "E a sua fama divulgava-se por todos os lugares, em redor daquela comarca."
+    },
+    {
+      "numero": 38,
+      "texto": "Ora, levantando-se Jesus da sinagoga, entrou em casa de Simão; e a sogra de Simão estava enferma com muita febre, e rogaram-lhe por ela."
+    },
+    {
+      "numero": 39,
+      "texto": "E, inclinando-se para ela, repreendeu a febre, e esta a deixou. E ela, levantando-se logo, servia-os."
+    },
+    {
+      "numero": 40,
+      "texto": "E, ao pôr do sol, todos os que tinham enfermos de várias doenças lhos traziam; e, pondo as mãos sobre cada um deles, os curava."
+    },
+    {
+      "numero": 41,
+      "texto": "E também de muitos saíam demônios, clamando e dizendo: Tu és o Cristo, o Filho de Deus. E ele, repreendendo-os, não os deixava falar, pois sabiam que ele era o Cristo."
+    },
+    {
+      "numero": 42,
+      "texto": "E, sendo já dia, saiu, e foi para um lugar deserto; e a multidão o procurava, e chegou junto dele; e o detinham, para que não se ausentasse deles."
+    },
+    {
+      "numero": 43,
+      "texto": "Ele, porém, lhes disse: Também é necessário que eu anuncie a outras cidades o evangelho do reino de Deus; porque para isso fui enviado."
+    },
+    {
+      "numero": 44,
+      "texto": "E pregava nas sinagogas da Galiléia."
+    }
+  ]
+}

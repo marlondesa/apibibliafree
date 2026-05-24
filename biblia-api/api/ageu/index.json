@@ -1,0 +1,18 @@
+{
+  "id": 37,
+  "abbrev": "ag",
+  "nome": "Ageu",
+  "slug": "ageu",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 2,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 23
+    }
+  ]
+}

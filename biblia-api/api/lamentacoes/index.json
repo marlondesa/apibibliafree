@@ -1,0 +1,30 @@
+{
+  "id": 25,
+  "abbrev": "lm",
+  "nome": "Lamentações",
+  "slug": "lamentacoes",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 5,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 66
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 22
+    }
+  ]
+}

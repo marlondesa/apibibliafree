@@ -1,0 +1,145 @@
+{
+  "livro": "Números",
+  "slug_livro": "numeros",
+  "testamento": "Antigo Testamento",
+  "capitulo": 35,
+  "total_versiculos": 34,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E falou o SENHOR a Moisés nas campinas de Moabe, junto ao Jordão na direção de Jericó, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Dá ordem aos filhos de Israel que, da herança da sua possessão, dêem cidades aos levitas, em que habitem; e também aos levitas dareis arrabaldes ao redor delas."
+    },
+    {
+      "numero": 3,
+      "texto": "E terão estas cidades para habitá-las; porém os seus arrabaldes serão o seu gado, e para os seus bens, e para todos os seus animais."
+    },
+    {
+      "numero": 4,
+      "texto": "E os arrabaldes das cidades, que dareis aos levitas, desde o muro da cidade para fora, serão de mil côvados em redor."
+    },
+    {
+      "numero": 5,
+      "texto": "E de fora da cidade, do lado do oriente, medireis dois mil côvados, e do lado do sul, dois mil côvados, e do lado do ocidente dois mil côvados, e do lado do norte dois mil côvados, e a cidade no meio; isto terão por arrabaldes das cidades."
+    },
+    {
+      "numero": 6,
+      "texto": "Das cidades, pois, que dareis aos levitas, haverá seis cidades de refúgio, as quais dareis para que o homicida ali se acolha; e, além destas, lhes dareis quarenta e duas cidades."
+    },
+    {
+      "numero": 7,
+      "texto": "Todas as cidades que dareis aos levitas serão quarenta e oito cidades, juntamente com os seus arrabaldes."
+    },
+    {
+      "numero": 8,
+      "texto": "E quanto às cidades que derdes da herança dos filhos de Israel, do que tiver muito tomareis muito, e do que tiver pouco tomareis pouco; cada um dará das suas cidades aos levitas, segundo a herança que herdar."
+    },
+    {
+      "numero": 9,
+      "texto": "Falou mais o Senhor a Moisés, dizendo:"
+    },
+    {
+      "numero": 10,
+      "texto": "Fala aos filhos de Israel, e dize-lhes: Quando passardes o Jordão à terra de Canaã,"
+    },
+    {
+      "numero": 11,
+      "texto": "Fazei com que vos estejam à mão cidades que vos sirvam de cidades de refúgio, para que ali se acolha o homicida que ferir a alguma alma por engano."
+    },
+    {
+      "numero": 12,
+      "texto": "E estas cidades vos serão por refúgio do vingador do sangue; para que o homicida não morra, até que seja apresentado à congregação para julgamento."
+    },
+    {
+      "numero": 13,
+      "texto": "E das cidades que derdes haverá seis cidades de refúgio para vós."
+    },
+    {
+      "numero": 14,
+      "texto": "Três destas cidades dareis além do Jordão, e três destas cidades dareis na terra de Canaã; cidades de refúgio serão."
+    },
+    {
+      "numero": 15,
+      "texto": "Serão por refúgio estas seis cidades para os filhos de Israel, e para o estrangeiro, e para o que se hospedar no meio deles, para que ali se acolha aquele que matar a alguém por engano."
+    },
+    {
+      "numero": 16,
+      "texto": "Porém, se o ferir com instrumento de ferro e morrer, homicida é; certamente o homicida morrerá."
+    },
+    {
+      "numero": 17,
+      "texto": "Ou, se lhe ferir com uma pedrada, de que possa morrer, e morrer, homicida é; certamente o homicida morrerá."
+    },
+    {
+      "numero": 18,
+      "texto": "Ou, se o ferir com instrumento de pau que tiver na mão, de que possa morrer, e ele morrer, homicida é; certamente morrerá o homicida."
+    },
+    {
+      "numero": 19,
+      "texto": "O vingador do sangue matará o homicida; encontrando-o, matá-lo-á."
+    },
+    {
+      "numero": 20,
+      "texto": "Se também o empurrar com ódio, ou com mau intento lançar contra ele alguma coisa, e morrer;"
+    },
+    {
+      "numero": 21,
+      "texto": "Ou por inimizade o ferir com a sua mão, e morrer, certamente morrerá aquele que o ferir; homicida é; o vingador do sangue, encontrando o homicida, o matará."
+    },
+    {
+      "numero": 22,
+      "texto": "Porém, se o empurrar subitamente, sem inimizade, ou contra ele lançar algum instrumento sem intenção;"
+    },
+    {
+      "numero": 23,
+      "texto": "Ou, sobre ele deixar cair alguma pedra sem o ver, de que possa morrer, e ele morrer, sem que fosse seu inimigo nem procurasse o seu mal;"
+    },
+    {
+      "numero": 24,
+      "texto": "Então a congregação julgará entre aquele que feriu e o vingador do sangue, segundo estas leis."
+    },
+    {
+      "numero": 25,
+      "texto": "E a congregação livrará o homicida da mão do vingador do sangue, e a congregação o fará voltar à cidade do seu refúgio, onde se tinha acolhido; e ali ficará até à morte do sumo sacerdote, a quem ungiram com o santo óleo."
+    },
+    {
+      "numero": 26,
+      "texto": "Porém, se de alguma maneira o homicida sair dos limites da cidade de refúgio, onde se tinha acolhido,"
+    },
+    {
+      "numero": 27,
+      "texto": "E o vingador do sangue o achar fora dos limites da cidade de seu refúgio, e o matar, não será culpado do sangue."
+    },
+    {
+      "numero": 28,
+      "texto": "Pois o homicida deverá ficar na cidade do seu refúgio, até à morte do sumo sacerdote; mas, depois da morte do sumo sacerdote, o homicida voltará à terra da sua possessão."
+    },
+    {
+      "numero": 29,
+      "texto": "E estas coisas vos serão por estatuto de direito às vossas gerações, em todas as vossas habitações."
+    },
+    {
+      "numero": 30,
+      "texto": "Todo aquele que matar alguma pessoa, conforme depoimento de testemunhas, será morto; mas uma só testemunha não testemunhará contra alguém, para que morra."
+    },
+    {
+      "numero": 31,
+      "texto": "E não recebereis resgate pela vida do homicida que é culpado de morte; pois certamente morrerá."
+    },
+    {
+      "numero": 32,
+      "texto": "Também não tomareis resgate por aquele que se acolher à sua cidade de refúgio, para tornar a habitar na terra, até à morte do sumo sacerdote."
+    },
+    {
+      "numero": 33,
+      "texto": "Assim não profanareis a terra em que estais; porque o sangue faz profanar a terra; e nenhuma expiação se fará pela terra por causa do sangue que nela se derramar, senão com o sangue daquele que o derramou."
+    },
+    {
+      "numero": 34,
+      "texto": "Não contaminareis pois a terra na qual vós habitais, no meio da qual eu habito; pois eu, o Senhor, habito no meio dos filhos de Israel."
+    }
+  ]
+}

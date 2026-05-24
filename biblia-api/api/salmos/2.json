@@ -1,0 +1,57 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 2,
+  "total_versiculos": 12,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Por que se amotinam os gentios, e os povos imaginam coisas vàs?"
+    },
+    {
+      "numero": 2,
+      "texto": "Os reis da terra se levantam e os governos consultam juntamente contra o Senhor e contra o seu ungido, dizendo:"
+    },
+    {
+      "numero": 3,
+      "texto": "Rompamos as suas ataduras, e sacudamos de nós as suas cordas."
+    },
+    {
+      "numero": 4,
+      "texto": "Aquele que habita nos céus se rirá; o Senhor zombará deles."
+    },
+    {
+      "numero": 5,
+      "texto": "Então lhes falará na sua ira, e no seu furor os turbará."
+    },
+    {
+      "numero": 6,
+      "texto": "Eu, porém, ungi o meu Rei sobre o meu santo monte de Sião."
+    },
+    {
+      "numero": 7,
+      "texto": "Proclamarei o decreto: o Senhor me disse: Tu és meu Filho, eu hoje te gerei."
+    },
+    {
+      "numero": 8,
+      "texto": "Pede-me, e eu te darei os gentios por herança, e os fins da terra por tua possessão."
+    },
+    {
+      "numero": 9,
+      "texto": "Tu os esmigalharás com uma vara de ferro; tu os despedaçarás como a um vaso de oleiro."
+    },
+    {
+      "numero": 10,
+      "texto": "Agora, pois, ó reis, sede prudentes; deixai-vos instruir, juízes da terra."
+    },
+    {
+      "numero": 11,
+      "texto": "Servi ao Senhor com temor, e alegrai-vos com tremor."
+    },
+    {
+      "numero": 12,
+      "texto": "Beijai o Filho, para que se não ire, e pereçais no caminho, quando em breve se acender a sua ira; bem-aventurados todos aqueles que nele confiam."
+    }
+  ]
+}

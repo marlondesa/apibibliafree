@@ -1,0 +1,173 @@
+{
+  "livro": "atos",
+  "slug_livro": "atos",
+  "testamento": "Novo Testamento",
+  "capitulo": 15,
+  "total_versiculos": 41,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então alguns que tinham descido da Judéia ensinavam assim os irmãos: Se não vos circuncidardes conforme o uso de Moisés, não podeis salvar-vos."
+    },
+    {
+      "numero": 2,
+      "texto": "Tendo tido Paulo e Barnabé não pequena discussão e contenda contra eles, resolveu-se que Paulo e Barnabé, e alguns dentre eles, subissem a Jerusalém, aos apóstolos e aos anciãos, sobre aquela questão."
+    },
+    {
+      "numero": 3,
+      "texto": "E eles, sendo acompanhados pela igreja, passavam pela Fenícia e por Samaria, contando a conversão dos gentios; e davam grande alegria a todos os irmãos."
+    },
+    {
+      "numero": 4,
+      "texto": "E, quando chegaram a Jerusalém, foram recebidos pela igreja e pelos apóstolos e anciãos, e lhes anunciaram quão grandes coisas Deus tinha feito com eles."
+    },
+    {
+      "numero": 5,
+      "texto": "Alguns, porém, da seita dos fariseus, que tinham crido, se levantaram, dizendo que era mister circuncidá-los e mandar-lhes que guardassem a lei de Moisés."
+    },
+    {
+      "numero": 6,
+      "texto": "Congregaram-se, pois, os apóstolos e os anciãos para considerar este assunto."
+    },
+    {
+      "numero": 7,
+      "texto": "E, havendo grande contenda, levantou-se Pedro e disse-lhes: Homens irmãos, bem sabeis que já há muito tempo Deus me elegeu dentre nós, para que os gentios ouvissem da minha boca a palavra do evangelho, e cressem."
+    },
+    {
+      "numero": 8,
+      "texto": "E Deus, que conhece os corações, lhes deu testemunho, dando-lhes o Espírito Santo, assim como também a nós;"
+    },
+    {
+      "numero": 9,
+      "texto": "E não fez diferença alguma entre eles e nós, purificando os seus corações pela fé."
+    },
+    {
+      "numero": 10,
+      "texto": "Agora, pois, por que tentais a Deus, pondo sobre a cerviz dos discípulos um jugo que nem nossos pais nem nós pudemos suportar?"
+    },
+    {
+      "numero": 11,
+      "texto": "Mas cremos que seremos salvos pela graça do Senhor Jesus Cristo, como eles também."
+    },
+    {
+      "numero": 12,
+      "texto": "Então toda a multidão se calou e escutava a Barnabé e a Paulo, que contavam quão grandes sinais e prodígios Deus havia feito por meio deles entre os gentios."
+    },
+    {
+      "numero": 13,
+      "texto": "E, havendo-se eles calado, tomou Tiago a palavra, dizendo: Homens irmãos, ouvi-me:"
+    },
+    {
+      "numero": 14,
+      "texto": "Simão relatou como primeiramente Deus visitou os gentios, para tomar deles um povo para o seu nome."
+    },
+    {
+      "numero": 15,
+      "texto": "E com isto concordam as palavras dos profetas; como está escrito:"
+    },
+    {
+      "numero": 16,
+      "texto": "Depois disto voltarei,e reedificarei o tabernáculo de Davi, que está caído, levantá-lo-ei das suas ruínas, e tornarei a edificá-lo."
+    },
+    {
+      "numero": 17,
+      "texto": "Para que o restante dos homens busque ao Senhor,e todos os gentios, sobre os quais o meu nome é invocado,diz o Senhor, que faz todas estas coisas,"
+    },
+    {
+      "numero": 18,
+      "texto": "Conhecidas sào a Deus, desde o princípio do mundo, todas as suas obras."
+    },
+    {
+      "numero": 19,
+      "texto": "Por isso julgo que não se deve perturbar aqueles, dentre os gentios, que se convertem a Deus."
+    },
+    {
+      "numero": 20,
+      "texto": "Mas escrever-lhes que se abstenham das contaminações dos ídolos, da fornicação, do que é sufocado e do sangue."
+    },
+    {
+      "numero": 21,
+      "texto": "Porque Moisés, desde os tempos antigos, tem em cada cidade quem o pregue, e cada sábado é lido nas sinagogas."
+    },
+    {
+      "numero": 22,
+      "texto": "Então pareceu bem aos apóstolos e aos anciãos, com toda a igreja, eleger homens dentre eles e enviá-los com Paulo e Barnabé a Antioquia, a saber: Judas, chamado Barsabás, e Silas, homens distintos entre os irmãos."
+    },
+    {
+      "numero": 23,
+      "texto": "E por intermédio deles escreveram o seguinte: Os apóstolos, e os anciãos e os irmãos, aos irmãos dentre os gentios que estão em Antioquia, e Síria e Cilícia, saúde."
+    },
+    {
+      "numero": 24,
+      "texto": "Porquanto ouvimos que alguns que saíram dentre nós vos perturbaram com palavras, e transtornaram as vossas almas, dizendo que deveis circuncidar-vos e guardar a lei, não lhes tendo nós dado mandamento,"
+    },
+    {
+      "numero": 25,
+      "texto": "Pareceu-nos bem, reunidos concordemente, eleger alguns homens e enviá-los com os nossos amados Barnabé e Paulo,"
+    },
+    {
+      "numero": 26,
+      "texto": "Homens que já expuseram as suas vidas pelo nome de nosso Senhor Jesus Cristo."
+    },
+    {
+      "numero": 27,
+      "texto": "Enviamos, portanto, Judas e Silas, os quais por palavra vos anunciarão também as mesmas coisas."
+    },
+    {
+      "numero": 28,
+      "texto": "Na verdade pareceu bem ao Espírito Santo e a nós, não vos impor mais encargo algum, senão estas coisas necessárias:"
+    },
+    {
+      "numero": 29,
+      "texto": "Que vos abstenhais das coisas sacrificadas aos ídolos, e do sangue, e da carne sufocada, e da fornicação, das quais coisas bem fazeis se vos guardardes. Bem vos vá."
+    },
+    {
+      "numero": 30,
+      "texto": "Tendo eles então se despedido, partiram para Antioquia e, ajuntando a multidão, entregaram a carta."
+    },
+    {
+      "numero": 31,
+      "texto": "E, quando a leram, alegraram-se pela exortação."
+    },
+    {
+      "numero": 32,
+      "texto": "Depois Judas e Silas, que também eram profetas, exortaram e confirmaram os irmãos com muitas palavras."
+    },
+    {
+      "numero": 33,
+      "texto": "E, detendo-se ali algum tempo, os irmãos os deixaram voltar em paz para os apóstolos;"
+    },
+    {
+      "numero": 34,
+      "texto": "Mas pareceu bem a Silas ficar ali."
+    },
+    {
+      "numero": 35,
+      "texto": "E Paulo e Barnabé ficaram em Antioquia, ensinando e pregando, com muitos outros, a palavra do Senhor."
+    },
+    {
+      "numero": 36,
+      "texto": "E alguns dias depois, disse Paulo a Barnabé: Tornemos a visitar nossos irmãos por todas as cidades em que já anunciamos a palavra do Senhor, para ver como estão."
+    },
+    {
+      "numero": 37,
+      "texto": "E Barnabé aconselhava que tomassem consigo a João, chamado Marcos."
+    },
+    {
+      "numero": 38,
+      "texto": "Mas a Paulo parecia razoável que não tomassem consigo aquele que desde a Panfília se tinha apartado deles e não os acompanhou naquela obra."
+    },
+    {
+      "numero": 39,
+      "texto": "E tal contenda houve entre eles, que se apartaram um do outro. Barnabé, levando consigo a Marcos, navegou para Chipre."
+    },
+    {
+      "numero": 40,
+      "texto": "E Paulo, tendo escolhido a Silas, partiu, encomendado pelos irmãos à graça de Deus."
+    },
+    {
+      "numero": 41,
+      "texto": "E passou pela Síria e Cilícia, confirmando as igrejas."
+    }
+  ]
+}

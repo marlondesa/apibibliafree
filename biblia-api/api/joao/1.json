@@ -1,0 +1,213 @@
+{
+  "livro": "João",
+  "slug_livro": "joao",
+  "testamento": "Novo Testamento",
+  "capitulo": 1,
+  "total_versiculos": 51,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
+    },
+    {
+      "numero": 2,
+      "texto": "Ele estava no princípio com Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "Todas as coisas foram feitas por ele, e sem ele nada do que foi feito se fez."
+    },
+    {
+      "numero": 4,
+      "texto": "Nele estava a vida, e a vida era a luz dos homens."
+    },
+    {
+      "numero": 5,
+      "texto": "E a luz resplandece nas trevas, e as trevas não a compreenderam."
+    },
+    {
+      "numero": 6,
+      "texto": "Houve um homem enviado de Deus, cujo nome era João."
+    },
+    {
+      "numero": 7,
+      "texto": "Este veio para testemunho, para que testificasse da luz, para que todos cressem por ele."
+    },
+    {
+      "numero": 8,
+      "texto": "Não era ele a luz, mas para que testificasse da luz."
+    },
+    {
+      "numero": 9,
+      "texto": "Ali estava a luz verdadeira, que ilumina a todo o homem que vem ao mundo."
+    },
+    {
+      "numero": 10,
+      "texto": "Estava no mundo, e o mundo foi feito por ele, e o mundo não o conheceu."
+    },
+    {
+      "numero": 11,
+      "texto": "Veio para o que era seu, e os seus não o receberam."
+    },
+    {
+      "numero": 12,
+      "texto": "Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, aos que crêem no seu nome;"
+    },
+    {
+      "numero": 13,
+      "texto": "Os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus."
+    },
+    {
+      "numero": 14,
+      "texto": "E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade."
+    },
+    {
+      "numero": 15,
+      "texto": "João testificou dele, e clamou, dizendo: Este era aquele de quem eu dizia: O que vem após mim é antes de mim, porque foi primeiro do que eu."
+    },
+    {
+      "numero": 16,
+      "texto": "E todos nós recebemos também da sua plenitude, e graça por graça."
+    },
+    {
+      "numero": 17,
+      "texto": "Porque a lei foi dada por Moisés; a graça e a verdade vieram por Jesus Cristo."
+    },
+    {
+      "numero": 18,
+      "texto": "Deus nunca foi visto por alguém. O Filho unigênito, que está no seio do Pai, esse o revelou."
+    },
+    {
+      "numero": 19,
+      "texto": "E este é o testemunho de João, quando os judeus mandaram de Jerusalém sacerdotes e levitas para que lhe perguntassem: Quem és tu?"
+    },
+    {
+      "numero": 20,
+      "texto": "E confessou, e não negou; confessou: Eu não sou o Cristo."
+    },
+    {
+      "numero": 21,
+      "texto": "E perguntaram-lhe: Então quê? És tu Elias? E disse: Não sou. És tu profeta? E respondeu: Não."
+    },
+    {
+      "numero": 22,
+      "texto": "Disseram-lhe pois: Quem és? para que demos resposta àqueles que nos enviaram; que dizes de ti mesmo?"
+    },
+    {
+      "numero": 23,
+      "texto": "Disse: Eu sou a voz do que clama no deserto: Endireitai o caminho do Senhor, como disse o profeta Isaías."
+    },
+    {
+      "numero": 24,
+      "texto": "E os que tinham sido enviados eram dos fariseus."
+    },
+    {
+      "numero": 25,
+      "texto": "E perguntaram-lhe, e disseram-lhe: Por que batizas, pois, se tu não és o Cristo, nem Elias, nem o profeta?"
+    },
+    {
+      "numero": 26,
+      "texto": "João respondeu-lhes, dizendo: Eu batizo com água; mas no meio devós está um a quem vós não conheceis."
+    },
+    {
+      "numero": 27,
+      "texto": "Este é aquele que vem após mim, que é antes de mim, do qual eu não sou digno de desatar a correia da alparca."
+    },
+    {
+      "numero": 28,
+      "texto": "Estas coisas aconteceram em Betabara, do outro lado do Jordão, onde João estava batizando."
+    },
+    {
+      "numero": 29,
+      "texto": "No dia seguinte João viu a Jesus, que vinha para ele, e disse: Eis o Cordeiro de Deus, que tira o pecado do mundo."
+    },
+    {
+      "numero": 30,
+      "texto": "Este é aquele do qual eu disse: Após mim vem um homem que é antes de mim, porque foi primeiro do que eu."
+    },
+    {
+      "numero": 31,
+      "texto": "E eu não o conhecia; mas, para que ele fosse manifestado a Israel, vim eu, por isso, batizando com água."
+    },
+    {
+      "numero": 32,
+      "texto": "E João testificou, dizendo: Eu vi o Espírito descer do céu como pomba, e repousar sobre ele."
+    },
+    {
+      "numero": 33,
+      "texto": "E eu não o conhecia, mas o que me mandou a batizar com água, esse me disse: Sobre aquele que vires descer o Espírito, e sobre ele repousar, esse é o que batiza com o Espírito Santo."
+    },
+    {
+      "numero": 34,
+      "texto": "E eu vi, e tenho testificado que este é o Filho de Deus."
+    },
+    {
+      "numero": 35,
+      "texto": "No dia seguinte João estava outra vez ali, e dois dos seus discípulos;"
+    },
+    {
+      "numero": 36,
+      "texto": "E, vendo passar a Jesus, disse: Eis aqui o Cordeiro de Deus."
+    },
+    {
+      "numero": 37,
+      "texto": "E os dois discípulos ouviram-no dizer isto, e seguiram a Jesus."
+    },
+    {
+      "numero": 38,
+      "texto": "E Jesus, voltando-se e vendo que eles o seguiam, disse-lhes: Que buscais? E eles disseram: Rabi (que, traduzido, quer dizer Mestre), onde moras?"
+    },
+    {
+      "numero": 39,
+      "texto": "Ele lhes disse: Vinde, e vede. Foram, e viram onde morava, e ficaram com ele aquele dia; e era já quase a hora décima."
+    },
+    {
+      "numero": 40,
+      "texto": "Era André, irmão de Simão Pedro, um dos dois que ouviram aquilo de João, e o haviam seguido."
+    },
+    {
+      "numero": 41,
+      "texto": "Este achou primeiro a seu irmão Simão, e disse-lhe: Achamos o Messias (que, traduzido, é o Cristo)."
+    },
+    {
+      "numero": 42,
+      "texto": "E levou-o a Jesus. E, olhando Jesus para ele, disse: Tu és Simão, filho de Jonas; tu serás chamado Cefas (que quer dizer Pedro)."
+    },
+    {
+      "numero": 43,
+      "texto": "No dia seguinte quis Jesus ir à Galiléia, e achou a Filipe, e disse-lhe: Segue-me."
+    },
+    {
+      "numero": 44,
+      "texto": "E Filipe era de Betsaida, cidade de André e de Pedro."
+    },
+    {
+      "numero": 45,
+      "texto": "Filipe achou Natanael, e disse-lhe: Havemos achado aquele de quem Moisés escreveu na lei, e os profetas: Jesus de Nazaré, filho de José."
+    },
+    {
+      "numero": 46,
+      "texto": "Disse-lhe Natanael: Pode vir alguma coisa boa de Nazaré? Disse-lhe Filipe: Vem, e vê."
+    },
+    {
+      "numero": 47,
+      "texto": "Jesus viu Natanael vir ter com ele, e disse dele: Eis aqui um verdadeiro israelita, em quem não há dolo."
+    },
+    {
+      "numero": 48,
+      "texto": "Disse-lhe Natanael: De onde me conheces tu? Jesus respondeu, e disse-lhe: Antes que Filipe te chamasse, te vi eu, estando tu debaixo da figueira."
+    },
+    {
+      "numero": 49,
+      "texto": "Natanael respondeu, e disse-lhe: Rabi, tu és o Filho de Deus; tu és o Rei de Israel."
+    },
+    {
+      "numero": 50,
+      "texto": "Jesus respondeu, e disse-lhe: Porque te disse: Vi-te debaixo da figueira, crês? Coisas maiores do que estas verás."
+    },
+    {
+      "numero": 51,
+      "texto": "E disse-lhe: Na verdade, na verdade vos digo que daqui em diante vereis o céu aberto, e os anjos de Deus subindo e descendo sobre o Filho do homem."
+    }
+  ]
+}

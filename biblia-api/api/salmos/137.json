@@ -1,0 +1,45 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 137,
+  "total_versiculos": 9,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Junto aos rios da Babilônia, ali nos assentamos e choramos, quando nos lembramos de Sião."
+    },
+    {
+      "numero": 2,
+      "texto": "Sobre os salgueiros que há no meio dela, penduramos as nossas harpas."
+    },
+    {
+      "numero": 3,
+      "texto": "Pois lá aqueles que nos levaram cativos nos pediam uma canção; e os que nos destruíram, que os alegrássemos, dizendo: Cantai-nos uma das canções de Sião."
+    },
+    {
+      "numero": 4,
+      "texto": "Como cantaremos a canção do Senhor em terra estranha?"
+    },
+    {
+      "numero": 5,
+      "texto": "Se eu me esquecer de ti, ó Jerusalém, esqueça-se a minha direita da sua destreza."
+    },
+    {
+      "numero": 6,
+      "texto": "Se me não lembrar de ti, apegue-se-me a língua ao meu paladar; se não preferir Jerusalém à minha maior alegria."
+    },
+    {
+      "numero": 7,
+      "texto": "Lembra-te, Senhor, dos filhos de Edom no dia de Jerusalém, que diziam: Descobri-a, descobri-a até aos seus alicerces."
+    },
+    {
+      "numero": 8,
+      "texto": "Ah! filha de babilônia, que vais ser assolada; feliz aquele que te retribuir o pago que tu nos pagaste a nós."
+    },
+    {
+      "numero": 9,
+      "texto": "Feliz aquele que pegar em teus filhos e der com eles nas pedras."
+    }
+  ]
+}

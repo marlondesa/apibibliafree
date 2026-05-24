@@ -1,0 +1,73 @@
+{
+  "livro": "jó",
+  "slug_livro": "jó",
+  "testamento": "Antigo Testamento",
+  "capitulo": 17,
+  "total_versiculos": 16,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O meu espírito se vai consumindo, os meus dias se vão apagando, e só tenho perante mim a sepultura."
+    },
+    {
+      "numero": 2,
+      "texto": "Deveras estou cercado de zombadores, e os meus olhos contemplam as suas provocações."
+    },
+    {
+      "numero": 3,
+      "texto": "Promete agora, e dá-me um fiador para contigo; quem há que me dê a mão?"
+    },
+    {
+      "numero": 4,
+      "texto": "Porque aos seus corações encobriste o entendimento, por isso não os exaltarás."
+    },
+    {
+      "numero": 5,
+      "texto": "O que denuncia os seus amigos, a fim de serem despojados, também os olhos de seus filhos desfalecerão."
+    },
+    {
+      "numero": 6,
+      "texto": "Porém a mim me pôs por um provérbio dos povos, de modo que me tornei uma abominação para eles."
+    },
+    {
+      "numero": 7,
+      "texto": "Pelo que já se escureceram de mágoa os meus olhos, e já todos os meus membros são como a sombra."
+    },
+    {
+      "numero": 8,
+      "texto": "Os retos pasmarão disto, e o inocente se levantará contra o hipócrita."
+    },
+    {
+      "numero": 9,
+      "texto": "E o justo seguirá o seu caminho firmemente, e o puro de mãos irá crescendo em força."
+    },
+    {
+      "numero": 10,
+      "texto": "Mas, na verdade, tornai todos vós e vinde; porque sábio nenhum acharei entre vós."
+    },
+    {
+      "numero": 11,
+      "texto": "Os meus dias passaram, e malograram os meus propósitos, as aspirações do meu coração."
+    },
+    {
+      "numero": 12,
+      "texto": "Trocaram a noite em dia; a luz está perto do fim, por causa das trevas."
+    },
+    {
+      "numero": 13,
+      "texto": "Se eu esperar, a sepultura será a minha casa; nas trevas estenderei a minha cama."
+    },
+    {
+      "numero": 14,
+      "texto": "À corrupção clamo: Tu és meu pai; e aos vermes: Vós sois minha mãe e minha irmã."
+    },
+    {
+      "numero": 15,
+      "texto": "Onde, pois, estaria agora a minha esperança? Sim, a minha esperança, quem a poderá ver?"
+    },
+    {
+      "numero": 16,
+      "texto": "As barras da sepultura descerão quando juntamente no pó teremos descanso."
+    }
+  ]
+}

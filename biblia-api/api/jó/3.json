@@ -1,0 +1,113 @@
+{
+  "livro": "jó",
+  "slug_livro": "jó",
+  "testamento": "Antigo Testamento",
+  "capitulo": 3,
+  "total_versiculos": 26,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Depois disto abriu Jó a sua boca, e amaldiçoou o seu dia."
+    },
+    {
+      "numero": 2,
+      "texto": "E Jó, falando, disse:"
+    },
+    {
+      "numero": 3,
+      "texto": "Pereça o dia em que nasci, e a noite em que se disse: Foi concebido um homem!"
+    },
+    {
+      "numero": 4,
+      "texto": "Converta-se aquele dia em trevas; e Deus, lá de cima, não tenha cuidado dele, nem resplandeça sobre ele a luz."
+    },
+    {
+      "numero": 5,
+      "texto": "Contaminem-no as trevas e a sombra da morte; habitem sobre ele nuvens; a escuridão do dia o espante!"
+    },
+    {
+      "numero": 6,
+      "texto": "Quanto àquela noite, dela se apodere a escuridão; e não se regozije ela entre os dias do ano; e não entre no número dos meses!"
+    },
+    {
+      "numero": 7,
+      "texto": "Ah! que solitária seja aquela noite, e nela não entre voz de júbilo!"
+    },
+    {
+      "numero": 8,
+      "texto": "Amaldiçoem-na aqueles que amaldiçoam o dia, que estão prontos para suscitar o seu pranto."
+    },
+    {
+      "numero": 9,
+      "texto": "Escureçam-se as estrelas do seu crepúsculo; que espere a luz, e não venha; e não veja as pálpebras da alva;"
+    },
+    {
+      "numero": 10,
+      "texto": "Porque não fechou as portas do ventre; nem escondeu dos meus olhos a canseira."
+    },
+    {
+      "numero": 11,
+      "texto": "Por que não morri eu desde a madre? E em saindo do ventre, não expirei?"
+    },
+    {
+      "numero": 12,
+      "texto": "Por que me receberam os joelhos? E por que os peitos, para que mamasse?"
+    },
+    {
+      "numero": 13,
+      "texto": "Porque já agora jazeria e repousaria; dormiria, e então haveria repouso para mim."
+    },
+    {
+      "numero": 14,
+      "texto": "Com os reis e conselheiros da terra, que para si edificam casas nos lugares assolados,"
+    },
+    {
+      "numero": 15,
+      "texto": "Ou com os príncipes que possuem ouro, que enchem as suas casas de prata,"
+    },
+    {
+      "numero": 16,
+      "texto": "Ou como aborto oculto, não existiria; como as crianças que não viram a luz."
+    },
+    {
+      "numero": 17,
+      "texto": "Ali os maus cessam de perturbar; e ali repousam os cansados."
+    },
+    {
+      "numero": 18,
+      "texto": "Ali os presos juntamente repousam, e não ouvem a voz do exator."
+    },
+    {
+      "numero": 19,
+      "texto": "Ali está o pequeno e o grande, e o servo livre de seu senhor."
+    },
+    {
+      "numero": 20,
+      "texto": "Por que se dá luz ao miserável, e vida aos amargurados de ânimo?"
+    },
+    {
+      "numero": 21,
+      "texto": "Que esperam a morte, e ela não vem; e cavam em procura dela mais do que de tesouros ocultos;"
+    },
+    {
+      "numero": 22,
+      "texto": "Que de alegria saltam, e exultam, achando a sepultura?"
+    },
+    {
+      "numero": 23,
+      "texto": "Por que se dá luz ao homem, cujo caminho é oculto, e a quem Deus o encobriu?"
+    },
+    {
+      "numero": 24,
+      "texto": "Porque antes do meu pão vem o meu suspiro; e os meus gemidos se derramam como água."
+    },
+    {
+      "numero": 25,
+      "texto": "Porque aquilo que temia me sobreveio; e o que receava me aconteceu."
+    },
+    {
+      "numero": 26,
+      "texto": "Nunca estive tranqüilo, nem sosseguei, nem repousei, mas veio sobre mim a perturbação."
+    }
+  ]
+}

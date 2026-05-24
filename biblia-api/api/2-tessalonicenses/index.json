@@ -1,0 +1,22 @@
+{
+  "id": 53,
+  "abbrev": "2ts",
+  "nome": "2 Tessalonicenses",
+  "slug": "2-tessalonicenses",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 3,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 18
+    }
+  ]
+}

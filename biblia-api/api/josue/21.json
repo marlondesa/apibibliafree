@@ -1,0 +1,189 @@
+{
+  "livro": "Josué",
+  "slug_livro": "josue",
+  "testamento": "Antigo Testamento",
+  "capitulo": 21,
+  "total_versiculos": 45,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então os cabeças dos pais dos levitas se achegaram a Eleazar, o sacerdote, e a Josué, filho de Num, e aos cabeças dos pais das tribos dos filhos de Israel;"
+    },
+    {
+      "numero": 2,
+      "texto": "E falaram-lhes em Siló, na terra de Canaã, dizendo: O Senhor ordenou, pelo ministério de Moisés, que se nos dessem cidades para habitar, e os seus arrabaldes para os nossos animais."
+    },
+    {
+      "numero": 3,
+      "texto": "Por isso os filhos de Israel deram aos levitas da sua herança, conforme a ordem do Senhor, as seguintes cidades e os seus arrabaldes."
+    },
+    {
+      "numero": 4,
+      "texto": "E saiu a sorte para as famílias dos coatitas; e aos filhos de Arão, o sacerdote, que eram dos levitas, tiveram por sorte da tribo de Judá, e da tribo de Simeão, e da tribo de Benjamim, treze cidades;"
+    },
+    {
+      "numero": 5,
+      "texto": "E aos outros filhos de Coate couberam por sorte, das famílias da tribo de Efraim, e da tribo de Dã, e da meia tribo de Manassés, dez cidades;"
+    },
+    {
+      "numero": 6,
+      "texto": "E aos filhos de Gérson couberam por sorte, das famílias da tribo de Issacar, e da tribo de Aser, e da tribo de Naftali, e da meia tribo de Manassés, em Basã, treze cidades;"
+    },
+    {
+      "numero": 7,
+      "texto": "Aos filhos de Merari, segundo as suas famílias, da tribo de Rúben, e da tribo de Gade, e da tribo de Zebulom, doze cidades;"
+    },
+    {
+      "numero": 8,
+      "texto": "E deram os filhos de Israel aos levitas estas cidades e os seus arrabaldes por sorte, como o Senhor ordenara pelo ministério de Moisés."
+    },
+    {
+      "numero": 9,
+      "texto": "Deram mais, da tribo dos filhos de Judá e da tribo dos filhos de Simeão, estas cidades, que por nome foram mencionadas,"
+    },
+    {
+      "numero": 10,
+      "texto": "Para que fossem dos filhos de Arão, das famílias dos coatitas dos filhos de Levi; porquanto a primeira sorte foi sua."
+    },
+    {
+      "numero": 11,
+      "texto": "Assim lhes deram a cidade de Arba, do pai de Anaque (esta é Hebrom), no monte de Judá, e os seus arrabaldes ao redor."
+    },
+    {
+      "numero": 12,
+      "texto": "Porém o campo da cidade, e as suas aldeias, deram a Calebe, filho de Jefoné, por sua possessão."
+    },
+    {
+      "numero": 13,
+      "texto": "Assim aos filhos de Arão, o sacerdote, deram Hebrom, cidade do refúgio do homicida, e os seus arrabaldes, Libna e os seus arrabaldes;"
+    },
+    {
+      "numero": 14,
+      "texto": "Jatir e os seus arrabaldes, e Estemoa e os seus arrabaldes;"
+    },
+    {
+      "numero": 15,
+      "texto": "E Holom e os seus arrabaldes, e Debir e os seus arrabaldes;"
+    },
+    {
+      "numero": 16,
+      "texto": "E Aim e os seus arrabaldes, e Jutá e os seus arrabaldes, e Bete-Semes e os seus arrabaldes; nove cidades destas duas tribos."
+    },
+    {
+      "numero": 17,
+      "texto": "E da tribo de Benjamim, Gibeão e os seus arrabaldes, Geba e os seus arrabaldes;"
+    },
+    {
+      "numero": 18,
+      "texto": "Anatote e os seus arrabaldes, e Almom e os seus arrabaldes; quatro cidades."
+    },
+    {
+      "numero": 19,
+      "texto": "Todas as cidades dos sacerdotes, filhos de Arão, foram treze cidades e os seus arrabaldes."
+    },
+    {
+      "numero": 20,
+      "texto": "E as famílias dos filhos de Coate, levitas, que ficaram dos filhos de Coate, tiveram as cidades da sua sorte, da tribo de Efraim."
+    },
+    {
+      "numero": 21,
+      "texto": "E deram-lhes Siquém, cidade de refúgio do homicida, e os seus arrabaldes, no monte de Efraim, e Gezer e os seus arrabaldes;"
+    },
+    {
+      "numero": 22,
+      "texto": "E Quibzaim e os seus arrabaldes, e Bete-Horom e os seus arrabaldes; quatro cidades."
+    },
+    {
+      "numero": 23,
+      "texto": "E da tribo de Dã, Elteque e os seus arrabaldes, Gibetom e os seus arrabaldes;"
+    },
+    {
+      "numero": 24,
+      "texto": "Aijalom e os seus arrabaldes, Gate-Rimom e os seus arrabaldes; quatro cidades."
+    },
+    {
+      "numero": 25,
+      "texto": "E da meia tribo de Manassés, Taanaque e os seus arrabaldes, e Gate-Rimom e os seus arrabaldes; duas cidades."
+    },
+    {
+      "numero": 26,
+      "texto": "As cidades para as famílias dos demais filhos de Coate, foram dez e os seus arrabaldes."
+    },
+    {
+      "numero": 27,
+      "texto": "E aos filhos de Gérson, das famílias dos levitas, deram da meia tribo de Manassés, Golã, cidade de refúgio do homicida, em Basã, e os seus arrabaldes, e Beesterá e os seus arrabaldes; duas cidades."
+    },
+    {
+      "numero": 28,
+      "texto": "E da tribo de Issacar, Quisiom e os seus arrabaldes, Daberate e os seus arrabaldes,"
+    },
+    {
+      "numero": 29,
+      "texto": "Jarmute e os seus arrabaldes, En-Ganim e os seus arrabaldes; quatro cidades."
+    },
+    {
+      "numero": 30,
+      "texto": "E da tribo de Aser, Misal e os seus arrabaldes, Abdom e os seus arrabaldes,"
+    },
+    {
+      "numero": 31,
+      "texto": "Helcate e os seus arrabaldes, e Reobe e os seus arrabaldes;"
+    },
+    {
+      "numero": 32,
+      "texto": "E da tribo de Naftali, Quedes, cidade de refúgio do homicida, na Galiléia, e os seus arrabaldes, e Hamote-Dor e os seus arrabaldes, e Cartã e os seus arrabaldes; três cidades."
+    },
+    {
+      "numero": 33,
+      "texto": "Todas as cidades dos gersonitas, segundo as suas famílias, foram treze cidades e os seus arrabaldes."
+    },
+    {
+      "numero": 34,
+      "texto": "E às famílias dos filhos de Merari, aos demais levitas, foram dadas, da tribo de Zebulom, Jocneão e os seus arrabaldes, Cartã e os seus arrabaldes,"
+    },
+    {
+      "numero": 35,
+      "texto": "Dimna e os seus arrabaldes, Naalal e os seus arrabaldes; quatro cidades."
+    },
+    {
+      "numero": 36,
+      "texto": "E da tribo de Rúben, Bezer e os seus arrabaldes, e Jaza e os seus arrabaldes,"
+    },
+    {
+      "numero": 37,
+      "texto": "Quedemote e os seus arrabaldes, e Mefaate e os seus arrabaldes; quatro cidades."
+    },
+    {
+      "numero": 38,
+      "texto": "E da tribo de Gade, Ramote, cidade de refúgio do homicida, em Gileade, e os seus arrabaldes, e Maanaim e os seus arrabaldes,"
+    },
+    {
+      "numero": 39,
+      "texto": "Hesbom e os seus arrabaldes, Jazer e os seus arrabaldes; ao todo, quatro cidades."
+    },
+    {
+      "numero": 40,
+      "texto": "Todas estas cidades foram dos filhos de Merari, segundo as suas famílias, que ainda restavam das famílias dos dos levitas; e foi a sua sorte doze cidades."
+    },
+    {
+      "numero": 41,
+      "texto": "Todas as cidades dos levitas, no meio da herança dos filhos de Israel, foram quarenta e oito cidades e os seus arrabaldes."
+    },
+    {
+      "numero": 42,
+      "texto": "Estavam estas cidades, cada uma com os seus arrabaldes em redor delas; assim estavam todas estas cidades."
+    },
+    {
+      "numero": 43,
+      "texto": "Desta maneira deu o Senhor a Israel toda a terra que jurara dar a seus pais; e a possuíram e habitaram nela."
+    },
+    {
+      "numero": 44,
+      "texto": "E o Senhor lhes deu repouso de todos os lados, conforme a tudo quanto jurara a seus pais; e nenhum de todos os seus inimigos pôde resisti-los; todos os seus inimigos o Senhor entregou-lhes nas mãos."
+    },
+    {
+      "numero": 45,
+      "texto": "Palavra alguma falhou de todas as boas coisas que o Senhor falou à casa de Israel; tudo se cumpriu."
+    }
+  ]
+}

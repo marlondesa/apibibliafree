@@ -1,0 +1,14 @@
+{
+  "id": 57,
+  "abbrev": "fm",
+  "nome": "Filemon",
+  "slug": "filemon",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 1,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 25
+    }
+  ]
+}

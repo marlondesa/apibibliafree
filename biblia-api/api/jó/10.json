@@ -1,0 +1,97 @@
+{
+  "livro": "jó",
+  "slug_livro": "jó",
+  "testamento": "Antigo Testamento",
+  "capitulo": 10,
+  "total_versiculos": 22,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A minha alma tem tédio da minha vida; darei livre curso à minha queixa, falarei na amargura da minha alma."
+    },
+    {
+      "numero": 2,
+      "texto": "Direi a Deus: Não me condenes; faze-me saber por que contendes comigo."
+    },
+    {
+      "numero": 3,
+      "texto": "Parece-te bem que me oprimas, que rejeites o trabalho das tuas mãos e resplandeças sobre o conselho dos ímpios?"
+    },
+    {
+      "numero": 4,
+      "texto": "Tens tu porventura olhos de carne? Vês tu como vê o homem?"
+    },
+    {
+      "numero": 5,
+      "texto": "São os teus dias como os dias do homem? Ou são os teus anos como os anos de um homem,"
+    },
+    {
+      "numero": 6,
+      "texto": "Para te informares da minha iniqüidade, e averiguares o meu pecado?"
+    },
+    {
+      "numero": 7,
+      "texto": "Bem sabes tu que eu não sou iníquo; todavia ninguém há que me livre da tua mão."
+    },
+    {
+      "numero": 8,
+      "texto": "As tuas mãos me fizeram e me formaram completamente; contudo me consomes."
+    },
+    {
+      "numero": 9,
+      "texto": "Peço-te que te lembres de que como barro me formaste e me farás voltar ao pó."
+    },
+    {
+      "numero": 10,
+      "texto": "Porventura não me vazaste como leite, e como queijo não me coalhaste?"
+    },
+    {
+      "numero": 11,
+      "texto": "De pele e carne me vestiste, e de ossos e nervos me teceste."
+    },
+    {
+      "numero": 12,
+      "texto": "Vida e misericórdia me concedeste; e o teu cuidado guardou o meu espírito."
+    },
+    {
+      "numero": 13,
+      "texto": "Porém estas coisas as ocultaste no teu coração; bem sei eu que isto esteve contigo."
+    },
+    {
+      "numero": 14,
+      "texto": "Se eu pecar, tu me observas; e da minha iniqüidade não me escusarás."
+    },
+    {
+      "numero": 15,
+      "texto": "Se for ímpio, ai de mim! E se for justo, não levantarei a minha cabeça; farto estou da minha ignomínia; e vê qual é a minha aflição,"
+    },
+    {
+      "numero": 16,
+      "texto": "Porque se vai crescendo; tu me caças como a um leão feroz; tornas a fazer maravilhas para comigo."
+    },
+    {
+      "numero": 17,
+      "texto": "Tu renovas contra mim as tuas testemunhas, e multiplicas contra mim a tua ira; reveses e combate estão comigo."
+    },
+    {
+      "numero": 18,
+      "texto": "Por que, pois, me tiraste da madre? Ah! se então tivera expirado, e olho nenhum me visse!"
+    },
+    {
+      "numero": 19,
+      "texto": "Então eu teria sido como se nunca fora; e desde o ventre seria levado à sepultura!"
+    },
+    {
+      "numero": 20,
+      "texto": "Porventura não são poucos os meus dias? Cessa, pois, e deixa-me, para que por um pouco eu tome alento."
+    },
+    {
+      "numero": 21,
+      "texto": "Antes que eu vá para o lugar de que não voltarei, à terra da escuridão e da sombra da morte;"
+    },
+    {
+      "numero": 22,
+      "texto": "Terra escuríssima, como a própria escuridão, terra da sombra da morte e sem ordem alguma, e onde a luz é como a escuridão."
+    }
+  ]
+}

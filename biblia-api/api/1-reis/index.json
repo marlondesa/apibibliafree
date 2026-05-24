@@ -1,0 +1,98 @@
+{
+  "id": 11,
+  "abbrev": "1rs",
+  "nome": "1 Reis",
+  "slug": "1-reis",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 22,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 53
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 46
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 28
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 34
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 38
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 51
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 66
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 28
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 43
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 33
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 34
+    },
+    {
+      "numero": 14,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 15,
+      "total_versiculos": 34
+    },
+    {
+      "numero": 16,
+      "total_versiculos": 34
+    },
+    {
+      "numero": 17,
+      "total_versiculos": 24
+    },
+    {
+      "numero": 18,
+      "total_versiculos": 46
+    },
+    {
+      "numero": 19,
+      "total_versiculos": 21
+    },
+    {
+      "numero": 20,
+      "total_versiculos": 43
+    },
+    {
+      "numero": 21,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 22,
+      "total_versiculos": 54
+    }
+  ]
+}

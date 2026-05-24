@@ -1,0 +1,57 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 62,
+  "total_versiculos": 12,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A minha alma espera somente em Deus; dele vem a minha salvação."
+    },
+    {
+      "numero": 2,
+      "texto": "Só ele é a minha rocha e a minha salvação; é a minha defesa; não serei grandemente abalado."
+    },
+    {
+      "numero": 3,
+      "texto": "Até quando maquinareis o mal contra um homem? Sereis mortos todos vós, sereis como uma parede encurvada e uma sebe prestes a cair."
+    },
+    {
+      "numero": 4,
+      "texto": "Eles somente consultam como o hão de derrubar da sua excelência; deleitam-se em mentiras; com a boca bendizem, mas nas suas entranhas maldizem. (Selá.)"
+    },
+    {
+      "numero": 5,
+      "texto": "Ó minha alma, espera somente em Deus, porque dele vem a minha esperança."
+    },
+    {
+      "numero": 6,
+      "texto": "Só ele é a minha rocha e a minha salvação; é a minha defesa; não serei abalado."
+    },
+    {
+      "numero": 7,
+      "texto": "Em Deus está a minha salvação e a minha glória; a rocha da minha fortaleza, e o meu refúgio estão em Deus."
+    },
+    {
+      "numero": 8,
+      "texto": "Confiai nele, ó povo, em todos os tempos; derramai perante ele o vosso coração. Deus é o nosso refúgio. (Selá.)"
+    },
+    {
+      "numero": 9,
+      "texto": "Certamente que os homens de classe baixa são vaidade, e os homens de ordem elevada são mentira; pesados em balanças, eles juntos são mais leves do que a vaidade."
+    },
+    {
+      "numero": 10,
+      "texto": "Não confieis na opressão, nem vos ensoberbeçais na rapina; se as vossas riquezas aumentam, não ponhais nelas o coração."
+    },
+    {
+      "numero": 11,
+      "texto": "Deus falou uma vez; duas vezes ouvi isto: que o poder pertence a Deus."
+    },
+    {
+      "numero": 12,
+      "texto": "A ti também, Senhor, pertence a misericórdia; pois retribuirás a cada um segundo a sua obra."
+    }
+  ]
+}

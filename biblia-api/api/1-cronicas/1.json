@@ -1,0 +1,225 @@
+{
+  "livro": "1 Crônicas",
+  "slug_livro": "1-cronicas",
+  "testamento": "Antigo Testamento",
+  "capitulo": 1,
+  "total_versiculos": 54,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Adão, Sete, Enos,"
+    },
+    {
+      "numero": 2,
+      "texto": "Cainã, Maalaleel, Jerede,"
+    },
+    {
+      "numero": 3,
+      "texto": "Enoque, Matusalém, Lameque,"
+    },
+    {
+      "numero": 4,
+      "texto": "Noé, Sem, Cão e Jafé."
+    },
+    {
+      "numero": 5,
+      "texto": "Os filhos de Jafé foram: Gomer, Magogue, Madai, Javã, Tubal, Meseque e Tiras."
+    },
+    {
+      "numero": 6,
+      "texto": "E os filhos de Gomer: Asquenaz, Rifate, Togarma."
+    },
+    {
+      "numero": 7,
+      "texto": "E os filhos de Javã: Elisá, Társis, Quitim e Dodanim."
+    },
+    {
+      "numero": 8,
+      "texto": "Os filhos de Cão: Cuxe, Mizraim, Pute e Canaã."
+    },
+    {
+      "numero": 9,
+      "texto": "E os filhos de Cuxe eram: Sebá, Havilá, Sabtá, Raamá e Sabtecá; os filhos de Raamá: Sebá e Dedã."
+    },
+    {
+      "numero": 10,
+      "texto": "E Cuxe gerou a Ninrode, que começou a ser poderoso na terra."
+    },
+    {
+      "numero": 11,
+      "texto": "E Mizraim gerou a Ludim e a Anamim e a Leabim e a Naftuim,"
+    },
+    {
+      "numero": 12,
+      "texto": "E a Patrusim e a Casluim (dos quais procedem os filisteus) e a Caftorim."
+    },
+    {
+      "numero": 13,
+      "texto": "E Canaã gerou a Sidom seu primogênito, e a Hete,"
+    },
+    {
+      "numero": 14,
+      "texto": "E aos jebuseus e aos amorreus e aos girgaseus,"
+    },
+    {
+      "numero": 15,
+      "texto": "E aos heveus e aos arqueus e aos sineus,"
+    },
+    {
+      "numero": 16,
+      "texto": "E aos arvadeus e aos zemareus e aos hamateus."
+    },
+    {
+      "numero": 17,
+      "texto": "E foram os filhos de Sem: Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter e Meseque."
+    },
+    {
+      "numero": 18,
+      "texto": "E Arfaxade gerou a Selá e Selá gerou a Éber."
+    },
+    {
+      "numero": 19,
+      "texto": "E a Éber nasceram dois filhos: o nome de um foi Pelegue, porquanto nos seus dias se repartiu a terra, e o nome de seu irmão era Joctã."
+    },
+    {
+      "numero": 20,
+      "texto": "E Joctã gerou a Almodá, a Selefe, a Hazarmavé, e a Jerá,"
+    },
+    {
+      "numero": 21,
+      "texto": "E a Hadorão, a Usal, e a Dicla,"
+    },
+    {
+      "numero": 22,
+      "texto": "E a Obal, a Abimael, a Sebá,"
+    },
+    {
+      "numero": 23,
+      "texto": "E a Ofir, a Havilá, e a Jobabe: todos estes foram filhos de Joctã."
+    },
+    {
+      "numero": 24,
+      "texto": "Sem, Arfaxade, Selá,"
+    },
+    {
+      "numero": 25,
+      "texto": "Éber, Pelegue, Reú,"
+    },
+    {
+      "numero": 26,
+      "texto": "Serugue, Naor, Terá,"
+    },
+    {
+      "numero": 27,
+      "texto": "Abrão, que é Abraão."
+    },
+    {
+      "numero": 28,
+      "texto": "Os filhos de Abraão foram: Isaque e Ismael."
+    },
+    {
+      "numero": 29,
+      "texto": "Estas são as suas gerações: o primogênito de Ismael foi Nebaiote, e, depois, Quedar, Adbeel, Mibsão,"
+    },
+    {
+      "numero": 30,
+      "texto": "Misma, Dumá, Massá, Hadade, Tema,"
+    },
+    {
+      "numero": 31,
+      "texto": "Jetur, Nafis e Quedemá; estes foram os filhos de Ismael."
+    },
+    {
+      "numero": 32,
+      "texto": "Quanto aos filhos de Quetura, concubina de Abraão, esta deu à luz a Zinrã, a Jocsã, a Medã, a Midiã, a Jisbaque e a Suá; e os filhos de Jocsã foram Seba e Dedã."
+    },
+    {
+      "numero": 33,
+      "texto": "E os filhos de Midiã: Efá, Efer, Enoque, Abida e Elda; todos estes foram filhos de Quetura."
+    },
+    {
+      "numero": 34,
+      "texto": "Abraão, pois, gerou a Isaque; e foram os filhos de Isaque: Esaú e Israel."
+    },
+    {
+      "numero": 35,
+      "texto": "Os filhos de Esaú: Elifaz, Reuel, Jeús, Jalão e Coré."
+    },
+    {
+      "numero": 36,
+      "texto": "Os filhos de Elifaz: Temã, Omar, Zefi, Gaetã, Quenaz, Timna e Amaleque."
+    },
+    {
+      "numero": 37,
+      "texto": "Os filhos de Reuel: Naate, Zerá, Samá e Mizá."
+    },
+    {
+      "numero": 38,
+      "texto": "E os filhos de Seir: Lotã, Sobal, Zibeão, Aná, Disom, Eser e Disã."
+    },
+    {
+      "numero": 39,
+      "texto": "E os filhos de Lotã: Hori e Homã; e a irmã de Lotã foi Timna."
+    },
+    {
+      "numero": 40,
+      "texto": "Os filhos de Sobal eram Alvã, Manaate, Ebal, Sefi e Onã; e os filhos de Zibeão eram Aiá e Aná."
+    },
+    {
+      "numero": 41,
+      "texto": "O filho de Aná foi Disom; e os filhos de Disom foram Hanrão, Esbã, Itrã e Querã."
+    },
+    {
+      "numero": 42,
+      "texto": "Os filhos de Eser eram: Bilã, Zaavã e Jaacã; os filhos de Disã eram: Uz e Arã."
+    },
+    {
+      "numero": 43,
+      "texto": "E estes são os reis que reinaram na terra de Edom, antes que reinasse rei sobre os filhos de Israel: Bela, filho de Beor, e era o nome da sua cidade Dinabá."
+    },
+    {
+      "numero": 44,
+      "texto": "E morreu Bela, e reinou em seu lugar Jobabe, filho de Zerá, de Bozra."
+    },
+    {
+      "numero": 45,
+      "texto": "E morreu Jobabe, e reinou em seu lugar Husão, da terra dos temanitas."
+    },
+    {
+      "numero": 46,
+      "texto": "E morreu Husão, e reinou em seu lugar Hadade, filho de Bedade; este feriu os midianitas no campo de Moabe; e era o nome da sua cidade Avite."
+    },
+    {
+      "numero": 47,
+      "texto": "E morreu Hadade, e reinou em seu lugar Samlá, de Masreca."
+    },
+    {
+      "numero": 48,
+      "texto": "E morreu Samlá, e reinou em seu lugar Saul, de Reobote, junto ao rio."
+    },
+    {
+      "numero": 49,
+      "texto": "E morreu Saul, e reinou em seu lugar Baal-Hanã, filho de Acbor."
+    },
+    {
+      "numero": 50,
+      "texto": "E, morrendo Baal-Hanã, Hadade reinou em seu lugar; e era o nome da sua cidade Paí; e o nome de sua mulher era Meetabel, filha de Matrede, filha de Me-Zaabe."
+    },
+    {
+      "numero": 51,
+      "texto": "E, morrendo Hadade, foram príncipes em Edom o príncipe Timna, o príncipe Alva, o príncipe Jetete,"
+    },
+    {
+      "numero": 52,
+      "texto": "O príncipe Oolibama, o príncipe Elá, o príncipe Pinom,"
+    },
+    {
+      "numero": 53,
+      "texto": "O príncipe Quenaz, o príncipe Temã, o príncipe Mibzar,"
+    },
+    {
+      "numero": 54,
+      "texto": "O príncipe Magdiel, o príncipe Irã, estes foram os príncipes de Edom."
+    }
+  ]
+}

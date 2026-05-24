@@ -1,0 +1,121 @@
+{
+  "livro": "Provérbios",
+  "slug_livro": "proverbios",
+  "testamento": "Antigo Testamento",
+  "capitulo": 12,
+  "total_versiculos": 28,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O que ama a instrução ama o conhecimento, mas o que odeia a repreensão é estúpido."
+    },
+    {
+      "numero": 2,
+      "texto": "O homem de bem alcançará o favor do Senhor, mas ao homem de intenções perversas ele condenará."
+    },
+    {
+      "numero": 3,
+      "texto": "O homem não se estabelecerá pela impiedade, mas a raiz dos justos não será removida."
+    },
+    {
+      "numero": 4,
+      "texto": "A mulher virtuosa é a coroa do seu marido, mas a que o envergonha é como podridão nos seus ossos."
+    },
+    {
+      "numero": 5,
+      "texto": "Os pensamentos dos justos são retos, mas os conselhos dos ímpios, engano."
+    },
+    {
+      "numero": 6,
+      "texto": "As palavras dos ímpios são ciladas para derramar sangue, mas a boca dos retos os livrará."
+    },
+    {
+      "numero": 7,
+      "texto": "Os ímpios serão transtornados e não subsistirão, mas a casa dos justos permanecerá."
+    },
+    {
+      "numero": 8,
+      "texto": "Cada qual será louvado segundo o seu entendimento, mas o perverso de coração estará em desprezo."
+    },
+    {
+      "numero": 9,
+      "texto": "Melhor é o que se estima em pouco, e tem servos, do que o que se vangloria e tem falta de pão."
+    },
+    {
+      "numero": 10,
+      "texto": "O justo tem consideração pela vida dos seus animais, mas as afeições dos ímpios são cruéis."
+    },
+    {
+      "numero": 11,
+      "texto": "O que lavra a sua terra se fartará de pão; mas o que segue os ociosos é falto de juízo."
+    },
+    {
+      "numero": 12,
+      "texto": "O ímpio deseja a rede dos maus, mas a raiz dos justos produz o seu fruto."
+    },
+    {
+      "numero": 13,
+      "texto": "O ímpio se enlaça na transgressão dos lábios, mas o justo sairá da angústia."
+    },
+    {
+      "numero": 14,
+      "texto": "Cada um se fartará do fruto da sua boca, e da obra das suas mãos o homem receberá a recompensa."
+    },
+    {
+      "numero": 15,
+      "texto": "O caminho do insensato é reto aos seus próprios olhos, mas o que dá ouvidos ao conselho é sábio."
+    },
+    {
+      "numero": 16,
+      "texto": "A ira do insensato se conhece no mesmo dia, mas o prudente encobre a afronta."
+    },
+    {
+      "numero": 17,
+      "texto": "O que diz a verdade manifesta a justiça, mas a falsa testemunha diz engano."
+    },
+    {
+      "numero": 18,
+      "texto": "Há alguns que falam como que espada penetrante, mas a língua dos sábios é saúde."
+    },
+    {
+      "numero": 19,
+      "texto": "O lábio da verdade permanece para sempre, mas a língua da falsidade, dura por um só momento."
+    },
+    {
+      "numero": 20,
+      "texto": "No coração dos que maquinam o mal há engano, mas os que aconselham a paz têm alegria."
+    },
+    {
+      "numero": 21,
+      "texto": "Nenhum agravo sobrevirá ao justo, mas os ímpios ficam cheios de mal."
+    },
+    {
+      "numero": 22,
+      "texto": "Os lábios mentirosos são abomináveis ao Senhor, mas os que agem fielmente são o seu deleite."
+    },
+    {
+      "numero": 23,
+      "texto": "O homem prudente encobre o conhecimento, mas o coração dos tolos proclama a estultícia."
+    },
+    {
+      "numero": 24,
+      "texto": "A mão dos diligentes dominará, mas os negligentes serão tributários."
+    },
+    {
+      "numero": 25,
+      "texto": "A ansiedade no coração deixa o homem abatido, mas uma boa palavra o alegra."
+    },
+    {
+      "numero": 26,
+      "texto": "O justo é mais excelente do que o seu próximo, mas o caminho dos ímpios faz errar."
+    },
+    {
+      "numero": 27,
+      "texto": "O preguiçoso deixa de assar a sua caça, mas ser diligente é o precioso bem do homem."
+    },
+    {
+      "numero": 28,
+      "texto": "Na vereda da justiça está a vida, e no caminho da sua carreira não há morte."
+    }
+  ]
+}

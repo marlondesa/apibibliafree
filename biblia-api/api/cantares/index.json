@@ -1,0 +1,42 @@
+{
+  "id": 22,
+  "abbrev": "ct",
+  "nome": "Cantares",
+  "slug": "cantares",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 8,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 11
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 14
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "livro": "1 Crônicas",
+  "slug_livro": "1-cronicas",
+  "testamento": "Antigo Testamento",
+  "capitulo": 25,
+  "total_versiculos": 31,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E Davi, juntamente com os capitães do exército, separou para o ministério os filhos de Asafe, e de Hemã, e de Jedutum, para profetizarem com harpas, com címbalos, e com saltérios; e este foi o número dos homens aptos para a obra do seu ministério:"
+    },
+    {
+      "numero": 2,
+      "texto": "Dos filhos de Asafe: Zacur, José, Netanias, e Asarela, filhos de Asafe; a cargo de Asafe, que profetizava debaixo das ordens do rei Davi."
+    },
+    {
+      "numero": 3,
+      "texto": "Quanto a Jedutum, os filhos: Gedalias, Zeri, Jesaías, Hasabias, e Matitias, seis, a cargo de seu pai, Jedutum, o qual profetizava com a harpa, louvando e dando graças ao Senhor."
+    },
+    {
+      "numero": 4,
+      "texto": "Quanto a Hemã, os filhos: Buquias, Matanias, Uziel, Sebuel, Jerimote, Hananias, Hanani, Eliata, Gidalti, Romanti-Ezer, Josbecasa, Maloti, Hotir, e Maaziote."
+    },
+    {
+      "numero": 5,
+      "texto": "Todos estes foram filhos de Hemã, o vidente do rei nas palavras de Deus, para exaltar o seu poder; porque Deus dera a Hemã catorze filhos e três filhas."
+    },
+    {
+      "numero": 6,
+      "texto": "Todos estes estavam sob a direção de seu pai, para a música da casa do Senhor, com saltérios, címbalos e harpas, para o ministério da casa de Deus; e Asafe, Jedutum, e Hemã, estavam sob as ordens do rei."
+    },
+    {
+      "numero": 7,
+      "texto": "E era o número deles, juntamente com seus irmãos instruídos no canto ao Senhor, todos eles mestres, duzentos e oitenta e oito."
+    },
+    {
+      "numero": 8,
+      "texto": "E deitaram sortes acerca da guarda igualmente, assim o pequeno como o grande, o mestre juntamente com o discípulo."
+    },
+    {
+      "numero": 9,
+      "texto": "Saiu, pois, a primeira sorte a Asafe, a saber a José; a segunda a Gedalias; e ele, e seus irmãos, e seus filhos, ao todo eram doze."
+    },
+    {
+      "numero": 10,
+      "texto": "A terceira a Zacur, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 11,
+      "texto": "A quarta a Izri, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 12,
+      "texto": "A quinta a Netanias, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 13,
+      "texto": "A sexta a Buquias, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 14,
+      "texto": "A sétima a Jesarela, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 15,
+      "texto": "A oitava a Jesaías, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 16,
+      "texto": "A nona a Matanias, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 17,
+      "texto": "A décima a Simei, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 18,
+      "texto": "A undécima a Azareel, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 19,
+      "texto": "A duodécima a Hasabias, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 20,
+      "texto": "A décima terceira a Subael, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 21,
+      "texto": "A décima quarta a Matitias, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 22,
+      "texto": "A décima quinta a Jeremote, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 23,
+      "texto": "A décima sexta a Hananias, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 24,
+      "texto": "A décima sétima a Josbecasa, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 25,
+      "texto": "A décima oitava a Hanani, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 26,
+      "texto": "A décima nona a Maloti, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 27,
+      "texto": "A vigésima a Eliata, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 28,
+      "texto": "A vigésima primeira a Hotir, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 29,
+      "texto": "A vigésima segunda a Gidalti, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 30,
+      "texto": "A vigésima terceira a Maaziote, seus filhos, e seus irmãos, doze."
+    },
+    {
+      "numero": 31,
+      "texto": "A vigésima quarta a Romanti-Ezer, seus filhos, e seus irmãos, doze."
+    }
+  ]
+}

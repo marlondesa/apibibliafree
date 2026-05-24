@@ -1,0 +1,45 @@
+{
+  "livro": "Oséias",
+  "slug_livro": "oseias",
+  "testamento": "Antigo Testamento",
+  "capitulo": 14,
+  "total_versiculos": 9,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Converte-te, ó Israel, ao SENHOR teu Deus; porque pelos teus pecados tens caído."
+    },
+    {
+      "numero": 2,
+      "texto": "Tomai convosco palavras, e convertei-vos ao Senhor; dizei-lhe: Tira toda a iniqüidade, e aceita o que é bom; e ofereceremos como novilhos os sacrifícios dos nossos lábios."
+    },
+    {
+      "numero": 3,
+      "texto": "Não nos salvará a Assíria, não iremos montados em cavalos, e à obra das nossas mãos já não diremos mais: Tu és o nosso deus; porque por ti o órfão alcança misericórdia."
+    },
+    {
+      "numero": 4,
+      "texto": "Eu sararei a sua infidelidade, eu voluntariamente os amarei; porque a minha ira se apartou deles."
+    },
+    {
+      "numero": 5,
+      "texto": "Eu serei para Israel como o orvalho. Ele florescerá como o lírio e lançará as suas raízes como o Líbano."
+    },
+    {
+      "numero": 6,
+      "texto": "Estender-se-ão os seus galhos, e a sua glória será como a da oliveira, e sua fragrância como a do Líbano."
+    },
+    {
+      "numero": 7,
+      "texto": "Voltarão os que habitam debaixo da sua sombra; serão vivificados como o trigo, e florescerão como a vide; a sua memória será como o vinho do Líbano."
+    },
+    {
+      "numero": 8,
+      "texto": "Efraim dirá: Que mais tenho eu com os ídolos? Eu o tenho ouvido, e cuidarei dele; eu sou como a faia verde; de mim é achado o teu fruto."
+    },
+    {
+      "numero": 9,
+      "texto": "Quem é sábio, para que entenda estas coisas? Quem é prudente, para que as saiba? Porque os caminhos do Senhor são retos, e os justos andarão neles, mas os transgressores neles cairão."
+    }
+  ]
+}

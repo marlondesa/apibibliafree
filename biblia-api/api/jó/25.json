@@ -1,0 +1,33 @@
+{
+  "livro": "jó",
+  "slug_livro": "jó",
+  "testamento": "Antigo Testamento",
+  "capitulo": 25,
+  "total_versiculos": 6,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então respondeu Bildade, o suíta, e disse:"
+    },
+    {
+      "numero": 2,
+      "texto": "Com ele estão domínio e temor; ele faz paz nas suas alturas."
+    },
+    {
+      "numero": 3,
+      "texto": "Porventura têm número as suas tropas? E sobre quem não se levanta a sua luz?"
+    },
+    {
+      "numero": 4,
+      "texto": "Como, pois, seria justo o homem para com Deus, e como seria puro aquele que nasce de mulher?"
+    },
+    {
+      "numero": 5,
+      "texto": "Eis que até a lua não resplandece, e as estrelas não são puras aos seus olhos."
+    },
+    {
+      "numero": 6,
+      "texto": "E quanto menos o homem, que é um verme, e o filho do homem, que é um vermezinho!"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "livro": "Romanos",
+  "slug_livro": "romanos",
+  "testamento": "Novo Testamento",
+  "capitulo": 16,
+  "total_versiculos": 27,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Recomendo-vos, pois, Febe, nossa irmã, a qual serve na igreja que está em Cencréia,"
+    },
+    {
+      "numero": 2,
+      "texto": "Para que a recebais no Senhor, como convém aos santos, e a ajudeis em qualquer coisa que de vós necessitar; porque tem hospedado a muitos, como também a mim mesmo."
+    },
+    {
+      "numero": 3,
+      "texto": "Saudai a Priscila e a Áqüila, meus cooperadores em Cristo Jesus,"
+    },
+    {
+      "numero": 4,
+      "texto": "Os quais pela minha vida expuseram as suas cabeças; o que não só eu lhes agradeço, mas também todas as igrejas dos gentios."
+    },
+    {
+      "numero": 5,
+      "texto": "Saudai também a igreja que está em sua casa. Saudai a Epêneto, meu amado, que é as primícias da Acáia em Cristo."
+    },
+    {
+      "numero": 6,
+      "texto": "Saudai a Maria, que trabalhou muito por nós."
+    },
+    {
+      "numero": 7,
+      "texto": "Saudai a Andrônico e a Júnias, meus parentes e meus companheiros na prisão, os quais se distinguiram entre os apóstolos e que foram antes de mim em Cristo."
+    },
+    {
+      "numero": 8,
+      "texto": "Saudai a Amplias, meu amado no Senhor."
+    },
+    {
+      "numero": 9,
+      "texto": "Saudai a Urbano, nosso cooperador em Cristo, e a Estáquis, meu amado."
+    },
+    {
+      "numero": 10,
+      "texto": "Saudai a Apeles, aprovado em Cristo. Saudai aos da família de Aristóbulo."
+    },
+    {
+      "numero": 11,
+      "texto": "Saudai a Herodião, meu parente. Saudai aos da família de Narciso, os que estão no Senhor."
+    },
+    {
+      "numero": 12,
+      "texto": "Saudai a Trifena e a Trifosa, as quais trabalham no Senhor. Saudai à amada Pérside, a qual muito trabalhou no Senhor."
+    },
+    {
+      "numero": 13,
+      "texto": "Saudai a Rufo, eleito no Senhor, e a sua mãe e minha."
+    },
+    {
+      "numero": 14,
+      "texto": "Saudai a Asíncrito, a Flegonte, a Hermes, a Pátrobas, a Hermas, e aos irmãos que estão com eles."
+    },
+    {
+      "numero": 15,
+      "texto": "Saudai a Filólogo e a Júlia, a Nereu e a sua irmã, e a Olimpas, e a todos os santos que com eles estão."
+    },
+    {
+      "numero": 16,
+      "texto": "Saudai-vos uns aos outros com santo ósculo. As igrejas de Cristo vos saúdam."
+    },
+    {
+      "numero": 17,
+      "texto": "E rogo-vos, irmãos, que noteis os que promovem dissensões e escândalos contra a doutrina que aprendestes; desviai-vos deles."
+    },
+    {
+      "numero": 18,
+      "texto": "Porque os tais não servem a nosso Senhor Jesus Cristo, mas ao seu ventre; e com suaves palavras e lisonjas enganam os corações dos simples."
+    },
+    {
+      "numero": 19,
+      "texto": "Quanto à vossa obediência, é ela conhecida de todos. Comprazo-me, pois, em vós; e quero que sejais sábios no bem, mas simples no mal."
+    },
+    {
+      "numero": 20,
+      "texto": "E o Deus de paz esmagará em breve Satanás debaixo dos vossos pés. A graça de nosso Senhor Jesus Cristo seja convosco. Amém."
+    },
+    {
+      "numero": 21,
+      "texto": "Saúdam-vos Timóteo, meu cooperador, e Lúcio, Jasom e Sosípatro, meus parentes."
+    },
+    {
+      "numero": 22,
+      "texto": "Eu, Tércio, que esta carta escrevi, vos saúdo no Senhor."
+    },
+    {
+      "numero": 23,
+      "texto": "Saúda-vos Gaio, meu hospedeiro, e de toda a igreja. Saúda-vos Erasto, procurador da cidade, e também o irmão Quarto."
+    },
+    {
+      "numero": 24,
+      "texto": "A graça de nosso Senhor Jesus Cristo seja com todos vós. Amém."
+    },
+    {
+      "numero": 25,
+      "texto": "Ora, àquele que é poderoso para vos confirmar segundo o meu evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério que desde tempos eternos esteve oculto,"
+    },
+    {
+      "numero": 26,
+      "texto": "Mas que se manifestou agora, e se notificou pelas Escrituras dos profetas, segundo o mandamento do Deus eterno, a todas as nações para obediência da fé;"
+    },
+    {
+      "numero": 27,
+      "texto": "Ao único Deus, sábio, seja dada glória por Jesus Cristo para todo o sempre. Amém."
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "livro": "Jeremias",
+  "slug_livro": "jeremias",
+  "testamento": "Antigo Testamento",
+  "capitulo": 2,
+  "total_versiculos": 37,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E veio a mim a palavra do SENHOR, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Vai, e clama aos ouvidos de Jerusalém, dizendo: Assim diz o Senhor: Lembro-me de ti, da piedade da tua mocidade, e do amor do teu noivado, quando me seguias no deserto, numa terra que não se semeava."
+    },
+    {
+      "numero": 3,
+      "texto": "Então Israel era santidade para o Senhor, e as primícias da sua novidade; todos os que o devoravam eram tidos por culpados; o mal vinha sobre eles, diz o Senhor."
+    },
+    {
+      "numero": 4,
+      "texto": "Ouvi a palavra do Senhor, ó casa de Jacó, e todas as famílias da casa de Israel;"
+    },
+    {
+      "numero": 5,
+      "texto": "Assim diz o Senhor: Que injustiça acharam vossos pais em mim, para se afastarem de mim, indo após a vaidade, e tornando-se levianos?"
+    },
+    {
+      "numero": 6,
+      "texto": "E não disseram: Onde está o Senhor, que nos fez subir da terra do Egito, que nos guiou através do deserto, por uma terra árida, e de covas, por uma terra de sequidão e sombra de morte, por uma terra pela qual ninguém transitava, e na qual não morava homem algum?"
+    },
+    {
+      "numero": 7,
+      "texto": "E eu vos introduzi numa terra fértil, para comerdes o seu fruto e o seu bem; mas quando nela entrastes contaminastes a minha terra, e da minha herança fizestes uma abominação."
+    },
+    {
+      "numero": 8,
+      "texto": "Os sacerdotes não disseram: Onde está o Senhor? E os que tratavam da lei não me conheciam, e os pastores prevaricavam contra mim, e os profetas profetizavam por Baal, e andaram após o que é de nenhum proveito."
+    },
+    {
+      "numero": 9,
+      "texto": "Portanto ainda contenderei convosco, diz o Senhor; e até com os filhos de vossos filhos contenderei."
+    },
+    {
+      "numero": 10,
+      "texto": "Pois, passai às ilhas de Quitim, e vede; e enviai a Quedar, e atentai bem, e vede se jamais sucedeu coisa semelhante."
+    },
+    {
+      "numero": 11,
+      "texto": "Houve alguma nação que trocasse os seus deuses, ainda que não fossem deuses? Todavia o meu povo trocou a sua glória por aquilo que é de nenhum proveito."
+    },
+    {
+      "numero": 12,
+      "texto": "Espantai-vos disto, ó céus, e horrorizai-vos! Ficai verdadeiramente desolados, diz o Senhor."
+    },
+    {
+      "numero": 13,
+      "texto": "Porque o meu povo fez duas maldades: a mim me deixaram, o manancial de águas vivas, e cavaram cisternas, cisternas rotas, que não retêm águas."
+    },
+    {
+      "numero": 14,
+      "texto": "Acaso é Israel um servo? É ele um escravo nascido em casa? Por que, pois, veio a ser presa?"
+    },
+    {
+      "numero": 15,
+      "texto": "Os filhos de leão rugiram sobre ele, levantaram a sua voz; e fizeram da sua terra uma desolação; as suas cidades se queimaram, e ninguém habita nelas."
+    },
+    {
+      "numero": 16,
+      "texto": "Até os filhos de Nofe e de Tafnes te quebraram o alto da cabeça."
+    },
+    {
+      "numero": 17,
+      "texto": "Porventura não fizeste isto a ti mesmo, deixando o Senhor teu Deus, no tempo em que ele te guiava pelo caminho?"
+    },
+    {
+      "numero": 18,
+      "texto": "Agora, pois, que te importa a ti o caminho do Egito, para beberes as águas de Sior? E que te importa a ti o caminho da Assíria, para beberes as águas do rio?"
+    },
+    {
+      "numero": 19,
+      "texto": "A tua malícia te castigará, e as tuas apostasias te repreenderão; sabe, pois, e vê, que mal e quão amargo é deixares ao SENHOR teu Deus, e não teres em ti o meu temor, diz o Senhor DEUS dos Exércitos."
+    },
+    {
+      "numero": 20,
+      "texto": "Quando eu já há muito quebrava o teu jugo, e rompia as tuas ataduras, dizias tu: Nunca mais transgredirei; contudo em todo o outeiro alto e debaixo de toda a árvore verde te andas encurvando e prostituindo-te."
+    },
+    {
+      "numero": 21,
+      "texto": "Eu mesmo te plantei como vide excelente, uma semente inteiramente fiel; como, pois, te tornaste para mim uma planta degenerada como vide estranha?"
+    },
+    {
+      "numero": 22,
+      "texto": "Por isso, ainda que te laves com salitre, e amontoes sabão, a tua iniqüidade está gravada diante de mim, diz o Senhor DEUS."
+    },
+    {
+      "numero": 23,
+      "texto": "Como dizes logo: Não estou contaminada nem andei após os baalins? Vê o teu caminho no vale, conhece o que fizeste; dromedária ligeira és, que anda torcendo os seus caminhos."
+    },
+    {
+      "numero": 24,
+      "texto": "Jumenta montês, acostumada ao deserto, que, conforme o desejo da sua alma, sorve o vento, quem a deteria no seu cio? Todos os que a buscarem não se cansarão; no mês dela a acharão."
+    },
+    {
+      "numero": 25,
+      "texto": "Evita que o teu pé ande descalço, e a tua garganta tenha sede. Mas tu dizes: Não há esperança; porque amo os estranhos, após eles andarei."
+    },
+    {
+      "numero": 26,
+      "texto": "Como fica confundido o ladrão quando o apanham, assim se confundem os da casa de Israel; eles, os seus reis, os seus príncipes, e os seus sacerdotes, e os seus profetas,"
+    },
+    {
+      "numero": 27,
+      "texto": "Que dizem ao pau: Tu és meu pai; e à pedra: Tu me geraste; porque me viraram as costas, e não o rosto; mas no tempo da sua angústia dirão: Levanta-te, e livra-nos."
+    },
+    {
+      "numero": 28,
+      "texto": "Onde, pois, estão os teus deuses, que fizeste para ti? Que se levantem, se te podem livrar no tempo da tua angústia; porque os teus deuses, ó Judá, são tão numerosos como as tuas cidades."
+    },
+    {
+      "numero": 29,
+      "texto": "Por que contendeis comigo? Todos vós transgredistes contra mim, diz o Senhor."
+    },
+    {
+      "numero": 30,
+      "texto": "Em vão castiguei os vossos filhos; eles não aceitaram a correção; a vossa espada devorou os vossos profetas como um leão destruidor."
+    },
+    {
+      "numero": 31,
+      "texto": "Oh geração! Considerai vós a palavra do Senhor: Porventura tenho eu sido para Israel um deserto? Ou uma terra da mais espessa escuridão? Por que, pois, diz o meu povo: Temos determinado; não viremos mais a ti?"
+    },
+    {
+      "numero": 32,
+      "texto": "Porventura esquece-se a virgem dos seus enfeites, ou a noiva dos seus adornos? Todavia o meu povo se esqueceu de mim por inumeráveis dias."
+    },
+    {
+      "numero": 33,
+      "texto": "Por que ornamentas o teu caminho, para buscares o amor? Pois até às malignas ensinaste os teus caminhos."
+    },
+    {
+      "numero": 34,
+      "texto": "Até nas orlas dos teus vestidos se achou o sangue das almas dos inocentes e necessitados; não cavei para achar, pois se vê em todas estas coisas."
+    },
+    {
+      "numero": 35,
+      "texto": "E ainda dizes: Eu estou inocente; certamente a sua ira se desviou de mim. Eis que entrarei em juízo contigo, porquanto dizes: Não pequei."
+    },
+    {
+      "numero": 36,
+      "texto": "Por que te desvias tanto, mudando o teu caminho? Também do Egito serás envergonhada, como foste envergonhada da Assíria."
+    },
+    {
+      "numero": 37,
+      "texto": "Também daquele sairás com as mãos sobre a tua cabeça; porque o Senhor rejeitou a tua confiança, e não prosperarás com eles."
+    }
+  ]
+}

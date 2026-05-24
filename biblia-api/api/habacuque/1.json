@@ -1,0 +1,77 @@
+{
+  "livro": "Habacuque",
+  "slug_livro": "habacuque",
+  "testamento": "Antigo Testamento",
+  "capitulo": 1,
+  "total_versiculos": 17,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O peso que viu o profeta Habacuque."
+    },
+    {
+      "numero": 2,
+      "texto": "Até quando, Senhor, clamarei eu, e tu não me escutarás? Gritar-te-ei: Violência! e não salvarás?"
+    },
+    {
+      "numero": 3,
+      "texto": "Por que razão me mostras a iniqüidade, e me fazes ver a opressão? Pois que a destruição e a violência estão diante de mim, havendo também quem suscite a contenda e o litígio."
+    },
+    {
+      "numero": 4,
+      "texto": "Por esta causa a lei se afrouxa, e a justiça nunca se manifesta; porque o ímpio cerca o justo, e a justiça se manifesta distorcida."
+    },
+    {
+      "numero": 5,
+      "texto": "Vede entre os gentios e olhai, e maravilhai-vos, e admirai-vos; porque realizarei em vossos dias uma obra que vós não crereis, quando for contada."
+    },
+    {
+      "numero": 6,
+      "texto": "Porque eis que suscito os caldeus, nação amarga e impetuosa, que marcha sobre a largura da terra, para apoderar-se de moradas que não são suas."
+    },
+    {
+      "numero": 7,
+      "texto": "Horrível e terrível é; dela mesma sairá o seu juízo e a sua dignidade."
+    },
+    {
+      "numero": 8,
+      "texto": "E os seus cavalos são mais ligeiros do que os leopardos, e mais espertos do que os lobos à tarde; os seus cavaleiros espalham-se por toda parte; os seus cavaleiros virão de longe; voarão como águias que se apressam a devorar."
+    },
+    {
+      "numero": 9,
+      "texto": "Eles todos virão para fazer violência; os seus rostos buscarão o vento oriental, e reunirão os cativos como areia."
+    },
+    {
+      "numero": 10,
+      "texto": "E escarnecerão dos reis, e dos príncipes farão zombaria; eles se rirão de todas as fortalezas, porque amontoarão terra, e as tomarão."
+    },
+    {
+      "numero": 11,
+      "texto": "Então muda a sua mente, e seguirá, e se fará culpado, atribuindo este seu poder ao seu deus."
+    },
+    {
+      "numero": 12,
+      "texto": "Não és tu desde a eternidade, ó Senhor meu Deus, meu Santo? Nós não morreremos. Ó Senhor, para juízo o puseste, e tu, ó Rocha, o fundaste para castigar."
+    },
+    {
+      "numero": 13,
+      "texto": "Tu és tão puro de olhos, que não podes ver o mal, e a opressão não podes contemplar. Por que olhas para os que procedem aleivosamente, e te calas quando o ímpio devora aquele que é mais justo do que ele?"
+    },
+    {
+      "numero": 14,
+      "texto": "E por que farias os homens como os peixes do mar, como os répteis, que não têm quem os governe?"
+    },
+    {
+      "numero": 15,
+      "texto": "Ele a todos levantará com o anzol, apanhá-los-á com a sua rede, e os ajuntará na sua rede varredoura; por isso ele se alegrará e se regozijará."
+    },
+    {
+      "numero": 16,
+      "texto": "Por isso sacrificará à sua rede, e queimará incenso à sua varredoura; porque com elas engordou a sua porção, e engrossou a sua comida."
+    },
+    {
+      "numero": 17,
+      "texto": "Porventura por isso esvaziará a sua rede e não terá piedade de matar as nações continuamente?"
+    }
+  ]
+}

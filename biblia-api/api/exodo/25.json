@@ -1,0 +1,169 @@
+{
+  "livro": "Êxodo",
+  "slug_livro": "exodo",
+  "testamento": "Antigo Testamento",
+  "capitulo": 25,
+  "total_versiculos": 40,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então falou o SENHOR a Moisés, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Fala aos filhos de Israel, que me tragam uma oferta alçada; de todo o homem cujo coração se mover voluntariamente, dele tomareis a minha oferta alçada."
+    },
+    {
+      "numero": 3,
+      "texto": "E esta é a oferta alçada que recebereis deles: ouro, e prata, e cobre,"
+    },
+    {
+      "numero": 4,
+      "texto": "E azul, e púrpura, e carmesim, e linho fino, e pêlos de cabras,"
+    },
+    {
+      "numero": 5,
+      "texto": "E peles de carneiros tintas de vermelho, e peles de texugos, e madeira de acácia,"
+    },
+    {
+      "numero": 6,
+      "texto": "Azeite para a luz, especiarias para o óleo da unção, e especiarias para o incenso,"
+    },
+    {
+      "numero": 7,
+      "texto": "Pedras de ônix, e pedras de engaste para o éfode e para o peitoral."
+    },
+    {
+      "numero": 8,
+      "texto": "E me farão um santuário, e habitarei no meio deles."
+    },
+    {
+      "numero": 9,
+      "texto": "Conforme a tudo o que eu te mostrar para modelo do tabernáculo, e para modelo de todos os seus pertences, assim mesmo o fareis."
+    },
+    {
+      "numero": 10,
+      "texto": "Também farão uma arca de madeira de acácia; o seu comprimento será de dois côvados e meio, e a sua largura de um côvado e meio, e de um côvado e meio a sua altura."
+    },
+    {
+      "numero": 11,
+      "texto": "E cobri-la-á de ouro puro; por dentro e por fora a cobrirás; e farás sobre ela uma coroa de ouro ao redor;"
+    },
+    {
+      "numero": 12,
+      "texto": "E fundirás para ela quatro argolas de ouro, e as porás nos quatro cantos dela, duas argolas num lado dela, e duas argolas noutro lado."
+    },
+    {
+      "numero": 13,
+      "texto": "E farás varas de madeira de acácia, e as cobrirás com ouro."
+    },
+    {
+      "numero": 14,
+      "texto": "E colocarás as varas nas argolas, aos lados da arca, para se levar com elas a arca."
+    },
+    {
+      "numero": 15,
+      "texto": "As varas estarão nas argolas da arca, não se tirarão dela."
+    },
+    {
+      "numero": 16,
+      "texto": "Depois porás na arca o testemunho, que eu te darei."
+    },
+    {
+      "numero": 17,
+      "texto": "Também farás um propiciatório de ouro puro; o seu comprimento será de dois côvados e meio, e a sua largura de um côvado e meio."
+    },
+    {
+      "numero": 18,
+      "texto": "Farás também dois querubins de ouro; de ouro batido os farás, nas duas extremidades do propiciatório."
+    },
+    {
+      "numero": 19,
+      "texto": "Farás um querubim na extremidade de uma parte, e o outro querubim na extremidade da outra parte; de uma só peça com o propiciatório, fareis os querubins nas duas extremidades dele."
+    },
+    {
+      "numero": 20,
+      "texto": "Os querubins estenderão as suas asas por cima, cobrindo com elas o propiciatório; as faces deles uma defronte da outra; as faces dos querubins estarão voltadas para o propiciatório."
+    },
+    {
+      "numero": 21,
+      "texto": "E porás o propiciatório em cima da arca, depois que houveres posto na arca o testemunho que eu te darei."
+    },
+    {
+      "numero": 22,
+      "texto": "E ali virei a ti, e falarei contigo de cima do propiciatório, do meio dos dois querubins (que estão sobre a arca do testemunho), tudo o que eu te ordenar para os filhos de Israel."
+    },
+    {
+      "numero": 23,
+      "texto": "Também farás uma mesa de madeira de acácia; o seu comprimento será de dois côvados, e a sua largura de um côvado, e a sua altura de um côvado e meio."
+    },
+    {
+      "numero": 24,
+      "texto": "E cobri-la-ás com ouro puro; também lhe farás uma coroa de ouro ao redor."
+    },
+    {
+      "numero": 25,
+      "texto": "Também lhe farás uma moldura ao redor, da largura de quatro dedos, e lhe farás uma coroa de ouro ao redor da moldura."
+    },
+    {
+      "numero": 26,
+      "texto": "Também lhe farás quatro argolas de ouro; e porás as argolas aos quatro cantos, que estão nos seus quatro pés."
+    },
+    {
+      "numero": 27,
+      "texto": "Defronte da moldura estarão as argolas, como lugares para os varais, para se levar a mesa."
+    },
+    {
+      "numero": 28,
+      "texto": "Farás, pois, estes varais de madeira de acácia, e cobri-los-ás com ouro; e levar-se-á com eles a mesa."
+    },
+    {
+      "numero": 29,
+      "texto": "Também farás os seus pratos, e as suas colheres, e as suas cobertas, e as suas tigelas com que se hão de oferecer libações; de ouro puro os farás."
+    },
+    {
+      "numero": 30,
+      "texto": "E sobre a mesa porás o pão da proposição perante a minha face perpetuamente."
+    },
+    {
+      "numero": 31,
+      "texto": "Também farás um candelabro de ouro puro; de ouro batido se fará este candelabro; o seu pé, as suas hastes, os seus copos, os seus botões, e as suas flores serão do mesmo."
+    },
+    {
+      "numero": 32,
+      "texto": "E dos seus lados sairão seis hastes; três hastes do candelabro de um lado dele, e três hastes do outro lado dele."
+    },
+    {
+      "numero": 33,
+      "texto": "Numa haste haverá três copos a modo de amêndoas, um botão e uma flor; e três copos a modo de amêndoas na outra haste, um botão e uma flor; assim serão as seis hastes que saem do candelabro."
+    },
+    {
+      "numero": 34,
+      "texto": "Mas no candelabro mesmo haverá quatro copos a modo de amêndoas, com seus botões e com suas flores;"
+    },
+    {
+      "numero": 35,
+      "texto": "E um botão debaixo de duas hastes que saem dele; e ainda um botão debaixo de duas outras hastes que saem dele; e ainda um botão debaixo de duas outras hastes que saem dele; assim se fará com as seis hastes que saem do candelabro."
+    },
+    {
+      "numero": 36,
+      "texto": "Os seus botões e as suas hastes serão do mesmo; tudo será de uma só peça, obra batida de ouro puro."
+    },
+    {
+      "numero": 37,
+      "texto": "Também lhe farás sete lâmpadas, as quais se acenderão para iluminar defronte dele."
+    },
+    {
+      "numero": 38,
+      "texto": "Os seus espevitadores e os seus apagadores serão de ouro puro."
+    },
+    {
+      "numero": 39,
+      "texto": "De um talento de ouro puro os farás, com todos estes vasos."
+    },
+    {
+      "numero": 40,
+      "texto": "Atenta, pois, que o faças conforme ao seu modelo, que te foi mostrado no monte."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "livro": "Jonas",
+  "slug_livro": "jonas",
+  "testamento": "Antigo Testamento",
+  "capitulo": 1,
+  "total_versiculos": 17,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E veio a palavra do SENHOR a Jonas, filho de Amitai, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Levanta-te, vai à grande cidade de Nínive, e clama contra ela, porque a sua malícia subiu até à minha presença."
+    },
+    {
+      "numero": 3,
+      "texto": "Porém, Jonas se levantou para fugir da presença do Senhor para Társis. E descendo a Jope, achou um navio que ia para Társis; pagou, pois, a sua passagem, e desceu para dentro dele, para ir com eles para Társis, para longe da presença do Senhor."
+    },
+    {
+      "numero": 4,
+      "texto": "Mas o Senhor mandou ao mar um grande vento, e fez-se no mar uma forte tempestade, e o navio estava a ponto de quebrar-se."
+    },
+    {
+      "numero": 5,
+      "texto": "Então temeram os marinheiros, e clamavam cada um ao seu deus, e lançaram ao mar as cargas, que estavam no navio, para o aliviarem do seu peso; Jonas, porém, desceu ao porão do navio, e, tendo-se deitado, dormia um profundo sono."
+    },
+    {
+      "numero": 6,
+      "texto": "E o mestre do navio chegou- se a ele, e disse-lhe: Que tens, dorminhoco? Levanta-te, clama ao teu Deus; talvez assim ele se lembre de nós para que não pereçamos."
+    },
+    {
+      "numero": 7,
+      "texto": "E diziam cada um ao seu companheiro: Vinde, e lancemos sortes, para que saibamos por que causa nos sobreveio este mal. E lançaram sortes, e a sorte caiu sobre Jonas."
+    },
+    {
+      "numero": 8,
+      "texto": "Então lhe disseram: Declara-nos tu agora, por causa de quem nos sobreveio este mal. Que ocupação é a tua? Donde vens? Qual é a tua terra? E de que povo és tu?"
+    },
+    {
+      "numero": 9,
+      "texto": "E ele lhes disse: Eu sou hebreu, e temo ao Senhor, o Deus do céu, que fez o mar e a terra seca."
+    },
+    {
+      "numero": 10,
+      "texto": "Então estes homens se enche-ram de grande temor, e disseram-lhe: Por que fizeste tu isto? Pois sabiam os homens que fugia da presença do Senhor, porque ele lho tinha declarado."
+    },
+    {
+      "numero": 11,
+      "texto": "E disseram-lhe: Que te faremos nós, para que o mar se nos acalme? Porque o mar ia se tornando cada vez mais tempestuoso."
+    },
+    {
+      "numero": 12,
+      "texto": "E ele lhes disse: Levantai-me, e lançai-me ao mar, e o mar se vos aquietará; porque eu sei que por minha causa vos sobreveio esta grande tempestade."
+    },
+    {
+      "numero": 13,
+      "texto": "Entretanto, os homens remavam, para fazer voltar o navio à terra, mas não podiam, porquanto o mar se ia embravecendo cada vez mais contra eles."
+    },
+    {
+      "numero": 14,
+      "texto": "Então clamaram ao Senhor, e disseram: Ah, Senhor! Nós te rogamos, que não pereçamos por causa da alma deste homem, e que não ponhas sobre nós o sangue inocente; porque tu, Senhor, fizeste como te aprouve."
+    },
+    {
+      "numero": 15,
+      "texto": "E levantaram a Jonas, e o lançaram ao mar, e cessou o mar da sua fúria."
+    },
+    {
+      "numero": 16,
+      "texto": "Temeram, pois, estes homens ao Senhor com grande temor; e ofereceram sacrifício ao Senhor, e fizeram votos."
+    },
+    {
+      "numero": 17,
+      "texto": "Preparou, pois, o Senhor um grande peixe, para que tragasse a Jonas; e esteve Jonas três dias e três noites nas entranhas do peixe."
+    }
+  ]
+}

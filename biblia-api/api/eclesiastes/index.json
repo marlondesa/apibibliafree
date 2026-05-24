@@ -1,0 +1,58 @@
+{
+  "id": 21,
+  "abbrev": "ec",
+  "nome": "Eclesiastes",
+  "slug": "eclesiastes",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 12,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 26
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 12
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 14
+    }
+  ]
+}

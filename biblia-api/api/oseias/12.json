@@ -1,0 +1,65 @@
+{
+  "livro": "Oséias",
+  "slug_livro": "oseias",
+  "testamento": "Antigo Testamento",
+  "capitulo": 12,
+  "total_versiculos": 14,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Efraim se apascenta de vento, e segue o vento leste; todo o dia multiplica a mentira e a destruição; e fazem aliança com a Assíria, e o azeite se leva ao Egito."
+    },
+    {
+      "numero": 2,
+      "texto": "O Senhor também com Judá tem contenda, e castigará Jacó segundo os seus caminhos; segundo as suas obras o recompensará."
+    },
+    {
+      "numero": 3,
+      "texto": "No ventre pegou do calcanhar de seu irmão, e na sua força lutou com Deus."
+    },
+    {
+      "numero": 4,
+      "texto": "Lutou com o anjo, e prevaleceu; chorou, e lhe suplicou; em Betel o achou, e ali falou conosco,"
+    },
+    {
+      "numero": 5,
+      "texto": "Sim, o Senhor, o Deus dos Exércitos; o Senhor é o seu memorial."
+    },
+    {
+      "numero": 6,
+      "texto": "Tu, pois, converte-te a teu Deus; guarda a benevolência e o juízo, e em teu Deus espera sempre."
+    },
+    {
+      "numero": 7,
+      "texto": "É um mercador; tem nas mãos uma balança enganosa; ama a opressão."
+    },
+    {
+      "numero": 8,
+      "texto": "E diz Efraim: Contudo me tenho enriquecido, e tenho adquirido para mim grandes bens; em todo o meu trabalho não acharão em mim iniqüidade alguma que seja pecado."
+    },
+    {
+      "numero": 9,
+      "texto": "Mas eu sou o Senhor teu Deus desde a terra do Egito; eu ainda te farei habitar em tendas, como nos dias da festa solene."
+    },
+    {
+      "numero": 10,
+      "texto": "Falei aos profetas, e multipliquei a visão; e pelo ministério dos profetas propus símiles."
+    },
+    {
+      "numero": 11,
+      "texto": "Não é Gileade iniqüidade? Pura vaidade são eles; em Gilgal sacrificam bois; os seus altares são como montões de pedras nos sulcos dos campos."
+    },
+    {
+      "numero": 12,
+      "texto": "Jacó fugiu para o campo da Síria, e Israel serviu por uma mulher, e por uma mulher guardou o gado."
+    },
+    {
+      "numero": 13,
+      "texto": "Mas o Senhor por meio de um profeta fez subir a Israel do Egito, e por um profeta foi ele guardado."
+    },
+    {
+      "numero": 14,
+      "texto": "Efraim mui amargosamente provocou a sua ira; portanto deixará ficar sobre ele o seu sangue, e o seu Senhor o recompensará pelo seu opróbrio."
+    }
+  ]
+}

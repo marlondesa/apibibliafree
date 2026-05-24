@@ -1,0 +1,170 @@
+{
+  "id": 2,
+  "abbrev": "ex",
+  "nome": "Êxodo",
+  "slug": "exodo",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 40,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 25
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 30
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 25
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 32
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 35
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 10
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 51
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 14,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 15,
+      "total_versiculos": 27
+    },
+    {
+      "numero": 16,
+      "total_versiculos": 36
+    },
+    {
+      "numero": 17,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 18,
+      "total_versiculos": 27
+    },
+    {
+      "numero": 19,
+      "total_versiculos": 25
+    },
+    {
+      "numero": 20,
+      "total_versiculos": 26
+    },
+    {
+      "numero": 21,
+      "total_versiculos": 36
+    },
+    {
+      "numero": 22,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 23,
+      "total_versiculos": 33
+    },
+    {
+      "numero": 24,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 25,
+      "total_versiculos": 40
+    },
+    {
+      "numero": 26,
+      "total_versiculos": 37
+    },
+    {
+      "numero": 27,
+      "total_versiculos": 21
+    },
+    {
+      "numero": 28,
+      "total_versiculos": 43
+    },
+    {
+      "numero": 29,
+      "total_versiculos": 46
+    },
+    {
+      "numero": 30,
+      "total_versiculos": 38
+    },
+    {
+      "numero": 31,
+      "total_versiculos": 18
+    },
+    {
+      "numero": 32,
+      "total_versiculos": 35
+    },
+    {
+      "numero": 33,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 34,
+      "total_versiculos": 35
+    },
+    {
+      "numero": 35,
+      "total_versiculos": 35
+    },
+    {
+      "numero": 36,
+      "total_versiculos": 38
+    },
+    {
+      "numero": 37,
+      "total_versiculos": 29
+    },
+    {
+      "numero": 38,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 39,
+      "total_versiculos": 43
+    },
+    {
+      "numero": 40,
+      "total_versiculos": 38
+    }
+  ]
+}

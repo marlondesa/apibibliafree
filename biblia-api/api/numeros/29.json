@@ -1,0 +1,169 @@
+{
+  "livro": "Números",
+  "slug_livro": "numeros",
+  "testamento": "Antigo Testamento",
+  "capitulo": 29,
+  "total_versiculos": 40,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Semelhantemente, tereis santa convocação no sétimo mês, no primeiro dia do mês; nenhum trabalho servil fareis; será para vós dia de sonido de trombetas."
+    },
+    {
+      "numero": 2,
+      "texto": "Então por holocausto, em cheiro suave ao Senhor, oferecereis um novilho, um carneiro e sete cordeiros de um ano, sem defeito."
+    },
+    {
+      "numero": 3,
+      "texto": "E pela sua oferta de alimentos de flor de farinha misturada com azeite, três décimas para o novilho, e duas décimas para o carneiro,"
+    },
+    {
+      "numero": 4,
+      "texto": "E uma décima para cada um dos sete cordeiros."
+    },
+    {
+      "numero": 5,
+      "texto": "E um bode para expiação do pecado, para fazer expiação por vós;"
+    },
+    {
+      "numero": 6,
+      "texto": "Além do holocausto do mês, e a sua oferta de alimentos, e o holocausto contínuo, e a sua oferta de alimentos, com as suas libações, segundo o seu estatuto, em cheiro suave, oferta queimada ao Senhor."
+    },
+    {
+      "numero": 7,
+      "texto": "E no dia dez deste sétimo mês tereis santa convocação, e afligireis as vossas almas; nenhum trabalho fareis."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas por holocausto, em cheiro suave ao Senhor, oferecereis um novilho, um carneiro e sete cordeiros de um ano; eles serão sem defeito."
+    },
+    {
+      "numero": 9,
+      "texto": "E, pela sua oferta de alimentos de flor de farinha misturada com azeite, três décimas para o novilho, duas décimas para o carneiro,"
+    },
+    {
+      "numero": 10,
+      "texto": "E uma décima para cada um dos sete cordeiros;"
+    },
+    {
+      "numero": 11,
+      "texto": "Um bode para expiação do pecado, além da expiação do pecado pelas propiciações, e do holocausto contínuo, e da sua oferta de alimentos com as suas libações."
+    },
+    {
+      "numero": 12,
+      "texto": "Semelhantemente, aos quinze dias deste sétimo mês tereis santa convocação; nenhum trabalho servil fareis; mas sete dias celebrareis festa ao Senhor."
+    },
+    {
+      "numero": 13,
+      "texto": "E, por holocausto em oferta queimada, de cheiro suave ao Senhor, oferecereis treze novilhos, dois carneiros e catorze cordeiros de um ano; todos eles sem defeito."
+    },
+    {
+      "numero": 14,
+      "texto": "E, pela sua oferta de alimentos de flor de farinha misturada com azeite, três décimas para cada um dos treze novilhos, duas décimas para cada carneiro, entre os dois carneiros;"
+    },
+    {
+      "numero": 15,
+      "texto": "E uma décima para cada um dos catorze cordeiros;"
+    },
+    {
+      "numero": 16,
+      "texto": "E um bode para expiação do pecado, além do holocausto contínuo, a sua oferta de alimentos e a sua libação;"
+    },
+    {
+      "numero": 17,
+      "texto": "Depois, no segundo dia, doze novilhos, dois carneiros, catorze cordeiros de um ano, sem defeito;"
+    },
+    {
+      "numero": 18,
+      "texto": "E a sua oferta de alimentos e as suas libações para os novilhos, para os carneiros e para os cordeiros, conforme o seu número, segundo o estatuto;"
+    },
+    {
+      "numero": 19,
+      "texto": "E um bode para expiação do pecado, além do holocausto contínuo, da sua oferta de alimentos e das suas libações."
+    },
+    {
+      "numero": 20,
+      "texto": "E, no terceiro dia, onze novilhos, dois carneiros, catorze cordeiros de um ano, sem defeito;"
+    },
+    {
+      "numero": 21,
+      "texto": "E as suas ofertas de alimentos, e as suas libações para os novilhos, para os carneiros e para os cordeiros, conforme o seu número, segundo o estatuto;"
+    },
+    {
+      "numero": 22,
+      "texto": "E um bode para expiação do pecado, além do holocausto contínuo, e da sua oferta de alimentos e da sua libação."
+    },
+    {
+      "numero": 23,
+      "texto": "E, no quarto dia, dez novilhos, dois carneiros, catorze cordeiros de um ano, sem defeito;"
+    },
+    {
+      "numero": 24,
+      "texto": "A sua oferta de alimentos, e as suas libações para os novilhos, para os carneiros, e para os cordeiros, conforme o seu número, segundo o estatuto;"
+    },
+    {
+      "numero": 25,
+      "texto": "E um bode para expiação do pecado, além do holocausto contínuo, da sua oferta de alimentos e da sua libação."
+    },
+    {
+      "numero": 26,
+      "texto": "E, no quinto dia, nove novilhos, dois carneiros e catorze cordeiros de um ano, sem defeito."
+    },
+    {
+      "numero": 27,
+      "texto": "E a sua oferta de alimentos, e as suas libações para os novilhos, para os carneiros e para os cordeiros, conforme o seu número, segundo o estatuto;"
+    },
+    {
+      "numero": 28,
+      "texto": "E um bode para expiação do pecado além do holocausto contínuo, e da sua oferta de alimentos e da sua libação."
+    },
+    {
+      "numero": 29,
+      "texto": "E, no sexto dia, oito novilhos, dois carneiros, catorze cordeiros de um ano, sem defeito;"
+    },
+    {
+      "numero": 30,
+      "texto": "E a sua oferta de alimentos, e as suas libações para os bezerros, para os carneiros e para os cordeiros, conforme o seu número, segundo o estatuto;"
+    },
+    {
+      "numero": 31,
+      "texto": "E um bode para expiação do pecado, além do holocausto contínuo, da sua oferta de alimentos e da sua libação."
+    },
+    {
+      "numero": 32,
+      "texto": "E, no sétimo dia, sete novilhos, dois carneiros, catorze cordeiros de um ano, sem defeito."
+    },
+    {
+      "numero": 33,
+      "texto": "E a sua oferta de alimentos, e as suas libações para os novilhos, para os carneiros e para os cordeiros, conforme o seu número, segundo o seu estatuto,"
+    },
+    {
+      "numero": 34,
+      "texto": "E um bode para expiação do pecado, além do holocausto contínuo, da sua oferta de alimentos e da sua libação."
+    },
+    {
+      "numero": 35,
+      "texto": "No oitavo dia tereis dia de solenidade; nenhum trabalho servil fareis;"
+    },
+    {
+      "numero": 36,
+      "texto": "E por holocausto em oferta queimada de cheiro suave ao Senhor oferecereis um novilho, um carneiro, sete cordeiros de um ano, sem defeito;"
+    },
+    {
+      "numero": 37,
+      "texto": "A sua oferta de alimentos e as suas libações para o novilho, para o carneiro e para os cordeiros, conforme o seu número, segundo o estatuto."
+    },
+    {
+      "numero": 38,
+      "texto": "E um bode para expiação do pecado, além do holocausto contínuo, e da sua oferta de alimentos e da sua libação."
+    },
+    {
+      "numero": 39,
+      "texto": "Estas coisas fareis ao Senhor nas vossas solenidades além dos vossos votos, e das vossas ofertas voluntárias, com os vossos holocaustos, e com as vossas ofertas de alimentos, e com as vossas libações, e com as vossas ofertas pacíficas."
+    },
+    {
+      "numero": 40,
+      "texto": "E falou Moisés aos filhos de Israel, conforme a tudo o que o Senhor ordenara a Moisés."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 20,
+  "total_versiculos": 9,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O SENHOR te ouça no dia da angústia, o nome do Deus de Jacó te proteja."
+    },
+    {
+      "numero": 2,
+      "texto": "Envie-te socorro desde o seu santuário, e te sustenha desde Sião."
+    },
+    {
+      "numero": 3,
+      "texto": "Lembre-se de todas as tuas ofertas, e aceite os teus holocaustos. (Selá.)"
+    },
+    {
+      "numero": 4,
+      "texto": "Conceda-te conforme ao teu coração, e cumpra todo o teu plano."
+    },
+    {
+      "numero": 5,
+      "texto": "Nós nos alegraremos pela tua salvação, e em nome do nosso Deus arvoraremos pendões; cumpra o Senhor todas as tuas petições."
+    },
+    {
+      "numero": 6,
+      "texto": "Agora sei que o Senhor salva o seu ungido; ele o ouvirá desde o seu santo céu, com a força salvadora da sua mão direita."
+    },
+    {
+      "numero": 7,
+      "texto": "Uns confiam em carros e outros em cavalos, mas nós faremos menção do nome do Senhor nosso Deus."
+    },
+    {
+      "numero": 8,
+      "texto": "Uns encurvam-se e caem, mas nós nos levantamos e estamos de pé."
+    },
+    {
+      "numero": 9,
+      "texto": "Salva-nos, Senhor; ouça-nos o rei quando clamarmos."
+    }
+  ]
+}

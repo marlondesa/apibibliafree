@@ -1,0 +1,173 @@
+{
+  "livro": "Números",
+  "slug_livro": "numeros",
+  "testamento": "Antigo Testamento",
+  "capitulo": 22,
+  "total_versiculos": 41,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Depois partiram os filhos de Israel, e acamparam-se nas campinas de Moabe, além do Jordão na altura de Jericó."
+    },
+    {
+      "numero": 2,
+      "texto": "Vendo, pois, Balaque, filho de Zipor, tudo o que Israel fizera aos amorreus,"
+    },
+    {
+      "numero": 3,
+      "texto": "Moabe temeu muito diante deste povo, porque era numeroso; e Moabe andava angustiado por causa dos filhos de Israel."
+    },
+    {
+      "numero": 4,
+      "texto": "Por isso Moabe disse aos anciãos dos midianitas: Agora lamberá esta congregação tudo quanto houver ao redor de nós, como o boi lambe a erva do campo. Naquele tempo Balaque, filho de Zipor, era rei dos moabitas."
+    },
+    {
+      "numero": 5,
+      "texto": "Este enviou mensageiros a Balaão, filho de Beor, a Petor, que está junto ao rio, na terra dos filhos do seu povo, a chamá-lo, dizendo: Eis que um povo saiu do Egito; eis que cobre a face da terra, e está parado defronte de mim."
+    },
+    {
+      "numero": 6,
+      "texto": "Vem, pois, agora, rogo-te, amaldiçoa-me este povo, pois mais poderoso é do que eu; talvez o poderei ferir e lançar fora da terra; porque eu sei que, a quem tu abençoares será abençoado, e a quem tu amaldiçoares será amaldiçoado."
+    },
+    {
+      "numero": 7,
+      "texto": "Então foram-se os anciãos dos moabitas e os anciãos dos midianitas com o preço dos encantamentos nas suas mãos; e chegaram a Balaão, e disseram-lhe as palavras de Balaque."
+    },
+    {
+      "numero": 8,
+      "texto": "E ele lhes disse: Passai aqui esta noite, e vos trarei a resposta, como o Senhor me falar; então os príncipes dos moabitas ficaram com Balaão."
+    },
+    {
+      "numero": 9,
+      "texto": "E veio Deus a Balaão, e disse: Quem são estes homens que estão contigo?"
+    },
+    {
+      "numero": 10,
+      "texto": "E Balaão disse a Deus: Balaque, filho de Zipor, rei dos moabitas, os enviou, dizendo:"
+    },
+    {
+      "numero": 11,
+      "texto": "Eis que o povo que saiu do Egito cobre a face da terra; vem agora, amaldiçoa-o; porventura poderei pelejar contra ele e expulsá-lo."
+    },
+    {
+      "numero": 12,
+      "texto": "Então disse Deus a Balaão: Não irás com eles, nem amaldiçoarás a este povo, porquanto é bendito."
+    },
+    {
+      "numero": 13,
+      "texto": "Então Balaão levantou-se pela manhã, e disse aos príncipes de Balaque: Ide à vossa terra, porque o Senhor recusa deixar-me ir convosco."
+    },
+    {
+      "numero": 14,
+      "texto": "E levantaram-se os príncipes dos moabitas, e vieram a Balaque, e disseram: Balaão recusou vir conosco."
+    },
+    {
+      "numero": 15,
+      "texto": "Porém Balaque tornou a enviar mais príncipes, mais honrados do que aqueles."
+    },
+    {
+      "numero": 16,
+      "texto": "Os quais foram a Balaão, e lhe disseram: Assim diz Balaque, filho de Zipor: Rogo-te que não te demores em vir a mim."
+    },
+    {
+      "numero": 17,
+      "texto": "Porque grandemente te honrarei, e farei tudo o que me disseres; vem pois, rogo-te, amaldiçoa-me este povo."
+    },
+    {
+      "numero": 18,
+      "texto": "Então Balaão respondeu, e disse aos servos de Balaque: Ainda que Balaque me desse a sua casa cheia de prata e de ouro, eu não poderia ir além da ordem do Senhor meu Deus, para fazer coisa pequena ou grande;"
+    },
+    {
+      "numero": 19,
+      "texto": "Agora, pois, rogo-vos que também aqui fiqueis esta noite, para que eu saiba o que mais o Senhor me dirá."
+    },
+    {
+      "numero": 20,
+      "texto": "Veio, pois, Deus a Balaão, de noite, e disse-lhe: Se aqueles homens te vieram chamar, levanta-te, vai com eles; todavia, farás o que eu te disser."
+    },
+    {
+      "numero": 21,
+      "texto": "Então Balaão levantou-se pela manhã, e albardou a sua jumenta, e foi com os príncipes de Moabe."
+    },
+    {
+      "numero": 22,
+      "texto": "E a ira de Deus acendeu-se, porque ele se ia; e o anjo do Senhor pôs-se-lhe no caminho por adversário; e ele ia caminhando, montado na sua jumenta, e dois de seus servos com ele."
+    },
+    {
+      "numero": 23,
+      "texto": "Viu, pois, a jumenta o anjo do Senhor, que estava no caminho, com a sua espada desembainhada na mão; pelo que desviou-se a jumenta do caminho, indo pelo campo; então Balaão espancou a jumenta para fazê-la tornar ao caminho."
+    },
+    {
+      "numero": 24,
+      "texto": "Mas o anjo do Senhor pôs-se numa vereda entre as vinhas, havendo uma parede de um e de outro lado."
+    },
+    {
+      "numero": 25,
+      "texto": "Vendo, pois, a jumenta, o anjo do Senhor, encostou-se contra a parede, e apertou contra a parede o pé de Balaão; por isso tornou a espancá-la."
+    },
+    {
+      "numero": 26,
+      "texto": "Então o anjo do Senhor passou mais adiante, e pôs-se num lugar estreito, onde não havia caminho para se desviar nem para a direita nem para a esquerda."
+    },
+    {
+      "numero": 27,
+      "texto": "E, vendo a jumenta o anjo do Senhor, deitou-se debaixo de Balaão; e a ira de Balaão acendeu-se, e espancou a jumenta com o bordão."
+    },
+    {
+      "numero": 28,
+      "texto": "Então o Senhor abriu a boca da jumenta, a qual disse a Balaão: Que te fiz eu, que me espancaste estas três vezes?"
+    },
+    {
+      "numero": 29,
+      "texto": "E Balaão disse à jumenta: Por que zombaste de mim; quem dera tivesse eu uma espada na mão, porque agora te mataria."
+    },
+    {
+      "numero": 30,
+      "texto": "E a jumenta disse a Balaão: Porventura não sou a tua jumenta, em que cavalgaste desde o tempo em que me tornei tua até hoje? Acaso tem sido o meu costume fazer assim contigo? E ele respondeu: Não."
+    },
+    {
+      "numero": 31,
+      "texto": "Então o Senhor abriu os olhos a Balaão, e ele viu o anjo do Senhor, que estava no caminho e a sua espada desembainhada na mão; pelo que inclinou a cabeça, e prostrou-se sobre a sua face."
+    },
+    {
+      "numero": 32,
+      "texto": "Então o anjo do Senhor lhe disse: Por que já três vezes espancaste a tua jumenta? Eis que eu saí para ser teu adversário, porquanto o teu caminho é perverso diante de mim;"
+    },
+    {
+      "numero": 33,
+      "texto": "Porém a jumenta me viu, e já três vezes se desviou de diante de mim; se ela não se desviasse de diante de mim, na verdade que eu agora te haveria matado, e a ela deixaria com vida."
+    },
+    {
+      "numero": 34,
+      "texto": "Então Balaão disse ao anjo do Senhor: Pequei, porque não sabia que estavas neste caminho para te opores a mim; e agora, se parece mal aos teus olhos, voltarei."
+    },
+    {
+      "numero": 35,
+      "texto": "E disse o anjo do Senhor a Balaão: Vai-te com estes homens; mas somente a palavra que eu falar a ti, esta falarás. Assim Balaão se foi com os príncipes de Balaque."
+    },
+    {
+      "numero": 36,
+      "texto": "Ouvindo, pois, Balaque que Balaão vinha, saiu-lhe ao encontro até à cidade de Moabe, que está no termo de Arnom, na extremidade do termo dele."
+    },
+    {
+      "numero": 37,
+      "texto": "E Balaque disse a Balaão: Porventura não enviei diligentemente a chamar-te? Por que não vieste a mim? Não posso eu na verdade honrar-te?"
+    },
+    {
+      "numero": 38,
+      "texto": "Então Balaão disse a Balaque: Eis que eu tenho vindo a ti; porventura poderei eu agora de alguma forma falar alguma coisa? A palavra que Deus puser na minha boca, essa falarei."
+    },
+    {
+      "numero": 39,
+      "texto": "E Balaão foi com Balaque, e chegaram a Quiriate-Huzote."
+    },
+    {
+      "numero": 40,
+      "texto": "Então Balaque matou bois e ovelhas; e deles enviou a Balaão e aos príncipes que estavam com ele."
+    },
+    {
+      "numero": 41,
+      "texto": "E sucedeu que, pela manhã Balaque tomou a Balaão, e o fez subir aos altos de Baal, e viu ele dali a última parte do povo."
+    }
+  ]
+}

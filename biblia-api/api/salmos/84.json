@@ -1,0 +1,57 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 84,
+  "total_versiculos": 12,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Quão amáveis são os teus tabernáculos, SENHOR dos Exércitos!"
+    },
+    {
+      "numero": 2,
+      "texto": "A minha alma está desejosa, e desfalece pelos átrios do Senhor; o meu coração e a minha carne clamam pelo Deus vivo."
+    },
+    {
+      "numero": 3,
+      "texto": "Até o pardal encontrou casa, e a andorinha ninho para si, onde ponha seus filhos, até mesmo nos teus altares, Senhor dos Exércitos, Rei meu e Deus meu."
+    },
+    {
+      "numero": 4,
+      "texto": "Bem-aventurados os que habitam em tua casa; louvar-te-ão continuamente. (Selá.)"
+    },
+    {
+      "numero": 5,
+      "texto": "Bem-aventurado o homem cuja força está em ti, em cujo coração estão os caminhos aplanados."
+    },
+    {
+      "numero": 6,
+      "texto": "Que, passando pelo vale de Baca, faz dele uma fonte; a chuva também enche os tanques."
+    },
+    {
+      "numero": 7,
+      "texto": "Vão indo de força em força; cada um deles em Sião aparece perante Deus."
+    },
+    {
+      "numero": 8,
+      "texto": "Senhor Deus dos Exércitos, escuta a minha oração; inclina os ouvidos, ó Deus de Jacó! (Selá.)"
+    },
+    {
+      "numero": 9,
+      "texto": "Olha, ó Deus, escudo nosso, e contempla o rosto do teu ungido."
+    },
+    {
+      "numero": 10,
+      "texto": "Porque vale mais um dia nos teus átrios do que mil. Preferiria estar à porta da casa do meu Deus, a habitar nas tendas dos ímpios."
+    },
+    {
+      "numero": 11,
+      "texto": "Porque o Senhor Deus é um sol e escudo; o Senhor dará graça e glória; não retirará bem algum aos que andam na retidão."
+    },
+    {
+      "numero": 12,
+      "texto": "Senhor dos Exércitos, bem-aventurado o homem que em ti põe a sua confiança."
+    }
+  ]
+}

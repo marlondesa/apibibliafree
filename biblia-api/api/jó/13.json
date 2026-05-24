@@ -1,0 +1,121 @@
+{
+  "livro": "jó",
+  "slug_livro": "jó",
+  "testamento": "Antigo Testamento",
+  "capitulo": 13,
+  "total_versiculos": 28,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis que tudo isto viram os meus olhos, e os meus ouvidos o ouviram e entenderam."
+    },
+    {
+      "numero": 2,
+      "texto": "Como vós o sabeis, também eu o sei; não vos sou inferior."
+    },
+    {
+      "numero": 3,
+      "texto": "Mas eu falarei ao Todo-Poderoso, e quero defender-me perante Deus."
+    },
+    {
+      "numero": 4,
+      "texto": "Vós, porém, sois inventores de mentiras, e vós todos médicos que não valem nada."
+    },
+    {
+      "numero": 5,
+      "texto": "Quem dera que vos calásseis de todo, pois isso seria a vossa sabedoria."
+    },
+    {
+      "numero": 6,
+      "texto": "Ouvi agora a minha defesa, e escutai os argumentos dos meus lábios."
+    },
+    {
+      "numero": 7,
+      "texto": "Porventura por Deus falareis perversidade e por ele falareis mentiras?"
+    },
+    {
+      "numero": 8,
+      "texto": "Fareis acepção da sua pessoa? Contendereis por Deus?"
+    },
+    {
+      "numero": 9,
+      "texto": "Ser-vos-ia bom, se ele vos esquadrinhasse? Ou zombareis dele, como se zomba de algum homem?"
+    },
+    {
+      "numero": 10,
+      "texto": "Certamente vos repreenderá, se em oculto fizerdes acepção de pessoas."
+    },
+    {
+      "numero": 11,
+      "texto": "Porventura não vos espantará a sua alteza, e não cairá sobre vós o seu terror?"
+    },
+    {
+      "numero": 12,
+      "texto": "As vossas memórias são como provérbios de cinza; as vossas defesas como defesas de lodo."
+    },
+    {
+      "numero": 13,
+      "texto": "Calai-vos perante mim, e falarei eu, e venha sobre mim o que vier."
+    },
+    {
+      "numero": 14,
+      "texto": "Por que razão tomarei eu a minha carne com os meus dentes, e porei a minha vida na minha mão?"
+    },
+    {
+      "numero": 15,
+      "texto": "Ainda que ele me mate, nele esperarei; contudo os meus caminhos defenderei diante dele."
+    },
+    {
+      "numero": 16,
+      "texto": "Também ele será a minha salvação; porém o hipócrita não virá perante ele."
+    },
+    {
+      "numero": 17,
+      "texto": "Ouvi com atenção as minhas palavras, e com os vossos ouvidos a minha declaração."
+    },
+    {
+      "numero": 18,
+      "texto": "Eis que já tenho ordenado a minha causa, e sei que serei achado justo."
+    },
+    {
+      "numero": 19,
+      "texto": "Quem é o que contenderá comigo? Se eu agora me calasse, renderia o espírito."
+    },
+    {
+      "numero": 20,
+      "texto": "Duas coisas somente não faças para comigo; então não me esconderei do teu rosto:"
+    },
+    {
+      "numero": 21,
+      "texto": "Desvia a tua mão para longe, de mim, e não me espante o teu terror."
+    },
+    {
+      "numero": 22,
+      "texto": "Chama, pois, e eu responderei; ou eu falarei, e tu me responderás."
+    },
+    {
+      "numero": 23,
+      "texto": "Quantas culpas e pecados tenho eu? Notifica-me a minha transgressão e o meu pecado."
+    },
+    {
+      "numero": 24,
+      "texto": "Por que escondes o teu rosto, e me tens por teu inimigo?"
+    },
+    {
+      "numero": 25,
+      "texto": "Porventura acossarás uma folha arrebatada pelo vento? E perseguirás o restolho seco?"
+    },
+    {
+      "numero": 26,
+      "texto": "Por que escreves contra mim coisas amargas e me fazes herdar as culpas da minha mocidade?"
+    },
+    {
+      "numero": 27,
+      "texto": "Também pões os meus pés no tronco, e observas todos os meus caminhos, e marcas os sinais dos meus pés."
+    },
+    {
+      "numero": 28,
+      "texto": "E ele me consome como a podridão, e como a roupa, à qual rói a traça."
+    }
+  ]
+}

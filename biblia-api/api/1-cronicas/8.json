@@ -1,0 +1,169 @@
+{
+  "livro": "1 Crônicas",
+  "slug_livro": "1-cronicas",
+  "testamento": "Antigo Testamento",
+  "capitulo": 8,
+  "total_versiculos": 40,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E Benjamim gerou a Belá, seu primogênito, a Asbel o segundo, e a Aará o terceiro,"
+    },
+    {
+      "numero": 2,
+      "texto": "A Noá o quarto, e a Rafa o quinto."
+    },
+    {
+      "numero": 3,
+      "texto": "E Belá teve estes filhos: Adar, Gera, Abiúde,"
+    },
+    {
+      "numero": 4,
+      "texto": "Abisua, Naamã, Aoá,"
+    },
+    {
+      "numero": 5,
+      "texto": "Gera, Sefufá e Hurão."
+    },
+    {
+      "numero": 6,
+      "texto": "E estes foram os filhos de Eúde; que foram chefes dos pais dos moradores de Geba, e os levaram cativos a Manaate;"
+    },
+    {
+      "numero": 7,
+      "texto": "E Naamã, e Aías e Gera; este os transportou, e gerou a Uzá e a Aiúde."
+    },
+    {
+      "numero": 8,
+      "texto": "E Saaraim (depois de os enviar), na terra de Moabe, gerou filhos de Husim e Baara, suas mulheres."
+    },
+    {
+      "numero": 9,
+      "texto": "E de Hodes, sua mulher, gerou a Jobabe, a Zíbia, a Mesa, a Malcã,"
+    },
+    {
+      "numero": 10,
+      "texto": "A Jeuz, a Saquias e a Mirma; estes foram seus filhos, chefes dos pais."
+    },
+    {
+      "numero": 11,
+      "texto": "E de Husim gerou a Abitube e a Elpaal."
+    },
+    {
+      "numero": 12,
+      "texto": "E foram os filhos de Elpaal: Éber, Misã e Semede; este edificou a Ono e a Lode e os lugares da sua jurisdição."
+    },
+    {
+      "numero": 13,
+      "texto": "E Berias e Sema foram cabeças dos pais dos moradores de Aijalom; estes afugentaram os moradores de Gate."
+    },
+    {
+      "numero": 14,
+      "texto": "E Aiô, Sasaque, Jerimote,"
+    },
+    {
+      "numero": 15,
+      "texto": "Zebadias, Arade, Eder,"
+    },
+    {
+      "numero": 16,
+      "texto": "Micael, Ispa e Joa foram filhos de Berias."
+    },
+    {
+      "numero": 17,
+      "texto": "Zebadias, Mesulão, Hizque, Héber,"
+    },
+    {
+      "numero": 18,
+      "texto": "Ismerai, Izlias e Jobabe, filhos de Elpaal."
+    },
+    {
+      "numero": 19,
+      "texto": "Jaquim, Zicri, Zabdi,"
+    },
+    {
+      "numero": 20,
+      "texto": "Elienai, Ziletai, Eliel,"
+    },
+    {
+      "numero": 21,
+      "texto": "Adaías, Beraías e Sinrate, filhos de Simei."
+    },
+    {
+      "numero": 22,
+      "texto": "E Ispã, Éber, Eliel,"
+    },
+    {
+      "numero": 23,
+      "texto": "Abdom, Zicri, Hanã,"
+    },
+    {
+      "numero": 24,
+      "texto": "Hananias, Elão, Antotias,"
+    },
+    {
+      "numero": 25,
+      "texto": "E Ifdéias, e Penuel, filhos de Sasaque;"
+    },
+    {
+      "numero": 26,
+      "texto": "E Sanserai, e Searias, e Atalias,"
+    },
+    {
+      "numero": 27,
+      "texto": "E Jaaresias, e Elias e Zicri, filhos de Jeroão."
+    },
+    {
+      "numero": 28,
+      "texto": "Estes foram cabeças dos pais, segundo as suas gerações, chefes, e habitaram em Jerusalém."
+    },
+    {
+      "numero": 29,
+      "texto": "E em Gibeão habitou o pai de Gibeão; e era o nome de sua mulher Maaca;"
+    },
+    {
+      "numero": 30,
+      "texto": "E seu filho primogênito, Abdom; depois Zur, e Quis, Baal, e Nadabe,"
+    },
+    {
+      "numero": 31,
+      "texto": "E Gedor, Aiô, e Zequer,"
+    },
+    {
+      "numero": 32,
+      "texto": "E Miclote gerou a Siméia; e também estes, defronte de seus irmãos, habitaram em Jerusalém com eles."
+    },
+    {
+      "numero": 33,
+      "texto": "E Ner gerou a Quis, e Quis gerou a Saul; e Saul gerou a Jônatas, a Malquisua, a Abinadabe, e a Esbaal."
+    },
+    {
+      "numero": 34,
+      "texto": "E o filho de Jônatas foi Meribe-Baal; e Meribe-Baal gerou a Mica."
+    },
+    {
+      "numero": 35,
+      "texto": "E os filhos de Mica foram: Pitom, Meleque, Tareá, e Acaz."
+    },
+    {
+      "numero": 36,
+      "texto": "E Acaz gerou a Jeoada; e Jeoada gerou a Alemete, e a Azmavete, e a Zinri; e Zinri gerou a Moza,"
+    },
+    {
+      "numero": 37,
+      "texto": "E Moza gerou a Bineá, cujo filho foi Rafa, de quem foi filho Eleasá, cujo filho foi Azel."
+    },
+    {
+      "numero": 38,
+      "texto": "E teve Azel seis filhos, e estes foram os seus nomes: Azricão, Bocru, Ismael, Searias, Obadias, e Hanã; todos estes foram filhos de Azel."
+    },
+    {
+      "numero": 39,
+      "texto": "E os filhos de Ezeque, seu irmão: Ulão, seu primogênito, Jeús o segundo e Elifelete o terceiro."
+    },
+    {
+      "numero": 40,
+      "texto": "E foram os filhos de Ulão homens heróis, valentes, e flecheiros destros; e tiveram muitos filhos, e filhos de filhos, cento e cinqüenta; todos estes foram dos filhos de Benjamim."
+    }
+  ]
+}

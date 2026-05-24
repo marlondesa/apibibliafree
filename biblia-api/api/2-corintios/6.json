@@ -1,0 +1,81 @@
+{
+  "livro": "2 Coríntios",
+  "slug_livro": "2-corintios",
+  "testamento": "Novo Testamento",
+  "capitulo": 6,
+  "total_versiculos": 18,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E nós, cooperando também com ele, vos exortamos a que não recebais a graça de Deus em vão"
+    },
+    {
+      "numero": 2,
+      "texto": "(Porque diz:Ouvi-te em tempo aceitável e socorri-te no dia da salvação;eis aqui agora o tempo aceitável, eis aqui agora o dia da salvação)."
+    },
+    {
+      "numero": 3,
+      "texto": "Não dando nós escândalo em coisa alguma, para que o nosso ministério não seja censurado;"
+    },
+    {
+      "numero": 4,
+      "texto": "Antes, como ministros de Deus, tornando-nos recomendáveis em tudo; na muita paciência, nas aflições, nas necessidades, nas angústias,"
+    },
+    {
+      "numero": 5,
+      "texto": "Nos açoites, nas prisões, nos tumultos, nos trabalhos, nas vigílias, nos jejuns,"
+    },
+    {
+      "numero": 6,
+      "texto": "Na pureza, na ciência, na longanimidade, na benignidade, no Espírito Santo, no amor não fingido,"
+    },
+    {
+      "numero": 7,
+      "texto": "Na palavra da verdade, no poder de Deus, pelas armas da justiça, à direita e à esquerda,"
+    },
+    {
+      "numero": 8,
+      "texto": "Por honra e por desonra, por infâmia e por boa fama; como enganadores, e sendo verdadeiros;"
+    },
+    {
+      "numero": 9,
+      "texto": "Como desconhecidos, mas sendo bem conhecidos; como morrendo, e eis que vivemos; como castigados, e não mortos;"
+    },
+    {
+      "numero": 10,
+      "texto": "Como contristados, mas sempre alegres; como pobres, mas enriquecendo a muitos; como nada tendo, e possuindo tudo."
+    },
+    {
+      "numero": 11,
+      "texto": "Ó coríntios, a nossa boca está aberta para vós, o nosso coração está dilatado."
+    },
+    {
+      "numero": 12,
+      "texto": "Não estais estreitados em nós; mas estais estreitados nos vossos próprios afetos."
+    },
+    {
+      "numero": 13,
+      "texto": "Ora, em recompensa disto, (falo como a filhos) dilatai-vos também vós."
+    },
+    {
+      "numero": 14,
+      "texto": "Não vos prendais a um jugo desigual com os infiéis; porque, que sociedade tem a justiça com a injustiça? E que comunhão tem a luz com as trevas?"
+    },
+    {
+      "numero": 15,
+      "texto": "E que concórdia há entre Cristo e Belial? Ou que parte tem o fiel com o infiel?"
+    },
+    {
+      "numero": 16,
+      "texto": "E que consenso tem o templo de Deus com os ídolos? Porque vós sois o templo do Deus vivente, como Deus disse: Neles habitarei, e entre eles andarei; e eu serei o seu Deus e eles serão o meu povo."
+    },
+    {
+      "numero": 17,
+      "texto": "Por isso saí do meio deles, e apartai-vos, diz o Senhor;E não toqueis nada imundo,E eu vos receberei;"
+    },
+    {
+      "numero": 18,
+      "texto": "E eu serei para vós Pai,E vós sereis para mim filhos e filhas, Diz o Senhor Todo-Poderoso."
+    }
+  ]
+}

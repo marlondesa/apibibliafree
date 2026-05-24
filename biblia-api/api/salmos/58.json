@@ -1,0 +1,53 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 58,
+  "total_versiculos": 11,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Acaso falais vós, deveras, ó congregação, a justiça? Julgais retamente, ó filhos dos homens?"
+    },
+    {
+      "numero": 2,
+      "texto": "Antes no coração forjais iniqüidades; sobre a terra pesais a violência das vossas mãos."
+    },
+    {
+      "numero": 3,
+      "texto": "Alienam-se os ímpios desde a madre; andam errados desde que nasceram, falando mentiras."
+    },
+    {
+      "numero": 4,
+      "texto": "O seu veneno é semelhante ao veneno da serpente; são como a víbora surda, que tapa os ouvidos,"
+    },
+    {
+      "numero": 5,
+      "texto": "Para não ouvir a voz dos encantadores, do encantador sábio em encantamentos."
+    },
+    {
+      "numero": 6,
+      "texto": "Ó Deus, quebra-lhes os dentes nas suas bocas; arranca, Senhor, os queixais aos filhos dos leões."
+    },
+    {
+      "numero": 7,
+      "texto": "Escorram como águas que correm constantemente. Quando ele armar as suas flechas, fiquem feitas em pedaços."
+    },
+    {
+      "numero": 8,
+      "texto": "Como a lesma se derrete, assim se vá cada um deles; como o aborto duma mulher, que nunca viu o sol."
+    },
+    {
+      "numero": 9,
+      "texto": "Antes que as vossas panelas sintam o calor dos espinhos, como por um redemoinho os arrebatará ele, vivo e em indignação."
+    },
+    {
+      "numero": 10,
+      "texto": "O justo se alegrará quando vir a vingança; lavará os seus pés no sangue do ímpio."
+    },
+    {
+      "numero": 11,
+      "texto": "Então dirá o homem: Deveras há uma recompensa para o justo; deveras há um Deus que julga na terra."
+    }
+  ]
+}

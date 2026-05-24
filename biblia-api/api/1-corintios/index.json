@@ -1,0 +1,74 @@
+{
+  "id": 46,
+  "abbrev": "1co",
+  "nome": "1 Coríntios",
+  "slug": "1-corintios",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 16,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 23
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 21
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 6,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 7,
+      "total_versiculos": 40
+    },
+    {
+      "numero": 8,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 9,
+      "total_versiculos": 27
+    },
+    {
+      "numero": 10,
+      "total_versiculos": 33
+    },
+    {
+      "numero": 11,
+      "total_versiculos": 34
+    },
+    {
+      "numero": 12,
+      "total_versiculos": 31
+    },
+    {
+      "numero": 13,
+      "total_versiculos": 13
+    },
+    {
+      "numero": 14,
+      "total_versiculos": 40
+    },
+    {
+      "numero": 15,
+      "total_versiculos": 58
+    },
+    {
+      "numero": 16,
+      "total_versiculos": 24
+    }
+  ]
+}

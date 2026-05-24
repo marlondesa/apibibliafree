@@ -1,0 +1,333 @@
+{
+  "livro": "1 Crônicas",
+  "slug_livro": "1-cronicas",
+  "testamento": "Antigo Testamento",
+  "capitulo": 6,
+  "total_versiculos": 81,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Os filhos de Levi foram: Gérson, Coate e Merari,"
+    },
+    {
+      "numero": 2,
+      "texto": "E os filhos de Coate: Anrão, e Izar, e Hebrom, e Uziel."
+    },
+    {
+      "numero": 3,
+      "texto": "E os filhos de Anrão: Arão, Moisés, e Miriã; e os filhos de Arão: Nadabe, Abiú, Eleazar, e Itamar."
+    },
+    {
+      "numero": 4,
+      "texto": "E Eleazar gerou a Finéias, e Finéias gerou a Abisua,"
+    },
+    {
+      "numero": 5,
+      "texto": "E Abisua gerou a Buqui, e Buqui gerou a Uzi,"
+    },
+    {
+      "numero": 6,
+      "texto": "E Uzi gerou a Zeraías, e Zeraías gerou a Meraiote."
+    },
+    {
+      "numero": 7,
+      "texto": "E Meraiote gerou a Amarias, e Amarias gerou a Aitube."
+    },
+    {
+      "numero": 8,
+      "texto": "E Aitube gerou a Zadoque, e Zadoque gerou a Aimaás,"
+    },
+    {
+      "numero": 9,
+      "texto": "E Aimaás gerou a Azarias, e Azarias gerou a Joanã,"
+    },
+    {
+      "numero": 10,
+      "texto": "E Joanã gerou a Azarias; e este é o que exerceu o sacerdócio na casa que Salomão tinha edificado em Jerusalém."
+    },
+    {
+      "numero": 11,
+      "texto": "E Azarias gerou a Amarias, e Amarias gerou a Aitube,"
+    },
+    {
+      "numero": 12,
+      "texto": "E Aitube gerou a Zadoque, e Zadoque gerou a Salum,"
+    },
+    {
+      "numero": 13,
+      "texto": "E Salum gerou a Hilquias, e Hilquias gerou a Azarias,"
+    },
+    {
+      "numero": 14,
+      "texto": "E Azarias gerou a Seraías, e Seraías gerou a Jeozadaque,"
+    },
+    {
+      "numero": 15,
+      "texto": "E Jeozadaque foi levado cativo quando o Senhor levou presos a Judá e a Jerusalém pela mão de Nabucodonosor."
+    },
+    {
+      "numero": 16,
+      "texto": "Os filhos de Levi foram, pois, Gérson, Coate, e Merari."
+    },
+    {
+      "numero": 17,
+      "texto": "E estes são os nomes dos filhos de Gérson: Libni e Simei."
+    },
+    {
+      "numero": 18,
+      "texto": "E os filhos de Coate: Anrão, Izar, Hebrom, e Uziel."
+    },
+    {
+      "numero": 19,
+      "texto": "Os filhos de Merari: Mali e Musi; estas são as famílias dos levitas, segundo seus pais."
+    },
+    {
+      "numero": 20,
+      "texto": "De Gérson: Libni, seu filho; Jaate, seu filho; Zima, seu filho;"
+    },
+    {
+      "numero": 21,
+      "texto": "Joá, seu filho; Ido, seu filho; Zerá, seu filho; Jeatarai, seu filho."
+    },
+    {
+      "numero": 22,
+      "texto": "Os filhos de Coate foram: Aminadabe, seu filho; Coré, seu filho; Assir, seu filho;"
+    },
+    {
+      "numero": 23,
+      "texto": "Elcana, seu filho; Ebiasafe, seu filho; Assir, seu filho;"
+    },
+    {
+      "numero": 24,
+      "texto": "Taate, seu filho; Uriel, seu filho; Uzias, seu filho; e Saul, seu filho."
+    },
+    {
+      "numero": 25,
+      "texto": "E os filhos de Elcana: Amasai e Aimote."
+    },
+    {
+      "numero": 26,
+      "texto": "Quanto a Elcana: os filhos de Elcana foram Zofai, seu filho; e seu filho Naate."
+    },
+    {
+      "numero": 27,
+      "texto": "Seu filho Eliabe, seu filho Jeroão, seu filho Elcana."
+    },
+    {
+      "numero": 28,
+      "texto": "E os filhos de Samuel: Joel, seu primogênito, e o segundo Abias."
+    },
+    {
+      "numero": 29,
+      "texto": "Os filhos de Merari: Mali, seu filho Libni, seu filho Simei, seu filho Uzá."
+    },
+    {
+      "numero": 30,
+      "texto": "Seu filho Siméia, seu filho Hagias, seu filho Asaías."
+    },
+    {
+      "numero": 31,
+      "texto": "Estes são, pois, os que Davi constituiu para o ofício do canto na casa do Senhor, depois que a arca teve repouso."
+    },
+    {
+      "numero": 32,
+      "texto": "E ministravam diante do tabernáculo da tenda da congregação com cantares, até que Salomão edificou a casa do Senhor em Jerusalém; e estiveram, segundo o seu costume, no seu ministério."
+    },
+    {
+      "numero": 33,
+      "texto": "Estes são, pois, os que ali estavam com seus filhos: dos filhos dos coatitas, Hemã, o cantor, filho de Joel, filho de Samuel,"
+    },
+    {
+      "numero": 34,
+      "texto": "Filho de Elcana, filho de Jeroão, filho de Eliel, filho de Toá,"
+    },
+    {
+      "numero": 35,
+      "texto": "Filho de Zufe, filho de Elcana, filho de Maate, filho de Amasai,"
+    },
+    {
+      "numero": 36,
+      "texto": "Filho de Elcana, filho de Joel, filho de Azarias, filho de Sofonias."
+    },
+    {
+      "numero": 37,
+      "texto": "Filho de Taate, filho de Assir, filho de Ebiasafe, filho de Coré,"
+    },
+    {
+      "numero": 38,
+      "texto": "Filho de Isar, filho de Coate, filho de Levi, filho de Israel."
+    },
+    {
+      "numero": 39,
+      "texto": "E seu irmão Asafe estava à sua direita; e era Asafe filho de Berequias, filho de Siméia,"
+    },
+    {
+      "numero": 40,
+      "texto": "Filho de Micael, filho de Baaséias, filho de Malquias,"
+    },
+    {
+      "numero": 41,
+      "texto": "Filho de Etni, filho de Zerá, filho de Adaías,"
+    },
+    {
+      "numero": 42,
+      "texto": "Filho de Etã, filho de Zima, filho de Simei,"
+    },
+    {
+      "numero": 43,
+      "texto": "Filho de Jaate, filho de Gérson, filho de Levi."
+    },
+    {
+      "numero": 44,
+      "texto": "E seus irmãos, os filhos de Merari, estavam à esquerda; a saber: Etã, filho de Quisi, filho de Abdi, filho de Maluque,"
+    },
+    {
+      "numero": 45,
+      "texto": "Filho de Hasabias, filho de Amazias, filho de Hilquias,"
+    },
+    {
+      "numero": 46,
+      "texto": "Filho de Anzi, filho de Bani, filho de Semer,"
+    },
+    {
+      "numero": 47,
+      "texto": "Filho de Mali, filho de Musi, filho de Merari, filho de Levi."
+    },
+    {
+      "numero": 48,
+      "texto": "E seus irmãos, os levitas, foram postos para todo o ministério do tabernáculo da casa de Deus."
+    },
+    {
+      "numero": 49,
+      "texto": "E Arão e seus filhos ofereceram sobre o altar do holocausto e sobre o altar do incenso, por todo o serviço do lugar santíssimo, e para fazer expiação por Israel, conforme tudo quanto Moisés, servo de Deus, tinha ordenado."
+    },
+    {
+      "numero": 50,
+      "texto": "E estes foram os filhos de Arão: seu filho Eleazar, seu filho Finéias, seu filho Abisua."
+    },
+    {
+      "numero": 51,
+      "texto": "Seu filho Buqui, seu filho Uzi, seu filho Seraías,"
+    },
+    {
+      "numero": 52,
+      "texto": "Seu filho Meraiote, seu filho Amarias, seu filho Aitube,"
+    },
+    {
+      "numero": 53,
+      "texto": "Seu filho Zadoque, seu filho Aimaás."
+    },
+    {
+      "numero": 54,
+      "texto": "E estas foram as suas habitações, segundo os seus acampamentos, nos seus termos, a saber: dos filhos de Arão, da família dos coatitas, porque a eles caiu a sorte."
+    },
+    {
+      "numero": 55,
+      "texto": "Deram-lhes, pois, a Hebrom, na terra de Judá, e os arrabaldes que a rodeiam."
+    },
+    {
+      "numero": 56,
+      "texto": "Porém o território da cidade e as suas aldeias deram a Calebe, filho de Jefoné."
+    },
+    {
+      "numero": 57,
+      "texto": "E aos filhos de Arão deram as cidades de refúgio: Hebrom e Libna e os seus arrabaldes, e Jatir e Estemoa e os seus arrabaldes."
+    },
+    {
+      "numero": 58,
+      "texto": "E Hilém, e os seus arrabaldes, Debir e os seus arrabaldes,"
+    },
+    {
+      "numero": 59,
+      "texto": "E Asã e os seus arrabaldes, e Bete-Semes e os seus arrabaldes."
+    },
+    {
+      "numero": 60,
+      "texto": "E da tribo de Benjamim, Geba e os seus arrabaldes, Alemete e os seus arrabaldes, e Anatote e os seus arrabaldes; todas as suas cidades, pelas suas famílias, foram treze."
+    },
+    {
+      "numero": 61,
+      "texto": "Mas os filhos de Coate, que restaram da sua família, tiveram, por sorte, dez cidades da meia tribo de Manassés."
+    },
+    {
+      "numero": 62,
+      "texto": "E os filhos de Gérson, segundo as suas famílias, tiveram treze cidades da tribo de Issacar, e da tribo de Aser, e da tribo de Naftali e da tribo de Manassés, em Basã."
+    },
+    {
+      "numero": 63,
+      "texto": "Os filhos de Merari, segundo as suas famílias, tiveram, por sorte, doze cidades da tribo de Rúben, e da tribo de Gade, e da tribo de Zebulom."
+    },
+    {
+      "numero": 64,
+      "texto": "Assim os filhos de Israel deram aos levitas estas cidades e os seus arrabaldes."
+    },
+    {
+      "numero": 65,
+      "texto": "E deram-lhes por sorte estas cidades, da tribo dos filhos de Judá, da tribo dos filhos de Simeão, e da tribo dos filhos de Benjamim, às quais deram os seus nomes."
+    },
+    {
+      "numero": 66,
+      "texto": "E quanto ao mais das famílias dos filhos de Coate, se lhes deram, da tribo de Efraim as cidades dos seus termos."
+    },
+    {
+      "numero": 67,
+      "texto": "Porque lhes deram as cidades de refúgio, Siquém e os seus arrabaldes, nas montanhas de Efraim, como também Gezer e os seus arrabaldes,"
+    },
+    {
+      "numero": 68,
+      "texto": "E Jocmeão e os seus arrabaldes, Bete-Horom e os seus arrabaldes,"
+    },
+    {
+      "numero": 69,
+      "texto": "E Aijalom e os seus arrabaldes, Gate-Rimom e os seus arrabaldes."
+    },
+    {
+      "numero": 70,
+      "texto": "E da meia tribo de Manassés, Aner e os seus arrabaldes, e Bileã e os seus arrabaldes; estas cidades tiveram os que ficaram da família dos filhos de Coate."
+    },
+    {
+      "numero": 71,
+      "texto": "Os filhos de Gérson tiveram, da família da meia tribo de Manassés, Golã, em Basã, e os seus arrabaldes, e Astarote e os seus arrabaldes."
+    },
+    {
+      "numero": 72,
+      "texto": "E da tribo de Issacar, Quedes e os seus arrabaldes, e Daberate e os seus arrabaldes."
+    },
+    {
+      "numero": 73,
+      "texto": "E Ramote e os seus arrabaldes, e Aném e os seus arrabaldes."
+    },
+    {
+      "numero": 74,
+      "texto": "E da tribo de Aser, Masal e os seus arrabaldes, e Abdom e os seus arrabaldes,"
+    },
+    {
+      "numero": 75,
+      "texto": "E Hucoque e os seus arrabaldes, e Reobe e os seus arrabaldes."
+    },
+    {
+      "numero": 76,
+      "texto": "E da tribo de Naftali, Quedes, em Galiléia, e os seus arrabaldes, Hamom e os seus arrabaldes e Quiriataim e os seus arrabaldes."
+    },
+    {
+      "numero": 77,
+      "texto": "Os que ficaram dos filhos de Merari tiveram, da tribo de Zebulom, a Rimom e os seus arrabaldes, a Tabor e os seus arrabaldes."
+    },
+    {
+      "numero": 78,
+      "texto": "E dalém do Jordão, na altura de Jericó, ao oriente do Jordão, da tribo de Rúben, a Bezer, no deserto, e os seus arrabaldes, e a Jaza e os seus arrabaldes,"
+    },
+    {
+      "numero": 79,
+      "texto": "E a Quedemote e os seus arrabaldes, e a Mefaate e os seus arrabaldes."
+    },
+    {
+      "numero": 80,
+      "texto": "E da tribo de Gade, a Ramote, em Gileade, e os seus arrabaldes, e Maanaim e os seus arrabaldes,"
+    },
+    {
+      "numero": 81,
+      "texto": "E a Hesbom e os seus arrabaldes, e a Jazer e os seus arrabaldes."
+    }
+  ]
+}

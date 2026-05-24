@@ -1,0 +1,29 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 70,
+  "total_versiculos": 5,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Apressa-te, ó Deus, em me livrar; SENHOR, apressa-te em ajudar-me."
+    },
+    {
+      "numero": 2,
+      "texto": "Fiquem envergonhados e confundidos os que procuram a minha alma; voltem para trás e confundam-se os que me desejam mal."
+    },
+    {
+      "numero": 3,
+      "texto": "Virem as costas como recompensa da sua vergonha os que dizem: Ah! Ah!"
+    },
+    {
+      "numero": 4,
+      "texto": "Folguem e alegrem-se em ti todos os que te buscam; e aqueles que amam a tua salvação digam continuamente: Engrandecido seja Deus."
+    },
+    {
+      "numero": 5,
+      "texto": "Eu, porém, estou aflito e necessitado; apressa-te por mim, ó Deus. Tu és o meu auxílio e o meu libertador; Senhor, não te detenhas."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 56,
+  "abbrev": "tt",
+  "nome": "Tito",
+  "slug": "tito",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 3,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 16
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 15
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 15
+    }
+  ]
+}

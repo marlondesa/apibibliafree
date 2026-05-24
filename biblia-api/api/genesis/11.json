@@ -1,0 +1,137 @@
+{
+  "livro": "Gênesis",
+  "slug_livro": "genesis",
+  "testamento": "Antigo Testamento",
+  "capitulo": 11,
+  "total_versiculos": 32,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E era toda a terra de uma mesma língua e de uma mesma fala."
+    },
+    {
+      "numero": 2,
+      "texto": "E aconteceu que, partindo eles do oriente, acharam um vale na terra de Sinar; e habitaram ali."
+    },
+    {
+      "numero": 3,
+      "texto": "E disseram uns aos outros: Eia, façamos tijolos e queimemo-los bem. E foi-lhes o tijolo por pedra, e o betume por cal."
+    },
+    {
+      "numero": 4,
+      "texto": "E disseram: Eia, edifiquemos nós uma cidade e uma torre cujo cume toque nos céus, e façamo-nos um nome, para que não sejamos espalhados sobre a face de toda a terra."
+    },
+    {
+      "numero": 5,
+      "texto": "Então desceu o Senhor para ver a cidade e a torre que os filhos dos homens edificavam;"
+    },
+    {
+      "numero": 6,
+      "texto": "E o Senhor disse: Eis que o povo é um, e todos têm uma mesma língua; e isto é o que começam a fazer; e agora, não haverá restrição para tudo o que eles intentarem fazer."
+    },
+    {
+      "numero": 7,
+      "texto": "Eia, desçamos e confundamos ali a sua língua, para que não entenda um a língua do outro."
+    },
+    {
+      "numero": 8,
+      "texto": "Assim o Senhor os espalhou dali sobre a face de toda a terra; e cessaram de edificar a cidade."
+    },
+    {
+      "numero": 9,
+      "texto": "Por isso se chamou o seu nome Babel, porquanto ali confundiu o Senhor a língua de toda a terra, e dali os espalhou o Senhor sobre a face de toda a terra."
+    },
+    {
+      "numero": 10,
+      "texto": "Estas são as gerações de Sem: Sem era da idade de cem anos e gerou a Arfaxade, dois anos depois do dilúvio."
+    },
+    {
+      "numero": 11,
+      "texto": "E viveu Sem, depois que gerou a Arfaxade, quinhentos anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 12,
+      "texto": "E viveu Arfaxade trinta e cinco anos, e gerou a Selá."
+    },
+    {
+      "numero": 13,
+      "texto": "E viveu Arfaxade depois que gerou a Selá, quatrocentos e três anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 14,
+      "texto": "E viveu Selá trinta anos, e gerou a Éber;"
+    },
+    {
+      "numero": 15,
+      "texto": "E viveu Selá, depois que gerou a Éber, quatrocentos e três anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 16,
+      "texto": "E viveu Éber trinta e quatro anos, e gerou a Pelegue."
+    },
+    {
+      "numero": 17,
+      "texto": "E viveu Éber, depois que gerou a Pelegue, quatrocentos e trinta anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 18,
+      "texto": "E viveu Pelegue trinta anos, e gerou a Reú."
+    },
+    {
+      "numero": 19,
+      "texto": "E viveu Pelegue, depois que gerou a Reú, duzentos e nove anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 20,
+      "texto": "E viveu Reú trinta e dois anos, e gerou a Serugue."
+    },
+    {
+      "numero": 21,
+      "texto": "E viveu Reú, depois que gerou a Serugue, duzentos e sete anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 22,
+      "texto": "E viveu Serugue trinta anos, e gerou a Naor."
+    },
+    {
+      "numero": 23,
+      "texto": "E viveu Serugue, depois que gerou a Naor, duzentos anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 24,
+      "texto": "E viveu Naor vinte e nove anos, e gerou a Terá."
+    },
+    {
+      "numero": 25,
+      "texto": "E viveu Naor, depois que gerou a Terá, cento e dezenove anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 26,
+      "texto": "E viveu Terá setenta anos, e gerou a Abrão, a Naor, e a Harã."
+    },
+    {
+      "numero": 27,
+      "texto": "E estas são as gerações de Terá: Terá gerou a Abrão, a Naor, e a Harã; e Harã gerou a Ló."
+    },
+    {
+      "numero": 28,
+      "texto": "E morreu Harã estando seu pai Terá ainda vivo, na terra do seu nascimento, em Ur dos caldeus."
+    },
+    {
+      "numero": 29,
+      "texto": "E tomaram Abrão e Naor mulheres para si: o nome da mulher de Abrão era Sarai, e o nome da mulher de Naor era Milca, filha de Harã, pai de Milca e pai de Iscá."
+    },
+    {
+      "numero": 30,
+      "texto": "E Sarai foi estéril, não tinha filhos."
+    },
+    {
+      "numero": 31,
+      "texto": "E tomou Terá a Abrão seu filho, e a Ló, filho de Harã, filho de seu filho, e a Sarai sua nora, mulher de seu filho Abrão, e saiu com eles de Ur dos caldeus, para ir à terra de Canaã; e vieram até Harã, e habitaram ali."
+    },
+    {
+      "numero": 32,
+      "texto": "E foram os dias de Terá duzentos e cinco anos, e morreu Terá em Harã."
+    }
+  ]
+}

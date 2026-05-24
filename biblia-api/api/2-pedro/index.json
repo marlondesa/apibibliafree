@@ -1,0 +1,22 @@
+{
+  "id": 61,
+  "abbrev": "2pe",
+  "nome": "2 Pedro",
+  "slug": "2-pedro",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 3,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 21
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 18
+    }
+  ]
+}

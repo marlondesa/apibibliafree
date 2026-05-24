@@ -1,0 +1,165 @@
+{
+  "livro": "Mateus",
+  "slug_livro": "mateus",
+  "testamento": "Novo Testamento",
+  "capitulo": 15,
+  "total_versiculos": 39,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então chegaram ao pé de Jesus uns escribas e fariseus de Jerusalém, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Por que transgridem os teus discípulos a tradição dos anciãos? pois não lavam as mãos quando comem pão."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele, porém, respondendo, disse-lhes: Por que transgredis vós, também, o mandamento de Deus pela vossa tradição?"
+    },
+    {
+      "numero": 4,
+      "texto": "Porque Deus ordenou, dizendo: Honra a teu pai e a tua mãe; e: Quem maldisser ao pai ou à mãe, certamente morrerá."
+    },
+    {
+      "numero": 5,
+      "texto": "Mas vós dizeis: Qualquer que disser ao pai ou à mãe: É oferta ao Senhor o que poderias aproveitar de mim; esse não precisa honrar nem a seu pai nem a sua mãe,"
+    },
+    {
+      "numero": 6,
+      "texto": "E assim invalidastes, pela vossa tradição, o mandamento de Deus."
+    },
+    {
+      "numero": 7,
+      "texto": "Hipócritas, bem profetizou Isaías a vosso respeito, dizendo:"
+    },
+    {
+      "numero": 8,
+      "texto": "Este povo se aproxima de mim com a sua boca e me honra com os seus lábios, mas o seu coração está longe de mim."
+    },
+    {
+      "numero": 9,
+      "texto": "Mas, em vão me adoram, ensinando doutrinas que são preceitos dos homens."
+    },
+    {
+      "numero": 10,
+      "texto": "E, chamando a si a multidão, disse-lhes: Ouvi, e entendei:"
+    },
+    {
+      "numero": 11,
+      "texto": "O que contamina o homem não é o que entra na boca, mas o que sai da boca, isso é o que contamina o homem."
+    },
+    {
+      "numero": 12,
+      "texto": "Então, acercando-se dele os seus discípulos, disseram-lhe: Sabes que os fariseus, ouvindo essas palavras, se escandalizaram?"
+    },
+    {
+      "numero": 13,
+      "texto": "Ele, porém, respondendo, disse: Toda a planta, que meu Pai celestial não plantou, será arrancada."
+    },
+    {
+      "numero": 14,
+      "texto": "Deixai-os; são cegos condutores de cegos. Ora, se um cego guiar outro cego, ambos cairão na cova."
+    },
+    {
+      "numero": 15,
+      "texto": "E Pedro, tomando a palavra, disse-lhe: Explica-nos essa parábola."
+    },
+    {
+      "numero": 16,
+      "texto": "Jesus, porém, disse: Até vós mesmos estais ainda sem entender?"
+    },
+    {
+      "numero": 17,
+      "texto": "Ainda não compreendeis que tudo o que entra pela boca desce para o ventre, e é lançado fora?"
+    },
+    {
+      "numero": 18,
+      "texto": "Mas, o que sai da boca, procede do coração, e isso contamina o homem."
+    },
+    {
+      "numero": 19,
+      "texto": "Porque do coração procedem os maus pensamentos, mortes, adultérios, fornicação, furtos, falsos testemunhos e blasfêmias."
+    },
+    {
+      "numero": 20,
+      "texto": "São estas coisas que contaminam o homem; mas comer sem lavar as mãos, isso não contamina o homem."
+    },
+    {
+      "numero": 21,
+      "texto": "E, partindo Jesus dali, foi para as partes de Tiro e de Sidom."
+    },
+    {
+      "numero": 22,
+      "texto": "E eis que uma mulher cananéia, que saíra daquelas cercanias, clamou, dizendo: Senhor, Filho de Davi, tem misericórdia de mim, que minha filha está miseravelmente endemoninhada."
+    },
+    {
+      "numero": 23,
+      "texto": "Mas ele não lhe respondeu palavra. E os seus discípulos, chegando ao pé dele, rogaram-lhe, dizendo: Despede-a, que vem gritando atrás de nós."
+    },
+    {
+      "numero": 24,
+      "texto": "E ele, respondendo, disse: Eu não fui enviado senão às ovelhas perdidas da casa de Israel."
+    },
+    {
+      "numero": 25,
+      "texto": "Então chegou ela, e adorou-o, dizendo: Senhor, socorre-me!"
+    },
+    {
+      "numero": 26,
+      "texto": "Ele, porém, respondendo, disse: Não é bom pegar no pão dos filhos e deitá-lo aos cachorrinhos."
+    },
+    {
+      "numero": 27,
+      "texto": "E ela disse: Sim, Senhor, mas também os cachorrinhos comem das migalhas que caem da mesa dos seus senhores."
+    },
+    {
+      "numero": 28,
+      "texto": "Então respondeu Jesus, e disse-lhe: Ó mulher, grande é a tua fé! Seja isso feito para contigo como tu desejas. E desde aquela hora a sua filha ficou sã."
+    },
+    {
+      "numero": 29,
+      "texto": "Partindo Jesus dali, chegou ao pé do mar da Galiléia, e, subindo a um monte, assentou-se lá."
+    },
+    {
+      "numero": 30,
+      "texto": "E veio ter com ele grandes multidões, que traziam coxos, cegos, mudos, aleijados, e outros muitos, e os puseram aos pés de Jesus, e ele os sarou,"
+    },
+    {
+      "numero": 31,
+      "texto": "De tal sorte, que a multidão se maravilhou vendo os mudos a falar, os aleijados sãos, os coxos a andar, e os cegos a ver; e glorificava o Deus de Israel."
+    },
+    {
+      "numero": 32,
+      "texto": "E Jesus, chamando os seus discípulos, disse: Tenho compaixão da multidão, porque já está comigo há três dias, e não tem o que comer; e não quero despedi-la em jejum, para que não desfaleça no caminho."
+    },
+    {
+      "numero": 33,
+      "texto": "E os seus discípulos disseram-lhe: De onde nos viriam, num deserto, tantos pães, para saciar tal multidão?"
+    },
+    {
+      "numero": 34,
+      "texto": "E Jesus disse-lhes: Quantos pães tendes? E eles disseram: Sete, e uns poucos de peixinhos."
+    },
+    {
+      "numero": 35,
+      "texto": "Então mandou à multidão que se assentasse no chão,"
+    },
+    {
+      "numero": 36,
+      "texto": "E, tomando os sete pães e os peixes, e dando graças, partiu-os, e deu-os aos seus discípulos, e os discípulos à multidão."
+    },
+    {
+      "numero": 37,
+      "texto": "E todos comeram e se saciaram; e levantaram, do que sobejou, sete cestos cheios de pedaços."
+    },
+    {
+      "numero": 38,
+      "texto": "Ora, os que tinham comido eram quatro mil homens, além de mulheres e crianças."
+    },
+    {
+      "numero": 39,
+      "texto": "E, tendo despedido a multidão, entrou no barco, e dirigiu-se ao território de Magadã."
+    }
+  ]
+}

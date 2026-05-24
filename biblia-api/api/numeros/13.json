@@ -1,0 +1,141 @@
+{
+  "livro": "Números",
+  "slug_livro": "numeros",
+  "testamento": "Antigo Testamento",
+  "capitulo": 13,
+  "total_versiculos": 33,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E falou o SENHOR a Moisés, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Envia homens que espiem a terra de Canaã, que eu hei de dar aos filhos de Israel; de cada tribo de seus pais enviareis um homem, sendo cada um príncipe entre eles."
+    },
+    {
+      "numero": 3,
+      "texto": "E enviou-os Moisés do deserto de Parã, segundo a ordem do Senhor; todos aqueles homens eram cabeças dos filhos de Israel."
+    },
+    {
+      "numero": 4,
+      "texto": "E estes são os seus nomes: Da tribo de Rúben, Samua, filho de Zacur;"
+    },
+    {
+      "numero": 5,
+      "texto": "Da tribo de Simeão, Safate, filho de Hori;"
+    },
+    {
+      "numero": 6,
+      "texto": "Da tribo de Judá, Calebe, filho de Jefoné;"
+    },
+    {
+      "numero": 7,
+      "texto": "Da tribo de Issacar, Jigeal, filho de José;"
+    },
+    {
+      "numero": 8,
+      "texto": "Da tribo de Efraim, Oséias, filho de Num;"
+    },
+    {
+      "numero": 9,
+      "texto": "Da tribo de Benjamim, Palti, filho de Rafu;"
+    },
+    {
+      "numero": 10,
+      "texto": "Da tribo de Zebulom, Gadiel, filho de Sodi;"
+    },
+    {
+      "numero": 11,
+      "texto": "Da tribo de José, pela tribo de Manassés, Gadi filho de Susi;"
+    },
+    {
+      "numero": 12,
+      "texto": "Da tribo de Dã, Amiel, filho de Gemali;"
+    },
+    {
+      "numero": 13,
+      "texto": "Da tribo de Aser, Setur, filho de Micael;"
+    },
+    {
+      "numero": 14,
+      "texto": "Da tribo de Naftali, Nabi, filho de Vofsi;"
+    },
+    {
+      "numero": 15,
+      "texto": "Da tribo de Gade, Geuel, filho de Maqui."
+    },
+    {
+      "numero": 16,
+      "texto": "Estes são os nomes dos homens que Moisés enviou a espiar aquela terra; e a Oséias, filho de Num, Moisés chamou Josué."
+    },
+    {
+      "numero": 17,
+      "texto": "Enviou-os, pois, Moisés a espiar a terra de Canaã; e disse-lhes: Subi por aqui para o lado do sul, e subi à montanha:"
+    },
+    {
+      "numero": 18,
+      "texto": "E vede que terra é, e o povo que nela habita; se é forte ou fraco; se pouco ou muito."
+    },
+    {
+      "numero": 19,
+      "texto": "E como é a terra em que habita, se boa ou má; e quais são as cidades em que eles habitam; se em arraiais, ou em fortalezas."
+    },
+    {
+      "numero": 20,
+      "texto": "Também como é a terra, se fértil ou estéril; se nela há árvores, ou não; e esforçai-vos, e tomai do fruto da terra. E eram aqueles dias os dias das primícias das uvas."
+    },
+    {
+      "numero": 21,
+      "texto": "Assim subiram e espiaram a terra desde o deserto de Zim, até Reobe, à entrada de Hamate."
+    },
+    {
+      "numero": 22,
+      "texto": "E subiram para o lado do sul, e vieram até Hebrom; e estavam ali Aimã, Sesai e Talmai, filhos de Anaque (Hebrom foi edificada sete anos antes de Zoã no Egito)."
+    },
+    {
+      "numero": 23,
+      "texto": "Depois foram até ao vale de Escol, e dali cortaram um ramo de vide com um cacho de uvas, o qual trouxeram dois homens, sobre uma vara; como também das romãs e dos figos."
+    },
+    {
+      "numero": 24,
+      "texto": "Chamaram àquele lugar o vale de Escol, por causa do cacho que dali cortaram os filhos de Israel."
+    },
+    {
+      "numero": 25,
+      "texto": "E eles voltaram de espiar a terra, ao fim de quarenta dias."
+    },
+    {
+      "numero": 26,
+      "texto": "E caminharam, e vieram a Moisés e a Arão, e a toda a congregação dos filhos de Israel no deserto de Parã, em Cades; e deram-lhes notícias, a eles, e a toda a congregação, e mostraram-lhes o fruto da terra."
+    },
+    {
+      "numero": 27,
+      "texto": "E contaram-lhe, e disseram: Fomos à terra a que nos enviaste; e verdadeiramente mana leite e mel, e este é o seu fruto."
+    },
+    {
+      "numero": 28,
+      "texto": "O povo, porém, que habita nessa terra é poderoso, e as cidades fortificadas e mui grandes; e também ali vimos os filhos de Anaque."
+    },
+    {
+      "numero": 29,
+      "texto": "Os amalequitas habitam na terra do sul; e os heteus, e os jebuseus, e os amorreus habitam na montanha; e os cananeus habitam junto do mar, e pela margem do Jordão."
+    },
+    {
+      "numero": 30,
+      "texto": "Então Calebe fez calar o povo perante Moisés, e disse: Certamente subiremos e a possuiremos em herança; porque seguramente prevaleceremos contra ela."
+    },
+    {
+      "numero": 31,
+      "texto": "Porém, os homens que com ele subiram disseram: Não poderemos subir contra aquele povo, porque é mais forte do que nós."
+    },
+    {
+      "numero": 32,
+      "texto": "E infamaram a terra que tinham espiado, dizendo aos filhos de Israel: A terra, pela qual passamos a espiá-la, é terra que consome os seus moradores; e todo o povo que vimos nela são homens de grande estatura."
+    },
+    {
+      "numero": 33,
+      "texto": "Também vimos ali gigantes, filhos de Anaque, descendentes dos gigantes; e éramos aos nossos olhos como gafanhotos, e assim também éramos aos seus olhos."
+    }
+  ]
+}

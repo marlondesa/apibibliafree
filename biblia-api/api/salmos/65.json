@@ -1,0 +1,61 @@
+{
+  "livro": "Salmos",
+  "slug_livro": "salmos",
+  "testamento": "Antigo Testamento",
+  "capitulo": 65,
+  "total_versiculos": 13,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A ti, ó Deus, espera o louvor em Sião, e a ti se pagará o voto."
+    },
+    {
+      "numero": 2,
+      "texto": "Ó tu que ouves as orações, a ti virá toda a carne."
+    },
+    {
+      "numero": 3,
+      "texto": "Prevalecem as iniqüidades contra mim; porém tu limpas as nossas transgressões."
+    },
+    {
+      "numero": 4,
+      "texto": "Bem-aventurado aquele a quem tu escolhes, e fazes chegar a ti, para que habite em teus átrios; nós seremos fartos da bondade da tua casa e do teu santo templo."
+    },
+    {
+      "numero": 5,
+      "texto": "Com coisas tremendas em justiça nos responderás, ó Deus da nossa salvação; tu és a esperança de todas as extremidades da terra, e daqueles que estão longe sobre o mar."
+    },
+    {
+      "numero": 6,
+      "texto": "O que pela sua força consolida os montes, cingido de fortaleza;"
+    },
+    {
+      "numero": 7,
+      "texto": "O que aplaca o ruído dos mares, o ruído das suas ondas, e o tumulto dos povos."
+    },
+    {
+      "numero": 8,
+      "texto": "E os que habitam nos fins da terra temem os teus sinais; tu fazes alegres as saídas da manhã e da tarde."
+    },
+    {
+      "numero": 9,
+      "texto": "Tu visitas a terra, e a refrescas; tu a enriqueces grandemente com o rio de Deus, que está cheio de água; tu lhe preparas o trigo, quando assim a tens preparada."
+    },
+    {
+      "numero": 10,
+      "texto": "Enches de água os seus sulcos; tu lhe aplanas as leivas; tu a amoleces com a muita chuva; abençoas as suas novidades."
+    },
+    {
+      "numero": 11,
+      "texto": "Coroas o ano com a tua bondade, e as tuas veredas destilam gordura."
+    },
+    {
+      "numero": 12,
+      "texto": "Destilam sobre os pastos do deserto, e os outeiros os cingem de alegria."
+    },
+    {
+      "numero": 13,
+      "texto": "Os campos se vestem de rebanhos, e os vales se cobrem de trigo; eles se regozijam e cantam."
+    }
+  ]
+}

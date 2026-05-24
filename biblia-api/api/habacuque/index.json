@@ -1,0 +1,22 @@
+{
+  "id": 35,
+  "abbrev": "hc",
+  "nome": "Habacuque",
+  "slug": "habacuque",
+  "testamento": "Antigo Testamento",
+  "total_capitulos": 3,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 17
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 20
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 19
+    }
+  ]
+}

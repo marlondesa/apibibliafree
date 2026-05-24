@@ -1,0 +1,149 @@
+{
+  "livro": "atos",
+  "slug_livro": "atos",
+  "testamento": "Novo Testamento",
+  "capitulo": 23,
+  "total_versiculos": 35,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E, pondo Paulo os olhos no conselho, disse: Homens irmãos, até ao dia de hoje tenho andado diante de Deus com toda a boa consciência."
+    },
+    {
+      "numero": 2,
+      "texto": "Mas o sumo sacerdote, Ananias, mandou aos que estavam junto dele que o ferissem na boca."
+    },
+    {
+      "numero": 3,
+      "texto": "Então Paulo lhe disse: Deus te ferirá, parede branqueada; tu estás aqui assentado para julgar-me conforme a lei, e contra a lei me mandas ferir?"
+    },
+    {
+      "numero": 4,
+      "texto": "E os que ali estavam disseram: Injurias o sumo sacerdote de Deus?"
+    },
+    {
+      "numero": 5,
+      "texto": "E Paulo disse: Não sabia, irmãos, que era o sumo sacerdote; porque está escrito: Não dirás mal do príncipe do teu povo."
+    },
+    {
+      "numero": 6,
+      "texto": "E Paulo, sabendo que uma parte era de saduceus e outra de fariseus, clamou no conselho: Homens irmãos, eu sou fariseu, filho de fariseu; no tocante à esperança e ressurreição dos mortos sou julgado."
+    },
+    {
+      "numero": 7,
+      "texto": "E, havendo dito isto, houve dissensão entre os fariseus e saduceus; e a multidão se dividiu."
+    },
+    {
+      "numero": 8,
+      "texto": "Porque os saduceus dizem que não há ressurreição, nem anjo, nem espírito; mas os fariseus reconhecem uma e outra coisa."
+    },
+    {
+      "numero": 9,
+      "texto": "E originou-se um grande clamor; e, levantando-se os escribas da parte dos fariseus, contendiam, dizendo: Nenhum mal achamos neste homem, e, se algum espírito ou anjo lhe falou, não lutemos contra Deus."
+    },
+    {
+      "numero": 10,
+      "texto": "E, havendo grande dissensão, o tribuno, temendo que Paulo fosse despedaçado por eles, mandou descer a soldadesca, para que o tirassem do meio deles, e o levassem para a fortaleza."
+    },
+    {
+      "numero": 11,
+      "texto": "E na noite seguinte, apresentando-se-lhe o Senhor, disse: Paulo, tem ânimo; porque, como de mim testificaste em Jerusalém, assim importa que testifiques também em Roma."
+    },
+    {
+      "numero": 12,
+      "texto": "E, quando já era dia, alguns dos judeus fizeram uma conspiração, e juraram, dizendo que não comeriam nem beberiam enquanto não matassem a Paulo."
+    },
+    {
+      "numero": 13,
+      "texto": "E eram mais de quarenta os que fizeram esta conjuração."
+    },
+    {
+      "numero": 14,
+      "texto": "E estes foram ter com os principais dos sacerdotes e anciãos, e disseram: Conjuramo-nos, sob pena de maldição, a nada provarmos até que matemos a Paulo."
+    },
+    {
+      "numero": 15,
+      "texto": "Agora, pois, vós, com o conselho, rogai ao tribuno que vo-lo traga amanhã, como que querendo saber mais alguma coisa de seus negócios, e, antes que chegue, estaremos prontos para o matar."
+    },
+    {
+      "numero": 16,
+      "texto": "E o filho da irmã de Paulo, tendo ouvido acerca desta cilada, foi, e entrou na fortaleza, e o anunciou a Paulo."
+    },
+    {
+      "numero": 17,
+      "texto": "E Paulo, chamando a si um dos centuriões, disse: Leva este jovem ao tribuno, porque tem alguma coisa que lhe comunicar."
+    },
+    {
+      "numero": 18,
+      "texto": "Tomando-o ele, pois, o levou ao tribuno, e disse: O preso Paulo, chamando-me a si, rogou-me que trouxesse este jovem, que tem alguma coisa para dizer-te."
+    },
+    {
+      "numero": 19,
+      "texto": "E o tribuno, tomando-o pela mão, e pondo-se à parte, perguntou-lhe em particular: Que tens que me contar?"
+    },
+    {
+      "numero": 20,
+      "texto": "E disse ele: Os judeus se concertaram rogar-te que amanhã leves Paulo ao conselho, como que tendo de inquirir dele mais alguma coisa ao certo."
+    },
+    {
+      "numero": 21,
+      "texto": "Mas tu não os creias; porque mais de quarenta homens de entre eles lhe andam armando ciladas; os quais se obrigaram, sob pena de maldição, a não comer nem beber até que o tenham morto; e já estão apercebidos, esperando de ti promessa."
+    },
+    {
+      "numero": 22,
+      "texto": "Então o tribuno despediu o jovem, mandando-lhe que a ninguém dissesse que lhe havia contado aquilo."
+    },
+    {
+      "numero": 23,
+      "texto": "E, chamando dois centuriões, lhes disse: Aprontai para as três horas da noite duzentos soldados, e setenta de cavalaria, e duzentos archeiros para irem até Cesaréia;"
+    },
+    {
+      "numero": 24,
+      "texto": "E aparelhai animais, para que, pondo neles a Paulo, o levem salvo ao presidente Félix."
+    },
+    {
+      "numero": 25,
+      "texto": "E escreveu uma carta, que continha isto:"
+    },
+    {
+      "numero": 26,
+      "texto": "Cláudio Lísias, a Félix, potentíssimo presidente, saúde."
+    },
+    {
+      "numero": 27,
+      "texto": "Esse homem foi preso pelos judeus; e, estando já a ponto de ser morto por eles, sobrevim eu com a soldadesca, e o livrei, informado de que era romano."
+    },
+    {
+      "numero": 28,
+      "texto": "E, querendo saber a causa por que o acusavam, o levei ao seu conselho."
+    },
+    {
+      "numero": 29,
+      "texto": "E achei que o acusavam de algumas questões da sua lei; mas que nenhum crime havia nele digno de morte ou de prisão."
+    },
+    {
+      "numero": 30,
+      "texto": "E, sendo-me notificado que os judeus haviam de armar ciladas a esse homem, logo to enviei, mandando também aos acusadores que perante ti digam o que tiverem contra ele. Passa bem."
+    },
+    {
+      "numero": 31,
+      "texto": "Tomando, pois, os soldados a Paulo, como lhe fora mandado, o trouxeram de noite a Antipátride."
+    },
+    {
+      "numero": 32,
+      "texto": "E no dia seguinte, deixando aos de cavalo irem com ele, tornaram à fortaleza."
+    },
+    {
+      "numero": 33,
+      "texto": "Os quais, logo que chegaram a Cesaréia, e entregaram a carta ao presidente, lhe apresentaram Paulo."
+    },
+    {
+      "numero": 34,
+      "texto": "E o presidente, lida a carta, perguntou de que província era; e, sabendo que era da Cilícia,"
+    },
+    {
+      "numero": 35,
+      "texto": "Disse: Ouvir-te-ei, quando também aqui vierem os teus acusadores. E mandou que o guardassem no pretório de Herodes."
+    }
+  ]
+}

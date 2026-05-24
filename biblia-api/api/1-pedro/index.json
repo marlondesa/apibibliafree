@@ -1,0 +1,30 @@
+{
+  "id": 60,
+  "abbrev": "1pe",
+  "nome": "1 Pedro",
+  "slug": "1-pedro",
+  "testamento": "Novo Testamento",
+  "total_capitulos": 5,
+  "capitulos": [
+    {
+      "numero": 1,
+      "total_versiculos": 25
+    },
+    {
+      "numero": 2,
+      "total_versiculos": 25
+    },
+    {
+      "numero": 3,
+      "total_versiculos": 22
+    },
+    {
+      "numero": 4,
+      "total_versiculos": 19
+    },
+    {
+      "numero": 5,
+      "total_versiculos": 14
+    }
+  ]
+}

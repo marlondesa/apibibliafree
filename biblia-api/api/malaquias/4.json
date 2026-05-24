@@ -1,0 +1,33 @@
+{
+  "livro": "Malaquias",
+  "slug_livro": "malaquias",
+  "testamento": "Antigo Testamento",
+  "capitulo": 4,
+  "total_versiculos": 6,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Porque eis que aquele dia vem ardendo como fornalha; todos os soberbos, e todos os que cometem impiedade, serão como a palha; e o dia que está para vir os abrasará, diz o SENHOR dos Exércitos, de sorte que lhes não deixará nem raiz nem ramo."
+    },
+    {
+      "numero": 2,
+      "texto": "Mas para vós, os que temeis o meu nome, nascerá o sol da justiça, e cura trará nas suas asas; e saireis e saltareis como bezerros da estrebaria."
+    },
+    {
+      "numero": 3,
+      "texto": "E pisareis os ímpios, porque se farão cinza debaixo das plantas de vossos pés, naquele dia que estou preparando, diz o Senhor dos Exércitos."
+    },
+    {
+      "numero": 4,
+      "texto": "Lembrai-vos da lei de Moisés, meu servo, que lhe mandei em Horebe para todo o Israel, a saber, estatutos e juízos."
+    },
+    {
+      "numero": 5,
+      "texto": "Eis que eu vos enviarei o profeta Elias, antes que venha o grande e terrível dia do Senhor;"
+    },
+    {
+      "numero": 6,
+      "texto": "E ele converterá o coração dos pais aos filhos, e o coração dos filhos a seus pais; para que eu não venha, e fira a terra com maldição."
+    }
+  ]
+}

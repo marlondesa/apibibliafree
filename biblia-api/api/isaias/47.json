@@ -1,0 +1,69 @@
+{
+  "livro": "Isaías",
+  "slug_livro": "isaias",
+  "testamento": "Antigo Testamento",
+  "capitulo": 47,
+  "total_versiculos": 15,
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Desce, e assenta-te no pó, ó virgem filha de babilônia; assenta-te no chão; já não há trono, ó filha dos caldeus, porque nunca mais serás chamada a tenra nem a delicada."
+    },
+    {
+      "numero": 2,
+      "texto": "Toma a mó, e mói a farinha; remove o teu véu, descalça os pés, descobre as pernas e passa os rios."
+    },
+    {
+      "numero": 3,
+      "texto": "A tua vergonha se descobrirá, e ver-se-á o teu opróbrio; tomarei vingança, e não pouparei a homem algum."
+    },
+    {
+      "numero": 4,
+      "texto": "O nosso redentor cujo nome é o Senhor dos Exércitos, é o Santo de Israel."
+    },
+    {
+      "numero": 5,
+      "texto": "Assenta-te calada, e entra nas trevas, ó filha dos caldeus, porque nunca mais serás chamada senhora de reinos."
+    },
+    {
+      "numero": 6,
+      "texto": "Muito me agastei contra o meu povo, profanei a minha herança, e os entreguei na tua mão; porém não usaste com eles de misericórdia, e até sobre os velhos fizeste muito pesado o teu jugo."
+    },
+    {
+      "numero": 7,
+      "texto": "E disseste: Eu serei senhora para sempre; até agora não te importaste com estas coisas, nem te lembraste do fim delas."
+    },
+    {
+      "numero": 8,
+      "texto": "Agora, pois, ouve isto, tu que és dada a prazeres, que habitas tão segura, que dizes no teu coração: Eu o sou, e fora de mim não há outra; não ficarei viúva, nem conhecerei a perda de filhos."
+    },
+    {
+      "numero": 9,
+      "texto": "Porém ambas estas coisas virão sobre ti num momento, no mesmo dia, perda de filhos e viuvez; em toda a sua plenitude virão sobre ti, por causa da multidão das tuas feitiçarias, e da grande abundância dos teus muitos encantamentos."
+    },
+    {
+      "numero": 10,
+      "texto": "Porque confiaste na tua maldade e disseste: Ninguém me pode ver; a tua sabedoria e o teu conhecimento, isso te fez desviar, e disseste no teu coração: Eu sou, e fora de mim não há outra."
+    },
+    {
+      "numero": 11,
+      "texto": "Portanto sobre ti virá o mal, sem que saibas a sua origem, e tal destruição cairá sobre ti, sem que a possas evitar; e virá sobre ti de repente desolação que não poderás conhecer."
+    },
+    {
+      "numero": 12,
+      "texto": "Deixa-te estar com os teus encantamentos, e com a multidão das tuas feitiçarias, em que trabalhaste desde a tua mocidade, a ver se podes tirar proveito, ou se porventura te podes fortalecer."
+    },
+    {
+      "numero": 13,
+      "texto": "Cansaste-te na multidão dos teus conselhos; levantem-se pois agora os agoureiros dos céus, os que contemplavam os astros, os prognosticadores das luas novas, e salvem-te do que há de vir sobre ti."
+    },
+    {
+      "numero": 14,
+      "texto": "Eis que serão como a pragana, o fogo os queimará; não poderão salvar a sua vida do poder das chamas; não haverá brasas, para se aquentar, nem fogo para se assentar junto dele."
+    },
+    {
+      "numero": 15,
+      "texto": "Assim serão para contigo aqueles com quem trabalhaste, os teus negociantes desde a tua mocidade; cada qual irá vagueando pelo seu caminho; ninguém te salvará."
+    }
+  ]
+}
